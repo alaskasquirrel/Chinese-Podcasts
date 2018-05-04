@@ -33,3 +33,12 @@
 #### 1dp不止聊设计 http://1dp.club/ 停更状态
 #### UntitledTechTalk http://utt.one/
 #### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
+#### 学霸学渣闯美国 https://itunes.apple.com/cn/podcast/xue-ba-xue-zha-chuang-mei-guo/id1114438885?mt=2
+#### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
+#### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
+#### 在北大不吐槽会死 http://pkuspot.org/
+#### 北美靠谱青年 https://www.studentuniverse.com/beikao
+#### 坏蛋调频 http://www.lizhi.fm/12638/
+#### 声波飞行员 http://www.lizhi.fm/1635236/
+#### 文化土豆 http://www.culturepotato.com/
+#### 闲白儿电台 http://www.lizhi.fm/11179/
