@@ -9,9 +9,9 @@
 #### UX Coffee设计咖 http://www.uxcoffee.com/
 #### Anyway.FM设计杂谈 https://anyway.fm/
 #### Teahour http://teahour.fm/
-#### 斑斓播客 http://www.banlan.show/
+#### 斑斓播客 http://www.banlan.show/ 刚刚步入休更状态
 #### Time within time http://linlinxing.net/
-#### IPN https://ipn.li/
+#### IPN https://ipn.li/ 系列播客（IT公论等）
 #### 慕来 http://www.mulai.site/
 #### 狗熊有话说 http://voice.beartalking.com/
 #### IT乱谈 http://itluantan.com/
@@ -19,17 +19,17 @@
 #### 忍者ATM http://ninjaatm.sxl.cn/
 #### 代码时间 http://codetimecn.com/
 #### 字谈字畅 https://thetype.com/
-#### 异能电台 https://www.yineng.fm/
+#### 异能电台 https://www.yineng.fm/ 刚刚进入停更状态
 #### Checked http://checked.fm/
 #### NickTalk https://www.nicktalk.com/
 #### 荒岛电台 http://wildland.fm/
 #### 极客电台 https://geek.wasai.org/
 #### 人间指南 https://renjianzhinan.fm/
 #### 好好说话 https://lingxiao.name/podcast/
-#### 大可瞎聊 http://www.darksharing.com/
+#### 大可瞎聊 http://www.darksharing.com/ 停更状态
 #### 设计药电 http://gdn.design/
 #### I/O调频 http://dailyio.net/
 #### 机核电台 https://www.g-cores.com/categories/9/originals
-#### 1dp不止聊设计 http://1dp.club/
+#### 1dp不止聊设计 http://1dp.club/ 停更状态
 #### UntitledTechTalk http://utt.one/
 #### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
