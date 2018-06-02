@@ -33,8 +33,10 @@ Chinese Talk：
 ##### I/O调频 http://dailyio.net/
 ##### 机核电台 https://www.g-cores.com/categories/9/originals
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
+##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### UntitledTechTalk http://utt.one/
 ##### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
+##### 三角龍電臺 http://www.ximalaya.com/zhubo/1692953/
 ##### 学霸学渣闯美国 https://itunes.apple.com/cn/podcast/xue-ba-xue-zha-chuang-mei-guo/id1114438885?mt=2
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
