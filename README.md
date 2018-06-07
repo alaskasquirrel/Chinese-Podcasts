@@ -48,3 +48,4 @@ Chinese Talk：
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
 ##### 骚-分享世界 连接世界（旅行）http://www.sao.com/
 ##### 墨比移动风 http://mobiholicast.com/
+##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
