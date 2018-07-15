@@ -50,3 +50,4 @@ Chinese Talk：
 ##### 墨比移动风 http://mobiholicast.com/
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
 ##### 交差点 https://jiaocha.io
+##### 差分机 http://diffengine.org/
