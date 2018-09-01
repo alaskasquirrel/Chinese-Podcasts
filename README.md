@@ -25,6 +25,7 @@ Chinese Talk：
 ##### Checked http://checked.fm/
 ##### NickTalk https://www.nicktalk.com/
 ##### 荒岛电台 http://wildland.fm/
+##### 慧眼云视 https://www.ximalaya.com/zhubo/91353691
 ##### 极客电台 https://geek.wasai.org/
 ##### 人间指南 https://renjianzhinan.fm/
 ##### 好好说话 https://lingxiao.name/podcast/
