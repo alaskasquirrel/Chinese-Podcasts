@@ -7,19 +7,21 @@ Do not advocate non-Chinese people to use this information to learn Chinese,thes
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
 ##### Anyway.FM设计杂谈 https://anyway.fm/
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
+##### 不可理论 http://www.bukelilun.com/
 ##### 差分机 http://diffengine.org/
 ##### Checked http://checked.fm/
+##### 迟早更新 http://www.weareones.com/2
 ##### 从零道一 http://0011.one/
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
+##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 停更状态
 ##### 代码时间 http://codetimecn.com/
+##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
 ##### 疯投圈 https://crazy.capital
 ##### 内核恐慌 https://kernelpanic.fm
 ##### 津津乐道 https://jinjinledao.org
-##### 迟早更新 http://www.weareones.com/2
 ##### 科技聚变 https://techfusionfm.com/
-##### 声东击西 http://www.etw.fm/
 ##### UX Coffee设计咖 http://www.uxcoffee.com/
 ##### 斑斓播客 http://www.banlan.show/ 刚刚步入休更状态
 ##### Time within time http://linlinxing.net/
@@ -36,22 +38,21 @@ Do not advocate non-Chinese people to use this information to learn Chinese,thes
 ##### 设计药电 http://gdn.design/
 ##### I/O调频 http://dailyio.net/
 ##### 机核电台 https://www.g-cores.com/categories/9/originals
-##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### UntitledTechTalk http://utt.one/
 ##### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
 ##### 骚-分享世界 连接世界（旅行）http://www.sao.com/
 ##### 人间指南 https://renjianzhinan.fm/
 ##### 三角龍電臺 http://www.ximalaya.com/zhubo/1692953/
+##### 声波飞行员 http://www.lizhi.fm/1635236/
+##### 声东击西 http://www.etw.fm/
 ##### Teahour http://teahour.fm/
 ##### 学霸学渣闯美国 https://itunes.apple.com/cn/podcast/xue-ba-xue-zha-chuang-mei-guo/id1114438885?mt=2
 ##### 坏蛋调频 http://www.lizhi.fm/12638/
-##### 声波飞行员 http://www.lizhi.fm/1635236/
 ##### 文化土豆 http://www.culturepotato.com/
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
 ##### 墨比移动风 http://mobiholicast.com/
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
 ##### 交差点 https://jiaocha.io
-##### 不可理论 http://www.bukelilun.com/
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/
 ##### 异能电台 https://www.yineng.fm/ 停更状态
 ##### 在北大不吐槽会死 http://pkuspot.org/
