@@ -1,9 +1,9 @@
 Do not advocate non-Chinese people to use this information to learn Chinese,these podcasts Speed too fast, slightly dialect.
 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解山外的世界，受益颇多。
 
-English Talk：
+* English Talk：
 ##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/
-Chinese Talk：
+* Chinese Talk：
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
 ##### Anyway.FM设计杂谈 https://anyway.fm/
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
