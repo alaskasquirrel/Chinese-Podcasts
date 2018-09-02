@@ -9,6 +9,7 @@
 ##### 不可理论 http://www.bukelilun.com/
 ##### 差分机 http://diffengine.org/
 ##### Checked http://checked.fm/
+##### 程序人生之图穷匕见 http://podcast.tchen.me/
 ##### 迟早更新 http://www.weareones.com/2
 ##### 从零道一 http://0011.one/
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
