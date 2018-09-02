@@ -4,9 +4,13 @@
 ##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/
 * Chinese Talk：
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
+##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
+##### 578广播 http://www.lizhi.fm/user/2526095467367431212
 ##### Anyway.FM设计杂谈 https://anyway.fm/
+##### blow Your Mind http://www.lizhi.fm/user/924
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
 ##### 不可理论 http://www.bukelilun.com/
+##### Byte.Coffee http://byte.coffee/
 ##### 差分机 http://diffengine.org/
 ##### Checked http://checked.fm/
 ##### 程序人生之图穷匕见 http://podcast.tchen.me/
@@ -16,6 +20,7 @@
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 停更状态
 ##### 代码时间 http://codetimecn.com/
+##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
 ##### 疯投圈 https://crazy.capital
