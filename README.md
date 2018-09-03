@@ -51,6 +51,7 @@
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
 ##### 声东击西 http://www.etw.fm/
 ##### Teahour http://teahour.fm/
+##### 天書 http://tianshuguangbo.com/
 ##### 学霸学渣闯美国 https://itunes.apple.com/cn/podcast/xue-ba-xue-zha-chuang-mei-guo/id1114438885?mt=2
 ##### 坏蛋调频 http://www.lizhi.fm/12638/
 ##### 文化土豆 http://www.culturepotato.com/
