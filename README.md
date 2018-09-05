@@ -22,6 +22,7 @@
 ##### 代码时间 http://codetimecn.com/
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
+##### 独立日 https://riyu.io/independenceday/
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
 ##### 疯投圈 https://crazy.capital
 ##### 内核恐慌 https://kernelpanic.fm
