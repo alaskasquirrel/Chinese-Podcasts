@@ -61,6 +61,7 @@
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
 ##### 交差点 https://jiaocha.io
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/
+##### 沿边物语 http://www.yanbianwuyu.com/
 ##### 异能电台 https://www.yineng.fm/ 停更状态
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 字谈字畅 https://thetype.com/
