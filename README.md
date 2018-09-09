@@ -10,6 +10,7 @@
 ##### blow Your Mind http://www.lizhi.fm/user/924
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
 ##### 不可理论 http://www.bukelilun.com/
+##### 不太重要 https://butaizhongyao.fireside.fm/
 ##### Byte.Coffee http://byte.coffee/
 ##### 差分机 http://diffengine.org/
 ##### Checked http://checked.fm/
