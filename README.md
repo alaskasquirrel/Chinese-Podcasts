@@ -29,7 +29,7 @@
 ##### 内核恐慌 https://kernelpanic.fm
 ##### 津津乐道 https://jinjinledao.org
 ##### 科技聚变 https://techfusionfm.com/
-##### UX Coffee设计咖 http://www.uxcoffee.com/
+##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验
 ##### 斑斓播客 http://www.banlan.show/ 刚刚步入休更状态
 ##### Time within time http://linlinxing.net/
 ##### IPN https://ipn.li/ 系列播客（IT公论等）
