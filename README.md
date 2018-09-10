@@ -1,7 +1,7 @@
 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解山外的世界，受益颇多。
 
 * English Talk：
-##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA
+##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ - TECH & ENTREPRENEURSHIP IN CHINA
 * Chinese Talk：
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
