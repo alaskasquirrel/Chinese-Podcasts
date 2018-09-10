@@ -60,7 +60,7 @@
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
 ##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. Currently, this show is hosted by Steven X Yang in Zhuhai, China, broadcasting over the internet.
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
-##### 交差点 https://jiaocha.io
+##### 交差点 https://jiaocha.io "Technology alone is not enough"
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/
 ##### 沿边物语 http://www.yanbianwuyu.com/
 ##### 异能电台 https://www.yineng.fm/ 停更状态
