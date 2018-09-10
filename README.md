@@ -9,10 +9,10 @@
 ##### Anyway.FM设计杂谈 https://anyway.fm/ 我们，想让你的听觉更懂视觉。
 ##### blow Your Mind http://www.lizhi.fm/user/924
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
-##### 不可理论 http://www.bukelilun.com/
-##### 不太重要 https://butaizhongyao.fireside.fm/
+##### 不可理论 http://www.bukelilun.com/ 带你用理论理解生活
+##### 不太重要 https://butaizhongyao.fireside.fm/ 关于日常生活和周边世界的观察记录。
 ##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界
-##### 差分机 http://diffengine.org/
+##### 差分机 http://diffengine.org/ 一档关于科技、社会与未来的泛文化传媒。
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
 ##### 程序人生之图穷匕见 http://podcast.tchen.me/
 ##### 迟早更新 http://www.weareones.com/2 一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。
@@ -20,10 +20,10 @@
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播 (停更状态)
-##### 代码时间 http://codetimecn.com/
+##### 代码时间 http://codetimecn.com/ 一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量。
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
-##### 独立日 https://riyu.io/independenceday/
+##### 独立日 https://riyu.io/independenceday/ 我们希望能帮助你发现进而独立体会日语乃至语言的趣味。
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
 ##### 疯投圈 https://crazy.capital
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
@@ -37,14 +37,14 @@
 ##### 慕来 http://www.mulai.site/
 ##### 狗熊有话说 http://voice.beartalking.com/
 ##### IT乱谈 http://itluantan.com/
-##### 忍者ATM http://ninjaatm.sxl.cn/
+##### 忍者ATM http://ninjaatm.sxl.cn/ 由媒体人和经济学家创办的理财动画短视频节目
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
 ##### 荒岛电台 http://wildland.fm/
 ##### 慧眼云视 https://www.ximalaya.com/zhubo/91353691
 ##### 极客电台 https://geek.wasai.org/
 ##### 好好说话 https://lingxiao.name/podcast/
 ##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻
-##### I/O调频 http://dailyio.net/
+##### I/O调频 http://dailyio.net/ 
 ##### 机核电台 https://www.g-cores.com/categories/9/originals
 ##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。需要保留此文稿吗？Y/N
 ##### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
