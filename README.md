@@ -7,7 +7,7 @@
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
 ##### 578广播 http://www.lizhi.fm/user/2526095467367431212
 ##### Anyway.FM设计杂谈 https://anyway.fm/ 
-** 我们，想让你的听觉更懂视觉。
+*** 我们，想让你的听觉更懂视觉。
 ##### blow Your Mind http://www.lizhi.fm/user/924
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
 ##### 不可理论 http://www.bukelilun.com/ 带你用理论理解生活
