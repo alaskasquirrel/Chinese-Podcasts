@@ -13,7 +13,7 @@
 ##### 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。
 ##### IT公论 https://itgonglun.com/ 终结
 ##### 色(Hi)story http://www.history.cheap/ 终结
-##### 碧下观 https://blog.yitianshijie.net 终结
+##### 壁下观 https://blog.yitianshijie.net 终结
 * Chinese Talk：
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
