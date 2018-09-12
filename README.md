@@ -2,6 +2,18 @@
 
 * English Talk：
 ##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA
+* IPN for discriminating listeners : https://ipn.li/ :
+##### 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。
+##### 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。
+##### 無次元——A celebration of auditory culture http://wcy.wtf/
+##### 太医来了 https://taiyilaile.com/ 中文互联网第一档医生谈话类播客。节目里没有老专家讲养生，只有几个医生聊聊医院里的事儿，顺便给大家做做科普。
+##### 硬影像 http://hardimage.pro/ 一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。
+##### 流行通信 https://popdispat.ch/ 我们不只谈艺术。
+##### 时尚怪物 http://fashionmonster.fm/ 一档不只谈时尚的播客节目。
+##### 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。
+##### IT公论 https://itgonglun.com/ 终结
+##### 色(Hi)story http://www.history.cheap/ 终结
+##### 碧下观 https://blog.yitianshijie.net 终结
 * Chinese Talk：
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
@@ -11,6 +23,7 @@
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
 ##### 不可理论 http://www.bukelilun.com/ 带你用理论理解生活
 ##### 不太重要 https://butaizhongyao.fireside.fm/ 关于日常生活和周边世界的观察记录。
+##### 博物志 https://museelogue.fireside.fm/ https://bowuzhi.fm/ 一档关于博物馆的播客。
 ##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界
 ##### 差分机 http://diffengine.org/ 一档关于科技、社会与未来的泛文化传媒。
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
@@ -33,7 +46,6 @@
 ##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验
 ##### 斑斓播客 http://www.banlan.show/ 刚刚步入休更状态
 ##### Time within time http://linlinxing.net/
-##### IPN https://ipn.li/ 系列播客（IT公论等）
 ##### 慕来 http://www.mulai.site/
 ##### 狗熊有话说 http://voice.beartalking.com/
 ##### IT乱谈 http://itluantan.com/
