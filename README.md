@@ -2,6 +2,7 @@
 
 * English Talk：
 ##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA
+##### Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation
 * IPN for discriminating listeners : https://ipn.li/ :
 ##### 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。
 ##### 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。
