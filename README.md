@@ -68,6 +68,7 @@
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
 ##### 声东击西 http://www.etw.fm/ 两个驻美记者主持的播客，带你看不一样的世界
 ##### Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
+##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
 ##### 提前怀旧 https://pretro.xyz 一切未来终将成为过去。
 ##### 天書 http://tianshuguangbo.com/ A talkshow on topics of humanities, including history, linguistics, literature, etc.
 ##### 学霸学渣闯美国 https://itunes.apple.com/cn/podcast/xue-ba-xue-zha-chuang-mei-guo/id1114438885?mt=2
@@ -80,5 +81,6 @@
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 每期邀请一位在专业领域拥有足够发言权的嘉宾，尽我们所能，探索在某个单一问题上所能达到的讨论深度。
 ##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目
 ##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听 (停更状态)
+##### 一树闲谈 http://www.arbretalk.com/ 由三名不知名摄影师主持的艺术跑题闲聊节目 
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
