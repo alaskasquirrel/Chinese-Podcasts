@@ -49,6 +49,7 @@
 ##### Time within time http://linlinxing.net/
 ##### 慕来 http://www.mulai.site/
 ##### 狗熊有话说 http://voice.beartalking.com/
+##### 两个IT大叔 https://music.163.com/#/djradio?id=344976064 本节目由 glif 和 herock 两位大叔主持，聊一些 IT、生活、旅行、创业等方面的话题。
 ##### IT乱谈 http://itluantan.com/
 ##### 忍者ATM http://ninjaatm.sxl.cn/ 由媒体人和经济学家创办的理财动画短视频节目
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
