@@ -19,6 +19,7 @@
 ##### 1dp不止聊设计 http://1dp.club/ 停更状态
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
 ##### 578广播 http://www.lizhi.fm/user/2526095467367431212
+##### 8090有限公司 https://8090.fireside.fm/ 一档分享八九十年代港台流行好歌的节目
 ##### Anyway.FM设计杂谈 https://anyway.fm/ 我们，想让你的听觉更懂视觉。
 ##### blow Your Mind http://www.lizhi.fm/user/924
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
