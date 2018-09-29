@@ -71,6 +71,7 @@
 ##### 三角龍電臺 http://www.ximalaya.com/zhubo/1692953/
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
 ##### 声东击西 http://www.etw.fm/ 两个驻美记者主持的播客，带你看不一样的世界
+##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
 ##### Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
 ##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
 ##### 提前怀旧 https://pretro.xyz 一切未来终将成为过去。
