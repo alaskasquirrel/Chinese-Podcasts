@@ -28,6 +28,7 @@
 ##### 不可理论 http://www.bukelilun.com/ 带你用理论理解生活
 ##### 不太重要 https://butaizhongyao.fireside.fm/ 关于日常生活和周边世界的观察记录。
 ##### 博物志 https://museelogue.fireside.fm/ https://bowuzhi.fm/ 一档关于博物馆的播客。
+##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
 ##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界
 ##### 差分机 http://diffengine.org/ 一档关于科技、社会与未来的泛文化传媒。
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
