@@ -27,6 +27,7 @@
 ##### 北美靠谱青年 https://www.studentuniverse.com/beikao
 ##### 不可理论 http://www.bukelilun.com/ 带你用理论理解生活
 ##### 不太重要 https://butaizhongyao.fireside.fm/ 关于日常生活和周边世界的观察记录。
+##### 不丧 https://busangpodcast.simplecast.fm/ 首档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。
 ##### 博物志 https://museelogue.fireside.fm/ https://bowuzhi.fm/ 一档关于博物馆的播客。
 ##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
 ##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界
@@ -81,7 +82,7 @@
 ##### 坏蛋调频 http://www.lizhi.fm/12638/
 ##### 文化土豆 http://www.culturepotato.com/ 来自北京麦子店的文艺生活小圆桌播客节目，聊影视书籍和艺术。
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
-##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. Currently, this show is hosted by Steven X Yang in Zhuhai, China, broadcasting over the internet.
+##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. 
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
 ##### 交差点 https://jiaocha.io "Technology alone is not enough"
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 每期邀请一位在专业领域拥有足够发言权的嘉宾，尽我们所能，探索在某个单一问题上所能达到的讨论深度。
