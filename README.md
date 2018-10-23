@@ -47,8 +47,8 @@
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
 ##### 疯投圈 https://crazy.capital
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
-##### 津津乐道 https://jinjinledao.org
-##### 科技聚变 https://techfusionfm.com/
+##### 津津乐道 https://jinjinledao.org 一群天津人创建的播客节目，每期胡侃一个新鲜话题
+##### 科技聚变 https://techfusionfm.com/ 
 ##### 路书 https://lushu88.com 一档讨论艺术和历史的播客节目.我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。
 ##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验
 ##### 斑斓播客 http://www.banlan.show/
