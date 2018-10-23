@@ -17,7 +17,7 @@
 ##### 色(Hi)story http://www.history.cheap/ 终结
 ##### 壁下观 https://blog.yitianshijie.net 终结
 * Chinese Talk：
-##### 1dp不止聊设计 http://1dp.club/ 停更状态
+##### 1dp不止聊设计 http://1dp.club/ 
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
 ##### 578广播 http://www.lizhi.fm/user/2526095467367431212
 ##### 8090有限公司 https://8090.fireside.fm/ 一档分享八九十年代港台流行好歌的节目
