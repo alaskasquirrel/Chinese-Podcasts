@@ -39,7 +39,7 @@
 ##### 从零道一 http://0011.one/
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
-##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播 (停更状态)
+##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
 ##### 代码时间 http://codetimecn.com/ 一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量。
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
@@ -51,7 +51,7 @@
 ##### 科技聚变 https://techfusionfm.com/
 ##### 路书 https://lushu88.com 一档讨论艺术和历史的播客节目.我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。
 ##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验
-##### 斑斓播客 http://www.banlan.show/ 刚刚步入休更状态
+##### 斑斓播客 http://www.banlan.show/
 ##### Time within time http://linlinxing.net/
 ##### 慕来 http://www.mulai.site/
 ##### 狗熊有话说 http://voice.beartalking.com/
@@ -87,7 +87,7 @@
 ##### 交差点 https://jiaocha.io "Technology alone is not enough"
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
 ##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目
-##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听 (停更状态)
+##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听
 ##### 一树闲谈 http://www.arbretalk.com/ 由三名不知名摄影师主持的艺术跑题闲聊节目 
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
