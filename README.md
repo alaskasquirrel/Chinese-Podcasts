@@ -85,7 +85,7 @@
 ##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. 
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
 ##### 交差点 https://jiaocha.io "Technology alone is not enough"
-##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 每期邀请一位在专业领域拥有足够发言权的嘉宾，尽我们所能，探索在某个单一问题上所能达到的讨论深度。
+##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
 ##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目
 ##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听 (停更状态)
 ##### 一树闲谈 http://www.arbretalk.com/ 由三名不知名摄影师主持的艺术跑题闲聊节目 
