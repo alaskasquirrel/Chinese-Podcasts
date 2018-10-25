@@ -13,14 +13,14 @@
 ##### 流行通信 https://popdispat.ch/ 我们不只谈艺术。
 ##### 时尚怪物 http://fashionmonster.fm/ 一档不只谈时尚的播客节目。
 ##### 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。
-##### IT公论 https://itgonglun.com/ 终结
-##### 色(Hi)story http://www.history.cheap/ 终结
-##### 壁下观 https://blog.yitianshijie.net 终结
+##### IT公论 https://itgonglun.com/ 终结。
+##### 色(Hi)story http://www.history.cheap/ 终结。
+##### 壁下观 https://blog.yitianshijie.net 终结。
 * Chinese Talk：
 ##### 1dp不止聊设计 http://1dp.club/ 
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
 ##### 578广播 http://www.lizhi.fm/user/2526095467367431212
-##### 8090有限公司 https://8090.fireside.fm/ 一档分享八九十年代港台流行好歌的节目
+##### 8090有限公司 https://8090.fireside.fm/ 一档分享八九十年代港台流行好歌的节目。
 ##### 安替波普 https://antipop.fireside.fm/ 一档由三位新闻媒体工作者Jeff、海博和云亭开设的播客。我们怀疑死板的“进步主义”，提倡“喜旧厌新”在当今的价值。毕竟，与日新月异的科技相比，我们肉体进化的速度远比预想的迟缓。
 ##### Anyway.FM设计杂谈 https://anyway.fm/ 我们，想让你的听觉更懂视觉。
 ##### blow Your Mind http://www.lizhi.fm/user/924
@@ -30,7 +30,7 @@
 ##### 不丧 https://busangpodcast.simplecast.fm/ 首档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。
 ##### 博物志 https://museelogue.fireside.fm/ https://bowuzhi.fm/ 一档关于博物馆的播客。
 ##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
-##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界
+##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界。
 ##### 差分机 http://diffengine.org/ 一档关于科技、社会与未来的泛文化传媒。
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
 ##### 程序人生之图穷匕见 http://podcast.tchen.me/
@@ -47,10 +47,10 @@
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
 ##### 疯投圈 https://crazy.capital
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
-##### 津津乐道 https://jinjinledao.org 一群天津人创建的播客节目，每期胡侃一个新鲜话题
+##### 津津乐道 https://jinjinledao.org 一群天津人创建的播客节目，每期胡侃一个新鲜话题。
 ##### 科技聚变 https://techfusionfm.com/ 
 ##### 路书 https://lushu88.com 一档讨论艺术和历史的播客节目.我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。
-##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验
+##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。
 ##### 斑斓播客 http://www.banlan.show/
 ##### Time within time http://linlinxing.net/
 ##### 慕来 http://www.mulai.site/
@@ -63,7 +63,7 @@
 ##### 慧眼云视 https://www.ximalaya.com/zhubo/91353691
 ##### 极客电台 https://geek.wasai.org/
 ##### 好好说话 https://lingxiao.name/podcast/
-##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻
+##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。
 ##### I/O调频 http://dailyio.net/ 
 ##### 机核电台 https://www.g-cores.com/categories/9/originals
 ##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。需要保留此文稿吗？Y/N
@@ -72,7 +72,7 @@
 ##### 人间指南 https://renjianzhinan.fm/ 一档全方位、深层次、彻底指导你的人生的播客节目。节目内容包括但不限于一个现代人在现代社会生存的一切话题，所以作为现代人的你要来听。
 ##### 三角龍電臺 http://www.ximalaya.com/zhubo/1692953/
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
-##### 声东击西 http://www.etw.fm/ 两个驻美记者主持的播客，带你看不一样的世界
+##### 声东击西 http://www.etw.fm/ 两个驻美记者主持的播客，带你看不一样的世界。
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
 ##### Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
 ##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
@@ -83,11 +83,12 @@
 ##### 文化土豆 http://www.culturepotato.com/ 来自北京麦子店的文艺生活小圆桌播客节目，聊影视书籍和艺术。
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
 ##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. 
-##### 科技不无聊 https://sciencenbnb.wordpress.com 停更状态
+##### 科技不无聊 https://sciencenbnb.wordpress.com 
 ##### 交差点 https://jiaocha.io "Technology alone is not enough"
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
-##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目
-##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听
-##### 一树闲谈 http://www.arbretalk.com/ 由三名不知名摄影师主持的艺术跑题闲聊节目 
+##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目。
+##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听。
+##### 一树闲谈 http://www.arbretalk.com/ 由三名不知名摄影师主持的艺术跑题闲聊节目。
+##### 新闻酸菜馆 https://wasai.org/ 聊新闻,寻开心,用最真实的声音，呈现当下中国的浮世绘。
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
