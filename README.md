@@ -1,6 +1,8 @@
 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解山外的世界，受益颇多。
 
 * English Talk：
+##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
+##### China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website
 ##### Wo Men Podcast http://radiichina.com/author/women/ discuss a variety of topics and share a diversity of voices from on the ground inside contemporary China.
 ##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA
 ##### Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation
