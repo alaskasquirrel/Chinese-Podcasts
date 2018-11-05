@@ -91,6 +91,7 @@
 ##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目。
 ##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听。
 ##### 一树闲谈 http://www.arbretalk.com/ 由三名不知名摄影师主持的艺术跑题闲聊节目。
+##### 艺术有读 http://artispoison.com/ 由两位不务正业的艺术圈人士主持的读书跑题节目。
 ##### 新闻酸菜馆 https://wasai.org/ 聊新闻,寻开心,用最真实的声音，呈现当下中国的浮世绘。
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
