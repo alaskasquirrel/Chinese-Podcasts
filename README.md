@@ -69,7 +69,7 @@
 ##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。
 ##### I/O调频 http://dailyio.net/ 
 ##### 机核电台 https://www.g-cores.com/categories/9/originals
-##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。需要保留此文稿吗？Y/N
+##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。
 ##### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
 ##### Raymond TalkShow https://ottawazine.com/raymond-talkshow/ Raymond和Jason两位主持人，秉着“渥太华生活苦短、大家要及时行乐”的初衷和理念，用访谈的形式，为大家带来放荡不羁又略带深度的话题讨论。
 ##### 骚-分享世界 连接世界（旅行）http://www.sao.com/
@@ -78,6 +78,7 @@
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
 ##### 声东击西 http://www.etw.fm/ 两个驻美记者主持的播客，带你看不一样的世界。
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
+##### 随机区块链 https://www.ximalaya.com/keji/19242373/ 希望给大家一个途径了解真实的区块链世界。
 ##### Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
 ##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
 ##### 提前怀旧 https://pretro.xyz 一切未来终将成为过去。
