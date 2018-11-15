@@ -89,6 +89,7 @@
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
 ##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. 
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 
+##### 科技与生活 Tech&Life https://www.ximalaya.com/keji/5915629/ “洞見科技與生活的大碰撞”
 ##### 交差点 https://jiaocha.io "Technology alone is not enough"
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
 ##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目。
