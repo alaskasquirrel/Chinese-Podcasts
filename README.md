@@ -6,7 +6,7 @@
 ##### Wo Men Podcast http://radiichina.com/author/women/ discuss a variety of topics and share a diversity of voices from on the ground inside contemporary China.
 ##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA
 ##### Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation
-##### The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ - From Shanghai China to Silicon Valley, The Beertelligence Podcast is where smart people in tech, design, product & entrepreneurship discuss breakthrough ideas and tactics over beers.
+##### The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley, The Beertelligence Podcast is where smart people in tech, design, product & entrepreneurship discuss breakthrough ideas and tactics over beers.
 * IPN for discriminating listeners : https://ipn.li/ :
 ##### 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。
 ##### 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。
@@ -61,7 +61,7 @@
 ##### 狗熊有话说 http://voice.beartalking.com/
 ##### 两个IT大叔 https://music.163.com/#/djradio?id=344976064 本节目由 glif 和 herock 两位大叔主持，聊一些 IT、生活、旅行、创业等方面的话题。
 ##### IT乱谈 http://itluantan.com/
-##### 忍者ATM http://ninjaatm.sxl.cn/ 由媒体人和经济学家创办的理财动画短视频节目
+##### 忍者ATM http://ninjaatm.sxl.cn/ 由媒体人和经济学家创办的理财动画短视频节目。
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
 ##### 荒岛电台 http://wildland.fm/
 ##### 慧眼云视 https://www.ximalaya.com/zhubo/91353691
@@ -73,6 +73,7 @@
 ##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。
 ##### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
 ##### Raymond TalkShow https://ottawazine.com/raymond-talkshow/ Raymond和Jason两位主持人，秉着“渥太华生活苦短、大家要及时行乐”的初衷和理念，用访谈的形式，为大家带来放荡不羁又略带深度的话题讨论。
+##### StartupGrindNingbo https://www.ximalaya.com/renwen/9480203/ Startup Grind 宁波访谈。
 ##### 骚-分享世界 连接世界（旅行）http://www.sao.com/
 ##### 人间指南 https://renjianzhinan.fm/ 一档全方位、深层次、彻底指导你的人生的播客节目。节目内容包括但不限于一个现代人在现代社会生存的一切话题，所以作为现代人的你要来听。
 ##### 三角龍電臺 http://www.ximalaya.com/zhubo/1692953/
