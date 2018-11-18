@@ -1,5 +1,5 @@
 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解山外的世界，受益颇多。
-
+* Born to MISrepresent 几年前的台湾IT播客，已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan
 * English Talk：
 ##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
 ##### China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website
