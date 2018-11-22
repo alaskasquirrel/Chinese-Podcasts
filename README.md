@@ -28,6 +28,7 @@
 ##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
 ##### 578广播 http://www.lizhi.fm/user/2526095467367431212
 ##### 8090有限公司 https://8090.fireside.fm/ 一档分享八九十年代港台流行好歌的节目。
+##### 安城文化沙龙 http://www.aashalong.com/ Learn something every weekend!
 ##### 安替波普 https://antipop.fireside.fm/ 一档由三位新闻媒体工作者Jeff、海博和云亭开设的播客。我们怀疑死板的“进步主义”，提倡“喜旧厌新”在当今的价值。毕竟，与日新月异的科技相比，我们肉体进化的速度远比预想的迟缓。
 ##### Anyway.FM设计杂谈 https://anyway.fm/ 我们，想让你的听觉更懂视觉。
 ##### AspirinFM https://aspirinfm.fireside.fm/ 一个非常业余的播客节目，制作粗劣，毫不专业，话题杂乱，没有干货，全是瞎扯淡。
