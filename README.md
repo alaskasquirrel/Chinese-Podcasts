@@ -8,8 +8,8 @@
 ##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
 ##### China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website
 ##### Wo Men Podcast http://radiichina.com/author/women/ discuss a variety of topics and share a diversity of voices from on the ground inside contemporary China.
-##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA
-##### Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation
+##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA.
+##### Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.
 ##### The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley, The Beertelligence Podcast is where smart people in tech, design, product & entrepreneurship discuss breakthrough ideas and tactics over beers.
 * IPN for discriminating listeners : https://ipn.li/ :
 ##### 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。
@@ -97,7 +97,7 @@
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
 ##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. 
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 
-##### 科技与生活 Tech&Life https://www.ximalaya.com/keji/5915629/ “洞見科技與生活的大碰撞”
+##### 科技与生活 Tech&Life https://www.ximalaya.com/keji/5915629/ “洞見科技與生活的大碰撞”。
 ##### 交差点 https://jiaocha.io "Technology alone is not enough"
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
 ##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目。
