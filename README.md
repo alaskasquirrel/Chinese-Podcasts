@@ -3,7 +3,7 @@
 ##### Apple Podcast
 ##### Pocket Casts
 ##### Overcast
-####  Born to MISrepresent 几年前的台湾IT播客，已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan
+* Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan
 * English Talk：
 ##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
 ##### China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website
