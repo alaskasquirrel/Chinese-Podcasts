@@ -1,3 +1,4 @@
+* 洗耳恭听，拭目以待！
 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解山外的世界，受益颇多。
 * Podcast App:
 ##### Apple Podcast
@@ -70,7 +71,6 @@
 ##### 忍者ATM http://ninjaatm.sxl.cn/ 由媒体人和经济学家创办的理财动画短视频节目。
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
 ##### 荒岛电台 http://wildland.fm/
-##### 慧眼云视 https://www.ximalaya.com/zhubo/91353691
 ##### 极客电台 https://geek.wasai.org/
 ##### 好好说话 https://lingxiao.name/podcast/
 ##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。
@@ -108,5 +108,6 @@
 ##### 新闻酸菜馆 https://wasai.org/ 聊新闻,寻开心,用最真实的声音，呈现当下中国的浮世绘。
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
+##### 王受之 | 小设计大艺术 https://www.ximalaya.com/renwen/10267467/ 王受之先生授权美国加州汪老师美术学院特别制作的系列节目。
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
 ##### 无时差研究所 https://www.ximalaya.com/yule/13506198/ 给时间以生命，给生命以无时差。未来请和我们一起去看更大的世界。
