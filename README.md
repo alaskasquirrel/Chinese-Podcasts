@@ -56,7 +56,7 @@
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
 ##### 独立日 https://riyu.io/independenceday/ 我们希望能帮助你发现进而独立体会日语乃至语言的趣味。
 ##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
-##### 疯投圈 https://crazy.capital
+##### 疯投圈 https://crazy.capital 从投资视角探讨商业现象背后的本质。
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
 ##### 津津乐道 https://jinjinledao.org 一群天津人创建的播客节目，每期胡侃一个新鲜话题。
 ##### 科技聚变 https://techfusionfm.com/ 
