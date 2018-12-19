@@ -69,6 +69,7 @@
 ##### 两个IT大叔 https://music.163.com/#/djradio?id=344976064 本节目由 glif 和 herock 两位大叔主持，聊一些 IT、生活、旅行、创业等方面的话题。
 ##### IT乱谈 http://itluantan.com/
 ##### 忍者ATM http://ninjaatm.sxl.cn/ 由媒体人和经济学家创办的理财动画短视频节目。
+##### MONO猫弄电台 https://www.ximalaya.com/renwen/11595324/ 
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
 ##### 荒岛电台 http://wildland.fm/
 ##### 极客电台 https://geek.wasai.org/
@@ -109,5 +110,6 @@
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
 ##### 王受之 | 小设计大艺术 https://www.ximalaya.com/renwen/10267467/ 王受之先生授权美国加州汪老师美术学院特别制作的系列节目。
+##### VoicerFM https://music.163.com/#/user/264729294 灵感点亮生活，生活温暖人心。线上杂志Voicer，分享生活与设计的美学。
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
 ##### 无时差研究所 https://www.ximalaya.com/yule/13506198/ 给时间以生命，给生命以无时差。未来请和我们一起去看更大的世界。
