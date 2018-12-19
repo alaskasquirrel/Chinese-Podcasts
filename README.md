@@ -72,6 +72,7 @@
 ##### MONO猫弄电台 https://www.ximalaya.com/renwen/11595324/ 
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
 ##### 荒岛电台 http://wildland.fm/
+##### 荒野气象台 https://www.ximalaya.com/zhubo/103486431/ 人文、旅行、男孩 | 新生活是你将前往的荒野。
 ##### 极客电台 https://geek.wasai.org/
 ##### 好好说话 https://lingxiao.name/podcast/
 ##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。
