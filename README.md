@@ -73,6 +73,7 @@
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
 ##### 荒岛电台 http://wildland.fm/
 ##### 荒野气象台 https://www.ximalaya.com/zhubo/103486431/ 人文、旅行、男孩 | 新生活是你将前往的荒野。
+##### 后浪电影学院 https://www.ximalaya.com/zhubo/28071579/ 
 ##### 极客电台 https://geek.wasai.org/
 ##### 好好说话 https://lingxiao.name/podcast/
 ##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。
@@ -112,5 +113,6 @@
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
 ##### 王受之 | 小设计大艺术 https://www.ximalaya.com/renwen/10267467/ 王受之先生授权美国加州汪老师美术学院特别制作的系列节目。
 ##### VoicerFM https://music.163.com/#/user/264729294 灵感点亮生活，生活温暖人心。线上杂志Voicer，分享生活与设计的美学。
+##### 小声喧哗 Loud Murmurs https://www.ximalaya.com/keji/13635916/ 一档由几个当代青年一起讨论美国流行文化、电影、电视剧的播客。
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
 ##### 无时差研究所 https://www.ximalaya.com/yule/13506198/ 给时间以生命，给生命以无时差。未来请和我们一起去看更大的世界。
