@@ -79,6 +79,7 @@
 ##### 设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。
 ##### I/O调频 http://dailyio.net/ 
 ##### 机核电台 https://www.g-cores.com/categories/9/originals
+##### 欧罗万象EuroScope https://euroscope.fireside.fm/ 听见一个复杂的欧洲。
 ##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。
 ##### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
 ##### Raymond TalkShow https://ottawazine.com/raymond-talkshow/ Raymond和Jason两位主持人，秉着“渥太华生活苦短、大家要及时行乐”的初衷和理念，用访谈的形式，为大家带来放荡不羁又略带深度的话题讨论。
