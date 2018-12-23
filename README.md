@@ -118,3 +118,4 @@
 ##### 小声喧哗 Loud Murmurs https://www.ximalaya.com/keji/13635916/ 一档由几个当代青年一起讨论美国流行文化、电影、电视剧的播客。
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
 ##### 无时差研究所 https://www.ximalaya.com/yule/13506198/ 给时间以生命，给生命以无时差。未来请和我们一起去看更大的世界。
+##### ggtalk https://talk.swift.gg 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。 
