@@ -4,6 +4,7 @@
 ##### Apple Podcast
 ##### Pocket Casts
 ##### Overcast
+##### 喜马拉雅
 * Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan
 * English Talk：
 ##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
