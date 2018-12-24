@@ -27,7 +27,7 @@
 ##### 壁下观 https://blog.yitianshijie.net 终结。
 * Chinese Talk：
 ##### 1dp不止聊设计 http://1dp.club/ 
-##### 35mm https://itunes.apple.com/cn/podcast/35mm/id657286363?mt=2
+##### 35mm 
 ##### 578广播 http://www.lizhi.fm/user/2526095467367431212
 ##### 8090有限公司 https://8090.fireside.fm/ 一档分享八九十年代港台流行好歌的节目。
 ##### 安城文化沙龙 http://www.aashalong.com/ Learn something every weekend!
@@ -56,7 +56,8 @@
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
 ##### 独立日 https://riyu.io/independenceday/ 我们希望能帮助你发现进而独立体会日语乃至语言的趣味。
-##### EchoBeach https://itunes.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E6%B5%B7%E6%BB%A9echobeach/id1023593878?mt=2
+##### EchoBeach
+##### Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。
 ##### 疯投圈 https://crazy.capital 从投资视角探讨商业现象背后的本质。
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
 ##### 津津乐道 https://jinjinledao.org 一群天津人创建的播客节目，每期胡侃一个新鲜话题。
@@ -82,7 +83,7 @@
 ##### 机核电台 https://www.g-cores.com/categories/9/originals
 ##### 欧罗万象EuroScope https://euroscope.fireside.fm/ 听见一个复杂的欧洲。
 ##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。
-##### 静Design.fm https://itunes.apple.com/cn/podcast/%E9%9D%99design-fm/id1230939853?mt=2
+##### 静Design.fm 
 ##### Raymond TalkShow https://ottawazine.com/raymond-talkshow/ Raymond和Jason两位主持人，秉着“渥太华生活苦短、大家要及时行乐”的初衷和理念，用访谈的形式，为大家带来放荡不羁又略带深度的话题讨论。
 ##### StartupGrindNingbo https://www.ximalaya.com/renwen/9480203/ Startup Grind 宁波访谈。
 ##### 骚-分享世界 连接世界（旅行）http://www.sao.com/
@@ -96,7 +97,7 @@
 ##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
 ##### 提前怀旧 https://pretro.xyz 一切未来终将成为过去。
 ##### 天書 http://tianshuguangbo.com/ A talkshow on topics of humanities, including history, linguistics, literature, etc.
-##### 学霸学渣闯美国 https://itunes.apple.com/cn/podcast/xue-ba-xue-zha-chuang-mei-guo/id1114438885?mt=2
+##### 学霸学渣闯美国 
 ##### 坏蛋调频 http://www.lizhi.fm/12638/
 ##### 文化土豆 http://www.culturepotato.com/ 来自北京麦子店的文艺生活小圆桌播客节目，聊影视书籍和艺术。
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
