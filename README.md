@@ -1,4 +1,5 @@
 Podcasts.OPML文件更新较快，请自行导入收听！
+##### English Podcasts: https://github.com/alaskasquirrel/Awesome-Geek-Podcasts#in-english
 * 洗耳恭听，拭目以待！
 ##### 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解山外的世界，受益颇多。
 * Podcast App:
