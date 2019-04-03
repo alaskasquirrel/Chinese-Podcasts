@@ -64,7 +64,7 @@ Podcasts.OPML文件更新较快，请自行导入收听！
 ##### ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
 ##### 疯投圈 https://crazy.capital 从投资视角探讨商业现象背后的本质。
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
-##### 津津乐道 https://jinjinledao.org 一群天津人创建的播客节目，每期胡侃一个新鲜话题。
+##### 津津乐道 https://jinjinledao.org 如果你是一个经常感觉“这事儿好像不太对劲儿”的人，那么这款节目就是为你准备的。因为，我们也如此。
 ##### 科技聚变 https://techfusionfm.com/ 
 ##### 路书 https://lushu88.com 一档讨论艺术和历史的播客节目.我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。
 ##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。
