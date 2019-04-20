@@ -112,6 +112,7 @@ Podcasts.OPML文件更新较快，请自行导入收听！
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 
 ##### 科技与生活 Tech&Life https://www.ximalaya.com/keji/5915629/ “洞見科技與生活的大碰撞”。
 ##### 交差点 https://jiaocha.io "Technology alone is not enough"
+##### WEB VIEW https://webview.tech WEB VIEW 是一档泛科技播客，节目中谨慎考量技术进步所带来的优缺点，提倡用「人治」的方法重新审视我们的日常生活。
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
 ##### 沿边物语 http://www.yanbianwuyu.com/ 一档谈论旧闻的节目。
 ##### 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听。
