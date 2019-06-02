@@ -58,7 +58,7 @@ Podcasts.OPML文件更新较快，请自行导入收听！
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
-##### 代码时间 http://codetimecn.com/ 一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量。
+##### 代码时间 http://codetimecn.com/ 终结。
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
 ##### 独立日 https://riyu.io/independenceday/ 我们希望能帮助你发现进而独立体会日语乃至语言的趣味。
