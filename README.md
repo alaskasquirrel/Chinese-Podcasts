@@ -1,5 +1,6 @@
 #### 为了避免某些高墙，请尽量自行RSS添加订阅播客
 Podcasts.OPML文件更新较快，请自行导入收听！
+倘若你想要尝试录制自己的播客，推荐https://fireside.fm/，免受审核困扰！
 ##### English Podcasts: https://github.com/alaskasquirrel/Awesome-Geek-Podcasts#in-english
 * 洗耳恭听，拭目以待！
 ##### 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解万千世界，受益颇多。
