@@ -1,3 +1,4 @@
+#### 为了避免某些高墙，请尽量自行RSS添加订阅播客
 Podcasts.OPML文件更新较快，请自行导入收听！
 ##### English Podcasts: https://github.com/alaskasquirrel/Awesome-Geek-Podcasts#in-english
 * 洗耳恭听，拭目以待！
