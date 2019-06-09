@@ -1,16 +1,16 @@
-#### 为了避免某些高墙，请尽量自行RSS添加订阅播客(Podcasts.opml)
-倘若你想要尝试录制自己的播客，推荐https://fireside.fm/ 免受某些麻烦！
+﻿#### 为了避免某些高墙，请尽量自行RSS添加订阅播客(Podcasts.opml)
+* 倘若你想要尝试录制自己的播客，推荐 https://fireside.fm/ ，免受某些麻烦！
 ##### 凌晨四点 - 不仅仅是声音，一个由播客爱好者组织的文化社区： https://at4am.io/
 ##### English Podcasts: https://github.com/alaskasquirrel/Awesome-Geek-Podcasts#in-english
 * 洗耳恭听，拭目以待！
 ##### 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解万千世界，受益颇多。
 * Podcast App:
-##### Winds https://github.com/getstream/winds (https://getstream.io/winds/)
+##### Winds https://github.com/getstream/winds ( https://getstream.io/winds/ )
 ##### Apple Podcast
 ##### Pocket Casts
 ##### Overcast
 ##### 喜马拉雅App
-##### Grover Podcast (Windows10)
+##### Grover Podcast ( Windows10 )
 * Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan
 * English Talk：
 ##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
@@ -19,7 +19,7 @@
 ##### GGV996 纪源资本（GGV Capital）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA.
 ##### Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.
 ##### The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley, The Beertelligence Podcast is where smart people in tech, design, product & entrepreneurship discuss breakthrough ideas and tactics over beers.
-* IPN for discriminating listeners : https://ipn.li/ :
+* IPN for discriminating listeners  https://ipn.li/ :
 ##### 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。
 ##### 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。
 ##### 無次元——A celebration of auditory culture http://wcy.wtf/
