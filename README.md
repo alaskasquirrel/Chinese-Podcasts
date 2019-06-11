@@ -81,6 +81,7 @@
 ##### 代码时间 http://codetimecn.com/ 终结。
 ##### 当我们混在欧洲max
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
+##### 蛋解创业 
 ##### 得意忘形 http://www.lizhi.fm/user/2579240391643675180
 ##### 德漂茶馆
 ##### 低保真电台
@@ -91,7 +92,7 @@
 ##### 反派影评 http://fanpaiyingping.com/
 ##### 饭后设计师
 ##### 饭堂电台
-##### 风土志
+##### 风土志 https://ftz.fireside.fm/ 感受别处的物产、风景、风俗的私体验播客。
 ##### 枫言枫语 http://fyfy.fm/
 ##### 加州101
 ##### ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -122,7 +123,7 @@
 ##### 聊个球播客
 ##### 量子论的故事
 ##### 两个IT大叔 https://music.163.com/#/djradio?id=344976064 本节目由 glif 和 herock 两位大叔主持，聊一些 IT、生活、旅行、创业等方面的话题。
-##### 亂gad
+##### 亂gad 
 ##### IT乱谈 http://itluantan.com/
 ##### 忍者ATM http://ninjaatm.sxl.cn/ 由媒体人和经济学家创办的理财动画短视频节目。
 ##### 迷于星际 Lost in Trek http://trekin.space/ 一档适合星际旅行时收听的聊天节目。
@@ -194,7 +195,7 @@
 ##### 时差调频
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
 ##### 随机区块链 https://www.ximalaya.com/keji/19242373/ 希望给大家一个途径了解真实的区块链世界。
-##### 随口说美国
+##### 随口说美国 https://www.ximalaya.com/zhubo/3239336/
 ##### 所建所闻 https://architalk.fireside.fm/ ArchiTalk
 ##### talich闲侃 https://talich.fm/
 ##### Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
@@ -228,6 +229,7 @@
 ##### 新闻酸菜馆 https://wasai.org/ 聊新闻,寻开心,用最真实的声音，呈现当下中国的浮世绘。
 ##### 星箭廣播 https://podcast.starrocket.io/ 一個由三創育成基金會編輯部製作、每週更新的節目，主題來自我們部落格 Star Rocket 文章，以「科技」和「創新故事」作為兩大主軸，主持人 Titan 跟 Maxine 會跟大家聊聊他們對科技的觀察和想法。
 ##### 友的聊播客 http://ydlbk.com/
+##### 一方天地 http://emmmme.com/episodes/ 
 ##### 一个程序员
 ##### 一画一话 http://www.theviewtalk.com/ 
 ##### 一席 https://yixi.tv/
@@ -239,9 +241,10 @@
 ##### 赵畅不误
 ##### 针尖·多味听觉馆
 ##### 执异 https://zhiyi.life/ Dare to be different.
-##### 追科技撩艺术
+##### 追科技撩艺术 https://www.doko.com/podcasts/index.php
 ##### 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
 ##### 张子玄
+##### 折耳根播客 http://zheergen.club/ 一档较为走心的陪伴型播客。
 ##### 振兴说
 ##### 歪椅
 ##### WES陈
