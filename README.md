@@ -60,8 +60,10 @@
 ##### 博物志 https://museelogue.fireside.fm/ https://bowuzhi.fm/ 一档关于博物馆的播客。
 ##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
 ##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界。
+##### 别的女孩 
 ##### 差分机 http://diffengine.org/ 一档关于科技、社会与未来的泛文化传媒。
 ##### 采风 
+##### CD没教的事 
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
 ##### chiliko 聊日本
 ##### 我流食堂
@@ -90,6 +92,7 @@
 ##### Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。
 ##### 翻转电台
 ##### 反派影评 http://fanpaiyingping.com/
+##### 饭后见 
 ##### 饭后设计师
 ##### 饭堂电台
 ##### 风土志 https://ftz.fireside.fm/ 感受别处的物产、风景、风俗的私体验播客。
@@ -106,6 +109,7 @@
 ##### 疯投圈 https://crazy.capital 从投资视角探讨商业现象背后的本质。
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
 ##### 津津乐道 https://jinjinledao.org 一群天津人创建的播客节目，每期胡侃一个新鲜话题。
+##### KickerRadio http://www.kickerclub.com/ 
 ##### 科技聚变 https://techfusionfm.com/ 
 ##### 克留
 ##### 可以谈
@@ -121,6 +125,7 @@
 ##### 老马侃美国 http://www.lizhi.fm/user/3475139
 ##### 老司机三人行
 ##### 聊个球播客
+##### 联客 
 ##### 量子论的故事
 ##### 两个IT大叔 https://music.163.com/#/djradio?id=344976064 本节目由 glif 和 herock 两位大叔主持，聊一些 IT、生活、旅行、创业等方面的话题。
 ##### 亂gad 
@@ -147,6 +152,7 @@
 ##### 荒岛电台 http://wildland.fm/
 ##### 荒野气象台 https://www.ximalaya.com/zhubo/103486431/ 人文、旅行、男孩 | 新生活是你将前往的荒野。
 ##### 活在伦敦ThisIsLondon
+##### 后街77号 https://www.ximalaya.com/zhubo/112657861/
 ##### 后浪电影学院 https://www.ximalaya.com/zhubo/28071579/ 
 ##### GeekCar叨逼叨
 ##### 极客电台 https://geek.wasai.org/
@@ -228,6 +234,7 @@
 ##### 元素咖啡 https://www.ximalaya.com/keji/18724468/ 喝一杯咖啡、品不一样的化学故事，用元素的视角认识世界。
 ##### 新闻酸菜馆 https://wasai.org/ 聊新闻,寻开心,用最真实的声音，呈现当下中国的浮世绘。
 ##### 星箭廣播 https://podcast.starrocket.io/ 一個由三創育成基金會編輯部製作、每週更新的節目，主題來自我們部落格 Star Rocket 文章，以「科技」和「創新故事」作為兩大主軸，主持人 Titan 跟 Maxine 會跟大家聊聊他們對科技的觀察和想法。
+##### 摇滚又一榜 
 ##### 友的聊播客 http://ydlbk.com/
 ##### 一方天地 http://emmmme.com/episodes/ 
 ##### 一个程序员
@@ -256,6 +263,7 @@
 ##### 小声喧哗 Loud Murmurs https://www.ximalaya.com/keji/13635916/ 一档由几个当代青年一起讨论美国流行文化、电影、电视剧的播客。
 ##### 小预算造大品牌 https://www.doko.com/podcasts/index.php
 ##### 想到说播客
+##### 星缘星语 https://www.ximalaya.com/zhubo/7592100/
 ##### 味之道 http://wzd.fm/ 席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。
 ##### 无业游民 https://theue.me/
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
