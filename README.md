@@ -1,5 +1,6 @@
 ﻿#### 为了避免某些高墙，请尽量自行RSS添加订阅播客( Podcasts.opml )
 * 倘若你想要尝试录制自己的播客，推荐 https://fireside.fm/ ，免受某些麻烦！
+##### gpodder.net https://www.gpodder.net/ Podcast Directory
 ##### 凌晨四点 - 不仅仅是声音，一个由播客爱好者组织的文化社区： https://at4am.io/
 ##### 中文独立播客: https://typlog.com/podlist/
 ##### 利器x播客: https://liqixpodcast.typlog.io/
@@ -7,12 +8,16 @@
 * 洗耳恭听，拭目以待！
 ##### 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解万千世界，受益颇多。
 * Podcast App:
+##### Himalaya https://www.himalaya.com/
 ##### Winds https://github.com/getstream/winds ( https://getstream.io/winds/ )
+##### gpodder https://gpodder.github.io/
+##### CPod https://github.com/z-------------/CPod 
 ##### Apple Podcast
 ##### Pocket Casts
 ##### Overcast
-##### 喜马拉雅
-##### 荔枝
+##### 喜马拉雅FM
+##### 荔枝FM
+##### 蜻蜓FM
 ##### Grover Podcast ( Windows10 )
 * Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan
 * English Talk：
