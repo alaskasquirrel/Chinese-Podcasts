@@ -14,6 +14,7 @@
 ##### CPod https://github.com/z-------------/CPod 
 ##### Apple Podcast
 ##### Pocket Casts
+##### SoundCloud
 ##### Overcast
 ##### 喜马拉雅FM
 ##### 荔枝FM
