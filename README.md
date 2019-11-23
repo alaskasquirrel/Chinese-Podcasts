@@ -32,18 +32,19 @@
 | Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.                                     |
 | The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley |
 
-* IPN for discriminating listeners  https://ipn.li/ :
-##### 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。
-##### 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。
-##### 無次元——A celebration of auditory culture http://wcy.wtf/
-##### 太医来了 https://taiyilaile.com/ 中文互联网第一档医生谈话类播客。节目里没有老专家讲养生，只有几个医生聊聊医院里的事儿，顺便给大家做做科普。
-##### 硬影像 http://hardimage.pro/ 一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。
-##### 流行通信 https://popdispat.ch/ 我们不只谈艺术。
-##### 时尚怪物 http://fashionmonster.fm/ 一档不只谈时尚的播客节目。
-##### 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。
-##### IT公论 https://itgonglun.com/ 终结。
-##### 色(Hi)story http://www.history.cheap/ 终结。
-##### 壁下观 https://blog.yitianshijie.net 终结。
+| IPN for discriminating listeners  https://ipn.li/                                 |
+|:--------------------------------------------------------------------------------- |
+| 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。|
+| 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。|
+| 無次元——A celebration of auditory culture http://wcy.wtf/ |
+| 太医来了 https://taiyilaile.com/ 中文互联网第一档医生谈话类播客。|
+| 硬影像 http://hardimage.pro/ 一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。|
+| 流行通信 https://popdispat.ch/ 我们不只谈艺术。|
+| 时尚怪物 http://fashionmonster.fm/ 一档不只谈时尚的播客节目。|
+| 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。|
+| IT公论 https://itgonglun.com/ 终结。|
+| 色(Hi)story http://www.history.cheap/ 终结。|
+| 壁下观 https://blog.yitianshijie.net 终结。
 * Chinese Talk：
 ##### .NET FM http://www.dotnet.fm/
 ##### 1dp不止聊设计 http://1dp.club/ 
