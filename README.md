@@ -7,20 +7,21 @@
 ##### English Podcasts: https://github.com/alaskasquirrel/Awesome-Geek-Podcasts#in-english
 * 洗耳恭听，拭目以待！
 ##### 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解万千世界，受益颇多。
-* Podcast App:
-##### Himalaya https://www.himalaya.com/
-##### Winds https://github.com/getstream/winds ( https://getstream.io/winds/ )
-##### gpodder https://gpodder.github.io/
-##### CPod https://github.com/z-------------/CPod 
-##### Apple Podcast
-##### Pocket Casts
-##### SoundCloud
-##### Overcast
-##### 喜马拉雅FM
-##### 荔枝FM
-##### 蜻蜓FM
-##### Grover Podcast ( Windows10 )
-* Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan *
+| Podcast App                                                              |
+|:------------------------------------------------------------------------:|
+| Himalaya https://www.himalaya.com/                                       |
+| Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
+| gpodder https://gpodder.github.io/                                       |
+| CPod https://github.com/z-------------/CPod                              |
+| Apple Podcast                                                            |
+| Pocket Casts                                                             |
+| SoundCloud                                                               |     
+| Overcast                                                                 |
+| 喜马拉雅FM                                                                | 
+| 荔枝FM                                                                   |
+| 蜻蜓FM                                                                   |
+| Grover Podcast ( Windows10 )                                             |
+* Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan 
 * English Talk：
 ##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
 ##### China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website
