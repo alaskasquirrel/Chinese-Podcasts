@@ -8,7 +8,7 @@
 * 洗耳恭听，拭目以待！
 ##### 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解万千世界，受益颇多。
 | Podcast App                                                              |
-|:------------------------------------------------------------------------:|
+|:------------------------------------------------------------------------ |
 | Himalaya https://www.himalaya.com/                                       |
 | Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
 | gpodder https://gpodder.github.io/                                       |
@@ -22,13 +22,14 @@
 | 蜻蜓FM                                                                   |
 | Grover Podcast ( Windows10 )                                             |
 * Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan 
-* English Talk：
-##### ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website
-##### China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website
-##### Wo Men Podcast http://radiichina.com/author/women/ discuss a variety of topics and share a diversity of voices from on the ground inside contemporary China.
-##### GGV996 纪源资本（ GGV Capital ）https://996.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA.
-##### Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.
-##### The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley, The Beertelligence Podcast is where smart people in tech, design, product & entrepreneurship discuss breakthrough ideas and tactics over beers.
+| English Talk |
+|:-- |
+| ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website |
+| China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website |
+| Wo Men Podcast http://radiichina.com/author/women/ discuss a variety of topics and share a diversity of voices from on the ground inside contemporary China. |
+| Evolving for The Next Billion 纪源资本（ GGV Capital ）https://nextbn.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA. |
+| Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation. |
+| The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley, The Beertelligence Podcast is where smart people in tech, design, product & entrepreneurship discuss breakthrough ideas and tactics over beers. |
 * IPN for discriminating listeners  https://ipn.li/ :
 ##### 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。
 ##### 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。
