@@ -184,6 +184,7 @@
 ##### PAGE SEVEN 胡先笙
 ##### 胡先笙文史札记
 ##### Push Bar 不是吧
+##### 锵锵脑科学 https://www.ximalaya.com/yule/30318983/
 ##### 区块链之新Nextbloc 
 ##### 奇妙电台
 ##### 顷刻 https://qingke.fireside.fm 
