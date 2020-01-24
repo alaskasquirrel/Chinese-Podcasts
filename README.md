@@ -46,6 +46,13 @@
 | IT公论 https://itgonglun.com/ 终结。|
 | 色(Hi)story http://www.history.cheap/ 终结。|
 | 壁下观 https://blog.yitianshijie.net 终结。
+
+| 声动活泼 http://www.shengfm.cn/                          |
+|:--------------------------------------------------------|
+| 硅谷早知道 https://guiguzaozhidao.fireside.fm/           |
+| 到海外去 https://chuhai.co/                              |
+| 反潮流俱乐部 https://fanchaoliuclub.fireside.fm          |
+
 * Chinese Talk：
 ##### .NET FM http://www.dotnet.fm/
 ##### 1dp不止聊设计 http://1dp.club/ 
@@ -88,7 +95,6 @@
 ##### 从零道一 http://0011.one/
 ##### 创业美国 
 ##### 创业内幕 Startup Insider https://www.ximalaya.com/keji/20119986/ 一档由GGV纪源资本发起的访谈节目，为中国的音频听众提供更具专业视角的“创业话题”沙龙。
-##### 到海外去 https://www.chuhai.co/ 这档音频节目讲述出海企业如何在陌生土壤上竞争，怎么在管理和运营上踩坑，再如何用中国式创新征战全球市场。我们希望把他们的经验传递给更多中国出海者，推动中国企业的全球竞争力。
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
