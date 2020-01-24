@@ -29,7 +29,6 @@
 | ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website                                                    |
 | China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website                                   |
 | Wo Men Podcast http://radiichina.com/author/women/                                                                     |
-| Evolving for The Next Billion 纪源资本（ GGV Capital ）https://nextbn.ggvc.com/ TECH & ENTREPRENEURSHIP IN CHINA.       |
 | Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.                                     |
 | The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley |
 
@@ -43,9 +42,15 @@
 | 流行通信 https://popdispat.ch/ 我们不只谈艺术。|
 | 时尚怪物 http://fashionmonster.fm/ 一档不只谈时尚的播客节目。|
 | 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。|
+| talich闲侃 https://talich.fm/ 有闲就聊，无闲就不聊。|
 | IT公论 https://itgonglun.com/ 终结。|
 | 色(Hi)story http://www.history.cheap/ 终结。|
 | 壁下观 https://blog.yitianshijie.net 终结。
+
+| GGV Capital 纪源资本 https://www.ggvchina.com/                      |
+|:-------------------------------------------------------------------|
+| Evolving for The Next Billion https://nextbn.ggvc.com/             |
+| 创业内幕 Startup Insider https://www.ximalaya.com/shangye/20119986/ |
 
 | 声动活泼 http://www.shengfm.cn/                          |
 |:--------------------------------------------------------|
@@ -94,7 +99,6 @@
 ##### 重新开始 https://cxks.in/ 关注城市生活、也关注人际关系、更关注自我意识，探讨一个人在主流外还有哪些可能性，由一个独自生活在北京的性少数年轻人主持。
 ##### 从零道一 http://0011.one/
 ##### 创业美国 
-##### 创业内幕 Startup Insider https://www.ximalaya.com/keji/20119986/ 一档由GGV纪源资本发起的访谈节目，为中国的音频听众提供更具专业视角的“创业话题”沙龙。
 ##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
