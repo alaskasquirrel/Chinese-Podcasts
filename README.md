@@ -58,6 +58,13 @@
 | 到海外去 https://chuhai.co/                              |
 | 反潮流俱乐部 https://fanchaoliuclub.fireside.fm          |
 
+| 编程                                                                                                      | 
+|:---------------------------------------------------------------------------------------------------------|
+| 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python.                                                     |
+| 代码时间 http://codetimecn.com/ 终结。                                                                     |
+| ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。                                           |
+| Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。|
+
 * Chinese Talk：
 ##### .NET FM http://www.dotnet.fm/
 ##### 1dp不止聊设计 http://1dp.club/ 
@@ -82,7 +89,6 @@
 ##### 不可理论 http://www.bukelilun.com/ 带你用理论理解生活
 ##### 不太重要 https://butaizhongyao.fireside.fm/ 关于日常生活和周边世界的观察记录。
 ##### 不丧 https://busangpodcast.simplecast.fm/ 首档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。
-##### 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python.
 ##### 博物志 https://museelogue.fireside.fm/ https://bowuzhi.fm/ 一档关于博物馆的播客。
 ##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
 ##### Byte.Coffee http://byte.coffee/ 用 Engineer 的视角窥探世界。
@@ -104,7 +110,6 @@
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
 ##### 大内密谈 
 ##### 大人课 https://growup.rocks/ 一项面向所有中国城市青年的自救计划，主播是两位深陷四分之一人生危机的知识青年，赛赛和文仪。每期里我们会谈论最近困惑的问题，通过交换笔记和信息，帮助我们和正在收听的你解决 21 世纪最重要的三个问题：信息过载、情感表达、自我取悦。
-##### 代码时间 http://codetimecn.com/ 终结。
 ##### 当我们混在欧洲max
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
 ##### 蛋解创业 
@@ -122,7 +127,6 @@
 ##### 风土志 https://ftz.fireside.fm/ 感受别处的物产、风景、风俗的私体验播客。
 ##### 枫言枫语 http://fyfy.fm/
 ##### 加州101
-##### ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
 ##### Go For it Entrepreneur( 創業者说)
 ##### 硅星人FM https://gxr.fireside.fm/ 硅谷热闻，北美大事，插上耳机，一听便知。 
 ##### grilling park 桂林公园 https://grillingpark.fireside.fm/ 隐二、苍间和MOG发起的跨界创意实践互促社。
@@ -229,7 +233,6 @@
 ##### 随口说美国 https://www.ximalaya.com/zhubo/3239336/
 ##### 所建所闻 https://architalk.fireside.fm/ ArchiTalk
 ##### talich闲侃 https://talich.fm/
-##### Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
 ##### The CJ Show
 ##### TheFWordPodcast
 ##### TheLeahYang
