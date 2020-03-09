@@ -60,10 +60,16 @@
 
 | 编程                                                                                                      | 
 |:---------------------------------------------------------------------------------------------------------|
-| 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python.                                                     |
+| 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。                                                     |
 | 代码时间 http://codetimecn.com/ 终结。                                                                     |
 | ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。                                           |
 | Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。|
+| Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。                                                      |
+
+|科学                                                         |
+|:------------------------------------------------------------|
+| 锵锵脑科学 https://www.ximalaya.com/yule/30318983/           |                          
+| 神经漫游 Neuromancing https://neuromancing.fireside.fm/      |                               
 
 * Chinese Talk：
 ##### .NET FM http://www.dotnet.fm/
@@ -118,7 +124,6 @@
 ##### 低保真电台
 ##### 独立日 https://riyu.io/independenceday/ 我们希望能帮助你发现进而独立体会日语乃至语言的趣味。
 ##### EchoBeach
-##### Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。
 ##### 翻转电台
 ##### 反派影评 http://fanpaiyingping.com/
 ##### 饭后见 
@@ -128,6 +133,7 @@
 ##### 枫言枫语 http://fyfy.fm/
 ##### 加州101
 ##### Go For it Entrepreneur( 創業者说)
+##### 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/ 《硅谷叨B叨》是由一位在谷歌美国工作的码农，叨哥，主持一个泛科技漫谈节目，每一期会和嘉宾一起，和大家聊聊码农最真实的一面和硅谷的“风土人情”。
 ##### 硅星人FM https://gxr.fireside.fm/ 硅谷热闻，北美大事，插上耳机，一听便知。 
 ##### grilling park 桂林公园 https://grillingpark.fireside.fm/ 隐二、苍间和MOG发起的跨界创意实践互促社。
 ##### 观复嘟嘟
@@ -167,6 +173,7 @@
 ##### NickTalk https://www.nicktalk.com/ 記錄關於科技、文化、藝術、設計和生活的奇思妙想。格物致知，興趣相投。
 ##### High Hanging Fruits https://hhf.fireside.fm/ A playwright and an astrophysicist looking at the world.
 ##### 男寝501501
+##### 牛油果烤面包——科技趋势评论 https://www.ximalaya.com/keji/29161862/ 以两个硅谷工程师的视角，看待高科技行业的发展趋势——深入、独特、信息量。
 ##### 黑水公园
 ##### 黑羊黑羊
 ##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
@@ -198,7 +205,6 @@
 ##### PAGE SEVEN 胡先笙
 ##### 胡先笙文史札记
 ##### Push Bar 不是吧
-##### 锵锵脑科学 https://www.ximalaya.com/yule/30318983/
 ##### 区块链之新Nextbloc 
 ##### 奇妙电台
 ##### 顷刻 https://qingke.fireside.fm 
