@@ -5,6 +5,7 @@
         <dateCreated>Thu, 02 Apr 2020 20:02:27 +0800</dateCreated>
     </head>
     <body>
+        <outline text="流动人口 Stray Population是当今信息容量过载的社会催生出来的产物，是一档泛科技类播客，欢迎大家使用泛用型播客客户端进行收听。" title="流动人口 Stray Population" type="rss" xmlUrl="https://podcast.cscript.site/podcast.xml"/>
         <outline text="A weekly conversation exploring China's economy and tech scene. Guests include a wide range of policy analysts, business professionals, journalists, and academics. Hosted by Jordan Schneider and published on Lawfare." title="China EconTalk" type="rss" xmlUrl="https://chinaecontalk.libsyn.com/rss"/>
         <outline text="《交差点》是一档由 Jesse Chan 发起，与 Alex、林檎共同主播的科技人文主题播客。我们主张「科技与人文的十字路口」背后不应是一种二元的选择，两者应当是相互作用，并彼此驱动的关系。 除了用技术的方法解决问题，我们将致力于探索如何在技术崇拜盛行的今天保留人性，试图用人文的视角解读技术语境下的趣味，消除二者的对立，促成其有机结合。" title="交差点" type="rss" xmlUrl="https://jiaocha.io/feed.xml"/>
         <outline text="A talkshow on topics of humanities, including history, linguistics, literature, etc." title="节目 - 天书广播" type="rss" xmlUrl="http://tianshuguangbo.com/blog?format=rss"/>
