@@ -303,4 +303,4 @@
 ##### 无业游民 https://theue.me/
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
 ##### 无时差研究所 https://www.ximalaya.com/yule/13506198/ 给时间以生命，给生命以无时差。未来请和我们一起去看更大的世界。
-##### [流动人口 Stray Population](https://podcast.cscript.site)当今信息容量过载的社会催生出来的产物，是一档泛科技类播客.
+##### 流动人口 Stray Population https://podcast.cscript.site 当今信息容量过载的社会催生出来的产物，是一档泛科技类播客。
