@@ -13,13 +13,13 @@
 | Himalaya https://www.himalaya.com/                                       |
 | Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
 | gpodder https://gpodder.github.io/                                       |
-| SoundOn (臺灣) https://www.soundon.fm/                                   |
+| SoundOn  https://www.soundon.fm/                                         |
 | Apple Podcast                                                            |
 | Google Podcasts                                                          |
 | Pocket Casts                                                             |
 | SoundCloud                                                               |     
 | Overcast                                                                 |
-| 喜马拉雅FM                                                               | 
+| 喜马拉雅FM                                                                | 
 | 荔枝FM                                                                   |
 | 蜻蜓FM                                                                   |
 | Grover Podcast ( Windows10 )                                             |
@@ -53,10 +53,13 @@
 | Evolving for The Next Billion https://nextbn.ggvc.com/             |
 | 创业内幕 Startup Insider https://www.ximalaya.com/shangye/20119986/ |
 
-|VC 创投资本                                                          |
+|VC 资本投资                                                          |
 |:-----------------------------------------------------------------|
 | 疯投圈 https://crazy.capital/ 从投资视角探讨商业本质                                  |
 | T3创投小组 https://www.ximalaya.com/shangye/36771337/                                |
+| The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
+| Asia Tech Podcast http://asiatechpodcast.com/ All Things Asia All Things Tech |
+| The China Africa Project https://chinaafricaproject.com/  |
 
 | 声动活泼 http://www.shengfm.cn/                          |
 |:--------------------------------------------------------|
@@ -68,20 +71,22 @@
 
 | 编程                                                                                                      | 
 |:---------------------------------------------------------------------------------------------------------|
-| 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。                                                     |
+| 津津乐道https://dao.fm/   |
+| 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。   |
 | 开源之道Talking http://opensourceway.communinty/  |
 | 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
 | 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  |
 | 硅谷101 https://www.ximalaya.com/shangye/33244571/  |
 | 小人物 A Nobody https://anobody.im/   |
-| 代码时间 http://codetimecn.com/ 终结。                                                                      |
+| 代码时间 http://codetimecn.com/ 终结。    |
 | Salesforce Podcast https://salesforceway.com/salesforce-podcast/ 代码时间 创作者的英文播客，其人现移居芬兰。    | 
-| ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。                                           |
+| ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。     |
 | Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。|
-| Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。                                                      |
+| Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。    |
 | 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101             |
 | 耳鸣终端Terminal https://t.ermin.al/   |
 | Hyperbola https://hyperbola.link/  |
+| 遗世独立 https://www.ximalaya.com/keji/41175480/  |
 | 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
 
 |科学                                                         |
@@ -96,13 +101,36 @@
 | Brain Matter https://brainpodcast.com/   |
 | Unsupervised Thinking https://unsupervisedthinkingpodcast.blogspot.com/|
 
+|俄罗斯  |
+|:----  |
+| 灰摩卡  |
+
+|加拿大|
+|:----|
+| [友藏](http://www.youzang.ca/) No Name 没友名字|
+
+|美国   |
+|:------|
+| 随口说美国 https://www.ximalaya.com/zhubo/3239336/|
+| 受之有道 http://www.am1300.com/   |
+
 |日本   |
 |:---------------------------------------------------------|
 | 静说日本·徐静波 https://www.ximalaya.com/shangye/3385980/  |
 | 东京脱线时间 https://tokyodametime.fireside.fm/  |
+| 聊聊天散散步 https://twalk.fireside.fm/   |
 | Untitled TechTalk https://utt.one/  |
 | Rebuild https://rebuild.fm/   |
 | Prototype.fm https://www.prototype.fm/  |
+
+|香港  |
+|:-------  |
+| 无业游民 https://theue.me     |
+| Wǒ Men Podcast https://radiichina.com/category/podcasts/ |
+
+|新西兰|
+|:----|
+| BearTalk 狗熊有话说 https://www.beartalking.com/ |
 
 * Chinese Talk：
 ##### .NET FM http://www.dotnet.fm/
@@ -136,15 +164,12 @@
 ##### 采风 
 ##### CD没教的事 
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
-##### chiliko 聊日本
-##### 我流食堂
 ##### 程序人生之图穷匕见 http://podcast.tchen.me/
 ##### 程语 https://chengyu.fireside.fm/ 以一个普通程序员的视角分享一些在爱尔兰工作生活的见闻以及生活中有趣的体会。 
 ##### 迟早更新 https://czgx.fireside.fm/ 一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。
 ##### 重新开始 https://cxks.in/ 关注城市生活、也关注人际关系、更关注自我意识，探讨一个人在主流外还有哪些可能性，由一个独自生活在北京的性少数年轻人主持。
 ##### 从零道一 http://0011.one/
 ##### 创业美国 
-##### 俄罗斯灰摩卡电台 http://www.lizhi.fm/40703/
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
 ##### 大内密谈 
@@ -175,7 +200,6 @@
 ##### 跟宇宙结婚 https://music.163.com/#/djradio?id=2997017
 ##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
 ##### 芥末章鱼 https://www.ximalaya.com/yule/32656722/
-##### 津津乐道 https://dao.fm/ 一群天津人创建的播客节目，每期胡侃一个新鲜话题。各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周日早八点，我们一起用耳朵体验世界.[播客孵化器](https://dao.fm/2020/01/01/%e9%82%80%e8%af%b7%e6%82%a8%e5%8a%a0%e5%85%a5%e6%b4%a5%e6%b4%a5%e4%b9%90%e9%81%93%e6%92%ad%e5%ae%a2%e5%ad%b5%e5%8c%96%e5%99%a8/)
 ##### KickerRadio http://www.kickerclub.com/ 
 ##### 科技聚变 https://techfusionfm.com/ 
 ##### 克留
@@ -187,7 +211,6 @@
 ##### 斑斓播客 http://www.banlan.show/
 ##### Time within time http://linlinxing.net/
 ##### 慕来 http://www.mulai.site/
-##### 狗熊有话说 http://voice.beartalking.com/
 ##### 辣鱼电台 
 ##### 老talk消息 https://www.ximalaya.com/renwen/31225613/
 ##### 老马侃美国 http://www.lizhi.fm/user/3475139
@@ -248,7 +271,6 @@
 ##### UntitledTechTalk http://utt.one/ 人类的好朋友Megabits&Mutnau主持的（大多数时候是）科技主题闲聊播客。承认主观是我们的态度，很不正经是我们的特色。
 ##### 静Design.fm 
 ##### 井户端会议
-##### 静说日本·徐静波
 ##### Raymond TalkShow https://ottawazine.com/raymond-talkshow/ Raymond和Jason两位主持人，秉着“渥太华生活苦短、大家要及时行乐”的初衷和理念，用访谈的形式，为大家带来放荡不羁又略带深度的话题讨论。
 ##### 日谈公园
 ##### 日语日语 https://riyu.io
@@ -280,7 +302,6 @@
 ##### 说东道西
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
 ##### 随机区块链 https://www.ximalaya.com/keji/19242373/ 希望给大家一个途径了解真实的区块链世界。
-##### 随口说美国 https://www.ximalaya.com/zhubo/3239336/
 ##### 所建所闻 https://architalk.fireside.fm/ ArchiTalk
 ##### talich闲侃 https://talich.fm/
 ##### The CJ Show
@@ -312,7 +333,6 @@
 ##### 硬核电台
 ##### 元素咖啡 https://www.ximalaya.com/keji/18724468/ 喝一杯咖啡、品不一样的化学故事，用元素的视角认识世界。
 ##### 新闻酸菜馆 https://wasai.org/ 聊新闻,寻开心,用最真实的声音，呈现当下中国的浮世绘。
-##### 星箭廣播 https://podcast.starrocket.io/ 一個由三創育成基金會編輯部製作、每週更新的節目，主題來自我們部落格 Star Rocket 文章，以「科技」和「創新故事」作為兩大主軸，主持人 Titan 跟 Maxine 會跟大家聊聊他們對科技的觀察和想法。
 ##### 摇滚又一榜 https://www.ximalaya.com/zhubo/26670313/
 ##### 友的聊播客 http://ydlbk.com/
 ##### 一肚子话
@@ -330,7 +350,7 @@
 ##### 杂家杂谈 https://www.ximalaya.com/diantai/409581/
 ##### 在北大不吐槽会死 http://pkuspot.org/
 ##### 造就Talk https://www.zaojiu.com/
-x##### 赵畅不误
+##### 赵畅不误
 ##### 针尖·多味听觉馆
 ##### 执异 https://zhiyi.life/ Dare to be different.
 ##### 追科技撩艺术 https://www.doko.com/podcasts/index.php
@@ -343,7 +363,6 @@ x##### 赵畅不误
 ##### 歪椅 https://www.ximalaya.com/renwen/94493783/
 ##### WES陈
 ##### WEB WIEW http://webview.tech/ 不囿于WEB,不止于WIEW.
-##### 王受之 | 小设计大艺术 https://www.ximalaya.com/renwen/10267467/ 王受之先生授权美国加州汪老师美术学院特别制作的系列节目。
 ##### 未来科技局 https://www.ximalaya.com/keji/14227144/
 ##### 闻道医声 
 ##### VoicerFM https://music.163.com/#/user/264729294 灵感点亮生活，生活温暖人心。线上杂志Voicer，分享生活与设计的美学。
@@ -353,6 +372,5 @@ x##### 赵畅不误
 ##### 想到说播客 https://www.ximalaya.com/keji/302407/
 ##### 星缘星语 https://www.ximalaya.com/zhubo/7592100/
 ##### 味之道 http://wzd.fm/ 席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。
-##### 无业游民 https://theue.me/
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
 ##### 无时差研究所 https://www.ximalaya.com/yule/13506198/ 给时间以生命，给生命以无时差。未来请和我们一起去看更大的世界。
