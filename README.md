@@ -23,6 +23,7 @@
 | 荔枝FM                                                                   |
 | 蜻蜓FM                                                                   |
 | Grover Podcast ( Windows10 )                                             |
+
 * Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan 
 
 | English Talk                                                                                                           |
@@ -32,6 +33,9 @@
 | Wo Men Podcast http://radiichina.com/author/women/                                                                     |
 | Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.                                     |
 | The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley |
+| The China Africa Project https://chinaafricaproject.com/  |
+| Asia Tech Podcast http://asiatechpodcast.com/ All Things Asia All Things Tech |
+| The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
 
 | IPN for discriminating listeners  https://ipn.li/                                 |
 |:--------------------------------------------------------------------------------- |
@@ -57,9 +61,6 @@
 |:-----------------------------------------------------------------|
 | 疯投圈 https://crazy.capital/ 从投资视角探讨商业本质                                  |
 | T3创投小组 https://www.ximalaya.com/shangye/36771337/                                |
-| The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
-| Asia Tech Podcast http://asiatechpodcast.com/ All Things Asia All Things Tech |
-| The China Africa Project https://chinaafricaproject.com/  |
 
 | 声动活泼 http://www.shengfm.cn/                          |
 |:--------------------------------------------------------|
@@ -74,7 +75,7 @@
 | 津津乐道https://dao.fm/   |
 | 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。   |
 | 开源之道Talking http://opensourceway.communinty/  |
-| 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
+| 从零道一 http://0011.one/ |
 | 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  |
 | 硅谷101 https://www.ximalaya.com/shangye/33244571/  |
 | 小人物 A Nobody https://anobody.im/   |
@@ -113,6 +114,7 @@
 |:------|
 | 随口说美国 https://www.ximalaya.com/zhubo/3239336/|
 | 受之有道 http://www.am1300.com/   |
+| 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
 
 |日本   |
 |:---------------------------------------------------------|
@@ -168,7 +170,6 @@
 ##### 程语 https://chengyu.fireside.fm/ 以一个普通程序员的视角分享一些在爱尔兰工作生活的见闻以及生活中有趣的体会。 
 ##### 迟早更新 https://czgx.fireside.fm/ 一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。
 ##### 重新开始 https://cxks.in/ 关注城市生活、也关注人际关系、更关注自我意识，探讨一个人在主流外还有哪些可能性，由一个独自生活在北京的性少数年轻人主持。
-##### 从零道一 http://0011.one/
 ##### 创业美国 
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
@@ -176,9 +177,11 @@
 ##### 大人课 https://growup.rocks/ 一项面向所有中国城市青年的自救计划，主播是两位深陷四分之一人生危机的知识青年，赛赛和文仪。每期里我们会谈论最近困惑的问题，通过交换笔记和信息，帮助我们和正在收听的你解决 21 世纪最重要的三个问题：信息过载、情感表达、自我取悦。
 ##### 当我们混在欧洲max
 ##### Dai.FM呆呆U理 https://www.ximalaya.com/keji/10000383/
-##### 蛋解创业 
+##### 蛋解创业
+##### 丹尼的裤子裡有蛇 https://dan-ny-pants-snake.fireside.fm/
 ##### 得意忘形 https://www.lizhi.fm/user/2579240391643675180
 ##### 德漂茶馆
+##### 东三环房客 https://fsa.fireside.fm/
 ##### 低保真电台
 ##### 独立日 https://riyu.io/independenceday/ 我们希望能帮助你发现进而独立体会日语乃至语言的趣味。
 ##### EchoBeach
@@ -239,6 +242,7 @@
 ##### 海螺电台 http://thespiral.fm/
 ##### Half+ 一知半解 http://half.plus/ We talk nothing.
 ##### 号角周爆
+##### 和女朋友们的谈话 https://www.lizhi.fm/user/5130611183623154732
 ##### 呼和HOT热度广播
 ##### 环球地理Global Geography
 ##### 荒岛电台 http://wildland.fm/
