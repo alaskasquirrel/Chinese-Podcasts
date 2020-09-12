@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>gPodder subscriptions</title>
-        <dateCreated>Sat, 29 Aug 2020 16:29:10 +0800</dateCreated>
+        <dateCreated>Sat, 12 Sep 2020 15:50:14 +0800</dateCreated>
     </head>
     <body>
         <outline title="China EconTalk" text="A weekly conversation exploring China's economy and tech scene. Guests include a wide range of policy analysts, business professionals, journalists, and academics. Hosted by Jordan Schneider and published on Lawfare." xmlUrl="https://chinaecontalk.libsyn.com/rss" type="rss"/>
@@ -845,5 +845,16 @@
         <outline title="HURRY UP" text="HI." xmlUrl="https://www.ximalaya.com/album/34902932.xml" type="rss"/>
         <outline title="ULSUM RADIO" text="哈喽，ULSUM RADIO 是运动/潮流装备媒体 ULSUM 的官方播客。你可以收听到来自 ULSUM 同事讲述的经历和故事，也会不定期听到一些特殊嘉宾的声音，和他们的观点。希望你喜欢。" xmlUrl="https://www.ximalaya.com/album/32978891.xml" type="rss"/>
         <outline title="Unchained" text="Crypto assets and blockchain technology are about to transform every trust-based interaction of our lives, from financial services to identity to the Internet of Things. In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money. Tune in to find out how Web 3.0, the decentralized web, will revolutionize our world. Disclosure: I'm a nocoiner." xmlUrl="https://unchained.libsyn.com/unchained" type="rss"/>
+        <outline title="有的没的 | NOTHING SPECIAL" text="欢迎来到「有的没的」，这是一档周更的播客，双X姐妹：微博@茜茜_三月学姐 &amp; 微博@Masterich大魔王 在此闲聊，或分享杂七杂八和洞见，或复盘思考人生感悟，陪伴你，聊些「有的没的」故事。 关于我们大小X，相识于彼此四五岁的模样，一路嘻嘻哈哈，从同桌、闺蜜、挚友，到住在隔壁的邻居，总有聊不完的话。大X，双商开挂的高考状元、北大学霸、美国MBA在读，微软Intern；小X，美硕回国，酷爱健身和旅行的大学老师。两人加起来走过超过20个国家，这里是我们用来分享、复盘和思考人生感..." xmlUrl="https://www.ximalaya.com/album/41257517.xml" type="rss"/>
+        <outline title="马探长与弛子" text="我们将会和大家分享神秘事件、现代怪谈、超流行文化、90后怀旧，以及眼前耳边的社会观察。简介不足以概括，你听听就知道了........." xmlUrl="https://www.ximalaya.com/album/41182015.xml" type="rss"/>
+        <outline title="乔治的平行世界" text="听有趣的人，聊有趣的事..." xmlUrl="https://www.ximalaya.com/album/40844113.xml" type="rss"/>
+        <outline title="话包子Q话" text="我们关注当代女性的个人成长与相关社会话题。欢迎你来，跟我们一起探索和成长。在社群里获得关于成长的支持和力量。 最全的所有音频首发于微信公众号&quot;话包子Q话&quot;，次日选择性更新于spotify, 小宇宙, 苹果podcast及各个泛用性播客客户端。" xmlUrl="https://huabaoziqtalks.libsyn.com/rss" type="rss"/>
+        <outline title="职夜班" text="每一期都会邀请从事不同职业的人来分享他们所从事的职业的故事。希望能帮助每一个人认识到每一份工作的困难之处和可被向往之处..." xmlUrl="https://www.ximalaya.com/album/40931705.xml" type="rss"/>
+        <outline title="菠菜广播电台：夜谈时间" text="菠菜是新闻与传播学硕士，苗辰是在北京工作的法律媒体工作者，阿渣是爱好科幻的文学生。我们三个共同运营着【不加SENSE】这个公众号，我们想通过播客这个方式，拉近和读者的距离，建立属于我们自己的秘密基地。每个月我们会聚到一起，聊聊时事或生活中的议题，希望能从交谈中有所得。" xmlUrl="https://www.ximalaya.com/album/36087401.xml" type="rss"/>
+        <outline title="新气集ThinkAge" text="「新气集ThinkAge」是由写作平台“三明治”创始人李梓新主播的个人播客。每一期都找来身上自带话题的嘉宾对谈。" xmlUrl="http://rss.lizhi.fm/rss/170627354.xml" type="rss"/>
+        <outline title="同舟电台 同人文化漫谈" text="同舟，同人的同，一艘船的舟。一个从个体体验出发，漫谈同人文化的播客。畅聊同人文化中的众生相，分享和同人相关的那些故事。可以闲谈扯淡，也可以严肃学术，从具体的某个西皮到广义上的某种同人文化现象，再到我们的个体感受和吐槽，都可以来同舟电台讲一讲，听一听。船员们，一起上船吧..." xmlUrl="https://www.ximalaya.com/album/40767835.xml" type="rss"/>
+        <outline title="后浪味仙" text="伦敦相遇，魔都相伴，看似无坚不摧的路上磕磕绊绊。3个90后女生，Muge、Miya和Yawen邀请你分享夏天的风，和酒杯里气泡碰撞的声音，聊聊得失之间游刃有余的快乐与烦恼..." xmlUrl="https://www.ximalaya.com/album/40910192.xml" type="rss"/>
+        <outline title="Art Focus, Spoken" text="Hi 大家好，欢迎收听 Art Focus, Spoken 这是一档面向全球的创意人群的艺术类谈话播客，由青年艺术家成长平台 Art Focus 出品。 我们聚焦多元化的艺术主题，邀请来自全球不同领域的知名艺术家，从当代艺术的不同维度进行「有趣、有料、有态度」的探讨，旨在为大家带来更多元的思考、灵感和激励..." xmlUrl="https://www.ximalaya.com/album/40794239.xml" type="rss"/>
+        <outline title="拆盒子" text="关于我们 两个广告人的Chitchat. 拆除、把玩和重建人类世界的各种「盒子」 探索世界，觉察自我 Watch Out while Watching Outside. 一起拆盒子 欢迎各种反馈和投递 微信公众号：拆盒子 微博：@拆盒子Watch-Out-Side 邮箱：watchoutside@163.com 官网：http://watch-out-side.com" xmlUrl="https://www.ximalaya.com/album/40781454.xml" type="rss"/>
     </body>
 </opml>

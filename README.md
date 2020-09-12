@@ -14,6 +14,7 @@
 | Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
 | gpodder https://gpodder.github.io/                                       |
 | SoundOn  https://www.soundon.fm/                                         |
+| Moon fm  http://moon.fm/                                                 |
 | Apple Podcast                                                            |
 | Google Podcasts                                                          |
 | Pocket Casts                                                             |
@@ -70,9 +71,14 @@
 | 反潮流俱乐部 https://fanchaoliuclub.fireside.fm          |
 | 泡腾VC https://popvc.fireside.fm/                       |
 
+| 津津乐道 https://dao.fm/ |
+| 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客|
+| 厂长来了 公司访谈类播客节目，采访广受大家关注的公司或团队，请他们的核心高管来跟大家聊天 |
+| 品质生活 |
+| 拼娃时代 |
+
 | 编程                                                                                                      | 
 |:---------------------------------------------------------------------------------------------------------|
-| 津津乐道https://dao.fm/   |
 | 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。   |
 | 开源之道Talking http://opensourceway.communinty/  |
 | 从零道一 http://0011.one/ |
@@ -89,6 +95,9 @@
 | Hyperbola https://hyperbola.link/  |
 | 遗世独立 https://www.ximalaya.com/keji/41175480/  |
 | 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
+| Echo.js https://podcast.astrianzheng.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。|
+| 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
+| weak self https://weakself.dev/ 三個在IOS開發圈打滾的台灣工程師，專爲Apple/IOS開發者而製作的Podcast |
 
 |科学                                                         |
 |:------------------------------------------------------------|
@@ -124,6 +133,7 @@
 | Untitled TechTalk https://utt.one/  |
 | Rebuild https://rebuild.fm/   |
 | Prototype.fm https://www.prototype.fm/  |
+| Tokyo Midtown presents The Lifestyle MUSEUM https://www.tfm.co.jp/podcasts/museum/ |
 
 |香港  |
 |:-------  |
@@ -166,6 +176,7 @@
 ##### 采风 
 ##### CD没教的事 
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
+##### 拆盒子 https://watchoutside.typlog.io/
 ##### 程序人生之图穷匕见 http://podcast.tchen.me/
 ##### 程语 https://chengyu.fireside.fm/ 以一个普通程序员的视角分享一些在爱尔兰工作生活的见闻以及生活中有趣的体会。 
 ##### 迟早更新 https://czgx.fireside.fm/ 一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。
@@ -201,7 +212,6 @@
 ##### 观复锵锵
 ##### 故事FM http://storyfm.cn/ 用你的声音，讲述你的故事。
 ##### 跟宇宙结婚 https://music.163.com/#/djradio?id=2997017
-##### 内核恐慌 https://kernelpanic.fm 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
 ##### 芥末章鱼 https://www.ximalaya.com/yule/32656722/
 ##### KickerRadio http://www.kickerclub.com/ 
 ##### 科技聚变 https://techfusionfm.com/ 
@@ -243,6 +253,7 @@
 ##### Half+ 一知半解 http://half.plus/ We talk nothing.
 ##### 号角周爆
 ##### 和女朋友们的谈话 https://www.lizhi.fm/user/5130611183623154732
+##### 虎扯电台 https://www.ximalaya.com/yule/15384496/
 ##### 呼和HOT热度广播
 ##### 环球地理Global Geography
 ##### 荒岛电台 http://wildland.fm/
