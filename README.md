@@ -1,19 +1,18 @@
 ###### 免责声明：本着喜好音频节目的初衷，在此罗列了这些播客节目，且未加我本人对于每个播客节目的任何态度和立场，下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属。
 #### 为了避免某些高墙，请尽量自行RSS添加订阅播客( Podcasts.opml )
-* 倘若你想要尝试录制自己的播客，推荐 https://fireside.fm/ ，免受某些麻烦！
+* 倘若你想要尝试录制自己的播客，推荐 https://fireside.fm/ 
 ##### gpodder.net https://www.gpodder.net/ Podcast Directory
 ##### 凌晨四点 - 不仅仅是声音，一个由播客爱好者组织的文化社区： https://at4am.io/
 ##### 中文独立播客: https://typlog.com/podlist/
 ##### 利器x播客: https://liqixpodcast.typlog.io/
 ##### English Podcasts: https://github.com/alaskasquirrel/Awesome-Geek-Podcasts#in-english
-* 洗耳恭听，拭目以待！
-##### 虽然生活在一座年轻的城市，但是行业内或同龄人间的交流沟通还是寥寥无几。平时借助播客得以了解万千世界，受益颇多。
+
 | Podcast App                                                              |
 |:------------------------------------------------------------------------ |
 | Himalaya https://www.himalaya.com/                                       |
 | Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
 | gpodder https://gpodder.github.io/                                       |
-| SoundOn  https://www.soundon.fm/                                         |
+| SoundOn  https://www.soundon.fm/ 台灣                                     |
 | Moon fm  http://moon.fm/                                                 |
 | Apple Podcast                                                            |
 | Google Podcasts                                                          |
@@ -24,8 +23,6 @@
 | 荔枝FM                                                                   |
 | 蜻蜓FM                                                                   |
 | Grover Podcast ( Windows10 )                                             |
-
-* Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent ； https://blog.csdn.net/ystuan 
 
 | English Talk                                                                                                           |
 |:---------------------------------------------------------------------------------------------------------------------- | 
@@ -75,16 +72,15 @@
 |:------------------------|
 | 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客|
 | 厂长来了 公司访谈类播客节目，采访广受大家关注的公司或团队，请他们的核心高管来跟大家聊天 |
-| 品质生活 |
-| 拼娃时代 |
 
-| 编程                                                                                                      | 
+| 互联网                                                                                                      | 
 |:---------------------------------------------------------------------------------------------------------|
 | 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。   |
 | 开源之道Talking http://opensourceway.communinty/  |
+| 一派·Podcast https://sspai.fireside.fm/ 少数派SSPAI  |
 | 从零道一 http://0011.one/ |
 | 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  |
-| 硅谷101 https://www.ximalaya.com/shangye/33244571/  |
+| 硅谷101 https://sv101.fireside.fm/  |
 | 小人物 A Nobody https://anobody.im/   |
 | 代码时间 http://codetimecn.com/ 终结。    |
 | Salesforce Podcast https://salesforceway.com/salesforce-podcast/ 代码时间 创作者的英文播客，其人现移居芬兰。    | 
@@ -94,11 +90,10 @@
 | 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101             |
 | 耳鸣终端Terminal https://t.ermin.al/   |
 | Hyperbola https://hyperbola.link/  |
-| 遗世独立 https://www.ximalaya.com/keji/41175480/  |
+| 遗世独立 https://www.ximalaya.com/keji/41175480/ 专注于访谈的播客节目 |
 | 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
 | Echo.js https://podcast.astrianzheng.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。|
 | 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
-| weak self https://weakself.dev/ 三個在IOS開發圈打滾的台灣工程師，專爲Apple/IOS開發者而製作的Podcast |
 
 |科学                                                         |
 |:------------------------------------------------------------|
@@ -125,6 +120,7 @@
 | 随口说美国 https://www.ximalaya.com/zhubo/3239336/|
 | 受之有道 http://www.am1300.com/   |
 | 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
+| 学霸学渣闯美国 https://www.ximalaya.com/toutiao/3972154/ |
 
 |日本   |
 |:---------------------------------------------------------|
@@ -135,6 +131,11 @@
 | Rebuild https://rebuild.fm/   |
 | Prototype.fm https://www.prototype.fm/  |
 | Tokyo Midtown presents The Lifestyle MUSEUM https://www.tfm.co.jp/podcasts/museum/ |
+
+|台灣  Podcast App： SoundOn  https://www.soundon.fm/                               |
+|:-------------------------------------------------------------------------|
+| Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent； https://blog.csdn.net/ystuan  |
+| weak self https://weakself.dev/ 三個在IOS開發圈打滾的台灣工程師，專爲Apple/IOS開發者而製作的Podcast  |
 
 |香港  |
 |:-------  |
@@ -185,6 +186,7 @@
 ##### 创业美国 
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
+##### 打工谈
 ##### 大内密谈 
 ##### 大人课 https://growup.rocks/ 一项面向所有中国城市青年的自救计划，主播是两位深陷四分之一人生危机的知识青年，赛赛和文仪。每期里我们会谈论最近困惑的问题，通过交换笔记和信息，帮助我们和正在收听的你解决 21 世纪最重要的三个问题：信息过载、情感表达、自我取悦。
 ##### 当我们混在欧洲max
@@ -317,7 +319,7 @@
 ##### 四方论 https://www.ximalaya.com/renwen/15953278/
 ##### 说东道西
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
-##### 随机区块链 https://www.ximalaya.com/keji/19242373/ 希望给大家一个途径了解真实的区块链世界。
+##### 随机漫谈|科技 产业 金融 创业 https://www.ximalaya.com/shangye/19242373/ 
 ##### 所建所闻 https://architalk.fireside.fm/ ArchiTalk
 ##### talich闲侃 https://talich.fm/
 ##### The CJ Show
@@ -329,7 +331,6 @@
 ##### 提前怀旧 https://pretro.xyz 一切未来终将成为过去。
 ##### 天方烨谈 https://www.ximalaya.com/jiankang/3881168/
 ##### 天書 http://tianshuguangbo.com/ A talkshow on topics of humanities, including history, linguistics, literature, etc.
-##### 学霸学渣闯美国 https://www.ximalaya.com/toutiao/3972154/
 ##### 坏蛋调频 http://www.lizhi.fm/12638/
 ##### 文化土豆 http://www.culturepotato.com/ 来自北京麦子店的文艺生活小圆桌播客节目，聊影视书籍和艺术。
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
@@ -355,7 +356,6 @@
 ##### 一方天地 http://emmmme.com/episodes/ 
 ##### 一个程序员 
 ##### 一画一话 http://www.theviewtalk.com/
-##### 一派·Podcast-少数派SSPAI
 ##### 一席 https://yixi.tv/
 ##### 一言不合 https://www.ximalaya.com/yule/5971303/
 ##### 一时兴起
@@ -368,6 +368,7 @@
 ##### 造就Talk https://www.zaojiu.com/
 ##### 赵畅不误
 ##### 针尖·多味听觉馆
+##### 职夜班
 ##### 执异 https://zhiyi.life/ Dare to be different.
 ##### 追科技撩艺术 https://www.doko.com/podcasts/index.php
 ##### 准风月谈 https://www.ximalaya.com/zhubo/56669811/
@@ -379,6 +380,7 @@
 ##### 歪椅 https://www.ximalaya.com/renwen/94493783/
 ##### WES陈
 ##### WEB WIEW http://webview.tech/ 不囿于WEB,不止于WIEW.
+##### 晚风说 https://podcasts.cosmosrepair.com/
 ##### 未来科技局 https://www.ximalaya.com/keji/14227144/
 ##### 闻道医声 
 ##### VoicerFM https://music.163.com/#/user/264729294 灵感点亮生活，生活温暖人心。线上杂志Voicer，分享生活与设计的美学。
