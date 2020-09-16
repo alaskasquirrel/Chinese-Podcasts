@@ -85,11 +85,11 @@
 |:--------------------------------------------------------------  |
 | Just Battle | 互怼起来！https://www.ximalaya.com/yule/38992721/ |
 
-| 蓝莓评测 https://www.ximalaya.com/zhubo/246198571/ |
-|：-----------------------------------------------------------------|
-| HOTEL.TEST https://www.ximalaya.com/lvyou/40829579/ |
-| Top of Japan https://www.ximalaya.com/shishang/41466401/ |
-| GYM TEST https://www.ximalaya.com/shishang/40100222/ |
+| 蓝莓评测 https://www.ximalaya.com/zhubo/246198571/       |
+|:-----------------------------------------------------------------|
+| HOTEL.TEST  https://www.ximalaya.com/lvyou/40829579/    |
+| Top of Japan  https://www.ximalaya.com/shishang/41466401/    |
+| GYM TEST  https://www.ximalaya.com/shishang/40100222/     |
 
 | 声动活泼 http://www.shengfm.cn/                          |
 |:--------------------------------------------------------|
