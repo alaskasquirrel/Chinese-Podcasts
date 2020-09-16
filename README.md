@@ -12,7 +12,7 @@
 | Himalaya https://www.himalaya.com/                                       |
 | Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
 | gpodder https://gpodder.github.io/                                       |
-| SoundOn  https://www.soundon.fm/ 台灣                                     |
+| SoundOn 台灣 https://www.soundon.fm/                                      |
 | Moon fm  http://moon.fm/                                                 |
 | Apple Podcast                                                            |
 | Google Podcasts                                                          |
@@ -22,7 +22,7 @@
 | 喜马拉雅FM                                                                | 
 | 荔枝FM                                                                   |
 | 蜻蜓FM                                                                   |
-| Grover Podcast ( Windows10 )                                             |
+| Grover Podcast ( Windows10 Microsoft Store )                            |
 
 | English Talk                                                                                                           |
 |:---------------------------------------------------------------------------------------------------------------------- | 
@@ -55,10 +55,41 @@
 | Evolving for The Next Billion https://nextbn.ggvc.com/             |
 | 创业内幕 Startup Insider https://www.ximalaya.com/shangye/20119986/ |
 
-|VC 资本投资                                                          |
+| History 历史 |
+|:----------------------------------------------------|
+| 路书 https://lushu88.com/ |
+| 天书广播 https://www.ximalaya.com/renwenjp/2858591/ |
+
+| JustPod https://www.ximalaya.com/zhubo/104088857/ ； https://justpodmedia.com/ |
+|:----------------------------------------------------------------|
+| 忽左忽右 https://www.ximalaya.com/toutiao/12817863/ |
+| 东亚观察局 https://www.ximalaya.com/toutiao/37399737/ |
+
+| UI/UX 设计Design  |
+|:-------------------------------------------------------------------|
+| Anyway.FM设计杂谈 https://anyway.fm/ 我们，想让你的听觉更懂视觉。|
+| 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/ |
+| UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。|
+
+| 三橙传媒 https://ox3production.com/ |
+|:--------------------------------|
+| 《创业美国》 |
+| 《区块链之新》 |
+
+| VC 资本投资                                                          |
 |:-----------------------------------------------------------------|
 | 疯投圈 https://crazy.capital/ 从投资视角探讨商业本质                                  |
 | T3创投小组 https://www.ximalaya.com/shangye/36771337/                                |
+
+| 播客公社 https://www.ximalaya.com/zhubo/5487196/ |
+|:--------------------------------------------------------------  |
+| Just Battle | 互怼起来！https://www.ximalaya.com/yule/38992721/ |
+
+| 蓝莓评测 https://www.ximalaya.com/zhubo/246198571/ |
+|：-----------------------------------------------------------------|
+| HOTEL.TEST https://www.ximalaya.com/lvyou/40829579/ |
+| Top of Japan https://www.ximalaya.com/shishang/41466401/ |
+| GYM TEST https://www.ximalaya.com/shishang/40100222/ |
 
 | 声动活泼 http://www.shengfm.cn/                          |
 |:--------------------------------------------------------|
@@ -72,6 +103,8 @@
 |:------------------------|
 | 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客|
 | 厂长来了 公司访谈类播客节目，采访广受大家关注的公司或团队，请他们的核心高管来跟大家聊天 |
+| 拼娃时代 |
+| 品质生活 |
 
 | 互联网                                                                                                      | 
 |:---------------------------------------------------------------------------------------------------------|
@@ -81,6 +114,7 @@
 | 从零道一 http://0011.one/ |
 | 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  |
 | 硅谷101 https://sv101.fireside.fm/  |
+| 墨比移动风 http://mobiholicast.com/  |
 | 小人物 A Nobody https://anobody.im/   |
 | 代码时间 http://codetimecn.com/ 终结。    |
 | Salesforce Podcast https://salesforceway.com/salesforce-podcast/ 代码时间 创作者的英文播客，其人现移居芬兰。    | 
@@ -94,8 +128,10 @@
 | 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
 | Echo.js https://podcast.astrianzheng.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。|
 | 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
+| 无时差研究所 https://www.ximalaya.com/shishang/13506198/ |
+| 随机漫谈|科技 产业 金融 创业 https://www.ximalaya.com/shangye/19242373/ |
 
-|科学                                                         |
+| 科学                                                         |
 |:------------------------------------------------------------|
 | 锵锵脑科学 https://www.ximalaya.com/yule/30318983/          |                          
 | 神经漫游 Neuromancing https://neuromancing.fireside.fm/     |                               
@@ -107,42 +143,49 @@
 | Brain Matter https://brainpodcast.com/   |
 | Unsupervised Thinking https://unsupervisedthinkingpodcast.blogspot.com/|
 
-|俄罗斯  |
+| 俄罗斯  |
 |:----  |
 | 灰摩卡  |
 
-|加拿大|
+| 加拿大|
 |:----|
 | [友藏](http://www.youzang.ca/) No Name 没友名字|
 
-|美国   |
+| 美国   |
 |:------|
 | 随口说美国 https://www.ximalaya.com/zhubo/3239336/|
 | 受之有道 http://www.am1300.com/   |
 | 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
 | 学霸学渣闯美国 https://www.ximalaya.com/toutiao/3972154/ |
+| 美丽坚果 https://www.ximalaya.com/renwen/25422983/ |
 
-|日本   |
+| 日本 日语  |
 |:---------------------------------------------------------|
 | 静说日本·徐静波 https://www.ximalaya.com/shangye/3385980/  |
 | 东京脱线时间 https://tokyodametime.fireside.fm/  |
 | 聊聊天散散步 https://twalk.fireside.fm/   |
+| 独立日 https://riyu.io/independenceday/ | 
+| 日语日语 https://riyu.io/hibi/ |
 | Untitled TechTalk https://utt.one/  |
 | Rebuild https://rebuild.fm/   |
 | Prototype.fm https://www.prototype.fm/  |
 | Tokyo Midtown presents The Lifestyle MUSEUM https://www.tfm.co.jp/podcasts/museum/ |
 
-|台灣  Podcast App： SoundOn  https://www.soundon.fm/                               |
+| 台灣  Podcast App： SoundOn  https://www.soundon.fm/                               |
 |:-------------------------------------------------------------------------|
 | Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent； https://blog.csdn.net/ystuan  |
 | weak self https://weakself.dev/ 三個在IOS開發圈打滾的台灣工程師，專爲Apple/IOS開發者而製作的Podcast  |
+| 星箭廣播 https://podcast.starrocket.io/ |
+| 科技島讀 https://daodu.tech/ |
+| 我的老台北 張大春 |
 
-|香港  |
-|:-------  |
+| 香港  |
+|:-------|
 | 无业游民 https://theue.me     |
 | Wǒ Men Podcast https://radiichina.com/category/podcasts/ |
+| 锵锵三人行 终结 |
 
-|新西兰|
+| 新西兰|
 |:----|
 | BearTalk 狗熊有话说 https://www.beartalking.com/ |
 
@@ -158,7 +201,6 @@
 ##### 安城文化沙龙 http://www.aashalong.com/ Learn something every weekend!
 ##### 纽约文化沙龙 http://www.nyshalong.com/
 ##### 安替波普 https://antipop.fireside.fm/ 一档由三位新闻媒体工作者Jeff、海博和云亭开设的播客。我们怀疑死板的“进步主义”，提倡“喜旧厌新”在当今的价值。毕竟，与日新月异的科技相比，我们肉体进化的速度远比预想的迟缓。
-##### Anyway.FM设计杂谈 https://anyway.fm/ 我们，想让你的听觉更懂视觉。
 ##### AspirinFM https://aspirinfm.fireside.fm/ 一个非常业余的播客节目，制作粗劣，毫不专业，话题杂乱，没有干货，全是瞎扯淡。
 ##### Awake.FM https://www.ximalaya.com/keji/18387003/
 ##### 阿柒的人生 http://www.lizhi.fm/user/4018462
@@ -183,7 +225,6 @@
 ##### 程语 https://chengyu.fireside.fm/ 以一个普通程序员的视角分享一些在爱尔兰工作生活的见闻以及生活中有趣的体会。 
 ##### 迟早更新 https://czgx.fireside.fm/ 一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。
 ##### 重新开始 https://cxks.in/ 关注城市生活、也关注人际关系、更关注自我意识，探讨一个人在主流外还有哪些可能性，由一个独自生活在北京的性少数年轻人主持。
-##### 创业美国 
 ##### 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/
 ##### 大可瞎聊 http://www.darksharing.com/ 人人都是主播。
 ##### 打工谈
@@ -197,7 +238,6 @@
 ##### 德漂茶馆
 ##### 东三环房客 https://fsa.fireside.fm/
 ##### 低保真电台
-##### 独立日 https://riyu.io/independenceday/ 我们希望能帮助你发现进而独立体会日语乃至语言的趣味。
 ##### EchoBeach
 ##### 发发大王 https://www.ximalaya.com/yule/12546834/
 ##### 翻转电台
@@ -222,8 +262,6 @@
 ##### 可以谈
 ##### 看理想电台 https://www.ximalaya.com/toutiao/12608947/
 ##### 看台radio https://www.ximalaya.com/zhubo/9974745/
-##### 路书 https://lushu88.com 一档讨论艺术和历史的播客节目.我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。
-##### UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。
 ##### 斑斓播客 http://www.banlan.show/
 ##### Time within time http://linlinxing.net/
 ##### 慕来 http://www.mulai.site/
@@ -249,7 +287,6 @@
 ##### 能力有限电台 https://www.ximalaya.com/toutiao/22314701/ 一档由老鲜肉媒体人发起的泛文化类播客。
 ##### 黑水公园
 ##### 黑羊黑羊
-##### 忽左忽右 https://www.ximalaya.com/keji/12817863/ 这是一档由程衍樑和杨一发起并制作的谈话类播客节目。
 ##### 化学先声
 ##### 哈利播客 https://hpup.fireside.fm/
 ##### 海螺电台 http://thespiral.fm/
@@ -282,7 +319,6 @@
 ##### 胡先笙文史札记
 ##### Push Bar 不是吧
 ##### 喷嚏 https://www.ximalaya.com/zhubo/81008348/
-##### 区块链之新Nextbloc 
 ##### 奇妙电台 https://www.ximalaya.com/yingshi/8224043/
 ##### 钱粮胡同FM https://www.ximalaya.com/yule/19839039/
 ##### 顷刻 https://qingke.fireside.fm 
@@ -319,7 +355,6 @@
 ##### 四方论 https://www.ximalaya.com/renwen/15953278/
 ##### 说东道西
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
-##### 随机漫谈|科技 产业 金融 创业 https://www.ximalaya.com/shangye/19242373/ 
 ##### 所建所闻 https://architalk.fireside.fm/ ArchiTalk
 ##### talich闲侃 https://talich.fm/
 ##### The CJ Show
@@ -330,14 +365,12 @@
 ##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
 ##### 提前怀旧 https://pretro.xyz 一切未来终将成为过去。
 ##### 天方烨谈 https://www.ximalaya.com/jiankang/3881168/
-##### 天書 http://tianshuguangbo.com/ A talkshow on topics of humanities, including history, linguistics, literature, etc.
 ##### 坏蛋调频 http://www.lizhi.fm/12638/
 ##### 文化土豆 http://www.culturepotato.com/ 来自北京麦子店的文艺生活小圆桌播客节目，聊影视书籍和艺术。
 ##### 闲白儿电台 http://www.lizhi.fm/11179/
 ##### 麦迷说 https://undercut.xyz/episodes/ 一档由麦克拉伦车迷做的F1主题播客节目。
 ##### 没错我就是陆小熙
 ##### 妹日新鲜 https://meiri.fireside.fm/ 
-##### 墨比移动风 http://mobiholicast.com/ a weekly Chinese talkshow, focusing on Global Chinese Community, talking about highlights of consumer electronics, discussing business culture of technology giants. 
 ##### 墨有文化 https://www.ximalaya.com/keji/3546553/ 
 ##### 科技不无聊 https://sciencenbnb.wordpress.com 
 ##### 科技与生活 Tech&Life https://www.ximalaya.com/keji/5915629/ “洞見科技與生活的大碰撞”。
@@ -391,4 +424,3 @@
 ##### 星缘星语 https://www.ximalaya.com/zhubo/7592100/
 ##### 味之道 http://wzd.fm/ 席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。
 ##### 无状态 Black Out http://nirokita.cn/episodes/ 
-##### 无时差研究所 https://www.ximalaya.com/yule/13506198/ 给时间以生命，给生命以无时差。未来请和我们一起去看更大的世界。
