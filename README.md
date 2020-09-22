@@ -113,7 +113,7 @@
 | 日谈物语 https://www.ximalaya.com/yule/32028678/ |
 
 | 足球 |
-|：------------------------------------------------------------------|
+|:------------------------------------------------------------------|
 | 观詹 | 詹俊电台 https://www.ximalaya.com/toutiao/40328617/  |
 | 两杆老烟枪 My Ars  https://www.ximalaya.com/toutiao/31195070/  |
 | 英超TACO  https://www.ximalaya.com/toutiao/26659536/ |
