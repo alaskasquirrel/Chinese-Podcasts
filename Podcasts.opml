@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>gPodder subscriptions</title>
-        <dateCreated>Tue, 15 Sep 2020 23:43:43 +0800</dateCreated>
+        <dateCreated>Sat, 19 Sep 2020 23:30:33 +0800</dateCreated>
     </head>
     <body>
         <outline title="China EconTalk" text="A weekly conversation exploring China's economy and tech scene. Guests include a wide range of policy analysts, business professionals, journalists, and academics. Hosted by Jordan Schneider and published on Lawfare." xmlUrl="https://chinaecontalk.libsyn.com/rss" type="rss"/>
@@ -863,5 +863,6 @@
         <outline title="后浪味仙" text="伦敦相遇，魔都相伴，看似无坚不摧的路上磕磕绊绊。3个90后女生，Muge、Miya和Yawen邀请你分享夏天的风，和酒杯里气泡碰撞的声音，聊聊得失之间游刃有余的快乐与烦恼..." xmlUrl="http://www.ximalaya.com/album/40910192.xml" type="rss"/>
         <outline title="职夜班" text="每一期都会邀请从事不同职业的人来分享他们所从事的职业的故事。希望能帮助每一个人认识到每一份工作的困难之处和可被向往之处..." xmlUrl="http://www.ximalaya.com/album/40931705.xml" type="rss"/>
         <outline title="Pretty Nuts" text="&quot;美丽坚果&quot;是一档介绍美国生活文化时政为主的音频节目，好玩有趣兼胡侃瞎聊。 &quot;美丽坚果&quot; 里有一个谐音梗，英文名&quot;Pretty Nuts&quot;也是我们的目标! 大家可以在苹果或Spotify等主流播客客户端搜索&quot; Pretty Nuts&quot; 找到我们，我们的节目也会在&quot;喜马拉雅&quot;，&quot;蜻蜓FM&quot;等国内音频平台上同步上线，在那上面我们叫&quot;美丽坚果&quot;。欢迎大家关注我们的新浪微博&quot;PrettyNuts&quot;，或给我们电邮提出宝贵意见: prettynuts.podcast@gmail.com。" xmlUrl="https://feeds.simplecast.com/SMge4bPI" type="rss"/>
+        <outline title="五页十分" text="十分钟阅读五页书，这是一档自娱自乐的读书节目。主播五林每期选读五页左右的文学作品片段，期待与作者和听众一起观看万家灯火，感悟百态人生。Five pages of reading in ten minutes for fun!" xmlUrl="https://feeds.fireside.fm/5in10/rss" type="rss"/>
     </body>
 </opml>

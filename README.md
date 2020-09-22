@@ -48,7 +48,14 @@
 | talich闲侃 https://talich.fm/ 有闲就聊，无闲就不聊。|
 | IT公论 https://itgonglun.com/ 终结。|
 | 色(Hi)story http://www.history.cheap/ 终结。|
-| 壁下观 https://blog.yitianshijie.net 终结。
+| 壁下观 https://blog.yitianshijie.net 终结。|
+
+| AutoBiBiBi 分享理性汽车消费价值观 |
+|:------------------------------------------------------------|
+| 老司机三人行 https://www.ximalaya.com/qiche/6728695/ |
+| 老秦汽修杂谈 https://www.ximalaya.com/qiche/27860219/ |
+| 今晚有直播 https://www.ximalaya.com/qiche/20437858/ |
+| 上海80后 https://www.ximalaya.com/shishang/15702148/ |
 
 | GGV Capital 纪源资本 https://www.ggvchina.com/                      |
 |:-------------------------------------------------------------------|
@@ -64,6 +71,12 @@
 |:----------------------------------------------------------------|
 | 忽左忽右 https://www.ximalaya.com/toutiao/12817863/ |
 | 东亚观察局 https://www.ximalaya.com/toutiao/37399737/ |
+
+| Marcast http://marcastmedia.com/ |
+|:---------------------------------------------------|
+| 务虚多言 https://www.ximalaya.com/keji/27246730/  |
+| 贤者时间 https://www.ximalaya.com/yule/31879246/  |
+| 温柔人类 GentleHuman https://www.ximalaya.com/renwen/29344196/  |
 
 | UI/UX 设计Design  |
 |:-------------------------------------------------------------------|
@@ -90,6 +103,22 @@
 | HOTEL.TEST  https://www.ximalaya.com/lvyou/40829579/    |
 | Top of Japan  https://www.ximalaya.com/shishang/41466401/    |
 | GYM TEST  https://www.ximalaya.com/shishang/40100222/     |
+
+| 日谈公园 https://www.ximalaya.com/zhubo/59126029/ | 
+|:-------------------------------------------------------------|
+| 日日好物 https://www.ximalaya.com/yule/39700046/ |
+| 天地无用 https://www.ximalaya.com/yule/32028710/ |
+| 日知录 https://www.ximalaya.com/yule/40619389/ |
+| 说归说 https://www.ximalaya.com/toutiao/32030300/ |
+| 日谈物语 https://www.ximalaya.com/yule/32028678/ |
+
+| 足球 |
+|：------------------------------------------------------------------|
+| 观詹 | 詹俊电台 https://www.ximalaya.com/toutiao/40328617/  |
+| 两杆老烟枪 My Ars  https://www.ximalaya.com/toutiao/31195070/  |
+| 英超TACO  https://www.ximalaya.com/toutiao/26659536/ |
+| 看台FM https://www.ximalaya.com/toutiao/256195/    |
+| FreeKick-不止于足球场 https://www.ximalaya.com/toutiao/30569313/  |
 
 | 声动活泼 http://www.shengfm.cn/                          |
 |:--------------------------------------------------------|
@@ -129,7 +158,8 @@
 | Echo.js https://podcast.astrianzheng.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。|
 | 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
 | 无时差研究所 https://www.ximalaya.com/shishang/13506198/ |
-| 随机漫谈|科技 产业 金融 创业 https://www.ximalaya.com/shangye/19242373/ |
+| 随机漫谈|科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ |
+| 意马心猿 https://www.ximalaya.com/keji/38372946/ |
 
 | 科学                                                         |
 |:------------------------------------------------------------|
@@ -141,14 +171,14 @@
 | Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/  |
 | Brain Inspired https://braininspired.co/   |
 | Brain Matter https://brainpodcast.com/   |
-| Unsupervised Thinking https://unsupervisedthinkingpodcast.blogspot.com/|
+| Unsupervised Thinking https://unsupervisedthinkingpodcast.blogspot.com/ |
 
 | 俄罗斯  |
-|:----  |
+|:-------|
 | 灰摩卡  |
 
 | 加拿大|
-|:----|
+|:---------------------------------------------|
 | [友藏](http://www.youzang.ca/) No Name 没友名字|
 
 | 美国   |
@@ -185,8 +215,8 @@
 | Wǒ Men Podcast https://radiichina.com/category/podcasts/ |
 | 锵锵三人行 终结 |
 
-| 新西兰|
-|:----|
+| 新西兰 |
+|:------------------------------------------------|
 | BearTalk 狗熊有话说 https://www.beartalking.com/ |
 
 * Chinese Talk：
@@ -319,6 +349,7 @@
 ##### 胡先笙文史札记
 ##### Push Bar 不是吧
 ##### 喷嚏 https://www.ximalaya.com/zhubo/81008348/
+##### 蜣螂化蝉 https://qlhc.fireside.fm/
 ##### 奇妙电台 https://www.ximalaya.com/yingshi/8224043/
 ##### 钱粮胡同FM https://www.ximalaya.com/yule/19839039/
 ##### 顷刻 https://qingke.fireside.fm 
@@ -420,6 +451,7 @@
 ##### 小声喧哗 Loud Murmurs https://www.ximalaya.com/keji/13635916/ 一档由几个当代青年一起讨论美国流行文化、电影、电视剧的播客。
 ##### 小预算造大品牌 https://www.doko.com/podcasts/index.php
 ##### 现在发车 https://www.ximalaya.com/yule/14951695/
+##### 现在进行时 https://www.ximalaya.com/shangye/40159997/
 ##### 想到说播客 https://www.ximalaya.com/keji/302407/
 ##### 星缘星语 https://www.ximalaya.com/zhubo/7592100/
 ##### 味之道 http://wzd.fm/ 席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。
