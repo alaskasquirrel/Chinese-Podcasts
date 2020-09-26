@@ -51,7 +51,7 @@
 | 壁下观 https://blog.yitianshijie.net 终结。|
 
 | AutoBiBiBi 分享理性汽车消费价值观 |
-|:------------------------------------------------------------|
+|:-----------------------------------------|
 | 老司机三人行 https://www.ximalaya.com/qiche/6728695/ |
 | 老秦汽修杂谈 https://www.ximalaya.com/qiche/27860219/ |
 | 今晚有直播 https://www.ximalaya.com/qiche/20437858/ |
@@ -71,6 +71,10 @@
 |:----------------------------------------------------------------|
 | 忽左忽右 https://www.ximalaya.com/toutiao/12817863/ |
 | 东亚观察局 https://www.ximalaya.com/toutiao/37399737/ |
+| 去现场 https://www.ximalaya.com/yule/30766335/ | 
+| 天方乐谈 https://www.ximalaya.com/yinyue/38321797/ |
+| 杯弓舌瘾 https://www.ximalaya.com/shishang/30073430/ |
+| 贝望录 https://www.ximalaya.com/shangye/31837644/ |
 
 | Marcast http://marcastmedia.com/ |
 |:---------------------------------------------------|
@@ -84,15 +88,19 @@
 | 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/ |
 | UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。|
 
-| 三橙传媒 https://ox3production.com/ |
+| 三橙传媒 https://ox3production.com/ 陈一佳 |
 |:--------------------------------|
 | 《创业美国》 |
 | 《区块链之新》 |
 
-| VC 资本投资                                                          |
+| VC 资本投资                         |
 |:-----------------------------------------------------------------|
-| 疯投圈 https://crazy.capital/ 从投资视角探讨商业本质                                  |
-| T3创投小组 https://www.ximalaya.com/shangye/36771337/                                |
+| 疯投圈 https://crazy.capital/ 从投资视角探讨商业本质                   |
+| T3创投小组 https://www.ximalaya.com/shangye/36771337/                  |
+
+| 后街77号 |
+|:---------------------- |
+| 虎扯电台 https://www.ximalaya.com/yule/15384496/ |
 
 | 播客公社 https://www.ximalaya.com/zhubo/5487196/ |
 |:--------------------------------------------------------------  |
@@ -113,10 +121,10 @@
 | 日谈物语 https://www.ximalaya.com/yule/32028678/ |
 
 | 足球 |
-|:------------------------------------------------------------------|
-| 观詹 | 詹俊电台 https://www.ximalaya.com/toutiao/40328617/  |
-| 两杆老烟枪 My Ars  https://www.ximalaya.com/toutiao/31195070/  |
-| 英超TACO  https://www.ximalaya.com/toutiao/26659536/ |
+|:----------------------------------------------------|
+| 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/  |
+| 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/  |
+| 英超TACO https://www.ximalaya.com/toutiao/26659536/ |
 | 看台FM https://www.ximalaya.com/toutiao/256195/    |
 | FreeKick-不止于足球场 https://www.ximalaya.com/toutiao/30569313/  |
 
@@ -132,25 +140,26 @@
 |:------------------------|
 | 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客|
 | 厂长来了 公司访谈类播客节目，采访广受大家关注的公司或团队，请他们的核心高管来跟大家聊天 |
-| 拼娃时代 |
-| 品质生活 |
+| 拼娃时代 拼娃时代是面向家长的 K-12 教育主题播客 |
+| 品质生活 品质生活是品味生活好物、提升生活品位的主题播客|
+| 津津有味 健康生活无需变身苦行僧，无能之辈才会传递说教和乏味，养生其实简单日常不神秘，健康可以和快乐同行，科学可以严谨而逗趣 |
 
-| 互联网                                                                                                      | 
-|:---------------------------------------------------------------------------------------------------------|
+| 互联网             | 
+|:--------------------------------------|
 | 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。   |
 | 开源之道Talking http://opensourceway.communinty/  |
 | 一派·Podcast https://sspai.fireside.fm/ 少数派SSPAI  |
 | 从零道一 http://0011.one/ |
 | 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  |
 | 硅谷101 https://sv101.fireside.fm/  |
-| 墨比移动风 http://mobiholicast.com/  |
+| 墨比移动风 http://mobiholicast.com/ ;  https://www.ximalaya.com/zhubo/9983538/ |
 | 小人物 A Nobody https://anobody.im/   |
 | 代码时间 http://codetimecn.com/ 终结。    |
 | Salesforce Podcast https://salesforceway.com/salesforce-podcast/ 代码时间 创作者的英文播客，其人现移居芬兰。    | 
 | ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。     |
 | Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。|
 | Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。    |
-| 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101             |
+| 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 |
 | 耳鸣终端Terminal https://t.ermin.al/   |
 | Hyperbola https://hyperbola.link/  |
 | 遗世独立 https://www.ximalaya.com/keji/41175480/ 专注于访谈的播客节目 |
@@ -158,27 +167,41 @@
 | Echo.js https://podcast.astrianzheng.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。|
 | 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
 | 无时差研究所 https://www.ximalaya.com/shishang/13506198/ |
-| 随机漫谈|科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ |
+| 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ |
 | 意马心猿 https://www.ximalaya.com/keji/38372946/ |
 
-| 科学                                                         |
-|:------------------------------------------------------------|
-| 锵锵脑科学 https://www.ximalaya.com/yule/30318983/          |                          
-| 神经漫游 Neuromancing https://neuromancing.fireside.fm/     |                               
+| 科学                 |
+|:-------------------------------|
+| 锵锵脑科学 https://www.ximalaya.com/yule/30318983/          |       
+| 人类行为观察室 https://www.ximalaya.com/shishang/39749193/  |                   
+| 神经漫游 Neuromancing https://neuromancing.fireside.fm/     |
+| 科研这种生活方式！https://www.ximalaya.com/jiaoyupeixun/41018728/ |                               
 | 脑人言 https://www.ximalaya.com/zhubo/195840064             |
 | 基智一点 https://y2intelligences.com/                       |
-| The Partially Examined Life|a philosophy podcast and philosophy blog  https://partiallyexaminedlife.com   |
+| The Partially Examined Life / a philosophy podcast and philosophy blog  https://partiallyexaminedlife.com   |
 | Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/  |
 | Brain Inspired https://braininspired.co/   |
 | Brain Matter https://brainpodcast.com/   |
 | Unsupervised Thinking https://unsupervisedthinkingpodcast.blogspot.com/ |
+
+| 旭岽叨科学 https://www.ximalaya.com/zhubo/7200706/ |
+|:------------------------------------------------ |
+| 原来是这样？！https://www.ximalaya.com/keji/246622/ |
+
+| 游戏  |
+|:-----------------------------------------------|
+| 机核网 https://www.ximalaya.com/erciyuan/238927/ |
+| 游戏RGB http://www.gamergb.net/ |
+| 宅基地Radio https://www.ximalaya.com/erciyuan/4791349/ |
+| 电玩有偏见 https://www.ximalaya.com/erciyuan/6622153/ |
+| 游生谈YST https://www.lizhi.fm/user/2507350  |
 
 | 俄罗斯  |
 |:-------|
 | 灰摩卡  |
 
 | 加拿大|
-|:---------------------------------------------|
+|:----------------------|
 | [友藏](http://www.youzang.ca/) No Name 没友名字|
 
 | 美国   |
@@ -190,10 +213,12 @@
 | 美丽坚果 https://www.ximalaya.com/renwen/25422983/ |
 
 | 日本 日语  |
-|:---------------------------------------------------------|
+|:----------------------|
 | 静说日本·徐静波 https://www.ximalaya.com/shangye/3385980/  |
+| 放送东京Tokyo Stations https://www.ximalaya.com/lvyou/40230974/ |
 | 东京脱线时间 https://tokyodametime.fireside.fm/  |
 | 聊聊天散散步 https://twalk.fireside.fm/   |
+| 足元注意 https://amcy.fm/  |
 | 独立日 https://riyu.io/independenceday/ | 
 | 日语日语 https://riyu.io/hibi/ |
 | Untitled TechTalk https://utt.one/  |
@@ -201,7 +226,14 @@
 | Prototype.fm https://www.prototype.fm/  |
 | Tokyo Midtown presents The Lifestyle MUSEUM https://www.tfm.co.jp/podcasts/museum/ |
 
-| 台灣  Podcast App： SoundOn  https://www.soundon.fm/                               |
+| 上海 |
+|:-----------------------------------|
+| 井户端会议 https://www.ximalaya.com/renwenjp/212125/ |
+| 上海闲话 https://www.ximalaya.com/renwenjp/215647/ |
+| 回声海滩EchoBeach https://www.ximalaya.com/renwen/2983895/ |
+| 左右言她 https://www.ximalaya.com/qinggan/41367354/ |
+
+| 台灣  Podcast App： SoundOn  https://www.soundon.fm/         |
 |:-------------------------------------------------------------------------|
 | Born to MISrepresent 几年前的台湾IT播客，早已停更。http://www.archive.org/details/BornToMisrepresent； https://blog.csdn.net/ystuan  |
 | weak self https://weakself.dev/ 三個在IOS開發圈打滾的台灣工程師，專爲Apple/IOS開發者而製作的Podcast  |
@@ -268,7 +300,6 @@
 ##### 德漂茶馆
 ##### 东三环房客 https://fsa.fireside.fm/
 ##### 低保真电台
-##### EchoBeach
 ##### 发发大王 https://www.ximalaya.com/yule/12546834/
 ##### 翻转电台
 ##### 反派影评 http://fanpaiyingping.com/
@@ -323,13 +354,11 @@
 ##### Half+ 一知半解 http://half.plus/ We talk nothing.
 ##### 号角周爆
 ##### 和女朋友们的谈话 https://www.lizhi.fm/user/5130611183623154732
-##### 虎扯电台 https://www.ximalaya.com/yule/15384496/
 ##### 呼和HOT热度广播
 ##### 环球地理Global Geography
 ##### 荒岛电台 http://wildland.fm/
 ##### 荒野气象台 https://www.ximalaya.com/zhubo/103486431/ 人文、旅行、男孩 | 新生活是你将前往的荒野。
 ##### 活在伦敦ThisIsLondon
-##### 后街77号 https://www.ximalaya.com/zhubo/112657861/
 ##### 后浪电影学院 https://www.ximalaya.com/zhubo/28071579/ 
 ##### GeekCar叨逼叨
 ##### 隔壁电台 https://www.ximalaya.com/renwen/24308239/ 
