@@ -1,6 +1,7 @@
-###### 免责声明：本着喜好音频节目的初衷，在此罗列了这些播客节目，且未加我本人对于每个播客节目的任何态度和立场，下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属。
-#### 为了避免某些高墙，请尽量自行RSS添加订阅播客( Podcasts.opml )
-* 倘若你想要尝试录制自己的播客，推荐 https://fireside.fm/ 
+<u>免责声明：本着喜好音频节目的初衷，在此罗列了这些播客节目，且未加我本人对于每个播客节目的任何态度和立场，下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属。</u>
+#### 为了避免某些烦扰，请尽量自行RSS添加订阅播客( Podcasts.opml )
+* 倘若你想要尝试录制自己的播客，推荐 https://fireside.fm/ ; https://anchor.fm/
+##### [Listen Notes: the best podcast search engine](https://www.listennotes.com/)
 ##### gpodder.net https://www.gpodder.net/ Podcast Directory
 ##### 凌晨四点 - 不仅仅是声音，一个由播客爱好者组织的文化社区： https://at4am.io/
 ##### 中文独立播客: https://typlog.com/podlist/
@@ -19,13 +20,14 @@
 | Pocket Casts                                                             |
 | SoundCloud                                                               |     
 | Overcast                                                                 |
-| 喜马拉雅FM                                                                | 
-| 荔枝FM                                                                   |
-| 蜻蜓FM                                                                   |
+| 喜马拉雅FM https://www.ximalaya.com/                                      | 
+| 荔枝FM https://www.lizhi.fm/                                             |
+| 蜻蜓FM https://www.qingting.fm/                                          |
 | Grover Podcast ( Windows10 Microsoft Store )                            |
 
-| English Talk                                                                                                           |
+| News Talk                                                                                                           |
 |:---------------------------------------------------------------------------------------------------------------------- | 
+| Techmeme https://www.techmeme.com/ |
 | ChinaEconTalk - By SupChina http://chinaecontalk.libsyn.com/website                                                    |
 | China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.libsyn.com/website                                   |
 | Wo Men Podcast http://radiichina.com/author/women/                                                                     |
@@ -34,6 +36,17 @@
 | The China Africa Project https://chinaafricaproject.com/  |
 | Asia Tech Podcast http://asiatechpodcast.com/ All Things Asia All Things Tech |
 | The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
+| ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
+| China in the World https://carnegiestsinghua.podomatic.com/ |
+| Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
+| a16z Podcast https://a16z.com/podcasts |
+| China 21 https://china.ucsd.edu/opinion/podcasts.html |
+| Arms Control Wonk https://www.armscontrolwonk.com/ |
+| Tech eu https://podcast.tech.eu/ |
+| Caixin SINICA https://www.caixinglobal.com/audio/ |
+| Interpreting India https://carnegieindia.org/interpretingindia/ |
+| Acquired https://www.acquired.fm/ | 
+| Dongfang Hour 東方鴻 https://dongfanghour.com/ |
 
 | IPN for discriminating listeners  https://ipn.li/                                 |
 |:--------------------------------------------------------------------------------- |
@@ -56,6 +69,13 @@
 | 老秦汽修杂谈 https://www.ximalaya.com/qiche/27860219/ |
 | 今晚有直播 https://www.ximalaya.com/qiche/20437858/ |
 | 上海80后 https://www.ximalaya.com/shishang/15702148/ |
+
+| Blockchain |
+|:--------------------------------|
+| Unchained https://unchainedpodcast.com/ Laura Shin |
+| Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。    |
+| 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 |
+| 區塊勢 https://blocktrend.substack.com/ 台灣 |
 
 | GGV Capital 纪源资本 https://www.ggvchina.com/                      |
 |:-------------------------------------------------------------------|
@@ -158,8 +178,6 @@
 | Salesforce Podcast https://salesforceway.com/salesforce-podcast/ 代码时间 创作者的英文播客，其人现移居芬兰。    | 
 | ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。     |
 | Teahour http://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。|
-| Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。    |
-| 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 |
 | 耳鸣终端Terminal https://t.ermin.al/   |
 | Hyperbola https://hyperbola.link/  |
 | 遗世独立 https://www.ximalaya.com/keji/41175480/ 专注于访谈的播客节目 |
