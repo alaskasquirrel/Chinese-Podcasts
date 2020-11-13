@@ -14,7 +14,7 @@
 ##### <img src="https://www.dogedoge.com/favicon/wiki.zpodcasts.com.ico" width="30"> Zpodcasts - 寻找Z时代的独立播客 https://wiki.zpodcasts.com/
 *******
 
-🔻
+🥚		
 
 | Podcast App  |                                                            
 |:------------------------------------------------------------------------ |
@@ -33,7 +33,7 @@
 | <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="35"> 蜻蜓FM https://www.qingting.fm/                                          |
 | <img src="https://store-images.s-microsoft.com/image/apps.44047.13510798886601480.fdfcc353-6c94-473b-a54b-b4259892c6ed.e8745d02-906b-4479-8cef-d27a3cf0a9ad?mode=scale&q=90&h=270&w=270&background=%230078D7" width="30"> Grover Podcast ( Windows10 Microsoft Store )                            |
 
-🔻
+🔰	
 
 | News Talk                     |
 |:----------------------------------------------------------------------------| 
@@ -74,7 +74,7 @@
 | <img src="https://ipn.li/images/icon-history-300.png" width="30"> 色(Hi)story http://www.history.cheap/ 终结。|
 | <img src="https://ipn.li/images/icon-bixiaguan-300.png" width="30"> 壁下观 https://blog.yitianshijie.net 终结。|
 
-🔻
+🔘	
 
 | <img src="https://imagev2.xmcdn.com/group46/M0B/FA/87/wKgKlluEK13QIZcUAAFM5-K2hfg271.jpg" width="30"> AutoBiBiBi 分享理性汽车消费价值观 |
 |:-----------------------------------------|
@@ -83,7 +83,8 @@
 | <img src="https://imagev2.xmcdn.com/group57/M0B/D9/45/wKgLgVx0Bguim2ywAAFnadpFRKQ360.jpg" width="30"> 今晚有直播 https://www.ximalaya.com/qiche/20437858/ |
 | <img src="https://imagev2.xmcdn.com/group56/M08/75/2E/wKgLgFx7hwuSZLHYAAK4oZugveo031.jpg" width="30"> 上海80后 https://www.ximalaya.com/shishang/15702148/ |
 
-🔻
+↕️
+
 
 | Blockchain |
 |:--------------------------------|
@@ -92,21 +93,21 @@
 | <img src="https://imagev2.xmcdn.com/group70/M08/8F/49/wKgO2F45TUDhDR6wAAmd1OHKvd032.jpeg" width="30"> 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 |
 | <img src="https://rmt.dogedoge.com/rmt/QUHd2tNW9iGhi45vmlT_pPuKCiSCON6OWXDjCDkQuo8YNJxrcr326_w2kb?w=212&h=130" width="30"> 區塊勢 https://blocktrend.substack.com/  |
 
-🔻
+♦️	
 
 | GGV Capital 纪源资本 https://www.ggvchina.com/                      |
 |:-------------------------------------------------------------------|
 | <img src="https://imagev2.xmcdn.com/group64/M06/93/59/wKgMc12j9DrRTBvxAAevNMKEayc10.jpeg" width="30"> Evolving for The Next Billion https://nextbn.ggvc.com/             |
 | <img src="https://imagev2.xmcdn.com/group72/M07/12/E4/wKgO0F4b79PCziP-AAKVgY5nhrM58.jpeg" width="30"> 创业内幕 Startup Insider https://www.ximalaya.com/shangye/20119986/ |
 
-🔻
+💀	
 
 | History 历史 |
 |:----------------------------------------------------|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94c5a33e-da45-4dd9-acc2-52d4b924d520/cover_small.jpg" width="30"> 路书 https://lushu88.com/ |
 | <img src="https://rmt.dogedoge.com/rmt/Qb6lG8ijbuK9dMVvPl56nGuYm0Wl9peE9W7OPdvhrskb08xsy6oOt_8sY?w=212&h=130" width="30"> 天书广播 https://www.ximalaya.com/renwenjp/2858591/ |
 
-🔻
+❗
 
 | <img src="https://imagev2.xmcdn.com/group64/M09/A6/00/wKgMc117yvvhiD2EAAAWnza32IQ55.jpeg" width="30"> JustPod https://www.ximalaya.com/zhubo/104088857/ ； https://justpodmedia.com/ |
 |:----------------------------------------------------------------|
@@ -117,7 +118,7 @@
 | <img src="https://imagev2.xmcdn.com/group61/M0B/B5/FF/wKgMZl2jmPDy2uc-AAOZv6Y8D-o750.jpg" width="30"> 杯弓舌瘾 https://www.ximalaya.com/shishang/30073430/ |
 | <img src="https://imagev2.xmcdn.com/group63/M0B/F6/B6/wKgMcl38pquy9wx-AALH6FJXcvU325.PNG!magick=webp" width="30"> 贝望录 https://www.ximalaya.com/shangye/31837644/ |
 
-🔻
+☁️
 
 | Marcast http://marcastmedia.com/ |
 |:---------------------------------------------------|
@@ -125,7 +126,7 @@
 | <img src="https://imagev2.xmcdn.com/group54/M05/14/A5/wKgLcl3_boDA9i-9AAOkZiUzcmI662.png" width="30"> 贤者时间 https://www.ximalaya.com/yule/31879246/  |
 | <img src="https://imagev2.xmcdn.com/group65/M05/10/6B/wKgMal2DOJqQw1bHAATupmy2kAY705.png" width="30"> 温柔人类 GentleHuman https://www.ximalaya.com/renwen/29344196/  |
 
-🔻
+🐼	
 
 | UI/UX 设计Design  |
 |:-------------------------------------------------------------------|
@@ -133,14 +134,15 @@
 | <img src="https://imagev2.xmcdn.com/group63/M01/81/7C/wKgMcl0waKjwgRmNAAUVoXcLnnI528.jpg" width="30"> 大宝对话设计师 http://www.ximalaya.com/renwen/4806376/ |
 | <img src="https://pic1.zhimg.com/v2-c1ae13e299ebcf456e645dff5315322f_im.jpg" width="30"> UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。|
 
-🔻
+⛅	
 
 | <img src="https://ox3production.com/wp-content/uploads/2019/09/ox3-chinese.svg" width="30"> 三橙传媒 https://ox3production.com/ 陈一佳 |
 |:--------------------------------|
 | <img src="https://ox3production.com/wp-content/uploads/2019/09/poster-starups-made-in-the-usa.jpg" width="30">《创业美国》 |
 | <img src="https://ox3production.com/wp-content/uploads/2019/09/poster-nextblockchain-op.jpg" width="30">《区块链之新》 |
 
-🔻
+🍙
+
 
 | VC 资本投资                         |
 |:-----------------------------------------------------------------|
@@ -148,13 +150,13 @@
 | <img src="https://imagev2.xmcdn.com/group75/M06/C9/28/wKgO016VotbgU_fMAAIt5qihFVM364.jpg" width="30"> T3创投小组 https://www.ximalaya.com/shangye/36771337/                  |
 | <img src="https://typlog.com/podlist/czgx.62f981d4.jpg" width="30"> 迟早更新 https://czgx.fireside.fm/ 一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。|
 
-🔻
+📍	
 
 | 后街77号 |
 |:---------------------- |
 | <img src="https://imagev2.xmcdn.com/group46/M00/BD/21/wKgKj1tr8GOCeLHQAACELvVwiKg890.jpg" width="30"> 虎扯电台 https://www.ximalaya.com/yule/15384496/ |
 
-🔻
+↙️	
 
 | <img src="https://imagev2.xmcdn.com/group52/M03/E4/C7/wKgLcFwrzD7QmIVfAAJMf_VrGwY736.jpg" width="30"> 播客公社 https://www.ximalaya.com/zhubo/5487196/ |
 |:--------------------------------------------------------------  |
@@ -163,7 +165,8 @@
 | <img src="https://imagev2.xmcdn.com/group87/M03/8D/91/wKg5IV7nkMOgHK9FAACVLr_lAPA055.png" width="30"> 特费神 / T Fashion |
 | <img src="https://imagev2.xmcdn.com/group67/M07/FC/A4/wKgMd13km5yyNn0sAA1mBaL2mmM532.jpg" width="30"> 播客观点 |
 
-🔻
+⬜
+
 
 | 蓝莓评测 https://www.ximalaya.com/zhubo/246198571/       |
 |:-----------------------------------------------------------------|
@@ -171,7 +174,7 @@
 | <img src="https://imagev2.xmcdn.com/group83/M04/DB/C8/wKg5I19RwuuAOtoLAAfX3QcJxzY138.png" width="30"> Top of Japan  https://www.ximalaya.com/shishang/41466401/    |
 | <img src="https://imagev2.xmcdn.com/group85/M09/73/E7/wKg5JV8ZQS2BOsjkAAN_5bhHpJc891.png" width="30"> GYM TEST  https://www.ximalaya.com/shishang/40100222/     |
 
-🔻
+⚽
 
 | <img src="https://imagev2.xmcdn.com/group53/M0A/CE/45/wKgLfFwq37GD6hw7AAG9L8UTFaI454.jpg" width="30"> 日谈公园 https://www.ximalaya.com/zhubo/59126029/ | 
 |:-------------------------------------------------------------|
@@ -181,7 +184,7 @@
 | <img src="https://imagev2.xmcdn.com/group70/M06/89/68/wKgOzl4I2hKQcGXMAAHEbMjVd9E696.jpg" width="30"> 说归说 https://www.ximalaya.com/toutiao/32030300/ |
 | <img src="https://imagev2.xmcdn.com/group70/M08/88/42/wKgO2F4Iw9XhjLCHAA_x4EpWPek226.jpg" width="30"> 日谈物语 https://www.ximalaya.com/yule/32028678/ |
 
-🔻
+🐐	
 
 | 足球 |
 |:----------------------------------------------------|
@@ -191,7 +194,7 @@
 | <img src="https://imagev2.xmcdn.com/group5/M01/10/D7/wKgDtVN3qtewHR9gAACITCRvZqg727.jpg" width="30"> 看台FM https://www.ximalaya.com/toutiao/256195/    |
 | <img src="https://imagev2.xmcdn.com/group67/M06/28/F0/wKgMbV25lPGyUPIEAACXntrpo24476.jpg" width="30"> FreeKick-不止于足球场 https://www.ximalaya.com/toutiao/30569313/  |
 
-🔻
+👀	
 
 | <img src="https://pic1.zhimg.com/v2-5e5c70a909b508e82fe1de7b99593c5e_xl.jpg" width="30"> 声动活泼 http://www.shengfm.cn/                          |
 |:--------------------------------------------------------|
@@ -201,7 +204,8 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/3b8349c0-ce14-4e22-b760-c0d04a7a111a/cover_small.jpg" width="30"> 反潮流俱乐部 https://fanchaoliuclub.fireside.fm          |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/5/5518dbd2-171f-4b3b-af91-0698ee4d9d41/cover_small.jpg" width="30"> 泡腾VC https://popvc.fireside.fm/                       |
 
-🔻
+💨
+
 
 | <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> 津津乐道 https://dao.fm/ |
 |:------------------------|
@@ -211,7 +215,8 @@
 | <img src="https://imagev2.xmcdn.com/group79/M0B/17/78/wKgPEF61MlnzYm_UAARGAeneze0383.png" width="30"> 品质生活 品质生活是品味生活好物、提升生活品位的主题播客|
 | <img src="https://imagev2.xmcdn.com/group84/M01/05/8B/wKg5Hl7aLC2hktdQAAZUZo7H4oc682.png" width="30"> 津津有味 健康生活无需变身苦行僧，无能之辈才会传递说教和乏味，养生其实简单日常不神秘，健康可以和快乐同行，科学可以严谨而逗趣 |
 
-🔻
+👻
+
 
 | 互联网             | 
 |:--------------------------------------|
@@ -238,7 +243,8 @@
 | <img src="https://imagev2.xmcdn.com/group79/M00/83/12/wKgPC17NYALw78dyAAGJvzdXEE4979.png" width="30"> 意马心猿 https://www.ximalaya.com/keji/38372946/ |
 | <img src="https://codechina.org/wp-content/uploads/2020/05/IMG_1012.jpeg" width="30"> Tinyfool https://codechina.org/ |
 
-🔻
+🎲
+
 
 | 科学                 |
 |:-------------------------------|
@@ -254,18 +260,20 @@
 | <img src="https://static.tumblr.com/9276468118b6558d915df462a1c4b87d/pbuttk4/oh5mrhpy7/tumblr_static_tumblr_banner.png" width="30"> Brain Matter https://brainpodcast.com/   |
 | <img src="https://1.bp.blogspot.com/-1lVDsZLUcdU/V4a8XkAOH4I/AAAAAAAAAGM/XQ1HDOuc_qoygovM0pwf-1gFtHHtBL2TACK4B/s1070/logocenter_alpha.png" width="30"> Unsupervised Thinking https://unsupervisedthinkingpodcast.blogspot.com/ |
 
+⚪
+
 | <img src="https://imagev2.xmcdn.com/group4/M02/47/5B/wKgDtFNVH3nTsjtEAAIU7q-XQ0E465.jpg" width="30"> 旭岽叨科学 https://www.ximalaya.com/zhubo/7200706/ |
 |:------------------------------------------------ |
 | <img src="https://imagev2.xmcdn.com/group4/M02/27/BD/wKgDtFM0RAjjnmyHAAM0Is5jf_s223.jpg" width="30"> 原来是这样？！https://www.ximalaya.com/keji/246622/ |
 
-🔻
+💮	
 
 | 文化沙龙 |
 |:--------|
 | <img src="https://imagev2.xmcdn.com/group85/M0A/92/C6/wKg5JV7oQ3aA9qYxAAHRkL8blLU232.png" width="30"> 纽约文化沙龙 https://www.nyshalong.com/ |
 | <img src="https://r1.ykimg.com/0130391F45532792FCF27D156643683E9A7B34-F29C-D6F6-8483-4F2E6B077632" width="30"> 安城文化沙龙 http://www.aashalong.com/ |
 
-🔻
+🍚	
 
 | 游戏  |
 |:-----------------------------------------------|
@@ -281,13 +289,14 @@
 |:-------|
 | <img src="https://images.weserv.nl/?il&fit=contain&w=300&h=300&dpr=1&url=http://cdn.lizhi.fm/podcast_cover/podcast_imgthum_2498917213116642984.jpg" width="30"> 灰摩卡  |
 
-🔻
+🐞	
 
 | 加拿大|
 |:----------------------|
 | <img src="https://images.weserv.nl/?il&fit=contain&w=300&h=300&dpr=1&url=https://fdfs.xmcdn.com/group80/M08/98/B8/wKgPEV66HiOzPd7GAATl7I60wXE277.jpg" width="30"> [友藏](http://www.youzang.ca/) No Name 没友名字|
 
-🔻
+🌊
+
 
 | 美国   |
 |:------|
@@ -297,7 +306,7 @@
 | <img src="https://imagev2.xmcdn.com/group24/M09/61/A7/wKgJMFiX8i2Shc2yAAYZKZHAOq8943.jpg" width="30"> 学霸学渣闯美国 https://www.ximalaya.com/toutiao/3972154/ |
 | <img src="https://imagev2.xmcdn.com/group61/M09/0E/33/wKgMZl07hZHzLp--AAnszjrbIBk829.jpg" width="30"> 美丽坚果 https://www.ximalaya.com/renwen/25422983/ |
 
-🔻
+😴
 
 | 日本 日语  |
 |:----------------------|
@@ -315,7 +324,7 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/0/03cff8e1-6782-4bb6-92de-6af481bb855c/cover_small.jpg" width="30"> Prototype.fm https://www.prototype.fm/  |
 | <img src="https://www.tfm.co.jp/podcasts/upload/channel/f188ca7b90733edf55f52687fa624925_60.jpg" width="30"> Tokyo Midtown presents The Lifestyle MUSEUM https://www.tfm.co.jp/podcasts/museum/ |
 
-🔻
+💫
 
 | 上海 |
 |:-----------------------------------|
@@ -324,13 +333,13 @@
 | <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/renwen/2983895/ |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ |
 
-🔻
+👅
 
 | 新西兰 |
 |:------------------------------------------------|
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/511262/round_logo-1400_dqjnwo.png" width="30"> BearTalk 狗熊有话说 https://www.beartalking.com/ Bear Liu <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/511262/smile2-square_y1sgka.png" width="30"> |
 
-🔻
+🔆
 
 * Chinese Talk：
 ***************
