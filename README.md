@@ -4,7 +4,7 @@
 ********
 * 请尽量自行RSS添加订阅播客( Podcasts.opml )
 *******
-倘若你想要尝试录制自己的播客，推荐 <img src="https://www.dogedoge.com/favicon/fireside.fm.ico" width="25">https://fireside.fm/  ;  <img src="https://rmt.dogedoge.com/rmt/RM8yvdzl_QDq6DLfGP_ClztOw4g7mhLIg9n8Exvhvl42CUmcY4kUvrVGs?w=212&h=130" width="30">https://anchor.fm/
+播客托管 推荐 <img src="https://www.dogedoge.com/favicon/fireside.fm.ico" width="25">https://fireside.fm/  ;  <img src="https://rmt.dogedoge.com/rmt/RM8yvdzl_QDq6DLfGP_ClztOw4g7mhLIg9n8Exvhvl42CUmcY4kUvrVGs?w=212&h=130" width="30">https://anchor.fm/
 ##### <img src="https://rmt.dogedoge.com/rmt/TD94c84EPOJQiOLgSLNxgxPndKCJXikrrI2DzJfDxxJDYJPPZmgx6LTG4?w=212&h=130" width="30"> [Listen Notes: the best podcast search engine](https://www.listennotes.com/)
 ##### <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="30"> gpodder.net https://www.gpodder.net/directory/ Podcast Directory
 ##### <img src="https://rmt.dogedoge.com/rmt/Sy4_obCkyBoT9jPzIKrHMjPW96t2nf5sOpFjjtpnQsNXFZO0qMRavp6jpC?w=212&h=130" width="30"> 凌晨四点 - 不仅仅是声音，一个由播客爱好者组织的文化社区： https://at4am.io/
@@ -22,7 +22,7 @@
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="30"> Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="30"> gpodder https://gpodder.github.io/                                       |
 | <img src="https://www.dogedoge.com/favicon/player.soundon.fm.ico" width="35"> SoundOn                                   |
-| <img src="https://store-images.s-microsoft.com/image/apps.37166.13693601929946567.5c385ab7-3f13-429d-be39-2f27e95b993b.f514ee39-8cb9-43ef-ba92-a8225df28731?mode=scale&q=90&h=300&w=300" width="30"> Moon fm  http://moon.fm/                                                 |
+| <img src="https://store-images.s-microsoft.com/image/apps.37166.13693601929946567.5c385ab7-3f13-429d-be39-2f27e95b993b.f514ee39-8cb9-43ef-ba92-a8225df28731?mode=scale&q=90&h=300&w=300" width="30"> Moon fm  https://moon.fm/                                                 |
 | <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png" width="30"> Apple Podcast                                                            |
 | <img src="https://www.dogedoge.com/favicon/podcasts.google.com.ico" width="30"> Google Podcasts                                                          |
 | <img src="https://www.dogedoge.com/favicon/www.pocketcasts.com.ico" width="30"> Pocket Casts                                                             |
@@ -31,10 +31,10 @@
 | <img src="https://www.dogedoge.com/favicon/www.ximalaya.com.ico" width="30"> 喜马拉雅FM https://www.ximalaya.com/                                      | 
 | <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="30"> 荔枝FM https://www.lizhi.fm/                                             |
 | <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="35"> 蜻蜓FM https://www.qingting.fm/                                          |
-| <img src="https://store-images.s-microsoft.com/image/apps.44047.13510798886601480.fdfcc353-6c94-473b-a54b-b4259892c6ed.e8745d02-906b-4479-8cef-d27a3cf0a9ad?mode=scale&q=90&h=270&w=270&background=%230078D7" width="30"> Grover Podcast ( Windows10 Microsoft Store )                            |
-| <img src="https://antennapod.org/assets/img/antennapod-logo.png" width="30"> AntennaPod (Android [F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/))  |
+| <img src="https://dl4.cbsistatic.com/resize/58a828c7d2499bad380c8fdeefebec24a7de778d/catalog/2017/06/16/26afc82a-c5bc-4e06-91ac-5f04f6d04eb2/imgingest-1533460314835005835.png" width="30"> Grover Podcast ( Windows10 Microsoft Store )                            |
 
-🔰	
+
+******
 
 | News Talk                     |
 |:----------------------------------------------------------------------------| 
@@ -62,7 +62,7 @@
 
 | <img src="https://www.dogedoge.com/favicon/ipn.li.ico" width="30"> IPN for discriminating listeners  https://ipn.li/                                 |
 |:--------------------------------------------------------------------------------- |
-| <img src="https://typlog.com/podlist/yitianshijie.b4142a38.png" width="30"> 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。|
+| <img src="https://imagev2.xmcdn.com/group7/M01/3A/36/wKgDWlcBkQDzK0SUAAGEBU8Pdbg393.png" width="30"> 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。|
 | <img src="https://ipn.li/images/icon-mie-300-v2.png" width="30"> 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。|
 | <img src="https://ipn.li/images/icon-wcy-300.jpg" width="30"> 無次元——A celebration of auditory culture http://wcy.wtf/ |
 | <img src="https://ipn.li/images/icon-taiyilaile-300.png" width="30"> 太医来了 https://taiyilaile.com/ 中文互联网第一档医生谈话类播客。|
@@ -93,6 +93,15 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg" width="30"> Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。    |
 | <img src="https://imagev2.xmcdn.com/group70/M08/8F/49/wKgO2F45TUDhDR6wAAmd1OHKvd032.jpeg" width="30"> 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 |
 | <img src="https://rmt.dogedoge.com/rmt/QUHd2tNW9iGhi45vmlT_pPuKCiSCON6OWXDjCDkQuo8YNJxrcr326_w2kb?w=212&h=130" width="30"> 區塊勢 https://blocktrend.substack.com/  |
+
+※
+
+| <img src="https://imagev2.xmcdn.com/group29/M03/E7/A0/wKgJXVklgjiDYjckAAFaKewxAfI020.jpg" width="30"> ThoughtWorks https://www.ximalaya.com/zhubo/81966002/ |
+|:----|
+| <img src="https://imagev2.xmcdn.com/group88/M0B/42/0A/wKg5DF9kXp-xHq_AAACUXyoarGc084.jpg" width="30"> 八叉说 https://www.ximalaya.com/keji/41912837/  |
+| <img src="https://imagev2.xmcdn.com/group90/M00/42/AB/wKg5B19kXYfDbY-PAABMBdPD_V0738.png" width="30"> 质量三人行 https://www.ximalaya.com/keji/41912760/  |
+| <img src="https://imagev2.xmcdn.com/group90/M09/42/F4/wKg5B19kYhqiEXNkAAA1j-hupbU855.png" width="30"> ThoughtWorks洞见  |
+| <img src="https://imagev2.xmcdn.com/group42/M04/12/D4/wKgJ81rJ3GqDLwOyAADWamLyvWU973.jpg" width="30"> ThoughtWorks商业洞见  |
 
 ♦️	
 
@@ -254,7 +263,7 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b81f95d5-64eb-44d8-bf9c-2aca90deefb1/cover_small.jpg" width="30"> 神经漫游 Neuromancing https://neuromancing.fireside.fm/     |
 | <img src="https://imagev2.xmcdn.com/group87/M05/FA/D0/wKg5IV89NwuCfLBoAAKTgnixz10986.png" width="30"> 科研这种生活方式！https://www.ximalaya.com/jiaoyupeixun/41018728/ |                               
 | <img src="https://imagev2.xmcdn.com/group69/M05/E9/9C/wKgMeV21uBzgPCftAABoE3_UII069.jpeg" width="30"> 脑人言 https://www.ximalaya.com/zhubo/195840064             |
-| <img src="https://y2intelligences.com/assets/images/final-cover-1000.png" width="30"> 基智一点 https://y2intelligences.com/                       |
+| <img src="https://imagev2.xmcdn.com/group74/M05/4F/1E/wKgO0l6eSujBOs6pAAsJ1ZkZnAI159.png" width="30"> 基智一点 https://y2intelligences.com/                       |
 | <img src="https://partiallyexaminedlife.com/wp-content/uploads/Citizen-Ad-2.png" width="30"> The Partially Examined Life / a philosophy podcast and philosophy blog  https://partiallyexaminedlife.com   |
 | <img src="https://yt3.ggpht.com/a/AATXAJyaoejpg2cKqP4rszXXUfVUvhpMkjCjRVDTV0VYFw=s88-c-k-c0x00ffffff-no-rj" width="30"> Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/  |
 | <img src="https://braininspired.co/wp-content/uploads/2018/06/apple-icon.png" width="30"> Brain Inspired https://braininspired.co/   |
