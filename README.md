@@ -19,6 +19,7 @@
 | Podcast App  |                                                            
 |:------------------------------------------------------------------------ |
 | <img src="https://www.dogedoge.com/favicon/www.himalaya.com.ico" width="30"> Himalaya https://www.himalaya.com/                                       |
+|  小宇宙 https://www.xiaoyuzhoufm.com/ |
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="30"> Winds https://github.com/getstream/winds ( https://getstream.io/winds/ ) |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="30"> gpodder https://gpodder.github.io/                                       |
 | <img src="https://www.dogedoge.com/favicon/player.soundon.fm.ico" width="35"> SoundOn                                   |
@@ -348,6 +349,11 @@
 | 新西兰 |
 |:------------------------------------------------|
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/511262/round_logo-1400_dqjnwo.png" width="30"> BearTalk 狗熊有话说 https://www.beartalking.com/ Bear Liu <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/511262/smile2-square_y1sgka.png" width="30"> |
+
+| 英国 |
+|:---------|
+| <img src="https://imagev2.xmcdn.com/storages/6780-audiofreehighqps/86/A8/CMCoOSMDd346AADSBABjcu6X.jpg" width="30"> 什锦英国   |
+
 
 🔆
 
