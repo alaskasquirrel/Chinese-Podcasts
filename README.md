@@ -117,7 +117,7 @@
 |:----------------------------------------------------|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94c5a33e-da45-4dd9-acc2-52d4b924d520/cover_small.jpg" width="30"> 路书 https://lushu88.com/ |
 | <img src="https://rmt.dogedoge.com/rmt/Qb6lG8ijbuK9dMVvPl56nGuYm0Wl9peE9W7OPdvhrskb08xsy6oOt_8sY?w=212&h=130" width="30"> 天书广播 https://www.ximalaya.com/renwenjp/2858591/ |
-| 未命名播客 https://untitledpodcast.fireside.fm |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7047f409-5a90-4de7-810c-79377187eb31/cover_small.jpg"> 未命名播客 https://untitledpodcast.fireside.fm |
 
 ❗
 
