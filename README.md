@@ -1,5 +1,3 @@
-<img src="https://github.com/alaskasquirrel/alaskasquirrel/raw/main/images/ChinesePodcasts.png" width="550">
-
 **免责声明：本着喜好音频节目的初衷，在此罗列了这些播客节目，且未加我本人对于每个播客节目的任何态度和立场，下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ**
 ********
 * 请尽量自行RSS添加订阅播客( Podcasts.opml )
