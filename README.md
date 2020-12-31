@@ -42,7 +42,6 @@
 | China Tech Talk - By TechNode x ChinaChannel http://chinatechtalk.com/                             |
 | <img src="https://assets.pandaily.com/uploads/2019/08/TechBuzz-China.png" width="30"> Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.                                     |
 | The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley |
-| <img src="https://chinaafricaproject.com/wp-content/uploads/2019/06/logo-header.png" width="30"> The China Africa Project https://chinaafricaproject.com/  |
 | Asia Tech Podcast http://asiatechpodcast.com/ All Things Asia All Things Tech |
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/150423/quovsmmsjqn7teptbqhh.png" width="30"> The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
 | <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
@@ -299,6 +298,12 @@
 |:-------|
 | <img src="https://images.weserv.nl/?il&fit=contain&w=300&h=300&dpr=1&url=http://cdn.lizhi.fm/podcast_cover/podcast_imgthum_2498917213116642984.jpg" width="30"> 灰摩卡  |
 
+|非洲|
+|:------|
+| <img src="https://imagev2.xmcdn.com/group85/M00/A8/1C/wKg5JV9M-ReS74JHAAEg6UpoO-I116.jpg" width="30"> 非洲历险记｜非洲互联网出海指南 https://www.ximalaya.com/keji/41354524/|
+| <img src="https://chinaafricaproject.com/wp-content/uploads/2019/06/logo-header.png" width="30"> The China Africa Project https://chinaafricaproject.com/  |
+
+
 🐞	
 
 | 加拿大|
@@ -348,6 +353,7 @@
 | 新西兰 |
 |:------------------------------------------------|
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/511262/round_logo-1400_dqjnwo.png" width="30"> BearTalk 狗熊有话说 https://www.beartalking.com/ Bear Liu <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/511262/smile2-square_y1sgka.png" width="30"> |
+| <img src="https://imagev2.xmcdn.com/group22/M08/85/86/wKgJLliiqo7RMTCRAAUcW-Sw0QY145.jpg" width="30"> 俊玮谈新 https://www.ximalaya.com/toutiao/5218657/ |
 
 | 英国 |
 |:---------|
