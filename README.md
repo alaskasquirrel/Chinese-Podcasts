@@ -49,7 +49,7 @@
 ******
 
 ### 社群：
-播客托管 推荐 <img src="https://www.dogedoge.com/favicon/fireside.fm.ico" width="30">https://fireside.fm/  ;  <img src="https://rmt.dogedoge.com/rmt/RM8yvdzl_QDq6DLfGP_ClztOw4g7mhLIg9n8Exvhvl42CUmcY4kUvrVGs?w=212&h=130" width="50">https://anchor.fm/
+
 ##### <img src="./images/wavpub.png" width="40"> 音播WavPub https://wavpub.com/
 ##### <img src="https://rmt.dogedoge.com/rmt/TD94c84EPOJQiOLgSLNxgxPndKCJXikrrI2DzJfDxxJDYJPPZmgx6LTG4?w=212&h=130" width="40"> [Listen Notes: the best podcast search engine](https://www.listennotes.com/)
 ##### <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder.net https://www.gpodder.net/directory/ Podcast Directory
@@ -59,8 +59,7 @@
 ##### <img src="https://i.typlog.com/liqixpodcast/jmVzNQETjZrH8Znh-oV9_w.png?x-oss-process=style/ss" width="40"> 利器x播客: https://liqixpodcast.typlog.io/
 ##### <img src="./images/hubbub.png" width="40"> 中文播客(Chinese Podcast) https://hubbub.top/ 收集中文内容的Podcasts内容，喧嚣的世界才真实。
 ##### <img src="https://www.dogedoge.com/favicon/wiki.zpodcasts.com.ico" width="35"> Zpodcasts - 寻找Z时代的独立播客 https://wiki.zpodcasts.com/
-*******
-	
+
 ### 应用App：
 
 |  |                                                            
