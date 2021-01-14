@@ -181,6 +181,7 @@
 | <img src="https://imagev2.xmcdn.com/group65/M07/FE/C7/wKgMdF1d4u_jv2uaAAfoPLJYWyg226.png" width="30"> 务虚多言 https://www.ximalaya.com/keji/27246730/  |
 | <img src="https://imagev2.xmcdn.com/group54/M05/14/A5/wKgLcl3_boDA9i-9AAOkZiUzcmI662.png" width="30"> 贤者时间 https://www.ximalaya.com/yule/31879246/  |
 | <img src="https://imagev2.xmcdn.com/group65/M05/10/6B/wKgMal2DOJqQw1bHAATupmy2kAY705.png" width="30"> 温柔人类 GentleHuman https://www.ximalaya.com/renwen/29344196/  |
+| <img src="https://imagev2.xmcdn.com/storages/9f52-audiofreehighqps/42/63/CMCoOSIDvyShABTUlwB1nmSB.jpeg" width="30"> 定向跳转 Redirect |
 
 ### 设计：	
 
