@@ -3,9 +3,8 @@
 ********
 
 * 请尽量自行RSS添加订阅播客 Podcasts.opml
-  - **兼听则明，偏信则暗**  
 
-## 目录
+## 兼听则明，偏信则暗
 * [社群](#社群)
 * [应用App](#应用app)
 * [EnglishTalk](#englishtalk)
