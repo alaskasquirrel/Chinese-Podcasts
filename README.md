@@ -4,53 +4,20 @@
 
 * 请尽量自行RSS添加订阅播客 Podcasts.opml
 
+||||||||
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|[社群](#社群)|[应用App](#应用app)|[EnglishTalk](#englishtalk)|
+|[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
+|[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
+|[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
+|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|
+|[北京](#北京)|[重庆](#重庆)|[上海](#上海)||||
+|[冰岛](#冰岛)|[爱尔兰](#爱尔兰)|[俄罗斯](#俄罗斯)|[非洲](#非洲)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|
+|[美国](#美国)|[日本](#日本)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
+|[待分类](#待分类)|
+
+
 ## 兼听则明，偏信则暗
-* [社群](#社群)
-* [应用App](#应用app)
-* [EnglishTalk](#englishtalk)
-* [IPN](#ipn)
-* [汽车](#汽车)
-* [Blockchain](#blockchain)
-* [ThoughtWorks](#thoughtworks)
-* [GGV](#ggv)
-* [History](#history)
-* [JustPod](#justpod)
-* [Marcast](#marcast)
-* [36氪](#36氪)
-* [设计](#设计)
-* [陈一佳](#陈一佳)
-* [VC投资](#VC投资)
-* [播客公社](#播客公社)
-* [蓝莓评测](#蓝莓评测)
-* [日谈公园](#日谈公园)
-* [足球](#足球)
-* [声动活泼](#声动活泼)
-* [津津乐道](#津津乐道)
-* [访谈](#访谈)
-* [互联网](#互联网)
-* [科学](#科学)
-* [文化沙龙](#文化沙龙)
-* [影视综艺](#影视综艺)
-* [游戏](#游戏)
-* [北京](#北京)
-* [重庆](#重庆)
-* [爱尔兰](#爱尔兰)
-* [冰岛](#冰岛)
-* [俄罗斯](#俄罗斯)
-* [非洲](#非洲)
-* [芬兰](#芬兰)
-* [荷兰](#荷兰)
-* [加拿大](#加拿大)
-* [美国](#美国)
-* [日本](#日本)
-* [瑞典](#瑞典)
-* [上海](#上海)
-* [台湾](#台湾)
-* [新西兰](#新西兰)
-* [新加坡](#新加坡)
-* [以色列](#以色列)
-* [英国](#英国)
-* [待分类](#待分类)
 
 ******
 
@@ -232,6 +199,12 @@
 | <img src="https://imagev2.xmcdn.com/group84/M09/1B/7C/wKg5JF7cYcLTZtUFAAEtv-eAoGM644.png" width="30"> 超级游文化 |
 | <img src="https://imagev2.xmcdn.com/group87/M03/8D/91/wKg5IV7nkMOgHK9FAACVLr_lAPA055.png" width="30"> 特费神 / T Fashion |
 | <img src="https://imagev2.xmcdn.com/group67/M07/FC/A4/wKgMd13km5yyNn0sAA1mBaL2mmM532.jpg" width="30"> 播客观点 |
+
+### 红帽中国：
+
+| https://www.ximalaya.com/zhubo/127191484/|
+|:----------------------------------|
+| <img src="https://imagev2.xmcdn.com/group64/M05/89/84/wKgMaV1U09ijGZ7sAADtg-TJOl8162.jpg" width="30"> 代码英雄 https://www.ximalaya.com/keji/26682763/|
 
 ### 蓝莓评测：
 
@@ -440,7 +413,7 @@
 | <img src="https://i1.hdslb.com/bfs/face/2b6f55748c1bf1725bc366ca9867e7091e44f42d.jpg@128w_128h_1o.webp" width="30"> Emma的小频道 [视频](https://space.bilibili.com/36863529)  Emma是嫁到美国的一只土小妞，Bo是从小在美国长大的韩裔美国人，拍生活视频是为了让国内的家人朋友更好的了解我在美国的生活。|
 | <img src="https://i2.hdslb.com/bfs/face/6fde103bd2fb31b8a415b977f11ccb9cfd8f5ace.jpg@128w_128h_1o.webp" width="30"> 美国印象 [视频](https://space.bilibili.com/487210936) 静静地生活在美国东海岸，这里是我对美国的印象。|
 | <img src="https://imagev2.xmcdn.com/group62/M02/B8/A2/wKgMZ101F8GCEQT5AA8BwPU7OUE566.jpg" width="30"> 随口说美国 https://www.ximalaya.com/zhubo/3239336/ |
-| <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> 受之有道   |
+| <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> [受之有道](http://www.am1300.com/category/%E7%AF%80%E7%9B%AE_%E4%BB%8B%E7%B4%B9/%E7%AF%80%E7%9B%AE%E9%87%8D%E6%BA%AB/%E5%8F%97%E4%B9%8B%E6%9C%89%E9%81%93/)   |
 | <img src="https://imagev2.xmcdn.com/group57/M02/67/FC/wKgLd1x6tjDxtJ9sAAMBlVac1Pk329.png" width="30"> 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
 | <img src="https://imagev2.xmcdn.com/group24/M09/61/A7/wKgJMFiX8i2Shc2yAAYZKZHAOq8943.jpg" width="30"> 学霸学渣闯美国 https://www.ximalaya.com/toutiao/3972154/ |
 | <img src="https://imagev2.xmcdn.com/group61/M09/0E/33/wKgMZl07hZHzLp--AAnszjrbIBk829.jpg" width="30"> 美丽坚果 https://www.ximalaya.com/renwen/25422983/ |
