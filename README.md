@@ -2,7 +2,7 @@
 
 ********
 
-## 兼听则明，偏信则暗
+* 请尽量自行RSS添加订阅播客 Podcasts.opml
 
 ||||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -17,7 +17,7 @@
 |[待分类](#待分类)|
 
 
-* 请尽量自行RSS添加订阅播客 Podcasts.opml
+## 兼听则明，偏信则暗
 
 ******
 
@@ -243,7 +243,9 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/70018843-5b3e-44f8-9b7a-d534d8d55f0d/cover_small.jpg" width="30"> 到海外去 https://chuhai.co/                              |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/3b8349c0-ce14-4e22-b760-c0d04a7a111a/cover_small.jpg" width="30"> 反潮流俱乐部 https://fanchaoliuclub.fireside.fm          |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/5/5518dbd2-171f-4b3b-af91-0698ee4d9d41/cover_small.jpg" width="30"> 泡腾VC https://popvc.fireside.fm/                       |
-
+| <img src="https://imagev2.xmcdn.com/storages/b390-audiofreehighqps/19/2B/CMCoOSUEOeNeAAEXjwCY5l4v.jpeg" width="30"> 组织进化论 |
+| <img src="https://imagev2.xmcdn.com/storages/3c7c-audiofreehighqps/CC/4C/CMCoOSEEE1gRAAR5MgCNZwzT.jpeg" width="30"> Pfizer Express|
+| <img src="https://imagev2.xmcdn.com/storages/da20-audiofreehighqps/DB/37/CMCoOSUEIRd5AAhUJwCRitav.jpeg" width="30"> 新增长学院|
 ### 津津乐道：
 
 | <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> https://dao.fm/ 。[RSS](https://feeds.jjldbk.com/all.xml) |
