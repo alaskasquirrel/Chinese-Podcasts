@@ -66,14 +66,11 @@
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/150423/quovsmmsjqn7teptbqhh.png" width="30"> The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
 | <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
 | China in the World https://carnegiestsinghua.podomatic.com/ |
-| <img src="https://exponent.fm/wp-content/uploads/2020/08/Exponent-2-nosponsor.jpg" width="30"> Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
-| <img src="https://i0.wp.com/a16z.com/wp-content/uploads/2020/09/bio-lp_img03-1.png?resize=344%2C343&ssl=1" width="30"> a16z Podcast https://a16z.com/podcasts |
 | China 21 https://china.ucsd.edu/opinion/podcasts.html |
 | <img src="https://www.armscontrolwonk.com/wp-content/themes/modern-wonk/images/podcast.jpg" width="30"> Arms Control Wonk https://www.armscontrolwonk.com/ |
 | <img src="https://images.transistor.fm/file/transistor/images/logos/site/4453/medium_techeu.jpg" width="30"> Tech eu https://podcast.tech.eu/ |
 | <img src="https://file.caixin.com/en/web/img/logo.jpg" width="30"> Caixin SINICA https://www.caixinglobal.com/audio/ |
 | Interpreting India https://carnegieindia.org/interpretingindia/ |
-| <img src="https://www.dogedoge.com/favicon/www.acquired.fm.ico" width="30"> Acquired https://www.acquired.fm/ | 
 | <img src="https://dongfanghour.files.wordpress.com/2020/05/dongfang-hour-logo-low-res.png?w=300" width="30"> Dongfang Hour 東方鴻 https://dongfanghour.com/ |
 
 ### IPN:
@@ -414,6 +411,9 @@
 | <img src="https://i0.hdslb.com/bfs/face/1214f1362428a1b1806bec4e4a7e7ecd73753e78.jpg@128w_128h_1o.webp" width="30"> 不哼哼 [视频](https://space.bilibili.com/14198768) 抽雪茄，聊生活，侃美国，女儿奴。|
 | <img src="https://i1.hdslb.com/bfs/face/2b6f55748c1bf1725bc366ca9867e7091e44f42d.jpg@128w_128h_1o.webp" width="30"> Emma的小频道 [视频](https://space.bilibili.com/36863529)  Emma是嫁到美国的一只土小妞，Bo是从小在美国长大的韩裔美国人，拍生活视频是为了让国内的家人朋友更好的了解我在美国的生活。|
 | <img src="https://i2.hdslb.com/bfs/face/6fde103bd2fb31b8a415b977f11ccb9cfd8f5ace.jpg@128w_128h_1o.webp" width="30"> 美国印象 [视频](https://space.bilibili.com/487210936) 静静地生活在美国东海岸，这里是我对美国的印象。|
+| <img src="https://www.dogedoge.com/favicon/www.acquired.fm.ico" width="30"> Acquired https://www.acquired.fm/ | 
+| <img src="https://exponent.fm/wp-content/uploads/2020/08/Exponent-2-nosponsor.jpg" width="30"> Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
+| <img src="https://i0.wp.com/a16z.com/wp-content/uploads/2020/09/bio-lp_img03-1.png?resize=344%2C343&ssl=1" width="30"> a16z Podcast https://a16z.com/podcasts |
 | <img src="https://imagev2.xmcdn.com/group62/M02/B8/A2/wKgMZ101F8GCEQT5AA8BwPU7OUE566.jpg" width="30"> 随口说美国 https://www.ximalaya.com/zhubo/3239336/ |
 | <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> [受之有道](http://www.am1300.com/category/%E7%AF%80%E7%9B%AE_%E4%BB%8B%E7%B4%B9/%E7%AF%80%E7%9B%AE%E9%87%8D%E6%BA%AB/%E5%8F%97%E4%B9%8B%E6%9C%89%E9%81%93/)   |
 | <img src="https://imagev2.xmcdn.com/group57/M02/67/FC/wKgLd1x6tjDxtJ9sAAMBlVac1Pk329.png" width="30"> 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
