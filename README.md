@@ -248,6 +248,8 @@
 | <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> https://dao.fm/ 。[RSS](https://feeds.jjldbk.com/all.xml) |
 |:------------------------|
 | <img src="https://imagev2.xmcdn.com/group83/M02/2A/BD/wKg5HV7d_jmiN5iWAAZ4pLIkU6M188.png" width="30"> 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客|
+| <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_Aroga-01.jpg" width="30"> 编码人声 |
+| <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_%E5%8F%AB%E5%8D%96%E5%9B%BE.jpg" width="30"> 叫卖图| 
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/08/Logo_%E5%8E%82%E9%95%BF%E6%9D%A5%E4%BA%86.jpg" width="30"> 厂长来了 公司访谈类播客节目，采访广受大家关注的公司或团队，请他们的核心高管来跟大家聊天 |
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/01/Logo_Pin-Wa-1.jpg" width="30"> 拼娃时代 拼娃时代是面向家长的 K-12 教育主题播客 |
 | <img src="https://imagev2.xmcdn.com/group79/M0B/17/78/wKgPEF61MlnzYm_UAARGAeneze0383.png" width="30"> 品质生活 品质生活是品味生活好物、提升生活品位的主题播客|
