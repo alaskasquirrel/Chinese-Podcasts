@@ -10,7 +10,7 @@
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
-|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|
+|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[编程语言PL](#编程语言PL)|
 |[北京](#北京)|[重庆](#重庆)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|[爱尔兰](#爱尔兰)|
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|[日本](#日本)|
 |[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)|
@@ -341,6 +341,17 @@
 | <img src="https://imagev2.xmcdn.com/group34/M03/87/05/wKgJYFnc4Q-QLGcyAAD9ZQKX_Gk896.jpg" width="30"> 宅基地Radio https://www.ximalaya.com/erciyuan/4791349/ |
 | <img src="https://imagev2.xmcdn.com/group25/M02/58/5C/wKgJMViVk_jj9RISAAFFoFYKSXo119.jpg" width="30"> 电玩有偏见 https://www.ximalaya.com/erciyuan/6622153/ |
 | <img src="https://cdnimg103.lizhi.fm/user/2019/03/18/2726633829692746754_160x160.jpg" width="30"> 游生谈YST https://www.lizhi.fm/user/2507350  |
+
+### 编程语言PL:
+
+||
+|:------|
+| <img src="https://corecursive.com/assets/images/logo-reduced-1-white.png" width="30"> [CoRecursive](https://corecursive.com/category/podcast/) The Stories Behind The Code: [Philip Wadler](https://corecursive.com/021-gods-programming-language-with-philip-wadler/), [Dan Friedman](https://corecursive.com/023-little-typer-and-pie-language/), [Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/), [Hal Abelson](https://corecursive.com/039-hal-abelson-sicp/)...  |
+| <img width="30" src="https://www.se-radio.net/wp-content/uploads/2014/10/se-radio-logo.png">[Software Engineering Radio](https://www.se-radio.net/): [Guy Steele](https://www.se-radio.net/2006/11/episode-36-interview-guy-steele/), [Anders Hejlsberg](https://www.se-radio.net/2008/05/episode-97-interview-anders-hejlsberg/)... |
+| [LispCast](https://lispcast.com/) |
+| [Panel: The Future of Programming Languages](https://www.infoq.com/presentations/Future-of-Programming-Languages/) |
+| [Guy Steele Interviews John McCarthy, Father of Lisp](https://www.infoq.com/interviews/Steele-Interviews-John-McCarthy/) |
+| [The Evolution of Lisp](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/) |
 
 ### 北京：
 
