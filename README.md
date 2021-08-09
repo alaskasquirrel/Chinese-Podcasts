@@ -17,26 +17,11 @@
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|[日本](#日本)|
 |[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)|
 
-
-******
-
-### 社群：
-
-##### <img src="./images/wavpub.png" width="40"> 音播WavPub https://wavpub.com/
-##### <img src="https://rmt.dogedoge.com/rmt/TD94c84EPOJQiOLgSLNxgxPndKCJXikrrI2DzJfDxxJDYJPPZmgx6LTG4?w=212&h=130" width="40"> [Listen Notes: the best podcast search engine](https://www.listennotes.com/)
-##### <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder.net https://www.gpodder.net/directory/ Podcast Directory
-##### <img src="https://www.singpodcast.com/assets/img/logo.bb73524e.png" width="35"> 声波 https://www.singpodcast.com/
-##### <img src="https://rmt.dogedoge.com/rmt/Sy4_obCkyBoT9jPzIKrHMjPW96t2nf5sOpFjjtpnQsNXFZO0qMRavp6jpC?w=212&h=130" width="40"> 凌晨四点 - 不仅仅是声音，一个由播客爱好者组织的文化社区： https://at4am.io/
-##### <img src="https://www.dogedoge.com/favicon/typlog.com.ico" width="40"> 中文独立播客: https://typlog.com/podlist/
-##### <img src="https://i.typlog.com/liqixpodcast/jmVzNQETjZrH8Znh-oV9_w.png?x-oss-process=style/ss" width="40"> 利器x播客: https://liqixpodcast.typlog.io/
-##### <img src="./images/hubbub.png" width="40"> 中文播客(Chinese Podcast) https://hubbub.top/ 收集中文内容的Podcasts内容，喧嚣的世界才真实。
-##### <img src="https://www.dogedoge.com/favicon/wiki.zpodcasts.com.ico" width="35"> Zpodcasts - 寻找Z时代的独立播客 https://wiki.zpodcasts.com/
-
-### 应用App：
+### 播客App：推荐⭐[F-Droid](https://f-droid.org/) 自由开源的 Android 应用商店⭐
 
 |  |
 |:------------------------------------------------------------------------ |
-| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓 开源App [下载](https://f-droid.org/packages/de.danoeh.antennapod/) 隐私政策 [ Privacy Policy](https://antennapod.org/privacy/) |
+| ⭐<img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源App [下载](https://f-droid.org/packages/de.danoeh.antennapod/) 隐私政策 [ Privacy Policy](https://antennapod.org/privacy/) ⭐ |
 |  小宇宙 App https://www.xiaoyuzhoufm.com/ |
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://github.com/getstream/winds  |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                       |
@@ -51,6 +36,26 @@
 | <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/                                             |
 | <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/                                          |
 | <img src="./images/podcast.png" width="35"> Grover Podcast ( Windows10 Microsoft Store )                            |
+
+### 社群：
+
+##### <img src="./images/wavpub.png" width="40"> 音播WavPub https://wavpub.com/
+
+##### <img src="https://rmt.dogedoge.com/rmt/TD94c84EPOJQiOLgSLNxgxPndKCJXikrrI2DzJfDxxJDYJPPZmgx6LTG4?w=212&h=130" width="40"> [Listen Notes: the best podcast search engine](https://www.listennotes.com/)
+
+##### <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder.net https://www.gpodder.net/directory/ Podcast Directory
+
+##### <img src="https://www.singpodcast.com/assets/img/logo.bb73524e.png" width="35"> 声波 https://www.singpodcast.com/
+
+##### <img src="https://rmt.dogedoge.com/rmt/Sy4_obCkyBoT9jPzIKrHMjPW96t2nf5sOpFjjtpnQsNXFZO0qMRavp6jpC?w=212&h=130" width="40"> 凌晨四点 - 不仅仅是声音，一个由播客爱好者组织的文化社区： https://at4am.io/
+
+##### <img src="https://www.dogedoge.com/favicon/typlog.com.ico" width="40"> 中文独立播客: https://typlog.com/podlist/
+
+##### <img src="https://i.typlog.com/liqixpodcast/jmVzNQETjZrH8Znh-oV9_w.png?x-oss-process=style/ss" width="40"> 利器x播客: https://liqixpodcast.typlog.io/
+
+##### <img src="./images/hubbub.png" width="40"> 中文播客(Chinese Podcast) https://hubbub.top/ 收集中文内容的Podcasts内容，喧嚣的世界才真实。
+
+##### <img src="https://www.dogedoge.com/favicon/wiki.zpodcasts.com.ico" width="35"> Zpodcasts - 寻找Z时代的独立播客 https://wiki.zpodcasts.com/
 
 ### EnglishTalk:
 
