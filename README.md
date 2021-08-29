@@ -745,3 +745,7 @@
 ##### <img src="https://imagev2.xmcdn.com/group4/M00/02/5B/wKgDs1Me1L-CRP8mAAaU9eDTbps490.jpg" width="30"> 星缘星语 https://www.ximalaya.com/zhubo/7592100/
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9f98ad11-ba9a-4fde-8f71-68ed019ed09c/cover.jpg" width="30"> 味之道 席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。
 ##### <img src="https://i.typlog.com/niki/xg/OA6q2uDwBF1gy04Wc5Wg.png?x-oss-process=style/ss" width="30"> 无状态 Black Out http://nirokita.cn/episodes/ 
+
+
+
+![stars](https://starchart.cc/alaskasquirrel/chinese-podcasts.svg)
