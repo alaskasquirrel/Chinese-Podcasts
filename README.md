@@ -1,4 +1,4 @@
-## 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对于每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> ## 
+免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对于每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
 **兼听则明，偏信则暗**
 
@@ -14,14 +14,14 @@
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
 |[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[编程语言PL](#编程语言PL)|
 |[北京](#北京)|[重庆](#重庆)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|[爱尔兰](#爱尔兰)|
-|[俄罗斯](#俄罗斯)|[非洲](#非洲)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|[日本](#日本)|
+|[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|[日本](#日本)|
 |[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)|
 
-### 播客App：推荐⭐[F-Droid](https://f-droid.org/) 自由开源的 Android 应用商店⭐
+##### 播客App：推荐⭐[F-Droid](https://f-droid.org/) 自由开源的 Android 应用商店
 
 |  |
 |:------------------------------------------------------------------------ |
-| ⭐<img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源App [下载](https://f-droid.org/packages/de.danoeh.antennapod/) 隐私政策 [ Privacy Policy](https://antennapod.org/privacy/) ⭐ |
+| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源App **[下载](https://f-droid.org/packages/de.danoeh.antennapod/)** 隐私政策 **[ Privacy Policy](https://antennapod.org/privacy/) ** |
 |  小宇宙 App https://www.xiaoyuzhoufm.com/ |
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://github.com/getstream/winds  |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                       |
@@ -237,18 +237,19 @@
 
 ### 声动活泼：
 
-| <img src="https://pic1.zhimg.com/v2-5e5c70a909b508e82fe1de7b99593c5e_xl.jpg" width="30"> 声动活泼 http://www.shengfm.cn/                          |
-|:--------------------------------------------------------|
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover_small.jpg" width="30"> 声东击西 https://www.etw.fm/    一群驻美记者主持的播客，带你看不一样的世界。    [RSS](https://feeds.fireside.fm/shengdongjixi/rss)|
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/cover_small.jpg" width="30"> 硅谷早知道 https://guiguzaozhidao.fireside.fm/           , [RSS](https://feeds.fireside.fm/guiguzaozhidao/rss)|
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/70018843-5b3e-44f8-9b7a-d534d8d55f0d/cover_small.jpg" width="30"> 到海外去 https://chuhai.co/                              , [RSS](https://feeds.fireside.fm/chuhai/rss)|
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/3b8349c0-ce14-4e22-b760-c0d04a7a111a/cover_small.jpg" width="30"> 反潮流俱乐部 https://fanchaoliuclub.fireside.fm      , [RSS](https://feeds.fireside.fm/fanchaoliuclub/rss)    |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/5/5518dbd2-171f-4b3b-af91-0698ee4d9d41/cover_small.jpg" width="30"> 泡腾VC https://popvc.fireside.fm/                     , [RSS](https://feeds.fireside.fm/popvc/rss)  |
-| <img src="https://imagev2.xmcdn.com/storages/b390-audiofreehighqps/19/2B/CMCoOSUEOeNeAAEXjwCY5l4v.jpeg" width="30"> 组织进化论 [RSS](https://feeds.fireside.fm/zuzhijinhualun/rss)|
-| <img src="https://imagev2.xmcdn.com/storages/3c7c-audiofreehighqps/CC/4C/CMCoOSEEE1gRAAR5MgCNZwzT.jpeg" width="30"> Pfizer Express|
-| <img src="https://imagev2.xmcdn.com/storages/da20-audiofreehighqps/DB/37/CMCoOSUEIRd5AAhUJwCRitav.jpeg" width="30"> 新增长学院|
-### 津津乐道：
+| <img src="https://pic1.zhimg.com/v2-5e5c70a909b508e82fe1de7b99593c5e_xl.jpg" width="30"> 声动活泼 http://www.shengfm.cn/ |
+| :----------------------------------------------------------- |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover_small.jpg" width="30"> 声东击西 https://www.etw.fm/    一群驻美记者主持的播客，带你看不一样的世界。    [RSS](https://feeds.fireside.fm/shengdongjixi/rss) |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/1/12647593-905b-40ef-8977-371837f74e89/cover_small.jpg" width="30"> 声动早咖啡 https://sheng-espresso.fireside.fm/ 浓缩、新鲜，商业科技轻解读。[RSS](https://feeds.fireside.fm/sheng-espresso/rss) |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/cover_small.jpg" width="30"> 硅谷早知道 https://guiguzaozhidao.fireside.fm/           , [RSS](https://feeds.fireside.fm/guiguzaozhidao/rss) |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/70018843-5b3e-44f8-9b7a-d534d8d55f0d/cover_small.jpg" width="30"> 到海外去 https://chuhai.co/                              , [RSS](https://feeds.fireside.fm/chuhai/rss) |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/3b8349c0-ce14-4e22-b760-c0d04a7a111a/cover_small.jpg" width="30"> 反潮流俱乐部 https://fanchaoliuclub.fireside.fm      , [RSS](https://feeds.fireside.fm/fanchaoliuclub/rss) |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/5/5518dbd2-171f-4b3b-af91-0698ee4d9d41/cover_small.jpg" width="30"> 泡腾VC https://popvc.fireside.fm/                     , [RSS](https://feeds.fireside.fm/popvc/rss) |
+| <img src="https://imagev2.xmcdn.com/storages/b390-audiofreehighqps/19/2B/CMCoOSUEOeNeAAEXjwCY5l4v.jpeg" width="30"> 组织进化论 [RSS](https://feeds.fireside.fm/zuzhijinhualun/rss) |
+| <img src="https://imagev2.xmcdn.com/storages/3c7c-audiofreehighqps/CC/4C/CMCoOSEEE1gRAAR5MgCNZwzT.jpeg" width="30"> Pfizer Express |
+| <img src="https://imagev2.xmcdn.com/storages/da20-audiofreehighqps/DB/37/CMCoOSUEIRd5AAhUJwCRitav.jpeg" width="30"> 新增长学院 |
 
+### 津津乐道：                                               
 | <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> https://dao.fm/ 。[RSS](https://feeds.jjldbk.com/all.xml) |
 |:------------------------|
 | <img src="https://imagev2.xmcdn.com/group83/M02/2A/BD/wKg5HV7d_jmiN5iWAAZ4pLIkU6M188.png" width="30"> 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客|
@@ -401,6 +402,12 @@
 | <img src="https://imagev2.xmcdn.com/group85/M00/A8/1C/wKg5JV9M-ReS74JHAAEg6UpoO-I116.jpg" width="30"> 非洲历险记｜非洲互联网出海指南 https://www.ximalaya.com/keji/41354524/ 。[RSS](https://www.ximalaya.com/album/41354524.xml)|
 | <img src="https://chinaafricaproject.com/wp-content/uploads/2019/06/logo-header.png" width="30"> The China Africa Project https://chinaafricaproject.com/ 。[RSS](https://rss.art19.com/china-in-africa) |
 
+### 法国
+
+||
+|:---|
+|Yooupi食途 [bilibili](https://space.bilibili.com/452412746) |
+
 ### 芬兰：
 
 ||
@@ -482,7 +489,7 @@
 | <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/renwen/2983895/ |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ 。[RSS](https://www.ximalaya.com/album/41367354.xml)|
 
-### 台湾：
+### 台湾：[TechTaiwan](https://techtaiwan.com/)
 
 ||
 |:-----|
@@ -496,7 +503,7 @@
 | <img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7bd1b08a-daee-463c-a306-3e8171fd25d9/cover_small.jpg"> 得閒飲茶 https://www.letsyumchashow.com/ 一個關於生活智慧、創新科技和本地文化的香港 Podcast|
 
 
-### 西班牙
+### 西班牙：
 
 ||
 |:-----|
@@ -507,7 +514,7 @@
 | |
 |:------------------------------------------------|
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/511262/round_logo-1400_dqjnwo.png" width="30"> BearTalk 狗熊有话说 https://www.beartalking.com/ Bear Liu <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/511262/smile2-square_y1sgka.png" width="30"> [RSS](https://feeds.fireside.fm/beartalk/rss) |
-| <img src="https://i1.hdslb.com/bfs/face/237381c79a9f4f4743c8986f1b5bd309e4fedad8.jpg@128w_128h_1o.webp" width="30"> 新西兰HaroldVlog [视频](https://space.bilibili.com/53579346) 生活分享 |
+| <img src="https://i1.hdslb.com/bfs/face/237381c79a9f4f4743c8986f1b5bd309e4fedad8.jpg@128w_128h_1o.webp" width="30"> 新西兰HaroldVlog [bilibili](https://space.bilibili.com/53579346) 生活分享 |
 
 
 ### 新加坡：
@@ -534,7 +541,10 @@
 
 ***************
 
+##### 殊途同行 https://gpte.fireside.fm/
+
 ##### .NET FM http://www.dotnet.fm/
+
 ##### 1dp不止聊设计 
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/99143479-6090-4849-87f2-33191cc9758b/cover_small.jpg" width="30"> 1UP 播客 https://1up.fireside.fm/
 ##### 35mm https://podcasts.apple.com/cn/podcast/35mm/id657286363
@@ -749,3 +759,5 @@
 
 
 ![stars](https://starchart.cc/alaskasquirrel/chinese-podcasts.svg)
+
+感谢 阮一峰 [科技爱好者周报](https://github.com/ruanyf/weekly) 推荐
