@@ -35,7 +35,7 @@
 | <img src="https://www.dogedoge.com/favicon/www.ximalaya.com.ico" width="35"> 喜马拉雅FM https://www.ximalaya.com/                                      |
 | <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/                                             |
 | <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/                                          |
-| <img src="./images/podcast.png" width="35"> Grover Podcast ( Windows10 Microsoft Store )                            |
+| <img src="./images/podcast.png" width="35"> Grover Podcast ( Microsoft Store )                           |
 
 ### 社群：
 
