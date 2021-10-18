@@ -23,7 +23,7 @@
 
 |  |
 |:------------------------------------------------------------------------ |
-| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源app **[下载](https://f-droid.org/packages/de.danoeh.antennapod/)** 隐私政策 **[ Privacy Policy](https://antennapod.org/privacy/) ** |
+| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源app **[下载](https://f-droid.org/packages/de.danoeh.antennapod/)**  [ Privacy Policy](https://antennapod.org/privacy/)  |
 | 小宇宙 app https://www.xiaoyuzhoufm.com/ |
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://github.com/getstream/winds  |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                       |
