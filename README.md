@@ -1,4 +1,4 @@
-感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly) 对于本项目的收纳推广！ 
+感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与！
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对于每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
@@ -23,22 +23,22 @@
 
 |  |
 |:------------------------------------------------------------------------ |
-| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源app **[下载](https://f-droid.org/packages/de.danoeh.antennapod/)**  [ Privacy Policy](https://antennapod.org/privacy/)  |
-| 小宇宙 app https://www.xiaoyuzhoufm.com/ |
-| <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://github.com/getstream/winds  |
+| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源app  [隐私政策 Privacy Policy](https://antennapod.org/privacy/) |
+| 小宇宙 app https://www.xiaoyuzhoufm.com/ [隐私政策](https://post.xiaoyuzhoufm.com/podcast-privacy/) |
+| <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://getstream.io/winds/ |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                       |
-| <img src="https://www.dogedoge.com/favicon/player.soundon.fm.ico" width="40"> SoundOn                                   |
+| <img src="https://www.dogedoge.com/favicon/player.soundon.fm.ico" width="40"> [SoundOn](https://www.soundon.fm/) [隱私權政策](https://www.soundon.fm/new-page-2) |
 | <img src="./images/moon.png" width="40"> Moon fm  https://moon.fm/                                                 |
 | <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png" width="40"> Apple Podcast                                                            |
 | <img src="https://www.dogedoge.com/favicon/podcasts.google.com.ico" width="40"> Google Podcasts                                                          |
 | <img src="https://www.dogedoge.com/favicon/www.pocketcasts.com.ico" width="40"> Pocket Casts                                                             |
 | <img src="https://www.dogedoge.com/favicon/soundcloud.com.ico" width="40"> SoundCloud                                                               |
 | <img src="https://rmt.dogedoge.com/rmt/QUjOFiAcdgNF-861xjq1hsTtvMydw5NCS9TawvKscNflq7DS0cy8iQ2xjV?w=212&h=130" width="50"> Overcast                                                                 |
-| <img src="https://www.dogedoge.com/favicon/www.ximalaya.com.ico" width="35"> 喜马拉雅FM https://www.ximalaya.com/                                      |
-| <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/                                             |
-| <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/                                          |
-| <img src="./images/podcast.png" width="35"> Grover Podcast ( Microsoft Store )                           |
-| <img src="https://www.breaker.audio/packs/breaker-logo-2b5ff175e58d8da25c76d037f7d8c6b2.svg" width="35"> Breaker https://www.breaker.audio|
+| <img src="https://www.dogedoge.com/favicon/www.ximalaya.com.ico" width="35"> 喜马拉雅FM https://www.ximalaya.com/ [隐私政策](https://passport.ximalaya.com/page/privacy_policy) |
+| <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/ [隐私政策](https://www.lizhi.fm/about/privacy.html) |
+| <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/ [隐私政策](https://sss.qtfm.cn/qt-agreement/privacy-20190724.html) |
+| <img src="./images/podcast.png" width="35"> [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)  ( Microsoft Store ) |
+| <img src="https://www.breaker.audio/packs/breaker-logo-2b5ff175e58d8da25c76d037f7d8c6b2.svg" width="35"> Breaker https://www.breaker.audio |
 
 ### 社群：
 
@@ -549,11 +549,13 @@
 |:---------|
 | <img src="https://imagev2.xmcdn.com/storages/6780-audiofreehighqps/86/A8/CMCoOSMDd346AADSBABjcu6X.jpg" width="30"> 什锦英国：一档在伦敦录制的关于英国热门话题的访谈节目， 话题包括 创业 、科技和生活。 [RSS](https://www.ximalaya.com/album/43434558.xml)  |
 | <img src="https://imagev2.xmcdn.com/storages/cf0c-audiofreehighqps/CC/72/CMCoOSMDZiO_AADm1wBfYKfl.jpg" width="30"> 胡思乱讲 MadTalk [RSS](https://www.ximalaya.com/album/43034419.xml)|
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f243813e-4089-4595-a8fa-5f2f1fed7427/cover_small.jpg" width="30"> 有空聊聊 [RSS](https://feeds.fireside.fm/mindthegapfm/rss) 收录了四个不务正业的年轻人游走伦敦的心得体会与对各类热点的不严谨讨论。|
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f243813e-4089-4595-a8fa-5f2f1fed7427/cover_small.jpg" width="30"> 不伦不类 [RSS](https://feeds.fireside.fm/mindthegapfm/rss) 收录了四个不务正业的年轻人游走伦敦的心得体会与对各类热点的不严谨讨论。 |
 
 ### 待分类：
 
-***************
+
+
+##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/0/0ac8e3e9-6081-444e-98cc-e3c4f5b89bbf/cover_small.jpg" width="30"> 别听RoitVoice https://riotvoice0724.fireside.fm/
 
 ##### 殊途同行 https://gpte.fireside.fm/
 
