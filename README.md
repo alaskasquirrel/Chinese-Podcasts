@@ -1,6 +1,6 @@
-感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与！
+感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
-免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对于每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
+免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
 **兼听则明，偏信则暗**
 
@@ -10,16 +10,16 @@
 
 ||||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[社群](#社群)|[应用App](#应用app)|[EnglishTalk](#englishtalk)|
+|[社群](#社群)|[应用App](#应用app)|[EnglishTalk](#englishtalk)|||||
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
-|[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)| [有知有行电台](#有知有行电台) |
+|[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
-|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[编程语言PL](#编程语言PL)|
+|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)||
 |[北京](#北京)|[重庆](#重庆)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|[爱尔兰](#爱尔兰)|
-|[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|[日本](#日本)|
-|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)|
+|[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|
+|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)||
 
-##### 播客app：推荐⭐[F-Droid](https://f-droid.org/) 自由开源的 Android 应用商店
+##### 播客app：[关注隐私](https://github.com/ffffffff0x/Digital-Privacy)
 
 |  |
 |:------------------------------------------------------------------------ |
@@ -37,6 +37,7 @@
 | <img src="https://www.dogedoge.com/favicon/www.ximalaya.com.ico" width="35"> 喜马拉雅FM https://www.ximalaya.com/ [隐私政策](https://passport.ximalaya.com/page/privacy_policy) |
 | <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/ [隐私政策](https://www.lizhi.fm/about/privacy.html) |
 | <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/ [隐私政策](https://sss.qtfm.cn/qt-agreement/privacy-20190724.html) |
+| <img src="https://www.qishuier.com/img/index_logo.c27fc9e3.png" width="35"> 汽水儿 https://www.qishuier.com/  [隐私政策](https://www.qishuier.com/privacy) |
 | <img src="./images/podcast.png" width="35"> [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)  ( Microsoft Store ) |
 | <img src="https://www.breaker.audio/packs/breaker-logo-2b5ff175e58d8da25c76d037f7d8c6b2.svg" width="35"> Breaker https://www.breaker.audio |
 
@@ -59,6 +60,8 @@
 ##### <img src="./images/hubbub.png" width="40"> 中文播客(Chinese Podcast) https://hubbub.top/ 收集中文内容的Podcasts内容，喧嚣的世界才真实。
 
 ##### <img src="https://www.dogedoge.com/favicon/wiki.zpodcasts.com.ico" width="35"> Zpodcasts - 寻找Z时代的独立播客 https://wiki.zpodcasts.com/
+
+<img src="https://podcastaddict.com/res/images/logo.svg" width="30"> [Podcast Addict](https://podcastaddict.com/) Search
 
 ### EnglishTalk:
 
@@ -112,7 +115,7 @@
 |:--------------------------------|
 | <img src="https://rmt.dogedoge.com/rmt/TUNSnJmGsmpqXrSOoGmnYbNbjrRQExcCblLjxTL5qMO4ugZqP7dLhS-6qQ?w=212&h=130" width="30"> Unchained https://unchainedpodcast.com/ Laura Shin |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg" width="30"> Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。 [RSS](https://feeds.fireside.fm/forkit/rss)   |
-| <img src="https://imagev2.xmcdn.com/group70/M08/8F/49/wKgO2F45TUDhDR6wAAmd1OHKvd032.jpeg" width="30"> 胖车库 Fat Garage https://www.ximalaya.com/keji/29606210/  Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 |
+| <img src="https://imagev2.xmcdn.com/group70/M08/8F/49/wKgO2F45TUDhDR6wAAmd1OHKvd032.jpeg" width="30"> 胖车库 Fat Garage \| Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 [RSS](https://www.ximalaya.com/album/29606210.xml) |
 | <img src="https://rmt.dogedoge.com/rmt/QUHd2tNW9iGhi45vmlT_pPuKCiSCON6OWXDjCDkQuo8YNJxrcr326_w2kb?w=212&h=130" width="30"> 區塊勢 https://blocktrend.substack.com/  |
 
 ### ThoughtWorks:
@@ -243,9 +246,11 @@
 |:----------------------------------------------------|
 | <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/  |
 | <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/  |
-| <img src="https://imagev2.xmcdn.com/group65/M06/7D/F0/wKgMal1T83qjKQjjAAVZivonmEE902.jpg" width="30"> 英超TACO https://www.ximalaya.com/toutiao/26659536/ |
+| <img src="https://imagev2.xmcdn.com/storages/f21c-audiofreehighqps/E9/9A/CMCoOSQE0ZwRAAMhuADM8t3Y.jpeg" width="35"> 英超无双 [RSS](https://www.ximalaya.com/album/51554220.xml) |
+| <img src="https://imagev2.xmcdn.com/group65/M06/7D/F0/wKgMal1T83qjKQjjAAVZivonmEE902.jpg" width="30"> 英超TACO [RSS](https://www.ximalaya.com/album/26659536.xml) |
+| <img src="https://imagev2.xmcdn.com/group34/M05/3D/40/wKgJYVnfRjiSmhh7AAWsYclsmvs783.jpg" width="35"> 英超二锅头 [RSS](https://www.ximalaya.com/album/11039434.xml) |
 | <img src="https://imagev2.xmcdn.com/group5/M01/10/D7/wKgDtVN3qtewHR9gAACITCRvZqg727.jpg" width="30"> 看台FM https://www.ximalaya.com/toutiao/256195/    |
-| <img src="https://imagev2.xmcdn.com/group67/M06/28/F0/wKgMbV25lPGyUPIEAACXntrpo24476.jpg" width="30"> FreeKick-不止于足球场 https://www.ximalaya.com/toutiao/30569313/  |
+| <img src="https://imagev2.xmcdn.com/group67/M06/28/F0/wKgMbV25lPGyUPIEAACXntrpo24476.jpg" width="30"> FreeKick-不止于足球场 [RSS](https://www.ximalaya.com/album/30569313.xml) |
 
 ### 声动活泼：
 
@@ -372,6 +377,12 @@
 | [Guy Steele Interviews John McCarthy, Father of Lisp](https://www.infoq.com/interviews/Steele-Interviews-John-McCarthy/) |
 | [The Evolution of Lisp](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/) |
 
+### 喜剧：
+
+||
+|:---|
+|<img src="https://imagev2.xmcdn.com/storages/d208-audiofreehighqps/26/DD/CMCoOSQED90CAANJoQCMdQaR.jpeg" width="35"> 嘻谈录 [RSS](https://www.ximalaya.com/album/43044571.xml)|
+
 ### 北京：
 
 <a href="https://book.douban.com/subject/4243217/"><img src="https://img3.doubanio.com/view/subject/s/public/s4200030.jpg" width="100"></a>
@@ -420,13 +431,13 @@
 ||
 |:---|
 |Yooupi食途 [bilibili](https://space.bilibili.com/452412746) |
+|[不拘一格 nevermind]() 一档由三位留法无业游民在餐桌上发起的泛文化类谈话节目，话题涉及社会新闻、女性主义、文学艺术等领域。 |
 
 ### 芬兰：
 
 ||
 |:-----|
 | <img src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png" width="30"> 代码时间  (终结) [Xi Xiao](https://github.com/xixiaofinland)  |
-
 
 ### 荷兰：
 
@@ -553,7 +564,19 @@
 
 ### 待分类：
 
+<img src="https://imagev2.xmcdn.com/storages/5fe0-audiofreehighqps/6B/D0/CMCoOSIENkXSAASA_wCXwStF.jpeg" width="35"> 西四五条[RSS](https://www.ximalaya.com/album/8767520.xml)
 
+<img src="https://imagev2.xmcdn.com/storages/deda-audiofreehighqps/69/56/CMCoOSAEEodCAASahACNGTSj.jpeg" width="35">  [RSS](https://www.ximalaya.com/album/42542290.xml)
+
+<img src="https://imagev2.xmcdn.com/group49/M03/31/3E/wKgKmFvucZ2C2w0cAA3goUkqGjQ278.jpg" width="35"> 无聊斋 [RSS](https://www.ximalaya.com/album/14302859.xml)
+
+<img src="https://imagev2.xmcdn.com/group84/M00/6C/65/wKg5JF9fHj3wtEWVABNz_z3N2Zk871.jpg" width="35"> 限时肤浅 [RSS](https://www.ximalaya.com/album/41317943.xml)
+
+<img src="https://imagev2.xmcdn.com/group68/M00/B7/30/wKgMeF3vuTvBPd6JAAyoTglt03Y395.jpg" width="35"> Workday Drinks [RSS](https://www.ximalaya.com/album/31602259.xml)
+
+阿里发发 | 女孩们的每周闲聊 [RSS](https://www.ximalaya.com/album/36092962.xml)
+
+##### [生活减速带](https://tensounds.fireside.fm/)
 
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/0/0ac8e3e9-6081-444e-98cc-e3c4f5b89bbf/cover_small.jpg" width="30"> 别听RoitVoice https://riotvoice0724.fireside.fm/
 
@@ -566,6 +589,7 @@
 ##### 35mm https://podcasts.apple.com/cn/podcast/35mm/id657286363
 ##### <img src="https://cdnimg103.lizhi.fm/user/2017/07/26/2615263536464406018_160x160.jpg" width="30"> 578广播 http://www.lizhi.fm/user/2526095467367431212
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/a/a2a4d3d1-b8dc-4db4-b6d9-013a5534a6f1/cover_small.jpg" width="30"> 8090有限公司 https://8090.fireside.fm/ 一档分享八九十年代港台流行好歌的节目。
+
 ##### <img src="https://cdnimg103.lizhi.fm/user/2015/06/14/20746610842570370_160x160.jpg" width="30"> 80度Radio http://www.lizhi.fm/user/1615
 ##### 安替波普  一档由三位新闻媒体工作者Jeff、海博和云亭开设的播客。我们怀疑死板的“进步主义”，提倡“喜旧厌新”在当今的价值。毕竟，与日新月异的科技相比，我们肉体进化的速度远比预想的迟缓。
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/a/afd6b3d0-79d5-4b85-9035-387a115300e7/cover_small.jpg" width="30"> AspirinFM https://aspirinfm.fireside.fm/ 一个非常业余的播客节目，制作粗劣，毫不专业，话题杂乱，没有干货，全是瞎扯淡。
@@ -698,6 +722,7 @@
 ##### 三好坏男孩 https://www.ximalaya.com/yule/229720/
 ##### 三饮（3drinks）
 ##### 三分之一 OneThird
+
 ##### 三匹怪物儿
 ##### 什么电台 https://www.ximalaya.com/zhubo/28109901/
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
@@ -706,6 +731,7 @@
 ##### 时差调频 https://www.ximalaya.com/zhubo/4403009
 ##### 四方论 https://www.ximalaya.com/renwen/15953278/
 ##### 说东道西
+
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
 ##### The CJ Show
 ##### TheFWordPodcast
