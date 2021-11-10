@@ -10,7 +10,7 @@
 
 ||||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[社群](#社群)|[应用App](#应用app)|[EnglishTalk](#englishtalk)|||||
+|[播客app](#播客app)|[社群](#社群)|[新增 vlog](#新增 vlog )|[EnglishTalk](#englishtalk)||||
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
@@ -62,6 +62,13 @@
 ##### <img src="https://www.dogedoge.com/favicon/wiki.zpodcasts.com.ico" width="35"> Zpodcasts - 寻找Z时代的独立播客 https://wiki.zpodcasts.com/
 
 <img src="https://podcastaddict.com/res/images/logo.svg" width="30"> [Podcast Addict](https://podcastaddict.com/) Search
+
+### 新增 vlog
+||
+|:-----|
+||
+||
+|[bopular](https://space.bilibili.com/303098642/video) 哔哩哔哩|
 
 ### EnglishTalk:
 
@@ -129,10 +136,10 @@
 
 ### GGV:
 
-| 纪源资本 https://www.ggvchina.com/                      |
-|:-------------------------------------------------------------------|
-| <img src="https://imagev2.xmcdn.com/group64/M06/93/59/wKgMc12j9DrRTBvxAAevNMKEayc10.jpeg" width="30"> Evolving for The Next Billion https://nextbn.ggvc.com/             |
-| <img src="https://imagev2.xmcdn.com/group72/M07/12/E4/wKgO0F4b79PCziP-AAKVgY5nhrM58.jpeg" width="30"> 创业内幕 Startup Insider https://www.ximalaya.com/shangye/20119986/ |
+| 纪源资本 https://www.ggvchina.com/                           |
+| :----------------------------------------------------------- |
+| <img src="https://imagev2.xmcdn.com/group64/M06/93/59/wKgMc12j9DrRTBvxAAevNMKEayc10.jpeg" width="30"> Evolving for The Next Billion https://nextbn.ggvc.com/ |
+| <img src="https://imagev2.xmcdn.com/group72/M07/12/E4/wKgO0F4b79PCziP-AAKVgY5nhrM58.jpeg" width="30"> 创业内幕 Startup Insider https://www.ximalaya.com/shangye/20119986/ [RSS](https://www.ximalaya.com/album/20119986.xml) |
 
 ### History:
 
@@ -145,8 +152,8 @@
 ### JustPod:
 
 | <img src="https://imagev2.xmcdn.com/group64/M09/A6/00/wKgMc117yvvhiD2EAAAWnza32IQ55.jpeg" width="30"> https://www.ximalaya.com/zhubo/104088857/ ； https://justpodmedia.com/ |
-|:----------------------------------------------------------------|
-| <img src="https://imagev2.xmcdn.com/group63/M09/B4/93/wKgMaF2jnNbRhxd-AAPFmyK0BY0816.jpg" width="30"> 忽左忽右 https://www.ximalaya.com/toutiao/12817863/ |
+| :----------------------------------------------------------- |
+| <img src="https://imagev2.xmcdn.com/group63/M09/B4/93/wKgMaF2jnNbRhxd-AAPFmyK0BY0816.jpg" width="30"> 忽左忽右 https://www.ximalaya.com/toutiao/12817863/ [RSS](https://www.ximalaya.com/album/12817863.xml) |
 | <img src="https://imagev2.xmcdn.com/group79/M03/B9/DB/wKgPC16oVSHQNjLJAARTEZ2G50o555.png" width="30"> 东亚观察局 https://www.ximalaya.com/toutiao/37399737/ |
 | <img src="https://imagev2.xmcdn.com/group74/M05/91/B0/wKgO3F5hldahF71TAA2Xt_uh490338.png" width="30"> 去现场 https://www.ximalaya.com/yule/30766335/ |
 | <img src="https://imagev2.xmcdn.com/group79/M00/50/0A/wKgPC17LeOvwM9klAAZSx1XNg5U926.png" width="30"> 天方乐谈 https://www.ximalaya.com/yinyue/38321797/ |
@@ -158,7 +165,7 @@
 | Marcast http://marcastmedia.com/ |
 |:---------------------------------------------------|
 | <img src="https://imagev2.xmcdn.com/group65/M07/FE/C7/wKgMdF1d4u_jv2uaAAfoPLJYWyg226.png" width="30"> 务虚多言 https://www.ximalaya.com/keji/27246730/  |
-| <img src="https://imagev2.xmcdn.com/group54/M05/14/A5/wKgLcl3_boDA9i-9AAOkZiUzcmI662.png" width="30"> 贤者时间 https://www.ximalaya.com/yule/31879246/  |
+| <img src="https://imagev2.xmcdn.com/group54/M05/14/A5/wKgLcl3_boDA9i-9AAOkZiUzcmI662.png" width="30"> 贤者时间 https://www.ximalaya.com/yule/31879246/ [RSS](https://www.ximalaya.com/album/31879246.xml) |
 | <img src="https://imagev2.xmcdn.com/group65/M05/10/6B/wKgMal2DOJqQw1bHAATupmy2kAY705.png" width="30"> 温柔人类 GentleHuman https://www.ximalaya.com/renwen/29344196/  |
 | <img src="https://imagev2.xmcdn.com/storages/9f52-audiofreehighqps/42/63/CMCoOSIDvyShABTUlwB1nmSB.jpeg" width="30"> 定向跳转 Redirect |
 
@@ -284,7 +291,7 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/e/e2d6df2f-27f8-4215-9a3d-1aa664fa374b/cover_small.jpg" width="30"> 二手时间 [RSS](https://feeds.fireside.fm/secondhandtime/rss) 由几个常驻欧洲的技术领域工作者发起，是一档不设限的播客节目。|
 | [新闻实验室](https://feed.xyzfm.space/xxkgbvrglujv) |
 | <img src="https://imagev2.xmcdn.com/group73/M01/BA/E5/wKgO0V50K1jwsgZUAABBh6B7YSM480.jpg" width="30"> 不上班公社：探索远程/自由职业/数字游民/环球旅者的在线职业规划和生活方式，正在文字/播客/视频采访「100种告别996的方法」。 [RSS](https://www.ximalaya.com/album/29658030.xml)|
-| <img src="https://i.typcdn.com/pythonhunter/8444690454_041962.png" width="30"> 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。   |
+| <img src="https://i.typcdn.com/pythonhunter/8444690454_041962.png" width="30"> 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。[RSS](https://pythonhunter.org/episodes/feed.xml) |
 | <img src="https://imagev2.xmcdn.com/group82/M0A/10/87/wKg5HF8_ad7TZkH-AAJLWxMuWD804.jpeg" width="30"> 打工谈：一个以工人为主角的播客节目。[RSS1](https://www.ximalaya.com/album/41064933.xml) , [RSS2](https://anchor.fm/s/31bf5294/podcast/rss) |
 | <img src="https://talk.swift.gg/static/logo.jpg" width="30"> ggtalk 程序员的闲聊 https://talk.swift.gg 接地气、有价值的闲聊节目。 [RSS](https://talkcdn.swift.gg/static/rss.xml)    |
 | <img src="https://imagev2.xmcdn.com/storages/e1cb-audiofreehighqps/A0/68/CMCoOR4Dgtc7AACw-ABmNQ-Y.png" width="30"> IndieHackers 独立开发者 [RSS](https://www.ximalaya.com/album/43692352.xml)|
@@ -311,15 +318,15 @@
 | <img src="https://static.cscript.site/podcast_green.png" width="30"> 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
 | <img src="https://podcast.astrianzheng.com/images/echo.js.logo.jpg" width="30"> Echo.js https://podcast.astrianzheng.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。[RSS](https://podcast.astrianzheng.com/podcast.xml)|
 | <img src="https://pan.icu/assets/banner.panicu.svg" width="30"> 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
-| <img src="https://imagev2.xmcdn.com/group47/M00/9E/AE/wKgKk1tNWtuyp3rgAAHfFSYGa24687.jpg" width="30"> 无时差研究所 https://www.ximalaya.com/shishang/13506198/ |
-| <img src="https://imagev2.xmcdn.com/group56/M00/DC/5A/wKgLgFyAHObRtGG8ABT3S9kKSPU99.jpeg" width="30"> 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ |
+| <img src="https://imagev2.xmcdn.com/group47/M00/9E/AE/wKgKk1tNWtuyp3rgAAHfFSYGa24687.jpg" width="30"> 无时差研究所 https://www.ximalaya.com/shishang/13506198/ [RSS](https://www.ximalaya.com/album/13506198.xml) |
+| <img src="https://imagev2.xmcdn.com/group56/M00/DC/5A/wKgLgFyAHObRtGG8ABT3S9kKSPU99.jpeg" width="30"> 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ [RSS](https://www.ximalaya.com/album/19242373.xml) |
 | <img src="https://imagev2.xmcdn.com/group79/M00/83/12/wKgPC17NYALw78dyAAGJvzdXEE4979.png" width="30"> 意马心猿 https://www.ximalaya.com/keji/38372946/ |
 | <img src="https://codechina.org/wp-content/uploads/2020/05/IMG_1012.jpeg" width="30"> Tinyfool [视频](https://space.bilibili.com/210837720) |
-| <img src="https://imagev2.xmcdn.com/group46/M00/BD/21/wKgKj1tr8GOCeLHQAACELvVwiKg890.jpg" width="30"> 虎扯电台 https://www.ximalaya.com/yule/15384496/ |
+| <img src="https://imagev2.xmcdn.com/group46/M00/BD/21/wKgKj1tr8GOCeLHQAACELvVwiKg890.jpg" width="30"> 虎扯电台 https://www.ximalaya.com/yule/15384496/ [RSS](https://www.ximalaya.com/album/15384496.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/a541-audiofreehighqps/E2/FB/CMCoOR4DqPWLAACbmwBwONLs.jpg" width="30"> 再见老板 https://www.ximalaya.com/gerenchengzhang/44649712/ |
 | <img src="https://imagev2.xmcdn.com/group60/M01/4C/07/wKgLeVy8af_S4i3NAAF0EvG_L9M390.png" width="30"> WEB WIEW http://webview.tech/ 不囿于WEB,不止于WIEW。[RSS](https://webview.tech/feed/podcast/) |
 | <img src="https://imagev2.xmcdn.com/group76/M04/15/FB/wKgO1F5HdYzTTq6CAAO2MBIEZ8o540.png" width="30">   调试者说 [RSS](https://www.ximalaya.com/album/33698778.xml)|
-| <img src="https://fyfy.fm/images/logo.jpg" width="30"> 枫言枫语 http://fyfy.fm/|
+| <img src="https://fyfy.fm/images/logo.jpg" width="30"> 枫言枫语 http://fyfy.fm/ [RSS](https://justinyan.me/feed/podcast) |
 | <img src="https://techfusionfm.com/images/logo@2x.png" width="30"> 科技聚变 https://techfusionfm.com/  |
 
 ### 科学：
