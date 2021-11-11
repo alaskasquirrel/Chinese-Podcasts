@@ -10,7 +10,7 @@
 
 ||||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[播客app](#播客app)|[社群](#社群)|[新增vlog](#新增vlog)|[EnglishTalk](#englishtalk)||||
+|[播客app](#播客app)|[社群](#社群)|[vlog](#vlog)|[EnglishTalk](#englishtalk)||||
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
@@ -33,6 +33,8 @@
 | <img src="https://www.dogedoge.com/favicon/podcasts.google.com.ico" width="40"> Google Podcasts                                                          |
 | <img src="https://www.dogedoge.com/favicon/www.pocketcasts.com.ico" width="40"> Pocket Casts                                                             |
 | <img src="https://www.dogedoge.com/favicon/soundcloud.com.ico" width="40"> SoundCloud                                                               |
+| <img src="https://logospng.org/download/spotify/logo-spotify-icon-1024.png" width="30"> Spotify |
+| <img src="http://www.theindustryobserver.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-09-29-at-12.23.21-pm.png" width="30"> [Anchor](https://anchor.fm/) - The easiest way to make a podcast |
 | <img src="https://rmt.dogedoge.com/rmt/QUjOFiAcdgNF-861xjq1hsTtvMydw5NCS9TawvKscNflq7DS0cy8iQ2xjV?w=212&h=130" width="50"> Overcast                                                                 |
 | <img src="https://www.dogedoge.com/favicon/www.ximalaya.com.ico" width="35"> 喜马拉雅FM https://www.ximalaya.com/ [隐私政策](https://passport.ximalaya.com/page/privacy_policy) |
 | <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/ [隐私政策](https://www.lizhi.fm/about/privacy.html) |
@@ -63,12 +65,17 @@
 
 <img src="https://podcastaddict.com/res/images/logo.svg" width="30"> [Podcast Addict](https://podcastaddict.com/) Search
 
-### 新增vlog
+
+
+### vlog：
+
 ||
 |:-----|
-||
-||
+|[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
+|[Unzicker's Real Physics](https://www.youtube.com/user/TheMachian/videos)|
 |[bopular](https://space.bilibili.com/303098642/video) 哔哩哔哩|
+
+
 
 ### EnglishTalk:
 
@@ -89,6 +96,8 @@
 | <img src="https://file.caixin.com/en/web/img/logo.jpg" width="30"> Caixin SINICA https://www.caixinglobal.com/audio/ |
 | [Interpreting India](https://carnegieindia.org/interpretingindia/) , [RSS](https://feeds.simplecast.com/PJlAlBwi)|
 | <img src="https://dongfanghour.files.wordpress.com/2020/05/dongfang-hour-logo-low-res.png?w=300" width="30"> Dongfang Hour 東方鴻 https://dongfanghour.com/ |
+
+
 
 ### IPN:
 
