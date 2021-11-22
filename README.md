@@ -2,7 +2,7 @@
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
-**兼听则明，偏信则暗**
+**兼听则明，偏信则暗 **
 
 ********
 
@@ -14,7 +14,7 @@
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
-|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)||
+|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
 |[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|[爱尔兰](#爱尔兰)|
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|
 |[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)||
@@ -298,6 +298,7 @@
 ||
 |:----|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/e/e2d6df2f-27f8-4215-9a3d-1aa664fa374b/cover_small.jpg" width="30"> 二手时间 [RSS](https://feeds.fireside.fm/secondhandtime/rss) 由几个常驻欧洲的技术领域工作者发起，是一档不设限的播客节目。|
+| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/1/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/cover_small.jpg"> [晚点聊 LateTalk](https://podcast.latepost.com/) 以多视角观察当代商业社会，和身处其中的个人 [RSS](https://feeds.fireside.fm/latetalk/rss) |
 | [新闻实验室](https://feed.xyzfm.space/xxkgbvrglujv) |
 | <img src="https://imagev2.xmcdn.com/group73/M01/BA/E5/wKgO0V50K1jwsgZUAABBh6B7YSM480.jpg" width="30"> 不上班公社：探索远程/自由职业/数字游民/环球旅者的在线职业规划和生活方式，正在文字/播客/视频采访「100种告别996的方法」。 [RSS](https://www.ximalaya.com/album/29658030.xml)|
 | <img src="https://i.typcdn.com/pythonhunter/8444690454_041962.png" width="30"> 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。[RSS](https://pythonhunter.org/episodes/feed.xml) |
@@ -337,6 +338,15 @@
 | <img src="https://imagev2.xmcdn.com/group76/M04/15/FB/wKgO1F5HdYzTTq6CAAO2MBIEZ8o540.png" width="30">   调试者说 [RSS](https://www.ximalaya.com/album/33698778.xml)|
 | <img src="https://fyfy.fm/images/logo.jpg" width="30"> 枫言枫语 http://fyfy.fm/ [RSS](https://justinyan.me/feed/podcast) |
 | <img src="https://techfusionfm.com/images/logo@2x.png" width="30"> 科技聚变 https://techfusionfm.com/  |
+
+### 开源：
+
+||
+|:------|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/853d-audiofreehighqps/30/B6/CKwRIRwFSzGsAAC7mQDv-DiF.jpeg"> [开源面对面](https://github.com/opensource-f2f/episode)： 一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。[RSS](http://www.ximalaya.com/album/53320813.xml)，[哔哩哔哩](https://space.bilibili.com/433584098/channel/detail?cid=200059)(视频)， [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/)(音频)，[YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg)(视频).|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/957d-audiofreehighqps/0C/F0/CMCoOSIE6Y1NAABsuADWQ_ey.jpg"> 迪魔王 Devmore - More about Dev 随着开发者生态发展，围绕开发者产生了很多职业，我们想邀请各种种类的朋友们来唠唠嗑，他们到底在做什么？他们可爱吗？他们怎么想？他们开心吗？揭秘  Devmore 的日常。 [RSS](https://www.ximalaya.com/album/52069269.xml)|
+|[ByteTalk](https://bytetalk.fm/) 聊聊程序员的故事  [RSS](https://bytetalk.fm/index.xml)|
+|<img width="35" src="https://imagev2.xmcdn.com/group79/M07/78/9E/wKgPEF64-KLwI4UkAAgJL_vpYHo513.png"> ALC Beijing Podcast 作为 Apache 本地社区的一份子， 致力于通过帮助开源爱好者更好的在 Apache 社区生根发芽。[RSS](https://www.ximalaya.com/album/37853515.xml)|
 
 ### 科学：
 
@@ -807,8 +817,10 @@
 ##### 振兴说
 ##### <img src="https://imagev2.xmcdn.com/group66/M06/15/6A/wKgMdV1M49TSjeReAA2HoliP7Qc097.jpg" width="30"> 醉后调频 https://www.ximalaya.com/shishang/8186579/
 ##### 歪椅
+
 ##### WES陈
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/3d4c04aa-3b66-4783-b6f7-23a98ba9a5e4/cover_small.jpg" width="30"> 晚风说 https://podcasts.cosmosrepair.com/
+
 ##### <img src="https://imagev2.xmcdn.com/group41/M08/DE/B7/wKgJ8lqpNIvhJx8IAAEIhQC1vs0336.jpg" width="30"> 未来科技局 https://www.ximalaya.com/keji/14227144/
 ##### 闻道医声 
 ##### <img src="https://www.voicer.me/wp-content/themes/voicer3/images/logo@2x.png" width="30"> VoicerFM https://music.163.com/#/user/264729294 灵感点亮生活，生活温暖人心。线上杂志Voicer，分享生活与设计的美学。
