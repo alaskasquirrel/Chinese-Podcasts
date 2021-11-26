@@ -2,7 +2,7 @@
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
-**兼听则明，偏信则暗**
+**兼听则明，偏信则暗 **
 
 ********
 
@@ -14,9 +14,9 @@
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
-|[科学](#科学)|[文化沙龙](#文化沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
-|[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|[爱尔兰](#爱尔兰)|
-|[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[加拿大](#加拿大)|[美国](#美国)|
+|[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
+|[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|
+|[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)||
 
 ##### 播客app：[关注隐私](https://github.com/ffffffff0x/Digital-Privacy)
@@ -73,7 +73,7 @@
 |:-----|
 |[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
 |[Unzicker's Real Physics](https://www.youtube.com/user/TheMachian/videos)|
-|[bopular](https://space.bilibili.com/303098642/video) 哔哩哔哩|
+|[bopular](https://space.bilibili.com/303098642/video) bilibili|
 
 
 
@@ -260,13 +260,18 @@
 
 | |
 |:----------------------------------------------------|
-| <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/  |
-| <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/  |
+| <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/ |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/5159-audiofreehighqps/08/86/CMCoOSAEVblDAADSagChP1HV.jpg"> 金相凯电台 https://www.ximalaya.com/toutiao/48838359/ 足球热点，赛事评论，战术解析，历史钩沉，场内故事，场外花絮。 |
+| <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/ 两位阿森纳球迷主播将通过对球场故事的回溯，带出对经济、文化、历史等方面的解读。 |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/2221-audiofreehighqps/B9/95/CKwRINsFAg93AAFufQDd0PVr.jpeg"> 超级颜论｜肆客体育 https://www.ximalaya.com/toutiao/43280832/ |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/33f8-audiofreehighqps/D5/90/CMCoOSUEygm6AAOUSADJ7WMh.jpeg"> 足球咖啡馆 [RSS](https://www.ximalaya.com/album/39304323.xml) 一杯咖啡的时间，陪你聊足球，但不止于足球。 |
 | <img src="https://imagev2.xmcdn.com/storages/f21c-audiofreehighqps/E9/9A/CMCoOSQE0ZwRAAMhuADM8t3Y.jpeg" width="35"> 英超无双 [RSS](https://www.ximalaya.com/album/51554220.xml) |
-| <img src="https://imagev2.xmcdn.com/group65/M06/7D/F0/wKgMal1T83qjKQjjAAVZivonmEE902.jpg" width="30"> 英超TACO [RSS](https://www.ximalaya.com/album/26659536.xml) |
-| <img src="https://imagev2.xmcdn.com/group34/M05/3D/40/wKgJYVnfRjiSmhh7AAWsYclsmvs783.jpg" width="35"> 英超二锅头 [RSS](https://www.ximalaya.com/album/11039434.xml) |
+| <img width="35" src="https://imagev2.xmcdn.com/group77/M04/3C/43/wKgO316dZXrB3SKxAAj2QzL8Ilw898.jpg"> 足球无双 [RSS](https://www.ximalaya.com/album/37042779.xml) 讨论一切和足球有关的话题，不管是比赛、还是俱乐部球星，亦或是足坛八卦，我们统统一网打尽。 |
+| <img src="https://imagev2.xmcdn.com/group65/M06/7D/F0/wKgMal1T83qjKQjjAAVZivonmEE902.jpg" width="30"> 英超TACO [RSS](https://www.ximalaya.com/album/26659536.xml) 非正式侃球，聊聊一周英超发生的二三事。 |
+| <img src="https://imagev2.xmcdn.com/group34/M05/3D/40/wKgJYVnfRjiSmhh7AAWsYclsmvs783.jpg" width="35"> 英超二锅头 [RSS](https://www.ximalaya.com/album/11039434.xml) 比不正经的正经，比正经的不正经。 |
 | <img src="https://imagev2.xmcdn.com/group5/M01/10/D7/wKgDtVN3qtewHR9gAACITCRvZqg727.jpg" width="30"> 看台FM https://www.ximalaya.com/toutiao/256195/    |
 | <img src="https://imagev2.xmcdn.com/group67/M06/28/F0/wKgMbV25lPGyUPIEAACXntrpo24476.jpg" width="30"> FreeKick-不止于足球场 [RSS](https://www.ximalaya.com/album/30569313.xml) |
+| <img width="45" src="https://xyimg1.qunliao.info/fastdfs6/M00/33/C1/rBUESWETIm-AR4plAAEraR0B4Bg820.jpg"> Fabrizio Romano：Here we go |
 
 ### 声动活泼：
 
@@ -284,14 +289,16 @@
 
 ### 津津乐道：                                               
 | <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> https://dao.fm/ 。[RSS](https://feeds.jjldbk.com/all.xml) |
-|:------------------------|
-| <img src="https://imagev2.xmcdn.com/group83/M02/2A/BD/wKg5HV7d_jmiN5iWAAZ4pLIkU6M188.png" width="30"> 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客|
+| :----------------------------------------------------------- |
+| <img src="https://imagev2.xmcdn.com/group83/M02/2A/BD/wKg5HV7d_jmiN5iWAAZ4pLIkU6M188.png" width="30"> 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客 |
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_Aroga-01.jpg" width="30"> 编码人声 |
-| <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_%E5%8F%AB%E5%8D%96%E5%9B%BE.jpg" width="30"> 叫卖图|
+| <img width="35" src="https://img.daofm.cn/wp-content/uploads/2021/10/Logo_%E4%B8%8D%E5%8F%81%E4%B8%8D%E8%82%86-01.jpg"> 不叁不肆 |
+| <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_%E5%8F%AB%E5%8D%96%E5%9B%BE.jpg" width="30"> 叫卖图 |
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/08/Logo_%E5%8E%82%E9%95%BF%E6%9D%A5%E4%BA%86.jpg" width="30"> 厂长来了 公司访谈类播客节目，采访广受大家关注的公司或团队，请他们的核心高管来跟大家聊天 |
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/01/Logo_Pin-Wa-1.jpg" width="30"> 拼娃时代 拼娃时代是面向家长的 K-12 教育主题播客 |
-| <img src="https://imagev2.xmcdn.com/group79/M0B/17/78/wKgPEF61MlnzYm_UAARGAeneze0383.png" width="30"> 品质生活 品质生活是品味生活好物、提升生活品位的主题播客|
-| <img src="https://imagev2.xmcdn.com/group84/M01/05/8B/wKg5Hl7aLC2hktdQAAZUZo7H4oc682.png" width="30"> 津津有味 健康生活无需变身苦行僧，无能之辈才会传递说教和乏味，养生其实简单日常不神秘，健康可以和快乐同行，科学可以严谨而逗趣 |
+| <img src="https://imagev2.xmcdn.com/group79/M0B/17/78/wKgPEF61MlnzYm_UAARGAeneze0383.png" width="30"> 品质生活 品质生活是品味生活好物、提升生活品位的主题播客 |
+| <img src="https://imagev2.xmcdn.com/group84/M01/05/8B/wKg5Hl7aLC2hktdQAAZUZo7H4oc682.png" width="30"> 津津有味 健康生活无需变身苦行僧，无能之辈才会传递说教和乏味，养生其实简单日常不神秘，健康可以和快乐同行，科学可以严谨而逗趣。 |
+| <img width="35" src="https://img.daofm.cn/wp-content/uploads/2021/11/Logos_%E5%8E%9F%E6%B1%A4%E8%AF%9D%E5%8E%9F%E9%A3%9F-01.jpg"> 原汤话原食：三位女记者，带你剖析热点事件、发现不为人知的背后故事。真人说真事，原汤话原食。 |
 
 ### 访谈:
 
@@ -366,10 +373,11 @@
 | <img src="https://imagev2.xmcdn.com/group4/M02/47/5B/wKgDtFNVH3nTsjtEAAIU7q-XQ0E465.jpg" width="30"> 旭岽叨科学 https://www.ximalaya.com/zhubo/7200706/ |
 | <img src="https://imagev2.xmcdn.com/group4/M02/27/BD/wKgDtFM0RAjjnmyHAAM0Is5jf_s223.jpg" width="30"> 原来是这样？！https://www.ximalaya.com/keji/246622/ |
 
-### 文化沙龙：
+### 沙龙：
 
 |  |
 |:--------|
+| [纽约聊斋·云沙龙]() 2016年成立，聚集了一批居住在纽约的华人教授和专业人士。 |
 | <img src="https://imagev2.xmcdn.com/group85/M0A/92/C6/wKg5JV7oQ3aA9qYxAAHRkL8blLU232.png" width="30"> 纽约文化沙龙 https://www.nyshalong.com/ |
 | <img src="https://r1.ykimg.com/0130391F45532792FCF27D156643683E9A7B34-F29C-D6F6-8483-4F2E6B077632" width="35"> 安城文化沙龙 http://www.aashalong.com/ |
 | <img src="./images/湾区文化沙龙.svg" width="30"> 湾区文化沙龙 http://bayersshalong.org/ |
@@ -477,6 +485,26 @@
 |:------|
 | <img src="https://i.typlog.com/anobodyfm/8401205678_463793.png?x-oss-process=style/ss" width="30"> 小人物 A Nobody https://anobody.im/  。[RSS](https://anobody.im/podcast/rss.xml) |
 
+### 河南：
+
+||
+|:------|
+|<img width="35" src="https://i1.hdslb.com/bfs/face/7995687c8ea126734cbbeacd663733b3744bcfd8.jpg"> 河南张大磊 [bilibili](https://space.bilibili.com/433365424/video) 美食、三农视频|
+
+### 黑龙江：
+
+||
+|:------|
+|<img width="35" src="https://i2.hdslb.com/bfs/face/db05ef6fe05b2ef6b2f03fbfc7af4d4adb14704d.jpg"> 乡野吉祥 [bilibili](https://space.bilibili.com/411447549/video) 大兴安岭中俄边境小山村里的故事|
+
+### 辽宁：
+
+||
+|:------|
+|<img width="35" src="https://i2.hdslb.com/bfs/face/7db4edb6d55f1e618cfa749b60f4c9446809ae93.jpg"> 东北峰叔 [bilibili](https://space.bilibili.com/441900167/video) 带你感受东北丹东宽甸这片土地的风土人情|
+
+
+
 ### 加拿大：
 
 | |
@@ -488,9 +516,9 @@
 
 |  |
 |:------|
-| <img src="https://i0.hdslb.com/bfs/face/1214f1362428a1b1806bec4e4a7e7ecd73753e78.jpg@128w_128h_1o.webp" width="30"> 不哼哼 [视频](https://space.bilibili.com/14198768) 抽雪茄，聊生活，侃美国，女儿奴。|
-| <img src="https://i1.hdslb.com/bfs/face/2b6f55748c1bf1725bc366ca9867e7091e44f42d.jpg@128w_128h_1o.webp" width="30"> Emma的小频道 [视频](https://space.bilibili.com/36863529)  Emma是嫁到美国的一只土小妞，Bo是从小在美国长大的韩裔美国人，拍生活视频是为了让国内的家人朋友更好的了解我在美国的生活。|
-| <img src="https://i2.hdslb.com/bfs/face/6fde103bd2fb31b8a415b977f11ccb9cfd8f5ace.jpg@128w_128h_1o.webp" width="30"> 美国印象 [视频](https://space.bilibili.com/487210936) 静静地生活在美国东海岸，这里是我对美国的印象。|
+| <img src="https://i0.hdslb.com/bfs/face/1214f1362428a1b1806bec4e4a7e7ecd73753e78.jpg@128w_128h_1o.webp" width="30"> 不哼哼 [bilibili](https://space.bilibili.com/14198768) 抽雪茄，聊生活，侃美国，女儿奴。 |
+| <img src="https://i1.hdslb.com/bfs/face/2b6f55748c1bf1725bc366ca9867e7091e44f42d.jpg@128w_128h_1o.webp" width="30"> Emma的小频道 [bilibili](https://space.bilibili.com/36863529)  Emma是嫁到美国的一只土小妞，Bo是从小在美国长大的韩裔美国人，拍生活视频是为了让国内的家人朋友更好的了解我在美国的生活。 |
+| <img src="https://i2.hdslb.com/bfs/face/6fde103bd2fb31b8a415b977f11ccb9cfd8f5ace.jpg@128w_128h_1o.webp" width="30"> 美国印象 [bilibili](https://space.bilibili.com/487210936) 静静地生活在美国东海岸，这里是我对美国的印象。 |
 | <img src="https://www.dogedoge.com/favicon/www.acquired.fm.ico" width="30"> Acquired https://www.acquired.fm/ |
 | <img src="https://exponent.fm/wp-content/uploads/2020/08/Exponent-2-nosponsor.jpg" width="30"> Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
 | <img src="https://i0.wp.com/a16z.com/wp-content/uploads/2020/09/bio-lp_img03-1.png?resize=344%2C343&ssl=1" width="30"> a16z Podcast https://a16z.com/podcasts |
@@ -505,8 +533,10 @@
 
 |  |
 |:----------------------|
+| <img width="35" src="https://i1.hdslb.com/bfs/face/0626cd6adb6fee0bdd7b85a4f0b4b52047aa2ad7.jpg" > 路旁的叶修 [bilibili](https://space.bilibili.com/917629/video) 生活记录(2020年7月4日凌晨自尽离世) |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94ac6dec-562a-496e-9f3f-12bd1b2c40e0/cover_small.jpg" width="30"> 日本流行每日速报 [RSS](https://feeds.fireside.fm/sokuhou/rss)。   |
-| <img src="https://i2.hdslb.com/bfs/face/78d9455437ecdb5df9072856d7ed94a89d076d26.jpg@128w_128h_1o.webp" width="30"> 泡福Witheve [视频](https://space.bilibili.com/383645446) 贵州妈妈+北海道爸爸+东京娃娃+深圳狗狗の一家|
+| <img width="35" src="https://i1.hdslb.com/bfs/face/e1e0316d0602ba36b64d396196d819c0c593e89d.jpg"> Damuuu [bilibili](https://space.bilibili.com/13370374/video) 住在奈良的咸鱼 拍生活记录 |
+| <img src="https://i2.hdslb.com/bfs/face/78d9455437ecdb5df9072856d7ed94a89d076d26.jpg@128w_128h_1o.webp" width="30"> 泡福Witheve [bilibili](https://space.bilibili.com/383645446) 贵州妈妈+北海道爸爸+东京娃娃+深圳狗狗の一家 |
 | <img src="https://imagev2.xmcdn.com/group25/M0B/62/6B/wKgJNlg2VdiyLMdtAAMcfyK0l4o529.jpg" width="30"> 静说日本·徐静波 https://www.ximalaya.com/shangye/3385980/  |
 | <img src="https://imagev2.xmcdn.com/group87/M04/51/A9/wKg5J19ci8yCLSM6AAEo_1ie1dA750.png" width="30"> 放送东京Tokyo Stations https://www.ximalaya.com/lvyou/40230974/ |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c04ddbe1-6019-4df9-8194-708045543fb5/cover_small.jpg" width="30"> 东京脱线时间 https://tokyodametime.fireside.fm/ 一段基于东京的日常观察和过时信息，毫无章法聊天的对话录音。[RSS](https://feeds.fireside.fm/tokyodametime/rss) |
@@ -578,7 +608,8 @@
 
 | |
 |:---|
-| <img src="https://imagev2.xmcdn.com/group22/M08/85/86/wKgJLliiqo7RMTCRAAUcW-Sw0QY145.jpg" width="30"> 俊玮谈新 https://www.ximalaya.com/toutiao/5218657/ 。[RSS](https://www.ximalaya.com/album/5218657.xml)|
+| <img src="https://imagev2.xmcdn.com/group22/M08/85/86/wKgJLliiqo7RMTCRAAUcW-Sw0QY145.jpg" width="30"> 俊玮谈新 https://www.ximalaya.com/toutiao/5218657/ 。[RSS](https://www.ximalaya.com/album/5218657.xml) |
+| <img width="35" src="https://i2.hdslb.com/bfs/face/d75d06cd3d2e7bedb5d0b8ff0ba14c3b7022d036.jpg"> BelindaChen [bilibili](https://space.bilibili.com/10323935/video) |
 
 ### 以色列：
 
@@ -664,6 +695,7 @@
 ##### 饭后设计师
 ##### 饭堂电台
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/29551bb1-cf47-4a70-9d95-b5e87049004d/cover_small.jpg" width="30"> 风土集 https://ftj.fireside.fm/ 感受别处的物产、风景、风俗的私体验播客。
+
 ##### 加州101
 ##### Go For it Entrepreneur( 創業者说)
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/ccd3b6a3-1034-4311-b54f-b4793faf9586/cover_small.jpg" width="30"> grilling park 桂林公园 https://grillingpark.fireside.fm/ 隐二、苍间和MOG发起的跨界创意实践互促社。
@@ -772,6 +804,7 @@
 ##### <img src="https://imagev2.xmcdn.com/group49/M03/85/DF/wKgKmFvyUbniw9FrAAaVvB71ifU218.jpg" width="30"> 头号玩家 https://www.ximalaya.com/zhubo/89823229/
 ##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
 ##### <img src="https://pretro.xyz/assets/icon-pretro.svg" width="30"> 提前怀旧 https://pretro.xyz 一切未来终将成为过去。
+
 ##### <img src="https://imagev2.xmcdn.com/group40/M01/0F/9E/wKgJVFqgjkjB0GaqAAJA5BfKZTA839.jpg" width="30"> 天方烨谈 https://www.ximalaya.com/jiankang/3881168/
 ##### <img src="https://cdnimg103.lizhi.fm/user/2015/12/03/24738748833219714_160x160.jpg" width="30"> 坏蛋调频 http://www.lizhi.fm/12638/
 ##### <img src="https://www.dogedoge.com/favicon/culturepotato.com.ico" width="30"> 文化土豆 http://www.culturepotato.com/ 来自北京麦子店的文艺生活小圆桌播客节目，聊影视书籍和艺术。
@@ -800,10 +833,12 @@
 ##### <img src="https://imagev2.xmcdn.com/group54/M0A/56/13/wKgLfVxJSC3T2VFwAABiHidk-1c061.png" width="30"> 一言不合 https://www.ximalaya.com/yule/5971303/
 ##### 一时兴起
 ##### 一时闲谈
+
 ##### 一知半解FM
 ##### <img src="https://imagev2.xmcdn.com/group6/M04/7E/B9/wKgDhFT9ZAeD8ZDaAAPsI4aP3Bs082.jpg" width="30"> 野史下酒私电台 https://www.ximalaya.com/zhubo/8879347
 ##### <img src="https://imagev2.xmcdn.com/group13/M00/00/92/wKgDXVVIRpnw26MoAAVhQ2rr6P0416.jpg" width="30"> 杂家杂谈 https://www.ximalaya.com/diantai/409581/
 ##### <img src="https://cdnimg103.lizhi.fm/user/2014/01/09/8667443184987010_160x160.jpg" width="30"> 在北大不吐槽会死 http://pkuspot.org/
+
 ##### <img src="https://www.zaojiu.com/images/logo.png" width="30"> 造就Talk https://www.zaojiu.com/
 ##### 赵畅不误
 ##### 针尖·多味听觉馆
@@ -814,6 +849,7 @@
 ##### <img src="https://www.thetype.com/wp-content/uploads/2015/11/TypeChat-Cover-800px.jpg" width="30"> 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
 ##### 张子玄
 ##### <img src="https://i.typlog.com/zegpod/8439903955_643157.jpg?x-oss-process=style/ss" width="30"> 折耳根播客 http://zheergen.club/ 一档较为走心的陪伴型播客。
+
 ##### 振兴说
 ##### <img src="https://imagev2.xmcdn.com/group66/M06/15/6A/wKgMdV1M49TSjeReAA2HoliP7Qc097.jpg" width="30"> 醉后调频 https://www.ximalaya.com/shishang/8186579/
 ##### 歪椅
@@ -824,13 +860,17 @@
 ##### <img src="https://imagev2.xmcdn.com/group41/M08/DE/B7/wKgJ8lqpNIvhJx8IAAEIhQC1vs0336.jpg" width="30"> 未来科技局 https://www.ximalaya.com/keji/14227144/
 ##### 闻道医声 
 ##### <img src="https://www.voicer.me/wp-content/themes/voicer3/images/logo@2x.png" width="30"> VoicerFM https://music.163.com/#/user/264729294 灵感点亮生活，生活温暖人心。线上杂志Voicer，分享生活与设计的美学。
+
 ##### 小预算造大品牌 https://www.doko.com/podcasts/index.php
 ##### <img src="https://imagev2.xmcdn.com/group71/M06/F9/DD/wKgO2V6hZYbR6PlBAAN0ZtH_Jho382.png" width="30"> 现在发车 https://www.ximalaya.com/yule/14951695/
 ##### <img src="https://imagev2.xmcdn.com/group84/M02/55/4C/wKg5Hl8togmAoKtMAAJHZbiFYx8820.jpg" width="30"> 现在进行时 https://www.ximalaya.com/shangye/40159997/
+
 ##### <img src="https://imagev2.xmcdn.com/group5/M03/B6/CE/wKgDtlR7gXKwDtNrAAMrgDp2s2I611.jpg" width="30"> 想到说播客 https://www.ximalaya.com/keji/302407/
 ##### <img src="https://imagev2.xmcdn.com/group4/M00/02/5B/wKgDs1Me1L-CRP8mAAaU9eDTbps490.jpg" width="30"> 星缘星语 https://www.ximalaya.com/zhubo/7592100/
+
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9f98ad11-ba9a-4fde-8f71-68ed019ed09c/cover.jpg" width="30"> 味之道 席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。
-##### <img src="https://i.typlog.com/niki/xg/OA6q2uDwBF1gy04Wc5Wg.png?x-oss-process=style/ss" width="30"> 无状态 Black Out http://nirokita.cn/episodes/ 
+
+##### <img src="https://i.typlog.com/niki/xg/OA6q2uDwBF1gy04Wc5Wg.png?x-oss-process=style/ss" width="30"> 无状态 Black Out http://nirokita.cn/episodes/
 
 
 
