@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
+﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
@@ -15,7 +15,7 @@
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
-|[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|
+|[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)||
 
@@ -230,7 +230,15 @@
 | 知行小酒馆|
 |无人知晓 |
 
+### 有文化电台
 
+|https://www.ximalaya.com/zhubo/16715170/|
+|:---|
+|<img width="35" src="https://imagev2.xmcdn.com/group75/M00/DA/24/wKgO016WsEvS_yNhAAGNccZvVl4848.png"> 咸柠七  人间清流访谈录|
+|<img width="35" src="https://imagev2.xmcdn.com/group90/M0A/16/DD/wKg5PV9ty1aBCztXABRSkC0Si6k87.jpeg"> 小高的岛  台下才是真实人生|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/1ab3-audiofreehighqps/8D/C7/CMCoOSQEg5E7AAR_SQCwkL1x.jpeg"> 豚王108 大屁女说屁话|
+|<img width="35" src="https://imagev2.xmcdn.com/group79/M07/C9/A2/wKgPEF67yPPhwIkkAAMXxk43IaQ66.jpeg"> 小年约饭  张小年的约饭日记|
+|<img width="35" src="https://imagev2.xmcdn.com/group83/M09/92/57/wKg5HV8zmGWyuFisAACWbjhKMOM608.jpg"> 子非鱼 经济学的唯一讲义是生活|
 
 ### 红帽中国：
 
@@ -249,12 +257,13 @@
 ### 日谈公园：
 
 | <img src="https://imagev2.xmcdn.com/group53/M0A/CE/45/wKgLfFwq37GD6hw7AAG9L8UTFaI454.jpg" width="30"> https://www.ximalaya.com/zhubo/59126029/ |
-|:-------------------------------------------------------------|
+| :----------------------------------------------------------- |
 | <img src="https://imagev2.xmcdn.com/group85/M09/BA/4F/wKg5H18HTKDxUgvDABOY_e9a-2c29.jpeg" width="30"> 日日好物 https://www.ximalaya.com/yule/39700046/ |
 | <img src="https://imagev2.xmcdn.com/group71/M00/87/C0/wKgO2V4IxC-j5FG6AAPIBxShS10003.jpg" width="30"> 天地无用 https://www.ximalaya.com/yule/32028710/ |
 | <img src="https://imagev2.xmcdn.com/group85/M0A/85/5A/wKg5H18yaD-xFJSeABtYUMb_xmc943.jpg" width="30"> 日知录 https://www.ximalaya.com/yule/40619389/ |
 | <img src="https://imagev2.xmcdn.com/group70/M06/89/68/wKgOzl4I2hKQcGXMAAHEbMjVd9E696.jpg" width="30"> 说归说 https://www.ximalaya.com/toutiao/32030300/ |
 | <img src="https://imagev2.xmcdn.com/group70/M08/88/42/wKgO2F4Iw9XhjLCHAA_x4EpWPek226.jpg" width="30"> 日谈物语 https://www.ximalaya.com/yule/32028678/ |
+| 我在故宫聊八卦 https://www.ximalaya.com/album/45723178       |
 
 ### 足球：	
 
@@ -513,7 +522,8 @@
 | |
 |:----------------------|
 | <img src="https://images.weserv.nl/?il&fit=contain&w=300&h=300&dpr=1&url=https://fdfs.xmcdn.com/group80/M08/98/B8/wKgPEV66HiOzPd7GAATl7I60wXE277.jpg" width="30"> [友藏](http://www.youzang.ca/) No Name 没友名字|
-| <img src="https://imagev2.xmcdn.com/group83/M09/D5/18/wKg5I17u7xbS9_gKAADmqLjzWQ4582.jpg" width="30"> 暮酒朝谈 https://www.ximalaya.com/shangye/36379615/ 。[RSS](https://www.ximalaya.com/album/36379615.xml)|
+| <img src="https://imagev2.xmcdn.com/group83/M09/D5/18/wKg5I17u7xbS9_gKAADmqLjzWQ4582.jpg" width="30"> 暮酒朝谈 https://www.ximalaya.com/shangye/36379615/ 。[RSS](https://www.ximalaya.com/album/36379615.xml) |
+| <img width="35" src="https://imagev2.xmcdn.com/group85/M01/33/E2/wKg5JV75NOjzW4epAADyNdNPqHU878.png"> 多伦多丧哔 [RSS](https://www.ximalaya.com/album/29239712.xml) |
 
 ### 美国：
 
@@ -568,6 +578,11 @@
 |:----|
 | <img src="./images/瑞士.jpg" width="30"> 瑞士生活 沒有攻略 |
 
+### 陕西
+
+||
+|:---|
+|<img width="35" src="https://imagev2.xmcdn.com/group84/M03/93/DD/wKg5JF9LHf7xO1IUAAEHaq_NpKw794.jpg"> 8年级毕业生 [RSS](https://www.ximalaya.com/album/26765985.xml)|
 
 ### 上海：
 
@@ -629,6 +644,50 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f243813e-4089-4595-a8fa-5f2f1fed7427/cover_small.jpg" width="30"> 不伦不类 [RSS](https://feeds.fireside.fm/mindthegapfm/rss) 收录了四个不务正业的年轻人游走伦敦的心得体会与对各类热点的不严谨讨论。 |
 
 ### 待分类：
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/b693-audiofreehighqps/FF/99/CMCoOScDlUBjABRvyQBq_tzN.jpg"> 直来直去 [RSS](https://www.ximalaya.com/album/43958770.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group79/M0A/77/FE/wKgPC16vpNjQwaQMAAC_8_osH5E754.jpg"> Real女博士 [RSS](https://www.ximalaya.com/album/37582891.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group80/M03/C1/9D/wKgPDF6ykajTankxAAKFfy77ua4745.jpg"> 本味话馆I轻松聊电影书籍动漫 [RSS](https://www.ximalaya.com/album/20230759.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group66/M01/51/7F/wKgMdV12Ej_THdj6ACQLFxGLoAo986.png"> 尤比可电台 [RSS](https://www.ximalaya.com/album/24450197.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group73/M00/E4/EE/wKgO0V53DO2g-h1HAACyqQM-fqM016.jpg"> 卡在中间 [RSS](https://www.ximalaya.com/album/34025449.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group67/M00/D5/73/wKgMd120pWKh_YNbAAZh1dJ9cqA210.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"> 轱辘电台 [RSS](https://www.ximalaya.com/album/30477217.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group82/M04/25/FF/wKg5Il73WjKwksUhAAdkfJQ5xi0704.jpg"> 过载电台 [RSS](https://www.ximalaya.com/album/310878.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/926b-audiofreehighqps/01/B8/CMCoOSED1r3AAAMQYwB72nj9.jpeg"> “壮游者”是一档人文旅行声音游记节目。[RSS](https://www.ximalaya.com/album/18088545.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group87/M02/38/72/wKg5J19DN5DwlzCbAACOQFJCo94415.jpg"> 你觉得呢WhatDoUThink [RSS](https://www.ximalaya.com/album/38887442.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/group79/M00/D2/44/wKgPEF6pW2yD-pt5AAs3gdYXOSg254.jpg"> 基本无害 [RSS](https://feeds.acast.com/public/shows/mostlyharmless)
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/4c3b-audiofreehighqps/FA/D5/CKwRIasE0KNxAAEQ4gDMskMR.jpeg"> 放学以后afterschool  [RSS](https://www.ximalaya.com/album/46321335.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/cfc6-audiofreehighqps/2B/EA/CMCoOScEOJS0AAREewCYbCvS.jpeg"> 木有娱丸 [RSS](https://www.ximalaya.com/album/48118176.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/9380-audiofreehighqps/C9/22/CMCoOSYEdhgPAADvjwCruaPj.jpeg"> 土象电台 [RSS](https://www.ximalaya.com/album/45666589.xml)
+
+GQ Talk [RSS](https://www.ximalaya.com/album/26080525.xml) 由《智族GQ》报道团队制作的播客节目
+
+<img width="35" src="https://imagev2.xmcdn.com/group52/M04/BE/D9/wKgLe1wqBvvw9JCEAAD2KOTK8jA209.jpg"> 花花局外人 [RSS](https://www.ximalaya.com/album/20341384.xml)
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/be92-audiofreehighqps/33/62/CKwRIasFRJN7AAHVLQDuSJC1.jpeg"> 大俗小雅 [RSS](https://www.ximalaya.com/album/43880787.xml) 三位生活在纽约 、旧金山 、海德堡的“打工人”每周跨时差谈天说地的“痴人呓语”。
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/4228-audiofreehighqps/0B/7B/CKwRIJEFWqYLAADICQDz_43R.jpeg"> [不把天聊si](https://www.ximalaya.com/album/51103902)
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/1d99-audiofreehighqps/D4/EB/CKwRIW4Eyr17AAbokgDKHdG3.jpeg"> [深夜书店](https://www.ximalaya.com/album/48535561)
+
+【广播剧】[我不喜欢这世界，我只喜欢你](https://music.163.com/#/djradio?id=5162012)【掷地有声】
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9UaGVXZWlyZG8ucG5n.png"> [不合时宜](https://www.xiaoyuzhoufm.com/podcast/5e280fb8418a84a0461fd076)
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrYUFEbW1YaDZGWm9ydXVVMkVpOG5zbFVYck4uanBn.jpg"> 佟晨洁的“[正常生活](https://www.xiaoyuzhoufm.com/podcast/6177c78f198954178425773a)”
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vYml0ZXNpemUvODM4ODA4NTY3OV81NTM5MDU1LnBuZz94LW9zcy1wcm9jZXNzPXN0eWxlL3Ns.png"> [一点好奇](https://www.xiaoyuzhoufm.com/podcast/5fe6fc88dee9c1e16d4db410)
 
 <img src="https://imagev2.xmcdn.com/storages/5fe0-audiofreehighqps/6B/D0/CMCoOSIENkXSAASA_wCXwStF.jpeg" width="35"> 西四五条[RSS](https://www.ximalaya.com/album/8767520.xml)
 
@@ -791,7 +850,7 @@
 ##### 三分之一 OneThird
 
 ##### 三匹怪物儿
-##### 什么电台 https://www.ximalaya.com/zhubo/28109901/
+##### <img width="35" src="https://imagev2.xmcdn.com/group46/M02/9F/A4/wKgKlluimQ6y33HPAANatvp3WUs157.jpg"> 什么电台 https://www.ximalaya.com/zhubo/28109901/
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
 ##### <img src="https://productivity.wiki/img.jpeg" width="30"> 生产力维基 https://productivity.wiki/ 一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客。
 ##### 生活漫游指南 https://www.ximalaya.com/toutiao/32161855/
