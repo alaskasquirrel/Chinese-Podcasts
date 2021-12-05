@@ -1,8 +1,8 @@
-﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
+﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
-**兼听则明，偏信则暗 **
+**兼听则明，偏信则暗**
 
 ********
 
@@ -184,8 +184,6 @@
 |:--------|
 | <img src="https://imagev2.xmcdn.com/group76/M00/E5/EB/wKgO3l6G4ouh9R1sAANAIW_5ex4015.jpg" width="30"> 36氪·商业情报局（第二季）   |
 | <img src="https://imagev2.xmcdn.com/group48/M00/7F/E4/wKgKnFtNjDGC1eomAALn_B-zQ3E559.jpg" width="30"> 36氪·有识芝士
-  |
-
 
 ### 设计：	
 
