@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
@@ -359,7 +359,7 @@
 
 ||
 |:------|
-|<img width="35" src="https://imagev2.xmcdn.com/storages/853d-audiofreehighqps/30/B6/CKwRIRwFSzGsAAC7mQDv-DiF.jpeg"> [开源面对面](https://github.com/opensource-f2f/episode)： 一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。[RSS](http://www.ximalaya.com/album/53320813.xml)，[哔哩哔哩](https://space.bilibili.com/433584098/channel/detail?cid=200059)(视频)， [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/)(音频)，[YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg)(视频).|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/853d-audiofreehighqps/30/B6/CKwRIRwFSzGsAAC7mQDv-DiF.jpeg"> [开源面对面](https://github.com/opensource-f2f/episode)： 一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。[RSS](http://www.ximalaya.com/album/53320813.xml)，[bilibili](https://space.bilibili.com/433584098/channel/detail?cid=200059)， [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/)，[YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg).|
 |<img width="35" src="https://emacstalk.github.io/images/logo.png"> [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目 [RSS](https://emacstalk.github.io/podcast/index.xml) 专注 Emacs 社区，探索 Emacs 社区背后的奇人轶事；不追求「枯燥无味」的干货，更关注「耐人寻味」经验分享。|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/957d-audiofreehighqps/0C/F0/CMCoOSIE6Y1NAABsuADWQ_ey.jpg"> 迪魔王 Devmore - More about Dev 随着开发者生态发展，围绕开发者产生了很多职业，我们想邀请各种种类的朋友们来唠唠嗑，他们到底在做什么？他们可爱吗？他们怎么想？他们开心吗？揭秘  Devmore 的日常。 [RSS](https://www.ximalaya.com/album/52069269.xml)|
 |[ByteTalk](https://bytetalk.fm/) 聊聊程序员的故事  [RSS](https://bytetalk.fm/index.xml)|
@@ -460,7 +460,7 @@
 
 ||
 |:-----|
-| <img src="https://i0.hdslb.com/bfs/face/fe051d254b0c561dca1d51d57eb891e32315330f.jpg@128w_128h_1o.webp" width="30"> 亲爱的嘉倩 [视频](https://space.bilibili.com/388362147) 住在冰岛。31岁，一个普通人。微博@亲爱的嘉倩|
+| <img src="https://i0.hdslb.com/bfs/face/fe051d254b0c561dca1d51d57eb891e32315330f.jpg@128w_128h_1o.webp" width="30"> 亲爱的嘉倩 [bilibili](https://space.bilibili.com/388362147) 住在冰岛。微博@亲爱的嘉倩 |
 
 ### 俄罗斯：
 
@@ -546,7 +546,7 @@
 |:----------------------|
 | <img width="35" src="https://i1.hdslb.com/bfs/face/0626cd6adb6fee0bdd7b85a4f0b4b52047aa2ad7.jpg" > 路旁的叶修 [bilibili](https://space.bilibili.com/917629/video) 生活记录(2020年7月4日凌晨自尽离世) |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94ac6dec-562a-496e-9f3f-12bd1b2c40e0/cover_small.jpg" width="30"> 日本流行每日速报 [RSS](https://feeds.fireside.fm/sokuhou/rss)。   |
-| <img width="35" src="https://i1.hdslb.com/bfs/face/e1e0316d0602ba36b64d396196d819c0c593e89d.jpg"> Damuuu [bilibili](https://space.bilibili.com/13370374/video) 住在奈良的咸鱼 拍生活记录 |
+| <img width="35" src="https://i1.hdslb.com/bfs/face/e1e0316d0602ba36b64d396196d819c0c593e89d.jpg"> Damuuu [bilibili](https://space.bilibili.com/13370374/video) 住在奈良的咸鱼，生活记录 |
 | <img src="https://i2.hdslb.com/bfs/face/78d9455437ecdb5df9072856d7ed94a89d076d26.jpg@128w_128h_1o.webp" width="30"> 泡福Witheve [bilibili](https://space.bilibili.com/383645446) 贵州妈妈+北海道爸爸+东京娃娃+深圳狗狗の一家 |
 | <img src="https://imagev2.xmcdn.com/group25/M0B/62/6B/wKgJNlg2VdiyLMdtAAMcfyK0l4o529.jpg" width="30"> 静说日本·徐静波 https://www.ximalaya.com/shangye/3385980/  |
 | <img src="https://imagev2.xmcdn.com/group87/M04/51/A9/wKg5J19ci8yCLSM6AAEo_1ie1dA750.png" width="30"> 放送东京Tokyo Stations https://www.ximalaya.com/lvyou/40230974/ |
@@ -617,7 +617,7 @@
 | |
 |:------------------------------------------------|
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/511262/round_logo-1400_dqjnwo.png" width="30"> BearTalk 狗熊有话说 https://www.beartalking.com/ Bear Liu <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/511262/smile2-square_y1sgka.png" width="30"> [RSS](https://feeds.fireside.fm/beartalk/rss) |
-| <img src="https://i1.hdslb.com/bfs/face/237381c79a9f4f4743c8986f1b5bd309e4fedad8.jpg@128w_128h_1o.webp" width="30"> 新西兰HaroldVlog [bilibili](https://space.bilibili.com/53579346) 生活分享 |
+| <img src="https://i1.hdslb.com/bfs/face/237381c79a9f4f4743c8986f1b5bd309e4fedad8.jpg@128w_128h_1o.webp" width="30"> 新西兰HaroldVlog [bilibili](https://space.bilibili.com/53579346) 生活记录 |
 
 
 ### 新加坡：
@@ -625,7 +625,7 @@
 | |
 |:---|
 | <img src="https://imagev2.xmcdn.com/group22/M08/85/86/wKgJLliiqo7RMTCRAAUcW-Sw0QY145.jpg" width="30"> 俊玮谈新 https://www.ximalaya.com/toutiao/5218657/ 。[RSS](https://www.ximalaya.com/album/5218657.xml) |
-| <img width="35" src="https://i2.hdslb.com/bfs/face/d75d06cd3d2e7bedb5d0b8ff0ba14c3b7022d036.jpg"> BelindaChen [bilibili](https://space.bilibili.com/10323935/video) |
+| <img width="35" src="https://i2.hdslb.com/bfs/face/d75d06cd3d2e7bedb5d0b8ff0ba14c3b7022d036.jpg"> BelindaChen [bilibili](https://space.bilibili.com/10323935/video) 生活记录 |
 
 ### 以色列：
 
