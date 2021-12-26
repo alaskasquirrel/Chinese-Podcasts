@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
@@ -73,7 +73,8 @@
 |:-----|
 |[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
 |[Unzicker's Real Physics](https://www.youtube.com/user/TheMachian/videos)|
-|[bopular](https://space.bilibili.com/303098642/video) bilibili|
+|<img width="35" src="https://i2.hdslb.com/bfs/face/3b05ae5517e4349292de0dbb745dc14754c38463.jpg"> 纪录片我去看世界 [bilibili](https://space.bilibili.com/38067617/)|
+|bopular [bilibili](https://space.bilibili.com/303098642/video) 晚点设置也可以|
 
 
 
@@ -279,7 +280,10 @@
 | <img src="https://imagev2.xmcdn.com/group5/M01/10/D7/wKgDtVN3qtewHR9gAACITCRvZqg727.jpg" width="30"> 看台FM https://www.ximalaya.com/toutiao/256195/    |
 | <img src="https://imagev2.xmcdn.com/group67/M06/28/F0/wKgMbV25lPGyUPIEAACXntrpo24476.jpg" width="30"> FreeKick-不止于足球场 [RSS](https://www.ximalaya.com/album/30569313.xml) |
 | <img width="45" src="https://xyimg1.qunliao.info/fastdfs6/M00/33/C1/rBUESWETIm-AR4plAAEraR0B4Bg820.jpg"> Fabrizio Romano：[Here we go](https://www.youtube.com/c/FabrizioRomanoYT/videos) |
-| <img width="35" src="https://cdn.theathletic.com/app/uploads/2019/10/04172812/Orntein-David-Headshot_.jpg"> [David Ornstein](https://theathletic.com/author/david-ornstein/) |
+| <img width="35" src="https://cdn.theathletic.com/app/uploads/2019/10/04172812/Orntein-David-Headshot_.jpg"> [David Ornstein ](https://theathletic.com/author/david-ornstein/) |
+| <img width="35" src="https://i0.hdslb.com/bfs/face/0a8cb2ae0dcbb0b08e70806684120fd7a91f256d.jpg"> 隔壁红魔 [bilibili](https://space.bilibili.com/432174249/video) |
+| <img width="35" src="https://i1.hdslb.com/bfs/face/a9f8c536fe40c1459ad78beb60eacde0fae1a068.jpg"> 巅峰球迷汇 [bilibili](https://space.bilibili.com/365372809) |
+| <img width="35" src="https://i2.hdslb.com/bfs/face/4e99173c1eebb4e4f4535847d6ff1400faa21557.jpg"> 纽卡斯尔老田 [bilibili](https://space.bilibili.com/546716867/video) 来自英国的东北城市纽卡斯尔，在中国的第8年。 油管：Newcastle老田在中国 |
 
 ### 声动活泼：
 
@@ -296,7 +300,7 @@
 | <img src="https://imagev2.xmcdn.com/storages/da20-audiofreehighqps/DB/37/CMCoOSUEIRd5AAhUJwCRitav.jpeg" width="30"> 新增长学院 |
 
 ### 津津乐道：                                               
-| <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> https://dao.fm/ 。[RSS](https://feeds.jjldbk.com/all.xml) |
+| <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> https://dao.fm/ 。[RSS](https://feeds.jjldbk.com/all.xml) ；[bilibili](https://space.bilibili.com/430430545/video) |
 | :----------------------------------------------------------- |
 | <img src="https://imagev2.xmcdn.com/group83/M02/2A/BD/wKg5HV7d_jmiN5iWAAZ4pLIkU6M188.png" width="30"> 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客 |
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_Aroga-01.jpg" width="30"> 编码人声 |
@@ -325,7 +329,8 @@
 | <img src="https://imagev2.xmcdn.com/group84/M00/B9/45/wKg5Hl8fwQeD6JwwAADZFb7t11Q544.jpg" width="30"> 逆行人生 。[RSS](https://www.ximalaya.com/album/31839268.xml)|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg" width="30"> Teahour https://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。[RSS](https://feeds.fireside.fm/teahour/rss)|
 | <img src="https://imagev2.xmcdn.com/group84/M06/4D/D8/wKg5Hl9E2E2B17YmAAM8_Jxk0Bs046.png" width="30"> 遗世独立 https://www.ximalaya.com/keji/41175480/ 专注于访谈的播客节目。[RSS](https://www.ximalaya.com/album/41175480.xml) |
-| <img src="https://imagev2.xmcdn.com/group83/M0A/B1/D1/wKg5I18e-gihkeV5AARt2Clj5_A053.png" width="30"> 闭门造车 https://gulugulufm.github.io/ , [RSS](https://anchor.fm/s/2d9522d4/podcast/rss)|
+| <img src="https://imagev2.xmcdn.com/group83/M0A/B1/D1/wKg5I18e-gihkeV5AARt2Clj5_A053.png" width="30"> 闭门造车 https://gulugulufm.github.io/ , [RSS](https://anchor.fm/s/2d9522d4/podcast/rss) |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/9fe5-audiofreehighqps/0B/C1/CMCoOSAEY7mHAAKc1gClnMVf.jpeg"> 卖鱼桥分桥 https://www.ximalaya.com/album/48848794 一档漫谈类播客，捕捉平凡生活中的闪光点，选题跨度大，不想被定义。 |
 
 ### 互联网：
 
@@ -371,7 +376,7 @@
 |:-------------------------------|
 | <img src="https://imagev2.xmcdn.com/group76/M06/1A/60/wKgO1F56J52QGNYeAAWVvQjc9Yk840.jpg" width="30"> 锵锵脑科学 https://www.ximalaya.com/yule/30318983/          |
 | <img src="https://imagev2.xmcdn.com/group85/M04/CC/DE/wKg5JV8JhrXhTb9gAASN_ApXnkM049.jpg" width="30"> 人类行为观察室 https://www.ximalaya.com/shishang/39749193/  |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b81f95d5-64eb-44d8-bf9c-2aca90deefb1/cover_small.jpg" width="30"> 神经漫游 Neuromancing https://neuromancing.fireside.fm/     |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b81f95d5-64eb-44d8-bf9c-2aca90deefb1/cover_small.jpg" width="30"> [神经漫游](https://neu-reality.com) Neuromancing https://neuromancing.fireside.fm/ ; [bilibili](https://space.bilibili.com/448147843/video) |
 | <img src="https://imagev2.xmcdn.com/group87/M05/FA/D0/wKg5IV89NwuCfLBoAAKTgnixz10986.png" width="30"> 科研这种生活方式！https://www.ximalaya.com/jiaoyupeixun/41018728/ |
 | <img src="https://imagev2.xmcdn.com/group69/M05/E9/9C/wKgMeV21uBzgPCftAABoE3_UII069.jpeg" width="30"> 脑人言 https://www.ximalaya.com/zhubo/195840064             |
 | <img src="https://imagev2.xmcdn.com/group74/M05/4F/1E/wKgO0l6eSujBOs6pAAsJ1ZkZnAI159.png" width="30"> 基智一点 https://y2intelligences.com/                       |
@@ -435,13 +440,14 @@
 ||
 |:---|
 | <img src="https://imagev2.xmcdn.com/group19/M09/42/BC/wKgJJleR7P7zAWQFAAF5UkAWklA100.jpg" width="30"> 话说北京 https://www.ximalaya.com/lvyou/3876070/ 。[RSS](https://www.ximalaya.com/album/3876070.xml)|
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f698bb6d-ef09-4668-b54a-438855cd7324/cover_small.jpg" width="30"> 北海怪兽 https://bsmonster.fireside.fm/ 。[RSS](https://feeds.fireside.fm/bsmonster/rss)|
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f698bb6d-ef09-4668-b54a-438855cd7324/cover_small.jpg" width="30"> 北海怪兽 https://bsmonster.fireside.fm/ 。[RSS](https://feeds.fireside.fm/bsmonster/rss) |
+| <img width="35" src="https://i0.hdslb.com/bfs/face/0f889c10e045fb6e876d541e1ebdd990d7b963ff.jpg"> 吃货请闭眼 [bilibili](https://space.bilibili.com/94114029/video) |
 
 ### 重庆：
 
 ||
 |:---|
-| <img src="https://imagev2.xmcdn.com/storages/ed05-audiofreehighqps/8B/2F/CMCoOSYDmUdSAAEZ5ABsGGOC.png" width="30"> 山城龙门阵 https://www.ximalaya.com/shishang/44160859/ 。[RSS](https://www.ximalaya.com/album/44160859.xml)|
+| <img src="https://imagev2.xmcdn.com/storages/ed05-audiofreehighqps/8B/2F/CMCoOSYDmUdSAAEZ5ABsGGOC.png" width="30"> 山城龙门阵 https://www.ximalaya.com/shishang/44160859/ 。[RSS](https://www.ximalaya.com/album/44160859.xml) ; [bilibili](https://space.bilibili.com/1210609473/video) |
 
 ### 广东：
 
@@ -487,7 +493,8 @@
 
 ||
 |:-----|
-| <img src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png" width="30"> 代码时间  (终结) [Xi Xiao](https://github.com/xixiaofinland)  |
+| <img src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png" width="30"> 代码时间  (终结) [Xi Xiao](https://github.com/xixiaofinland) |
+| 雨琪在芬兰 [bilibili](https://space.bilibili.com/323024456/video) |
 
 ### 荷兰：
 
@@ -507,13 +514,17 @@
 |:------|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/db05ef6fe05b2ef6b2f03fbfc7af4d4adb14704d.jpg"> 乡野吉祥 [bilibili](https://space.bilibili.com/411447549/video) 大兴安岭中俄边境小山村里的故事|
 
+### 湖南：
+
+||
+|:------|
+| <img width="35" src="https://i1.hdslb.com/bfs/face/66d985e37579b9291acfe949fac1e8706646dcee.jpg"> 去种田的向凹凸 [bilibili](https://space.bilibili.com/36909511/) |
+
 ### 辽宁：
 
 ||
 |:------|
-|<img width="35" src="https://i2.hdslb.com/bfs/face/7db4edb6d55f1e618cfa749b60f4c9446809ae93.jpg"> 东北峰叔 [bilibili](https://space.bilibili.com/441900167/video) 带你感受东北丹东宽甸这片土地的风土人情|
-
-
+|<img width="35" src="https://i2.hdslb.com/bfs/face/7db4edb6d55f1e618cfa749b60f4c9446809ae93.jpg"> 东北峰叔 [bilibili](https://space.bilibili.com/441900167/video) 带你感受东北丹东宽甸这片土地的风土人情。|
 
 ### 加拿大：
 
@@ -534,7 +545,7 @@
 | <img src="https://exponent.fm/wp-content/uploads/2020/08/Exponent-2-nosponsor.jpg" width="30"> Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
 | <img src="https://i0.wp.com/a16z.com/wp-content/uploads/2020/09/bio-lp_img03-1.png?resize=344%2C343&ssl=1" width="30"> a16z Podcast https://a16z.com/podcasts |
 | <img src="https://imagev2.xmcdn.com/group62/M02/B8/A2/wKgMZ101F8GCEQT5AA8BwPU7OUE566.jpg" width="30"> 随口说美国 https://www.ximalaya.com/zhubo/3239336/ |
-| <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> [受之有道](http://www.am1300.com/category/%E7%AF%80%E7%9B%AE_%E4%BB%8B%E7%B4%B9/%E7%AF%80%E7%9B%AE%E9%87%8D%E6%BA%AB/%E5%8F%97%E4%B9%8B%E6%9C%89%E9%81%93/)   |
+| <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> [受之有道](http://www.am1300.com/category/%E7%AF%80%E7%9B%AE_%E4%BB%8B%E7%B4%B9/%E7%AF%80%E7%9B%AE%E9%87%8D%E6%BA%AB/%E5%8F%97%E4%B9%8B%E6%9C%89%E9%81%93/) ；[bilibili](https://space.bilibili.com/5679766) |
 | <img src="https://imagev2.xmcdn.com/group57/M02/67/FC/wKgLd1x6tjDxtJ9sAAMBlVac1Pk329.png" width="30"> 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
 | <img src="https://imagev2.xmcdn.com/group24/M09/61/A7/wKgJMFiX8i2Shc2yAAYZKZHAOq8943.jpg" width="30"> 学霸学渣闯美国 https://www.ximalaya.com/toutiao/3972154/ |
 | <img src="https://imagev2.xmcdn.com/group61/M09/0E/33/wKgMZl07hZHzLp--AAnszjrbIBk829.jpg" width="30"> 美丽坚果 https://www.ximalaya.com/renwen/25422983/ |
@@ -544,9 +555,11 @@
 
 |  |
 |:----------------------|
-| <img width="35" src="https://i1.hdslb.com/bfs/face/0626cd6adb6fee0bdd7b85a4f0b4b52047aa2ad7.jpg" > 路旁的叶修 [bilibili](https://space.bilibili.com/917629/video) 生活记录(2020年7月4日凌晨自尽离世) |
+| <img width="35" src="https://i2.hdslb.com/bfs/face/cda2da18648b8f4a28a7cf3363ffa8968d655a78.jpg"> 辣妹子在日本 [bilibili](https://space.bilibili.com/480709343/) 佳子，霖酱日本学习生活分享，中国人妈妈的好物推荐分享 |
+| <img width="35" src="https://i1.hdslb.com/bfs/face/0626cd6adb6fee0bdd7b85a4f0b4b52047aa2ad7.jpg" > 路旁的叶修 [bilibili](https://space.bilibili.com/917629/video) 生活记录(2020年7月离世) |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94ac6dec-562a-496e-9f3f-12bd1b2c40e0/cover_small.jpg" width="30"> 日本流行每日速报 [RSS](https://feeds.fireside.fm/sokuhou/rss)。   |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/e1e0316d0602ba36b64d396196d819c0c593e89d.jpg"> Damuuu [bilibili](https://space.bilibili.com/13370374/video) 住在奈良的咸鱼，生活记录 |
+| <img width="35" src="https://i2.hdslb.com/bfs/face/c071812cf1d1a24ca827dc22b50151289b794a29.jpg"> 琳琳在日本 [bilibili](https://space.bilibili.com/669560882/video) 暂时生活在日本，关注我带你们看日本了解日本，一起分享生活。 |
 | <img src="https://i2.hdslb.com/bfs/face/78d9455437ecdb5df9072856d7ed94a89d076d26.jpg@128w_128h_1o.webp" width="30"> 泡福Witheve [bilibili](https://space.bilibili.com/383645446) 贵州妈妈+北海道爸爸+东京娃娃+深圳狗狗の一家 |
 | <img src="https://imagev2.xmcdn.com/group25/M0B/62/6B/wKgJNlg2VdiyLMdtAAMcfyK0l4o529.jpg" width="30"> 静说日本·徐静波 https://www.ximalaya.com/shangye/3385980/  |
 | <img src="https://imagev2.xmcdn.com/group87/M04/51/A9/wKg5J19ci8yCLSM6AAEo_1ie1dA750.png" width="30"> 放送东京Tokyo Stations https://www.ximalaya.com/lvyou/40230974/ |
@@ -568,7 +581,8 @@
 
 ||
 |:---|
-| <img src="./images/北欧茶馆.jpg" width="30">  北欧茶馆 https://www.ximalaya.com/jiaoyupeixun/3066104/|
+| <img src="./images/北欧茶馆.jpg" width="30">  北欧茶馆 https://www.ximalaya.com/jiaoyupeixun/3066104/ |
+| <img width="35" src="https://i0.hdslb.com/bfs/face/22bbb6de30e2e09a63314087f1dc0f55d8caa8c1.jpg"> 米粒的一家 [bilibili](https://space.bilibili.com/279292641/) |
 
 ### 瑞士：
 
@@ -643,6 +657,10 @@
 | <img width="35" src="https://imagev2.xmcdn.com/storages/7aa6-audiofreehighqps/7C/7A/CKwRIJIFKd3CAAEpUwDnzxK1.jpeg"> 伦敦有耳 [RSS](https://www.ximalaya.com/album/53462667.xml) |
 
 ### 待分类：
+
+莽街RADIO
+
+闷与狂radio
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/3be1-audiofreehighqps/29/E0/GKwRIJIFfOrvAAhuVQD9bStL.jpeg"> 即时经典 InstantClassic [RSS](https://www.ximalaya.com/album/55195925.xml)
 
