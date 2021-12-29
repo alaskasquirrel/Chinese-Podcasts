@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
 免责声明：<u>本着喜好音频节目的初衷搜罗下述播客节目，并未添加我本人对每个播客节目的任何看法及观点立场，而且下述所有播客节目皆同我本人无任何利害关系。严肃尊重音频播客的所有权归属ⓒ</u> 
 
@@ -17,7 +17,7 @@
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
 |[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
-|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)||
+|[湖南](#湖南)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)|
 
 ##### 播客app：[关注隐私](https://github.com/ffffffff0x/Digital-Privacy)
 
@@ -82,6 +82,7 @@
 
 |                     |
 |:----------------------------------------------------------------------------|
+| <img src="https://yt3.ggpht.com/a/AATXAJyaoejpg2cKqP4rszXXUfVUvhpMkjCjRVDTV0VYFw=s88-c-k-c0x00ffffff-no-rj" width="30"> Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/ |
 | <img src="https://news.techmeme.com/images/techmeme-ride-home.jpg" width="30"> [Techmeme](https://www.techmeme.com/) : Techmeme Ride Home [RSS](https://rss.art19.com/techmeme-ridehome), Modern Finance [RSS](https://feeds.megaphone.fm/mofi).|
 | <img src="https://supchina.com/wp-content/uploads/2020/06/ChinaEconTalk_1400x1400-1200x1200.png" width="30"> [China EconTalk](https://supchina.com/series/china-econtalk/) By SupChina [RSS](https://chinatalkshow.libsyn.com/rss)               |
 | [China Tech Talk](http://chinatechtalk.com/)  ,         [RSS](https://feeds.simplecast.com/400uRY7l)                  |
@@ -381,7 +382,6 @@
 | <img src="https://imagev2.xmcdn.com/group69/M05/E9/9C/wKgMeV21uBzgPCftAABoE3_UII069.jpeg" width="30"> 脑人言 https://www.ximalaya.com/zhubo/195840064             |
 | <img src="https://imagev2.xmcdn.com/group74/M05/4F/1E/wKgO0l6eSujBOs6pAAsJ1ZkZnAI159.png" width="30"> 基智一点 https://y2intelligences.com/                       |
 | <img src="https://partiallyexaminedlife.com/wp-content/uploads/Citizen-Ad-2.png" width="30"> The Partially Examined Life / a philosophy podcast and philosophy blog  https://partiallyexaminedlife.com   |
-| <img src="https://yt3.ggpht.com/a/AATXAJyaoejpg2cKqP4rszXXUfVUvhpMkjCjRVDTV0VYFw=s88-c-k-c0x00ffffff-no-rj" width="30"> Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/  |
 | <img src="https://braininspired.co/wp-content/uploads/2018/06/apple-icon.png" width="30"> Brain Inspired https://braininspired.co/   |
 | <img src="https://static.tumblr.com/9276468118b6558d915df462a1c4b87d/pbuttk4/oh5mrhpy7/tumblr_static_tumblr_banner.png" width="30"> Brain Matter https://brainpodcast.com/   |
 | <img src="https://1.bp.blogspot.com/-1lVDsZLUcdU/V4a8XkAOH4I/AAAAAAAAAGM/XQ1HDOuc_qoygovM0pwf-1gFtHHtBL2TACK4B/s1070/logocenter_alpha.png" width="30"> Unsupervised Thinking https://unsupervisedthinkingpodcast.blogspot.com/ |
@@ -658,7 +658,13 @@
 
 ### 待分类：
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9)
+
 莽街RADIO
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2xwUTF1YmdUOVlBMWtUVUl0M09aVlZwUEhHWEguanBn.jpg"> [不上价值](https://www.xiaoyuzhoufm.com/podcast/60757967f7ad25a1d9461dab)
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png"> [贤者时间](https://www.xiaoyuzhoufm.com/podcast/5e285523418a84a04627767d)
 
 闷与狂radio
 
