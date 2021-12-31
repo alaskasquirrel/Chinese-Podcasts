@@ -1,4 +1,4 @@
-﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -24,7 +24,8 @@
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
 |[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
-|[湖南](#湖南)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|[待分类](#待分类)|
+|[湖南](#湖南)|[辽宁](#辽宁)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
+|[待分类](#待分类)|
 
 ##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy) 
 
@@ -51,6 +52,8 @@
 | <img src="https://www.breaker.audio/packs/breaker-logo-2b5ff175e58d8da25c76d037f7d8c6b2.svg" width="35"> Breaker https://www.breaker.audio |
 
 ### 社群：
+
+[awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts)
 
 ##### <img src="./images/wavpub.png" width="40"> 音播WavPub https://wavpub.com/
 
@@ -98,6 +101,7 @@
 | Asia Tech Podcast https://asiatechpodcast.com/ All Things Asia All Things Tech |
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/150423/quovsmmsjqn7teptbqhh.png" width="30"> The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
 | <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
+| [Invest Like the Best](https://www.joincolossus.com/) |
 | [China in the World](https://carnegietsinghua.podomatic.com/) , [RSS](https://carnegietsinghua.podomatic.com/rss2.xml) |
 | China 21 https://china.ucsd.edu/opinion/podcasts.html |
 | <img src="https://www.armscontrolwonk.com/wp-content/themes/modern-wonk/images/podcast.jpg" width="30"> [Arms Control Wonk](https://www.armscontrolwonk.com/) , [RSS](https://armscontrolwonk.libsyn.com/rss)|
