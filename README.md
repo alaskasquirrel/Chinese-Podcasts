@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -15,17 +15,17 @@
 
 * 请尽量自行RSS添加订阅播客 Podcasts.opml
 
-||||||||
+|归类不一|||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[播客app](#播客app)|[社群](#社群)|[vlog](#vlog)|[EnglishTalk](#englishtalk)||||
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[访谈](#访谈)|[互联网](#互联网)|
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
-|[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |[冰岛](#冰岛)|
+|[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[湖南](#湖南)|[辽宁](#辽宁)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
-|[待分类](#待分类)|
+|[待分类](#待分类)|||||||
 
 ##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy) 
 
@@ -114,20 +114,20 @@
 
 ### IPN:
 
-| <img src="https://www.dogedoge.com/favicon/ipn.li.ico" width="30"> https://ipn.li/                                 |
-|:--------------------------------------------------------------------------------- |
-| <img src="https://imagev2.xmcdn.com/group7/M01/3A/36/wKgDWlcBkQDzK0SUAAGEBU8Pdbg393.png" width="30"> 一天世界 https://yitianshijie.net/ 一天世界，昆乱不挡。[RSS](https://yitianshijie.net/episodes/feed.xml)|
-| <img src="https://ipn.li/images/icon-mie-300-v2.png" width="30"> 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。[RSS](https://miechakucha.com/episodes/feed.xml)|
+| <img src="https://www.dogedoge.com/favicon/ipn.li.ico" width="30"> https://ipn.li/ |
+| :----------------------------------------------------------- |
+| <img src="https://imagev2.xmcdn.com/group7/M01/3A/36/wKgDWlcBkQDzK0SUAAGEBU8Pdbg393.png" width="30"> 一天世界 https://yitianshijie.net/ 浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。 [RSS](https://yitianshijie.net/episodes/feed.xml) |
+| <img src="https://ipn.li/images/icon-mie-300-v2.png" width="30"> 灭茶苦茶 https://miechakucha.com/ 不伦不类、不易流行。了解日本是不够的，我们要活用日本。[RSS](https://miechakucha.com/episodes/feed.xml) |
 | <img src="https://ipn.li/images/icon-wcy-300.jpg" width="30"> 無次元——A celebration of auditory culture http://wcy.wtf/ |
-| <img src="https://ipn.li/images/icon-taiyilaile-300.png" width="30"> 太医来了 https://taiyilaile.com/ 中文互联网第一档医生谈话类播客。[RSS](https://taiyilaile.com/episodes/feed.xml)|
-| <img src="https://ipn.li/images/icon-hardimage-300.png" width="30"> 硬影像 http://hardimage.pro/ 一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。[RSS](http://hardimage.pro/episodes/feed.xml)|
-| <img src="https://ipn.li/images/icon-popdispatch-300.png" width="30"> 流行通信 https://popdispat.ch/ 我们不只谈艺术。|
-| <img src="https://ipn.li/images/icon-fashionmonster-300.png" width="30"> 时尚怪物 http://fashionmonster.fm/ 一档不只谈时尚的播客节目。[RSS](https://monslog.com/episodes/feed.xml)|
-| <img src="https://ipn.li/images/icon-xuanmei-300.png" width="30"> 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。|
-| <img src="https://ipn.li/images/icon-talichfm-300.png" width="30"> talich闲侃 https://talich.fm/ 有闲就聊，无闲就不聊。[RSS](https://talich.fm/episodes/feed.xml)|
-| <img src="https://ipn.li/images/icon-itgonglun-300.png" width="30"> IT公论 https://itgonglun.com/ 终结。|
-| <img src="https://ipn.li/images/icon-history-300.png" width="30"> 色(Hi)story http://www.history.cheap/ 终结。|
-| <img src="https://ipn.li/images/icon-bixiaguan-300.png" width="30"> 壁下观 https://blog.yitianshijie.net 终结。|
+| <img src="https://ipn.li/images/icon-taiyilaile-300.png" width="30"> 太医来了 https://taiyilaile.com/ 中文互联网第一档医生谈话类播客。[RSS](https://taiyilaile.com/episodes/feed.xml) |
+| <img src="https://ipn.li/images/icon-hardimage-300.png" width="30"> 硬影像 http://hardimage.pro/ 一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。[RSS](http://hardimage.pro/episodes/feed.xml) |
+| <img src="https://ipn.li/images/icon-popdispatch-300.png" width="30"> 流行通信 https://popdispat.ch/ 我们不只谈艺术。 |
+| <img src="https://ipn.li/images/icon-fashionmonster-300.png" width="30"> 时尚怪物 http://fashionmonster.fm/ 一档不只谈时尚的播客节目。[RSS](https://monslog.com/episodes/feed.xml) |
+| <img src="https://ipn.li/images/icon-xuanmei-300.png" width="30"> 选·美 http://xuanmei.us/ 我们相信看大选是认识美国的最好方式。 |
+| <img src="https://ipn.li/images/icon-talichfm-300.png" width="30"> talich闲侃 https://talich.fm/ 有闲就聊，无闲就不聊。[RSS](https://talich.fm/episodes/feed.xml) |
+| <img src="https://ipn.li/images/icon-itgonglun-300.png" width="30"> IT公论 https://itgonglun.com/ 终结。 |
+| <img src="https://ipn.li/images/icon-history-300.png" width="30"> 色(Hi)story http://www.history.cheap/ 终结。 |
+| <img src="https://ipn.li/images/icon-bixiaguan-300.png" width="30"> 壁下观 https://blog.yitianshijie.net 终结。 |
 
 ### 汽车：	
 
@@ -286,6 +286,7 @@
 | <img width="35" src="https://imagev2.xmcdn.com/storages/2221-audiofreehighqps/B9/95/CKwRINsFAg93AAFufQDd0PVr.jpeg"> 超级颜论｜肆客体育 https://www.ximalaya.com/toutiao/43280832/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/33f8-audiofreehighqps/D5/90/CMCoOSUEygm6AAOUSADJ7WMh.jpeg"> 足球咖啡馆 [RSS](https://www.ximalaya.com/album/39304323.xml) 一杯咖啡的时间，陪你聊足球，但不止于足球。 |
 | <img src="https://imagev2.xmcdn.com/storages/f21c-audiofreehighqps/E9/9A/CMCoOSQE0ZwRAAMhuADM8t3Y.jpeg" width="35"> 英超无双 [RSS](https://www.ximalaya.com/album/51554220.xml) |
+| <img width="35" src="https://imagev2.xmcdn.com/group68/M04/AD/60/wKgMeF2xym2jCDQiABdd4W5iCeo063.png"> 这刺聊点啥 [RSS](https://www.ximalaya.com/album/29601116.xml) |
 | <img width="35" src="https://imagev2.xmcdn.com/group77/M04/3C/43/wKgO316dZXrB3SKxAAj2QzL8Ilw898.jpg"> 足球无双 [RSS](https://www.ximalaya.com/album/37042779.xml) 讨论一切和足球有关的话题，不管是比赛、还是俱乐部球星，亦或是足坛八卦，我们统统一网打尽。 |
 | <img src="https://imagev2.xmcdn.com/group65/M06/7D/F0/wKgMal1T83qjKQjjAAVZivonmEE902.jpg" width="30"> 英超TACO [RSS](https://www.ximalaya.com/album/26659536.xml) 非正式侃球，聊聊一周英超发生的二三事。 |
 | <img src="https://imagev2.xmcdn.com/group34/M05/3D/40/wKgJYVnfRjiSmhh7AAWsYclsmvs783.jpg" width="35"> 英超二锅头 [RSS](https://www.ximalaya.com/album/11039434.xml) 比不正经的正经，比正经的不正经。 |
@@ -314,7 +315,7 @@
 ### 津津乐道：                                               
 | <img src="https://imagev2.xmcdn.com/group69/M04/E7/1B/wKgMeV3jZpLgFSmiAAHi-RiymK8354.jpg" width="30"> https://dao.fm/ 。[RSS](https://feeds.jjldbk.com/all.xml) ；[bilibili](https://space.bilibili.com/430430545/video) |
 | :----------------------------------------------------------- |
-| <img src="https://imagev2.xmcdn.com/group83/M02/2A/BD/wKg5HV7d_jmiN5iWAAZ4pLIkU6M188.png" width="30"> 科技乱炖 朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客 |
+| <img src="https://imagev2.xmcdn.com/group83/M02/2A/BD/wKg5HV7d_jmiN5iWAAZ4pLIkU6M188.png" width="30"> 科技乱炖 [朱峰](https://github.com/zhufengme)、高春辉等多位知名 IT 业者主持的科技资讯点评播客 |
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_Aroga-01.jpg" width="30"> 编码人声 |
 | <img width="35" src="https://img.daofm.cn/wp-content/uploads/2021/10/Logo_%E4%B8%8D%E5%8F%81%E4%B8%8D%E8%82%86-01.jpg"> 不叁不肆 |
 | <img src="https://img.daofm.cn/wp-content/uploads/2020/09/Logo_%E5%8F%AB%E5%8D%96%E5%9B%BE.jpg" width="30"> 叫卖图 |
@@ -323,6 +324,16 @@
 | <img src="https://imagev2.xmcdn.com/group79/M0B/17/78/wKgPEF61MlnzYm_UAARGAeneze0383.png" width="30"> 品质生活 品质生活是品味生活好物、提升生活品位的主题播客 |
 | <img src="https://imagev2.xmcdn.com/group84/M01/05/8B/wKg5Hl7aLC2hktdQAAZUZo7H4oc682.png" width="30"> 津津有味 健康生活无需变身苦行僧，无能之辈才会传递说教和乏味，养生其实简单日常不神秘，健康可以和快乐同行，科学可以严谨而逗趣。 |
 | <img width="35" src="https://img.daofm.cn/wp-content/uploads/2021/11/Logos_%E5%8E%9F%E6%B1%A4%E8%AF%9D%E5%8E%9F%E9%A3%9F-01.jpg"> 原汤话原食：三位女记者，带你剖析热点事件、发现不为人知的背后故事。真人说真事，原汤话原食。 |
+
+### 机核 GCORES
+
+|https://www.gcores.com/|
+|:------|
+|Gadio Pro|
+|Gadio Ad|
+|Gadio News|
+|Gadio Life|
+|Gadio Story|
 
 ### 访谈:
 
@@ -363,7 +374,7 @@
 | <img src="https://imagev2.xmcdn.com/group47/M00/9E/AE/wKgKk1tNWtuyp3rgAAHfFSYGa24687.jpg" width="30"> 无时差研究所 https://www.ximalaya.com/shishang/13506198/ [RSS](https://www.ximalaya.com/album/13506198.xml) |
 | <img src="https://imagev2.xmcdn.com/group56/M00/DC/5A/wKgLgFyAHObRtGG8ABT3S9kKSPU99.jpeg" width="30"> 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ [RSS](https://www.ximalaya.com/album/19242373.xml) |
 | <img src="https://imagev2.xmcdn.com/group79/M00/83/12/wKgPC17NYALw78dyAAGJvzdXEE4979.png" width="30"> 意马心猿 https://www.ximalaya.com/keji/38372946/ |
-| <img src="https://codechina.org/wp-content/uploads/2020/05/IMG_1012.jpeg" width="30"> Tinyfool [视频](https://space.bilibili.com/210837720) |
+| <img src="https://codechina.org/wp-content/uploads/2020/05/IMG_1012.jpeg" width="30"> Tinyfool [bilibili](https://space.bilibili.com/210837720) |
 | <img src="https://imagev2.xmcdn.com/group46/M00/BD/21/wKgKj1tr8GOCeLHQAACELvVwiKg890.jpg" width="30"> 虎扯电台 https://www.ximalaya.com/yule/15384496/ [RSS](https://www.ximalaya.com/album/15384496.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/a541-audiofreehighqps/E2/FB/CMCoOR4DqPWLAACbmwBwONLs.jpg" width="30"> 再见老板 https://www.ximalaya.com/gerenchengzhang/44649712/ |
 | <img src="https://imagev2.xmcdn.com/group60/M01/4C/07/wKgLeVy8af_S4i3NAAF0EvG_L9M390.png" width="30"> WEB WIEW http://webview.tech/ 不囿于WEB,不止于WIEW。[RSS](https://webview.tech/feed/podcast/) |
@@ -668,6 +679,10 @@
 | <img width="35" src="https://imagev2.xmcdn.com/storages/7aa6-audiofreehighqps/7C/7A/CKwRIJIFKd3CAAEpUwDnzxK1.jpeg"> 伦敦有耳 [RSS](https://www.ximalaya.com/album/53462667.xml) |
 
 ### 待分类：
+
+<img width="35" src="https://imagev2.xmcdn.com/group62/M03/4B/83/wKgMZ11CjTjjXCCyAADEL1b68OQ664.jpg"> [四维空间](https://www.ximalaya.com/album/20216212)
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/c92d-audiofreehighqps/B7/49/CMCoOSMEIhpGAACZpwCRzl3q.jpeg"> 不止读书 [RSS](https://www.ximalaya.com/album/47548262.xml)
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9)
 
