@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -17,15 +17,15 @@
 
 |归类不一|||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[播客app](#播客app)|[社群](#社群)|[vlog](#vlog)|[EnglishTalk](#englishtalk)||||
+|[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)||||
 |[IPN](#ipn)|[Blockchain](#blockchain)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
-|[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[陈一佳](#陈一佳)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
+|[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[Python](#Python)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[交流访谈](#交流访谈)|[Golang](#Golang)|
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
 |[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[湖南](#湖南)|[辽宁](#辽宁)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
-|[德国](#德国)|[外语](#外语)|[待分类](#待分类)|||||
+|[德国](#德国)|[外语](#外语)|[待分类](#待分类)|[Emacs](#Emacs)||||
 
 ##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy) 
 
@@ -55,7 +55,9 @@
 
 [awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts)
 
-##### <img src="./images/wavpub.png" width="40"> 音播WavPub https://wavpub.com/
+##### <img src="./images/wavpub.png" width="40"> 音播WavPub https://wavpub.com/ 
+
+播客小镇 https://podtown.xyz/
 
 ##### <img src="https://rmt.dogedoge.com/rmt/TD94c84EPOJQiOLgSLNxgxPndKCJXikrrI2DzJfDxxJDYJPPZmgx6LTG4?w=212&h=130" width="40"> [Listen Notes: the best podcast search engine](https://www.listennotes.com/)
 
@@ -77,11 +79,12 @@
 
 
 
-### vlog：
+### video
 
 ||
 |:-----|
 |锵锵三人行|
+|[Charlie Rose](https://www.youtube.com/c/charlierose/videos)|
 |[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
 |[Unzicker's Real Physics](https://www.youtube.com/user/TheMachian/videos)|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/3b05ae5517e4349292de0dbb745dc14754c38463.jpg"> 纪录片我去看世界 [bilibili](https://space.bilibili.com/38067617/)|
@@ -108,6 +111,7 @@
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/150423/quovsmmsjqn7teptbqhh.png" width="30"> The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
 | <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
 | [Invest Like the Best](https://www.joincolossus.com/) \- Interviews with top investors |
+| <img width="35" src="https://gimlet.spotifycdn.com/show_art/b1cde5b8-4c7d-4a1d-a3a6-7a625fd03ba9/small.webp"> [Heavyweight](https://gimletmedia.com/shows/heavyweight)：Jonathan Goldstein goes back to the moment everything changed. |
 | [China in the World](https://carnegietsinghua.podomatic.com/) , [RSS](https://carnegietsinghua.podomatic.com/rss2.xml) |
 | China 21 https://china.ucsd.edu/opinion/podcasts.html |
 | <img src="https://www.armscontrolwonk.com/wp-content/themes/modern-wonk/images/podcast.jpg" width="30"> [Arms Control Wonk](https://www.armscontrolwonk.com/) , [RSS](https://armscontrolwonk.libsyn.com/rss)|
@@ -195,7 +199,7 @@
 | <img src="https://imagev2.xmcdn.com/group65/M07/FE/C7/wKgMdF1d4u_jv2uaAAfoPLJYWyg226.png" width="30"> 务虚多言 https://www.ximalaya.com/keji/27246730/  |
 | <img src="https://imagev2.xmcdn.com/group54/M05/14/A5/wKgLcl3_boDA9i-9AAOkZiUzcmI662.png" width="30"> 贤者时间 https://www.ximalaya.com/yule/31879246/ [RSS](https://www.ximalaya.com/album/31879246.xml) |
 | <img src="https://imagev2.xmcdn.com/group65/M05/10/6B/wKgMal2DOJqQw1bHAATupmy2kAY705.png" width="30"> 温柔人类 GentleHuman https://www.ximalaya.com/renwen/29344196/  |
-| <img src="https://imagev2.xmcdn.com/storages/9f52-audiofreehighqps/42/63/CMCoOSIDvyShABTUlwB1nmSB.jpeg" width="30"> 定向跳转 Redirect |
+| <img src="https://imagev2.xmcdn.com/storages/9f52-audiofreehighqps/42/63/CMCoOSIDvyShABTUlwB1nmSB.jpeg" width="30"> 定向跳转 Redirect https://www.ximalaya.com/album/45157703 |
 
 ### 36氪：
 
@@ -356,15 +360,12 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/e/e2d6df2f-27f8-4215-9a3d-1aa664fa374b/cover_small.jpg" width="30"> 二手时间 [RSS](https://feeds.fireside.fm/secondhandtime/rss) 由几个常驻欧洲的技术领域工作者发起，是一档不设限的播客节目。|
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/1/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/cover_small.jpg"> [晚点聊 LateTalk](https://podcast.latepost.com/) 以多视角观察当代商业社会，和身处其中的个人 [RSS](https://feeds.fireside.fm/latetalk/rss) |
 | [新闻实验室](https://feed.xyzfm.space/xxkgbvrglujv) |
-| <img src="https://imagev2.xmcdn.com/group73/M01/BA/E5/wKgO0V50K1jwsgZUAABBh6B7YSM480.jpg" width="30"> 不上班公社：探索远程/自由职业/数字游民/环球旅者的在线职业规划和生活方式，正在文字/播客/视频采访「100种告别996的方法」。 [RSS](https://www.ximalaya.com/album/29658030.xml)|
-| <img src="https://i.typcdn.com/pythonhunter/8444690454_041962.png" width="30"> 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。[RSS](https://pythonhunter.org/episodes/feed.xml) |
+| <img width="35" src="https://imagev2.xmcdn.com/group83/M02/B7/58/wKg5HV8fwFSBVHAOAAXrVVXpNPk415.png"> 三五环 ：跟三五环之间的朋友聊聊，他们在观察着什么、创造着什么，以及思考着什么。[RSS](https://www.ximalaya.com/album/25534957.xml) |
 | <img src="https://imagev2.xmcdn.com/group82/M0A/10/87/wKg5HF8_ad7TZkH-AAJLWxMuWD804.jpeg" width="30"> 打工谈：一个以工人为主角的播客节目。[RSS1](https://www.ximalaya.com/album/41064933.xml) , [RSS2](https://anchor.fm/s/31bf5294/podcast/rss) |
-| <img src="https://imagev2.xmcdn.com/storages/e1cb-audiofreehighqps/A0/68/CMCoOR4Dgtc7AACw-ABmNQ-Y.png" width="30"> IndieHackers 独立开发者 [RSS](https://www.ximalaya.com/album/43692352.xml)|
 | <img src="https://imagev2.xmcdn.com/group87/M0B/11/52/wKg5IV8_bpmDRBxPAACGvfXePe8096.png" width="30">  骇客白 https://hackerby.com/ 访谈创客，他们可能是独立开发者、创客、研发、产品设计，创业领域实战者，深入理解行业。 [RSS](https://www.ximalaya.com/album/24043533.xml)|
 | <img src="https://0011.one/assets/images/android-chrome-512x512.png" width="30"> 从零道一 https://0011.one/ 。[RSS](https://www.ximalaya.com/album/7070786.xml)|
 | <img src="https://imagev2.xmcdn.com/group84/M00/B9/45/wKg5Hl8fwQeD6JwwAADZFb7t11Q544.jpg" width="30"> 逆行人生 。[RSS](https://www.ximalaya.com/album/31839268.xml)|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg" width="30"> Teahour https://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。[RSS](https://feeds.fireside.fm/teahour/rss)|
-| <img src="https://imagev2.xmcdn.com/group84/M06/4D/D8/wKg5Hl9E2E2B17YmAAM8_Jxk0Bs046.png" width="30"> 遗世独立 https://www.ximalaya.com/keji/41175480/ 专注于访谈的播客节目。[RSS](https://www.ximalaya.com/album/41175480.xml) |
 | <img src="https://imagev2.xmcdn.com/group83/M0A/B1/D1/wKg5I18e-gihkeV5AARt2Clj5_A053.png" width="30"> 闭门造车 https://gulugulufm.github.io/ , [RSS](https://anchor.fm/s/2d9522d4/podcast/rss) |
 | <img width="35" src="https://changcun.wang/podcast/podcast_cover.jpg"> 有潜在危险的小行星轨道 Orbits of Potentially Hazardous Asteroids  [RSS](https://changcun.wang/podcast/ayrtbh_podcast.xml) 一档关于听东西的播客节目 A podcast about listening to things, by ayrtbh. |
 | [Uses This / Interviews](https://usesthis.com/)  Uses This asks a random selection of people all about the tools and techniques they're using to get things done. [RSS](https://usesthis.com/feed.atom) |
@@ -394,14 +395,14 @@
 | <img src="https://techfusionfm.com/images/logo@2x.png" width="30"> 科技聚变 https://techfusionfm.com/  |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/a/a21f3944-160c-4ab5-933c-4d56dca264be/cover_small.jpg"> [二十三十](https://2030.fireside.fm/) 两个女孩，一个在伦敦，一个在洛杉矶，一个刚过30，一个走向30，她们的生活怎么样 [RSS](https://feeds.fireside.fm/2030/rss) |
 | <img width="35" src="https://imagev2.xmcdn.com/group85/M00/B2/25/wKg5JV82cS2ABXaWAAAmXbI6bQA755.png"> 派森路口Passionator 这是一档身处3个时区、4个国家的5位小伙伴发起的播客。我们有点迷茫，喜欢互怼，希望展现多元的价值观，探索世界的可能性。 [RSS](https://www.ximalaya.com/album/40861807.xml) 微信公众号：派森路口Passionator（passionator2020） |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/5833-audiofreehighqps/37/90/CMCoOR8Dz-XJAACSswB6Aweo.jpg"> 忽明忽暗WrinkleYourBrain [RSS](https://www.ximalaya.com/album/45526218.xml)是一档关注各类社会公共议题的谈话类播客节目，事实有真假，观点无对错。把我们的观点拿出来探讨，对身边和远方做更多的思考，那些忽明忽暗的想法都可以闪闪发光。 |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/a1dc-audiofreehighqps/9F/1E/CMCoOR8DdohBAAKlIQBjJqsA.jpg"> 双重意识DoubleConsciousness 一档关于「和我们看似无关却又紧密相关的学术研究」的播客  [RSS](https://www.ximalaya.com/album/43408864.xml) |
 
 ### 开源：
 
 ||
 |:------|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/853d-audiofreehighqps/30/B6/CKwRIRwFSzGsAAC7mQDv-DiF.jpeg"> [开源面对面](https://github.com/opensource-f2f/episode)： 一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。[RSS](http://www.ximalaya.com/album/53320813.xml)，[bilibili](https://space.bilibili.com/433584098/channel/detail?cid=200059)， [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/)，[YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg).|
-|<img width="35" src="https://emacstalk.github.io/images/logo.png"> [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目 [RSS](https://emacstalk.github.io/podcast/index.xml) 专注 Emacs 社区，探索 Emacs 社区背后的奇人轶事；不追求「枯燥无味」的干货，更关注「耐人寻味」经验分享。|
-|<img width="35" src="https://rusttalk.github.io/images/logo.png"> [RustTalk](https://rusttalk.github.io/) 是一档专注在 Rust 社区的程序员闲聊节目。[RSS ](https://rusttalk.github.io/podcast/index.xml)|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/957d-audiofreehighqps/0C/F0/CMCoOSIE6Y1NAABsuADWQ_ey.jpg"> 迪魔王 Devmore - More about Dev 随着开发者生态发展，围绕开发者产生了很多职业，我们想邀请各种种类的朋友们来唠唠嗑，他们到底在做什么？他们可爱吗？他们怎么想？他们开心吗？揭秘  Devmore 的日常。 [RSS](https://www.ximalaya.com/album/52069269.xml)|
 |[ByteTalk](https://bytetalk.fm/) 聊聊程序员的故事  [RSS](https://bytetalk.fm/index.xml)|
 |<img width="35" src="https://imagev2.xmcdn.com/group79/M07/78/9E/wKgPEF64-KLwI4UkAAgJL_vpYHo513.png"> ALC Beijing Podcast 作为 Apache 本地社区的一份子， 致力于通过帮助开源爱好者更好的在 Apache 社区生根发芽。[RSS ](https://www.ximalaya.com/album/37853515.xml)|
@@ -437,8 +438,10 @@
 
 ||
 |:-----|
-| <img src="https://imagev2.xmcdn.com/group63/M03/95/86/wKgMcl0Ui7Dxn0HUAAdoA3NJQNA908.jpg" width="30"> 展开讲讲 https://www.ximalaya.com/yingshi/24672021/  | 
+| <img src="https://imagev2.xmcdn.com/group63/M03/95/86/wKgMcl0Ui7Dxn0HUAAdoA3NJQNA908.jpg" width="30"> 展开讲讲 [RSS](https://www.ximalaya.com/album/24672021.xml) 是一档专题式讨论好内容的播客。 https://www.ximalaya.com/yingshi/24672021/ 每期我们会试图以一个主题串联起多部作品，包括电影、电视剧、综艺和小说等多种形式，但都有共同的特点：有深度，有关联，能让我们有触动，有想法，值得我们努力“展开讲讲”。 |
 | <img src="https://i.typlog.com/loudmurmursfm/8425979069_315848.jpg?x-oss-process=style/ss" width="30"> 小声喧哗 Loud Murmurs https://loudmurmursfm.com/ |
+| <img width="35" src="https://imagev2.xmcdn.com/group87/M0B/AD/41/wKg5IV9NzVvw2DS8AABHloTe0pE621.png"> 不上不下 ：一档由两个年纪上不上不下、职场上也不上不下的女孩的客厅聊天记录。尴尬而自洽是她们目前所处的人生阶段，也是她们的聊天风格。给大家讲讲综艺内容制作的内幕和初代90后对社会的观察。https://www.ximalaya.com/album/41369730 |
+| <img width="35" src="https://imagev2.xmcdn.com/group74/M07/7B/7B/wKgO0l6hp-7z-pEqAACapEBiIYY887.jpg"> 聊天记录 GroupChat https://www.ximalaya.com/album/37203151 |
 
 
 ### 游戏：
@@ -453,7 +456,7 @@
 
 ### 编程语言PL:
 
-||
+|[Awesome Tech Conferences](https://curatedtalks.com/)|
 |:------|
 | <img src="https://corecursive.com/assets/images/logo-reduced-1-white.png" width="30"> [CoRecursive](https://corecursive.com/category/podcast/) The Stories Behind The Code: [Philip Wadler](https://corecursive.com/021-gods-programming-language-with-philip-wadler/), [Dan Friedman](https://corecursive.com/023-little-typer-and-pie-language/), [Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/), [Hal Abelson](https://corecursive.com/039-hal-abelson-sicp/)...  |
 | <img width="30" src="https://www.se-radio.net/wp-content/uploads/2014/10/se-radio-logo.png">[Software Engineering Radio](https://www.se-radio.net/): [Guy Steele](https://www.se-radio.net/2006/11/episode-36-interview-guy-steele/), [Anders Hejlsberg](https://www.se-radio.net/2008/05/episode-97-interview-anders-hejlsberg/)... |
@@ -462,17 +465,58 @@
 | [Guy Steele Interviews John McCarthy, Father of Lisp](https://www.infoq.com/interviews/Steele-Interviews-John-McCarthy/) |
 | [The Evolution of Lisp](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/) |
 
-### Golang：
+### Emacs：
+
+|https://www.gnu.org/software/emacs/|
+|:------|
+|<img width="35" src="https://emacsconf.org/i/emacsconf-logo1-256.png"> [EmacsConf](https://emacsconf.org/)|
+|∑ Xah Emacs http://xahlee.info/emacs/index.html|
+|[陈斌](https://github.com/redguardtoo)[ ![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/2453581630) [如何提高编程速度 - Emacs高手教授轻松学习所有编辑器和IDE的秘诀](https://edu.51cto.com/course/19329.html)（付费）|
+|[Protesilaos Stavrou ](https://www.youtube.com/c/ProtesilaosStavrou/videos)|
+|[Sacha Chua - Emacs News](https://www.youtube.com/c/SachaChua/videos)|
+|<img width="35" src="https://emacstalk.github.io/images/logo.png"> [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目 [RSS](https://emacstalk.github.io/podcast/index.xml) 专注 Emacs 社区，探索 Emacs 社区背后的奇人轶事；不追求「枯燥无味」的干货，更关注「耐人寻味」经验分享。|
+|Emacs China https://emacs-china.org/|
+|第253页图灵笔记 [bilibili](https://space.bilibili.com/210738994/video) Emacs 碎碎念|
+
+### Freelancer：
 
 ||
 |:------|
+|<img src="https://imagev2.xmcdn.com/storages/8c95-audiofreehighqps/67/C4/CMCoOR8EF-iRAABTvQCO6Or2.jpg" width="30"> 数字游民指北：探索远程/自由职业/数字游民/环球旅者的在线职业规划和生活方式，正在文字/播客/视频采访「100种告别996的方法」。 [RSS](https://www.ximalaya.com/album/29658030.xml)|
+|<img src="https://imagev2.xmcdn.com/storages/e1cb-audiofreehighqps/A0/68/CMCoOR4Dgtc7AACw-ABmNQ-Y.png" width="30"> IndieHackers https://www.indiehackers.net 独立开发者 [RSS](https://www.ximalaya.com/album/43692352.xml)|
+|<img src="https://imagev2.xmcdn.com/group84/M06/4D/D8/wKg5Hl9E2E2B17YmAAM8_Jxk0Bs046.png" width="30"> 遗世独立 https://www.ximalaya.com/keji/41175480/ 专注于访谈的播客节目。[RSS](https://www.ximalaya.com/album/41175480.xml)|
+|Uses This / Interviews https://usesthis.com/|
+
+### Golang：
+
+|[awesome-go](https://github.com/avelino/awesome-go)|
+|:------|
 |<img width="35" src="https://talkgo.fm/images/talkgofm.png"> [Go 夜聊](https://talkgo.fm/)， [RSS](https://talkgo.fm/index.xml)|
+|<img width="35" src="https://cdn.changelog.com/uploads/covers/go-time-original.png"> The [Go Time](https://changelog.com/gotime) Podcast： Your source for diverse discussions from around the Go community [RSS](https://changelog.com/gotime/feed)|
 |[Go 夜读](https://talkgo.org/)：Go夜读公众号同名，所有与 Go 相关的技术知识、架构实践，以及 TalkGo 读书会，TalkGo 算法之美等相关内容。[bilibili](https://space.bilibili.com/326749661)|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/41067a1aed838c02fd4cd7236f73287f210ce696.jpg"> eggo-tech [bilibili](https://space.bilibili.com/567195437/) 公众号：幼麟实验室。做点儿形象通透的编程教程。|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/a1d879f0bbb875b33370270c52a01ff99a7cc03f.jpg"> 面向加薪学习：[bilibili](https://space.bilibili.com/375038855) 专注于Go、Java、Flutter、前端、小程序、项目管理、软件架构|
 |<img width="35" src="https://gocn.vip/uploads/logo.png"> GopherChina：https://gocn.vip/， [bilibili](https://space.bilibili.com/436361287)|
 |<img width="35" src="https://changkun.de/logo.png"> 欧长坤： [bilibili](https://space.bilibili.com/2757295/) & [YouTube](https://www.youtube.com/user/Euryugasaki/videos) ，https://changkun.de/ ，《[Go 语言原本](https://golang.design/under-the-hood/)》|
 |<img width="35" src="https://avatars.githubusercontent.com/u/6493255"> draveness (Draven) · 面向信仰编程：《[Go 语言设计与实现](https://draven.co/golang/)》|
+|敬维 https://jingwei.link ，[bilibili](https://space.bilibili.com/425571569/video)|
+|<img width="35" src="https://i2.hdslb.com/bfs/face/0d2f52b9e1dae83b2cd710b38ee911533db32774.jpg"> 波罗学 [bilibili](https://space.bilibili.com/314069695/video) 代码爱好者，当前专注 Go，公众号-码途漫漫，博客 poloxue.com|
+
+### Python：
+
+|[Awesome Python](https://awesome-python.com/)|
+|:------|
+|<img src="https://i.typcdn.com/pythonhunter/8444690454_041962.png" width="30"> 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。[RSS](https://pythonhunter.org/episodes/feed.xml)|
+|<img width="35" src="https://i1.hdslb.com/bfs/face/64aa993a0b83f563f6fc836743dcd858c7022e42.jpg"> [李辉](https://greyli.com/)greyli ， [bilibili](https://space.bilibili.com/472736383/video) & [github](https://github.com/greyli)|
+|[Python Bytes](https://pythonbytes.fm/) Podcast is a weekly podcast hosted by [Michael Kennedy](http://blog.michaelckennedy.net/) and [Brian Okken](http://pythontesting.net/). Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly. [RSS ](https://pythonbytes.fm/episodes/rss)|
+|<img width="35" src="https://i2.hdslb.com/bfs/face/c9a319ec05870d67a233e442254090139c108d7d.jpg"> PyConChina 促进国内外 Python 开发者之间的交流  公众号（@PyChinaOrg） [bilibili ](https://space.bilibili.com/474764697/video)|
+|<img width="35" src="https://i2.hdslb.com/bfs/face/66d18877c510381d9479d822fc4dfecb82c2efc3.jpg"> 莫烦Python [bilibili](https://space.bilibili.com/243821484/video)|
+
+### Rust：
+
+|https://www.rust-lang.org/ & [github](https://github.com/rust-lang)|
+|:------|
+|<img width="35" src="https://rusttalk.github.io/images/logo.png"> [RustTalk](https://rusttalk.github.io/) 是一档专注在 Rust 社区的程序员闲聊节目。[RSS ](https://rusttalk.github.io/podcast/index.xml)|
 
 ### 喜剧：
 
@@ -481,9 +525,6 @@
 |<img src="https://imagev2.xmcdn.com/storages/d208-audiofreehighqps/26/DD/CMCoOSQED90CAANJoQCMdQaR.jpeg" width="35"> 嘻谈录 [RSS](https://www.ximalaya.com/album/43044571.xml)|
 
 ### 北京：
-
-<a href="https://book.douban.com/subject/4243217/"><img src="https://img3.doubanio.com/view/subject/s/public/s4200030.jpg" width="100"></a>
-<a href="https://book.douban.com/subject/30184855/"><img src="https://img9.doubanio.com/view/subject/s/public/s29730156.jpg" width="100"></a>
 
 ||
 |:---|
@@ -502,6 +543,12 @@
 ||
 |:----|
 |<img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cde4517d-8ad4-4f2e-99f8-dab827b08c1a/cover_small.jpg"> [听潮HearTide](https://heartide.fireside.fm/) 一款纯潮汕话的播客 [RSS](https://feeds.fireside.fm/heartide/rss) |
+
+### 澳大利亚：
+
+||
+|:------|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/4f65-audiofreehighqps/54/F7/CMCoOR8EbAp8AAG1oQCoMXTk.jpeg"> 想聊天ThinkTalk : 三个现居悉尼的女生，一边反思一边冒险，一边困惑一边成长。因为经常手舞足蹈的聊天到停不下来，于是共同开启了这场探索多元价值观和生活更多可能性的播客之旅。如果在苟且的生活工作之余，你也和我们一样爱想东想西，聊天聊地，爱多元观点碰撞出的火花和击中共鸣的愉悦时刻，那么恭喜你来对地方了！[RSS](https://www.ximalaya.com/album/42323127.xml)|
 
 ### 德国：
 
@@ -735,6 +782,22 @@
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9)
 
 莽街RADIO
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/0dc8-audiofreehighqps/97/95/CMCoOR4EMlKWAAMlQQCWv8_X.jpeg"> 问题青年 https://www.ximalaya.com/album/47129647
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/bf5b-audiofreehighqps/8B/23/CMCoOScD1IfzAAEX1gB7QJVi.jpeg"> 百分之十Radio https://www.ximalaya.com/album/45638325
+
+<img width="35" src="https://imagev2.xmcdn.com/group76/M05/AE/AE/wKgO1F5SZ0PTtokIAAAnhBRVIyw377.png"> 自由之丘 https://www.ximalaya.com/album/31881275
+
+<img width="35" src="https://imagev2.xmcdn.com/group79/M09/28/B9/wKgPC16sr3XS5mgnABG9oyWqT-8177.png"> 姐妹合众国SistersUnited https://www.ximalaya.com/album/37517202
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/aaf6-audiofreehighqps/45/04/CMCoOSUDzatAAAA5VgB5c1mc.jpg"> 读书吧！少女 https://www.ximalaya.com/album/45472033
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/3940-audiofreehighqps/2A/55/CKwRIUEFA5vLAAZ2zwDeRNTN.jpeg"> 2040书店FM https://www.ximalaya.com/album/47968202
+
+<img width="35" src="https://imagev2.xmcdn.com/group71/M00/1E/73/wKgO2V4kaA_zmA4VAAGBeDUaTLU612.jpg"> 不在场 https://www.ximalaya.com/album/32617071 ，[RSS](https://buzaichang.xyz/episodes/feed.xml)
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDgxL00wMS8zNC9FMS93S2dQRWw2X2N6Q1NMM0k0QUFacmF5MWtVRzQ4MjMucG5n.png@small"> 谈笑风声 https://www.xiaoyuzhoufm.com/podcast/5eca5989418a84a0465e6648 科技，文娱，创业，投资。 三五好友，谈笑风生~
 
 <img width="35" src="https://imagev2.xmcdn.com/group76/M00/73/EE/wKgO1F6fFi_ThTANABZfQAU56bo197.jpg"> 沐沐和Grace说 https://www.ximalaya.com/album/37111134
 
