@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -25,7 +25,8 @@
 |[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[湖南](#湖南)|[辽宁](#辽宁)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
-|[德国](#德国)|[外语](#外语)|[待分类](#待分类)|[Emacs](#Emacs)||||
+|[德国](#德国)|[外语](#外语)|[待分类](#待分类)|[Emacs](#Emacs)|[Freelancer](#Freelancer)|[Ruby](#Ruby)|[Rust](#Rust)|
+|[LISP](#LISP)|
 
 ##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy) 
 
@@ -91,6 +92,7 @@
 |<img width="35" src="https://i2.hdslb.com/bfs/face/2f4df9eab9683a056c659fd51118b1d9bc482594.jpg"> 游牧夫妻 [bilibili](https://space.bilibili.com/2417993/video) 设计师&瑜伽老师，我们是数字游民，正在旅居拉美。微信：neverknow_adventure|
 |<img width="35" src="https://i1.hdslb.com/bfs/face/73e3b2d365404516de6887baaf023ebb44e6e066.jpg"> 和之梦放送 [bilibili](https://space.bilibili.com/17244618) 拜访住在世界各地的中国人，和住在中国的外国人。带你领略各地的风土人情。|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/a112c2847865a5567afd81f6d57d3f61846ea91c.jpg"> bopular [bilibili](https://space.bilibili.com/303098642/video) 晚点设置也可以|
+|[![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1082251714) erain9 #程序员问程序员#系列|
 
 
 
@@ -468,14 +470,31 @@
 
 ### 编程语言PL:
 
-|[Awesome Tech Conferences](https://curatedtalks.com/)|
-|:------|
-| <img src="https://corecursive.com/assets/images/logo-reduced-1-white.png" width="30"> [CoRecursive](https://corecursive.com/category/podcast/) The Stories Behind The Code: [Philip Wadler](https://corecursive.com/021-gods-programming-language-with-philip-wadler/), [Dan Friedman](https://corecursive.com/023-little-typer-and-pie-language/), [Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/), [Hal Abelson](https://corecursive.com/039-hal-abelson-sicp/)...  |
+| [Awesome Tech Conferences](https://curatedtalks.com/)        |
+| :----------------------------------------------------------- |
+| <img src="https://corecursive.com/assets/images/logo-reduced-1-white.png" width="30"> [CoRecursive](https://corecursive.com/category/podcast/) The Stories Behind The Code: [Philip Wadler](https://corecursive.com/021-gods-programming-language-with-philip-wadler/), [Dan Friedman](https://corecursive.com/023-little-typer-and-pie-language/), [Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/), [Hal Abelson](https://corecursive.com/039-hal-abelson-sicp/)... |
 | <img width="30" src="https://www.se-radio.net/wp-content/uploads/2014/10/se-radio-logo.png">[Software Engineering Radio](https://www.se-radio.net/): [Guy Steele](https://www.se-radio.net/2006/11/episode-36-interview-guy-steele/), [Anders Hejlsberg](https://www.se-radio.net/2008/05/episode-97-interview-anders-hejlsberg/)... |
-| [LispCast](https://lispcast.com/) |
+| [LispCast](https://lispcast.com/)                            |
 | [Panel: The Future of Programming Languages](https://www.infoq.com/presentations/Future-of-Programming-Languages/) |
+
+### LISP：
+
+| [History of LISP](http://www.softwarepreservation.org/projects/LISP) |
+| :----------------------------------------------------------- |
 | [Guy Steele Interviews John McCarthy, Father of Lisp](https://www.infoq.com/interviews/Steele-Interviews-John-McCarthy/) |
 | [The Evolution of Lisp](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/) |
+| <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio 2008 —— 嘉宾: [Richard P. Gabriel](https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/) |
+| <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio 2010 —— 嘉宾: [Rich Hickey](https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ ) |
+| [European Lisp Symposium](https://european-lisp-symposium.org) |
+| [New York City Lisp User Group](http://www.lispnyc.org/)     |
+| [和中国著名Common Lisp程序员冰河聊聊Lisp](https://teahour.fm/47)， [田春](https://github.com/binghe) [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1929185323). Teahour.fm 播客 2014年. |
+| [Lisp 程序员眼中的 Python](https://pythonhunter.org/episodes/7) ，  嘉宾：[David Gu](http://macdavid313.xyz/) . 捕蛇者说播客 2019年. |
+| [Lisp入门](https://www.ximalaya.com/keji/4867505/25888083) ，嘉宾：韩祝鹏. 代码时间播客 2016年. |
+| [Clojure 编程语言](https://www.ximalaya.com/keji/4867505/19342829)  ，嘉宾：何婧誉（Loretta）[![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1899123755)，代码时间播客 2016年. |
+| [Common Lisp programming: from novice to effective developer \| Udemy](https://www.udemy.com/course/common-lisp-programming/) |
+| 刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4) |
+| Little Bits of Lisp [bilibili](https://www.bilibili.com/video/BV15J411J7Aw) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [bilibili](https://www.bilibili.com/video/BV1K7411v7bj) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS) |
+| Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/) [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0) |
 
 ### Emacs：
 
@@ -524,6 +543,17 @@
 | [Python Bytes](https://pythonbytes.fm/) Podcast is a weekly podcast hosted by [Michael Kennedy](http://blog.michaelckennedy.net/) and [Brian Okken](http://pythontesting.net/). Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly. [RSS ](https://pythonbytes.fm/episodes/rss) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/c9a319ec05870d67a233e442254090139c108d7d.jpg"> PyConChina 促进国内外 Python 开发者之间的交流  公众号（@PyChinaOrg） [bilibili ](https://space.bilibili.com/474764697/video) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/66d18877c510381d9479d822fc4dfecb82c2efc3.jpg"> 莫烦Python [bilibili](https://space.bilibili.com/243821484/video) |
+
+### Ruby：
+
+|[Ruby Weekly](https://rubyweekly.com/) A free, once–weekly e-mail round-up of Ruby news and articles.|
+|:------|
+|[RubyFlow](https://rubyflow.com/) - The Ruby and Rails community linklog|
+|Speedshop - a few great ways to soak in Ruby operational and performance tips [Rails performance Blog](https://www.speedshop.co/blog/), [Ruby Performance Newsletter](https://speedshop.us11.list-manage.com/subscribe?u=1aa0f43522f6d9ef96d1c5d6f&id=840412962b)|
+|[Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)  A free weekly show on software development. Keep current on the latest trends in the industry with the Rubber Duck Devs!|
+|[Ruby Central Youtube channel](https://www.youtube.com/channel/UCpFXaEz3vKJ45XjW5m5pbow) - various confrence talks|
+|[Ruby Confreaks Recordings](https://www.youtube.com/results?search_query=confreaks+ruby)|
+|[Rails Security Email List](https://groups.google.com/g/rubyonrails-security) - ensure you see critical security issue announcements|
 
 ### Rust：
 
