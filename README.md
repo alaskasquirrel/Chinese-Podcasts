@@ -51,6 +51,7 @@
 | <img src="https://www.qishuier.com/img/index_logo.c27fc9e3.png" width="35"> 汽水儿 https://www.qishuier.com/  [隐私政策](https://www.qishuier.com/privacy) |
 | <img src="./images/podcast.png" width="35"> [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)  ( Microsoft Store ) |
 | <img src="https://www.breaker.audio/packs/breaker-logo-2b5ff175e58d8da25c76d037f7d8c6b2.svg" width="35"> Breaker https://www.breaker.audio |
+| <img src="./images/castflow.png" width="40" style="border-radius: 20%;" > [Castflow](https://apps.apple.com/app/id1572179241) iOS app(速度很快的泛用型客户端) |
 
 ### 社群：
 
