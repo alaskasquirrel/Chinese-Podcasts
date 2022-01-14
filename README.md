@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -51,6 +51,7 @@
 | <img src="https://www.qishuier.com/img/index_logo.c27fc9e3.png" width="35"> 汽水儿 https://www.qishuier.com/  [隐私政策](https://www.qishuier.com/privacy) |
 | <img src="./images/podcast.png" width="35"> [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)  ( Microsoft Store ) |
 | <img src="https://www.breaker.audio/packs/breaker-logo-2b5ff175e58d8da25c76d037f7d8c6b2.svg" width="35"> Breaker https://www.breaker.audio |
+| <img width="35" src="./images/castflow.png"> [Castflow](https://apps.apple.com/app/id1572179241) iOS app(速度很快的泛用型客户端) |
 
 ### 社群：
 
