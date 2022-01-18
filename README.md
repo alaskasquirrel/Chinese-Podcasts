@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -228,7 +228,8 @@
 | <img src="https://pic1.zhimg.com/v2-c1ae13e299ebcf456e645dff5315322f_im.jpg" width="30"> UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。[RSS](https://uxcoffee.typlog.io/episodes/feed.xml)|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f2a2da18-9f87-403e-8f15-3777c99aa675/cover.jpg" width="30"> 所建所闻 https://architalk.fireside.fm/ 。[RSS](https://feeds.fireside.fm/architalk/rss) |
 | <img src="https://static1.squarespace.com/static/5766d9d02994ca3a4e713416/t/5894179815d5db8ef4ac1950/1522688979053/?format=1500w" width="30"> 异能电台 https://www.yineng.fm/ |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4bc59802-5764-488e-baaf-f2f3b64eb05e/cover_small.jpg" width="30">  设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。[RSS](https://feeds.fireside.fm/shejiyaodian/rss)|
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4bc59802-5764-488e-baaf-f2f3b64eb05e/cover_small.jpg" width="30">  设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。[RSS](https://feeds.fireside.fm/shejiyaodian/rss) |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeU4zdGZjdVZrSHRIeUFYUFZIeS1qaHdZRXoucG5n.png"> 瞎说设计 https://www.xiaoyuzhoufm.com/podcast/61250c0ddc0c485d9a0cb07b |
 
 ### 陈一佳：	
 
