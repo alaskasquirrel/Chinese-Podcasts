@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -94,6 +94,7 @@
 |<img width="35" src="https://i1.hdslb.com/bfs/face/73e3b2d365404516de6887baaf023ebb44e6e066.jpg"> 和之梦放送 [bilibili](https://space.bilibili.com/17244618) 拜访住在世界各地的中国人，和住在中国的外国人。带你领略各地的风土人情。|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/a112c2847865a5567afd81f6d57d3f61846ea91c.jpg"> bopular [bilibili](https://space.bilibili.com/303098642/video) 晚点设置也可以|
 |[![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1082251714) erain9 #程序员问程序员#系列|
+|LinuxTechTips [bilibili](https://space.bilibili.com/12434430)|
 
 
 
@@ -116,6 +117,7 @@
 | <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
 | [Invest Like the Best](https://www.joincolossus.com/) \- Interviews with top investors |
 | <img width="35" src="https://gimlet.spotifycdn.com/show_art/b1cde5b8-4c7d-4a1d-a3a6-7a625fd03ba9/small.webp"> [Heavyweight](https://gimletmedia.com/shows/heavyweight)：Jonathan Goldstein goes back to the moment everything changed. |
+| [No Agenda](https://www.noagendashow.net/) |
 | [China in the World](https://carnegietsinghua.podomatic.com/) , [RSS](https://carnegietsinghua.podomatic.com/rss2.xml) |
 | China 21 https://china.ucsd.edu/opinion/podcasts.html |
 | <img src="https://www.armscontrolwonk.com/wp-content/themes/modern-wonk/images/podcast.jpg" width="30"> [Arms Control Wonk](https://www.armscontrolwonk.com/) , [RSS](https://armscontrolwonk.libsyn.com/rss)|
