@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -168,6 +168,7 @@
 | Bankless Podcast https://banklesshq.com/ |
 | <img width="35" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/db/f6/e7/dbf6e77f-8c98-0ad0-5490-0b09761ead6a/mza_12496232310422781380.jpg/600x600bb.jpg"> UpOnly: Chats with Crypto Experts https://uponly.tv/ |
 | <img width="35" src="https://blockdebate.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1RyY1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e94568f5ebeee7d52a73e6b85ddb919853e8768/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/logo-black-big.jpg"> The Blockchain Debate Podcast [RSS](https://feeds.buzzsprout.com/767033.rss) |
+| <img width="35" src="https://i0.hdslb.com/bfs/face/f661077268d31d2bd2e15b44927d9d96d0f6fef1.jpg"> CoinDesk中文版 [bilibili](https://space.bilibili.com/1522354971/video) |
 
 ### ThoughtWorks:
 
@@ -198,7 +199,6 @@
 | <img src="https://imagev2.xmcdn.com/group64/M09/A6/00/wKgMc117yvvhiD2EAAAWnza32IQ55.jpeg" width="30"> https://www.ximalaya.com/zhubo/104088857/ ； https://justpodmedia.com/ |
 | :----------------------------------------------------------- |
 | <img src="https://imagev2.xmcdn.com/group63/M09/B4/93/wKgMaF2jnNbRhxd-AAPFmyK0BY0816.jpg" width="30"> 忽左忽右 https://www.ximalaya.com/toutiao/12817863/ [RSS](https://www.ximalaya.com/album/12817863.xml) |
-| <img src="https://imagev2.xmcdn.com/group79/M03/B9/DB/wKgPC16oVSHQNjLJAARTEZ2G50o555.png" width="30"> 东亚观察局 https://www.ximalaya.com/toutiao/37399737/ |
 | <img src="https://imagev2.xmcdn.com/group74/M05/91/B0/wKgO3F5hldahF71TAA2Xt_uh490338.png" width="30"> 去现场 https://www.ximalaya.com/yule/30766335/ |
 | <img src="https://imagev2.xmcdn.com/group79/M00/50/0A/wKgPC17LeOvwM9klAAZSx1XNg5U926.png" width="30"> 天方乐谈 https://www.ximalaya.com/yinyue/38321797/ |
 | <img src="https://imagev2.xmcdn.com/group61/M0B/B5/FF/wKgMZl2jmPDy2uc-AAOZv6Y8D-o750.jpg" width="30"> 杯弓舌瘾 https://www.ximalaya.com/shishang/30073430/ |
@@ -239,6 +239,15 @@
 |:--------------------------------|
 | <img src="https://ox3production.com/wp-content/uploads/2019/09/poster-starups-made-in-the-usa.jpg" width="30">《创业美国》 |
 | <img src="https://ox3production.com/wp-content/uploads/2019/09/poster-nextblockchain-op.jpg" width="30">《区块链之新》 |
+
+### 梵一如：
+
+|https://www.ximalaya.com/zhubo/2906444|
+|:------|
+|<img src="https://imagev2.xmcdn.com/group71/M00/79/06/wKgOz14aMTWxZb_-AA1OGxAtSlE990.png" width="30"> 井户端会议 https://www.ximalaya.com/renwenjp/212125/|
+|<img src="https://imagev2.xmcdn.com/group82/M0B/BC/02/wKg5HF83q37BonvTAAhlGP0I8Ec911.png" width="30"> 上海闲话 https://www.ximalaya.com/renwenjp/215647/|
+|<img src="https://imagev2.xmcdn.com/group79/M03/B9/DB/wKgPC16oVSHQNjLJAARTEZ2G50o555.png" width="30"> 东亚观察局 https://www.ximalaya.com/toutiao/37399737/|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/aacd-audiofreehighqps/3F/AA/CKwRIUEE-RiwAAZqaADbMDc7.jpeg"> 魔都剧好看 https://www.ximalaya.com/album/52140019|
 
 ### VC投资：
 
@@ -576,6 +585,7 @@
 |[昭和歌谣：二战后的日本流行音乐](https://shop.vistopia.com.cn/detail?id=n_n_7) 李如一|
 |<img width="35" src="https://i.typlog.com/zhuchangsile/8362153573_509449.png?x-oss-process=style/ss"> [主唱死了](https://zhuchangsile.xyz/) 我们终于可以聊后摇了 [RSS](https://zhuchangsile.xyz/episodes/feed.xml)|
 |<img width="35" src="https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png"> [Techno Live Set](https://www.techno-livesets.com/)|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/a819-audiofreehighqps/D4/63/CKwRINsFYQRlAAIKTQD1sjPe.jpeg"> 七音符 是由七幕人生出品的音乐播客。通过与音乐剧演员、剧场从业者的访谈推荐，用好音乐，开启你的音乐剧新生活。|
 
 ### 喜剧：
 
@@ -764,8 +774,6 @@
 
 | |
 |:-----------------------------------|
-| <img src="https://imagev2.xmcdn.com/group71/M00/79/06/wKgOz14aMTWxZb_-AA1OGxAtSlE990.png" width="30"> 井户端会议 https://www.ximalaya.com/renwenjp/212125/ |
-| <img src="https://imagev2.xmcdn.com/group82/M0B/BC/02/wKg5HF83q37BonvTAAhlGP0I8Ec911.png" width="30"> 上海闲话 https://www.ximalaya.com/renwenjp/215647/ |
 | <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/renwen/2983895/ |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ 。[RSS](https://www.ximalaya.com/album/41367354.xml)|
 
@@ -844,6 +852,8 @@
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9)
 
 莽街RADIO
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDY1L00wNi84Ri8wNi93S2dNYWwxVkt1Q2pHazNZQUF0OHN3OURLNTQ2MTUucG5n.png"> [fit4life | fitgirl weekly chat](https://www.xiaoyuzhoufm.com/podcast/5e280faa418a84a0461f99b5)
 
 [道听胡说](https://www.ximalaya.com/album/50171780)
 
