@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -20,7 +20,7 @@
 |[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)||||
 |[IPN](#ipn)|[Crypto](#Crypto)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[Python](#Python)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
-|[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[足球](#足球)|[津津乐道](#津津乐道)|[交流访谈](#交流访谈)|[Golang](#Golang)|
+|[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[体育](#体育)|[津津乐道](#津津乐道)|[交流访谈](#交流访谈)|[Golang](#Golang)|
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
 |[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
@@ -94,6 +94,7 @@
 |<img width="35" src="https://i1.hdslb.com/bfs/face/73e3b2d365404516de6887baaf023ebb44e6e066.jpg"> 和之梦放送 [bilibili](https://space.bilibili.com/17244618) 拜访住在世界各地的中国人，和住在中国的外国人。带你领略各地的风土人情。|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/a112c2847865a5567afd81f6d57d3f61846ea91c.jpg"> bopular [bilibili](https://space.bilibili.com/303098642/video) 晚点设置也可以|
 |[![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1082251714) erain9 #程序员问程序员#系列|
+|[Daily Free Course](https://dailycourse.top/) Free Udemy, YouTube and University Courses|
 |LinuxTechTips [bilibili](https://space.bilibili.com/12434430)|
 
 
@@ -310,7 +311,7 @@
 | <img src="https://imagev2.xmcdn.com/group70/M08/88/42/wKgO2F4Iw9XhjLCHAA_x4EpWPek226.jpg" width="30"> 日谈物语 https://www.ximalaya.com/yule/32028678/ |
 | 我在故宫聊八卦 https://www.ximalaya.com/album/45723178       |
 
-### 足球：	
+### 体育：	
 
 | |
 |:----------------------------------------------------|
@@ -331,6 +332,7 @@
 | <img width="35" src="https://i0.hdslb.com/bfs/face/0a8cb2ae0dcbb0b08e70806684120fd7a91f256d.jpg"> 隔壁红魔 [bilibili](https://space.bilibili.com/432174249/video) |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/a9f8c536fe40c1459ad78beb60eacde0fae1a068.jpg"> 巅峰球迷汇 [bilibili](https://space.bilibili.com/365372809) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/4e99173c1eebb4e4f4535847d6ff1400faa21557.jpg"> 纽卡斯尔老田 [bilibili](https://space.bilibili.com/546716867/video) 来自英国的东北城市纽卡斯尔，在中国的第8年。 油管：Newcastle老田在中国 |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/48c3-audiofreehighqps/AE/B0/CMCoOSUEGjIDAAHHDQCPdfJq.jpg"> 乒羽漫谈｜婷姐FM https://www.ximalaya.com/album/47341257 |
 
 ### 声动活泼：
 
@@ -425,6 +427,7 @@
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrYUFEbW1YaDZGWm9ydXVVMkVpOG5zbFVYck4uanBn.jpg"> 佟晨洁的“[正常生活](https://www.xiaoyuzhoufm.com/podcast/6177c78f198954178425773a)” |
 | 环形散步 |
 | <img width="35" src="http://p1.music.126.net/5NO4BOYOrvC_eC01mDwsMg==/109951165770903574.jpg"> [空岛LandingOnAir](https://music.163.com/#/djradio?id=959407407)  是由阿那亚和深夜谈谈播客网络共同出品的一档独立播客。每期节目都会有探险家登陆「空岛」，为我们带来时光的礼物。我们强调智识和感受的分享，试图还原每一位空岛来客当下的片段感悟。 |
+| <img width="35" src="http://zdimg.lifeweek.com.cn/bg/20211230/1640866306410pxogv.jpg!magzineNPic"> Talk三联 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9UaGVXZWlyZG8ucG5n.png"> [不合时宜](https://www.xiaoyuzhoufm.com/podcast/5e280fb8418a84a0461fd076) |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/a1dc-audiofreehighqps/9F/1E/CMCoOR8DdohBAAKlIQBjJqsA.jpg"> 双重意识DoubleConsciousness 一档关于「和我们看似无关却又紧密相关的学术研究」的播客  [RSS](https://www.ximalaya.com/album/43408864.xml) |
 
@@ -486,7 +489,7 @@
 
 ### 编程语言PL:
 
-| [Awesome Tech Conferences](https://curatedtalks.com/)        |
+| [Awesome Tech Conferences](https://curatedtalks.com/) ; [Literature on Programming Languages](http://users.csc.calpoly.edu/~akeen/languages/papers.html) |
 | :----------------------------------------------------------- |
 | <img src="https://corecursive.com/assets/images/logo-reduced-1-white.png" width="30"> [CoRecursive](https://corecursive.com/category/podcast/) The Stories Behind The Code: [Philip Wadler](https://corecursive.com/021-gods-programming-language-with-philip-wadler/), [Dan Friedman](https://corecursive.com/023-little-typer-and-pie-language/), [Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/), [Hal Abelson](https://corecursive.com/039-hal-abelson-sicp/)... |
 | <img width="30" src="https://www.se-radio.net/wp-content/uploads/2014/10/se-radio-logo.png">[Software Engineering Radio](https://www.se-radio.net/): [Guy Steele](https://www.se-radio.net/2006/11/episode-36-interview-guy-steele/), [Anders Hejlsberg](https://www.se-radio.net/2008/05/episode-97-interview-anders-hejlsberg/)... |
@@ -495,7 +498,7 @@
 
 ### LISP：
 
-| [History of LISP](http://www.softwarepreservation.org/projects/LISP) |
+| [History of LISP](http://www.softwarepreservation.org/projects/LISP)  ;  Song: ["God Wrote in Lisp"](http://www.prometheus-music.com/audio/eternalflame.mp3), [Lyrics](http://www.songworm.com/lyrics/songworm-parody/EternalFlame.html) by [Bob Kanefsky](http://www.songworm.com/songworm.html), sung by [Julia Ecklar](http://www.songworm.com/db/person/JuliaEcklar.html). |
 | :----------------------------------------------------------- |
 | [Guy Steele Interviews John McCarthy, Father of Lisp](https://www.infoq.com/interviews/Steele-Interviews-John-McCarthy/) |
 | [The Evolution of Lisp](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/) |
@@ -853,6 +856,12 @@
 
 莽街RADIO
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy80ZGZhLWF1ZGlvZnJlZWhpZ2hxcHMvMjAvRUQvQ0t3UklXNEZZWklrQUFVd0NnRDE2SUFSLmpwZWc=.jpeg"> 围炉白话 https://www.xiaoyuzhoufm.com/podcast/618bcf7303abe84b7f8b8e76
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsT1JELVFDVlkyeUZ5MEN1cGFHcVBYM1RIeXAuanBn.jpg"> 男生宿舍 https://www.xiaoyuzhoufm.com/podcast/61b09b1908f9b8f5f0eea919
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy81ZTU2LWF1ZGlvZnJlZWhpZ2hxcHMvNDUvRjAvQ01Db09TUURsT0psQUFNUTJ3QnE1bG9wLmpwZWc=.jpeg"> [可否一说](https://www.xiaoyuzhoufm.com/podcast/5e65cab8418a84a04642c171)
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDY1L00wNi84Ri8wNi93S2dNYWwxVkt1Q2pHazNZQUF0OHN3OURLNTQ2MTUucG5n.png"> [fit4life | fitgirl weekly chat](https://www.xiaoyuzhoufm.com/podcast/5e280faa418a84a0461f99b5)
 
 [道听胡说](https://www.ximalaya.com/album/50171780)
@@ -868,6 +877,8 @@
 闪光少女 
 
 [不止一面](https://music.163.com/#/djradio?id=969391256) 名人畅聊式视频播客栏目
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8wMzFiLWF1ZGlvZnJlZWhpZ2hxcHMvRTAvN0QvQ01Db09TQUVqVEFkQUFRclRnQzBIeFFDLmpwZWc=.jpeg"> 非物质草单 https://www.xiaoyuzhoufm.com/podcast/5ed13ef0418a84a046a19c8f
 
 饭不着 
 
