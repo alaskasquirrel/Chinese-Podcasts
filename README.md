@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -105,8 +105,15 @@
 |                     |
 |:----------------------------------------------------------------------------|
 | <img src="https://yt3.ggpht.com/a/AATXAJyaoejpg2cKqP4rszXXUfVUvhpMkjCjRVDTV0VYFw=s88-c-k-c0x00ffffff-no-rj" width="30"> Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/ |
+| <img width="35" src="https://images.squarespace-cdn.com/content/v1/58de89eb17bffc754e3c1d33/1574262857619-OR869XWBV54JFDT73CQ7/RobReidLogo.png"> [After On Podcast](https://after-on.com/) |
+| <img width="35" src="https://www.healthyhacker.com/img/logo.png"> [Healthy Hacker](https://www.healthyhacker.com/)  Chris Hunt |
 | [Mac Power Users](https://www.relay.fm/mpu/archive) [RSS](https://www.relay.fm/mpu/feed) |
-| [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) |
+| <img width="100" src="https://i1.wp.com/softwareengineeringdaily.com/wp-content/uploads/2022/01/cropped-logo-new.png"> [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) |
+| [Smart Passive Income](https://www.smartpassiveincome.com/shows/spi/) Weekly interviews, strategy, and advice for building your online business the smart way. |
+| <img width="35" src="https://www.indiehackers.com/images/logos/indie-hackers-logo__glyph--light.svg"> [Indie Hackers](https://www.indiehackers.com/podcasts) The best podcasts for indie hackers, by indie hackers. |
+| [The Tim Ferriss Show](https://tim.blog/podcast/) |
+| <img width="35" src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-190bfecb41af2de3a40166be68d0375e639a8ce8-s300-c85.webp"> [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this) |
+| <img width="35" src="https://media.hiddenbrain.org/uploads/2020/11/logo-180x28.png"> [Hidden Brain](https://hiddenbrain.org/) |
 | [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. |
 | [Changelog](https://changelog.com/podcasts)   Weekly shows about software development, developer culture, open source, building startups, artificial intelligence, shipping code to production, and the people involved. There are some podcast series under [Changelog](https://changelog.com/podcasts) like: [JS Party](https://changelog.com/jsparty), [Brain Science](https://changelog.com/brainscience)[The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) |
 | <img src="https://news.techmeme.com/images/techmeme-ride-home.jpg" width="30"> [Techmeme](https://www.techmeme.com/) : Techmeme Ride Home [RSS](https://rss.art19.com/techmeme-ridehome), Modern Finance [RSS](https://feeds.megaphone.fm/mofi).|
@@ -170,6 +177,7 @@
 | Bankless Podcast https://banklesshq.com/ |
 | <img width="35" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/db/f6/e7/dbf6e77f-8c98-0ad0-5490-0b09761ead6a/mza_12496232310422781380.jpg/600x600bb.jpg"> UpOnly: Chats with Crypto Experts https://uponly.tv/ |
 | <img width="35" src="https://blockdebate.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1RyY1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e94568f5ebeee7d52a73e6b85ddb919853e8768/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/logo-black-big.jpg"> The Blockchain Debate Podcast [RSS](https://feeds.buzzsprout.com/767033.rss) |
+| <img width="35" src="https://uploads-ssl.webflow.com/60f1b19a593e774383e314f8/60f1b579fadff32863c4c47e_NavBar%20Logo.svg"> [The Delphi Podcast](https://delphidigital.io/podcast) |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/f661077268d31d2bd2e15b44927d9d96d0f6fef1.jpg"> CoinDesk中文版 [bilibili](https://space.bilibili.com/1522354971/video) |
 
 ### ThoughtWorks:
@@ -429,6 +437,7 @@
 | 环形散步 |
 | <img width="35" src="http://p1.music.126.net/5NO4BOYOrvC_eC01mDwsMg==/109951165770903574.jpg"> [空岛LandingOnAir](https://music.163.com/#/djradio?id=959407407)  是由阿那亚和深夜谈谈播客网络共同出品的一档独立播客。每期节目都会有探险家登陆「空岛」，为我们带来时光的礼物。我们强调智识和感受的分享，试图还原每一位空岛来客当下的片段感悟。 |
 | <img width="35" src="http://zdimg.lifeweek.com.cn/bg/20211230/1640866306410pxogv.jpg!magzineNPic"> Talk三联 |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy80MzllLWF1ZGlvZnJlZWhpZ2hxcHMvNkMvRUIvQ01Db09SOEVEZ2NEQUFMckxRQ0w4SHJELmpwZWc=.jpeg@"> 螺丝在拧紧 https://www.xiaoyuzhoufm.com/podcast/6038445497d1b2c8c42d29ba |
 | <img width="35" src="http://p1.music.126.net/OnIwpLcVW9dBjbtUrzSomg==/109951166801436845.jpg"> [英雄电台](https://music.163.com/#/djradio?id=794356453) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYUZnTDJRa1JDWmxCOEVOYmhhUWxkelNOOWkuanBn.jpg"> [乱翻书](https://www.xiaoyuzhoufm.com/podcast/61358d971c5d56efe5bcb5d2) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9UaGVXZWlyZG8ucG5n.png"> [不合时宜](https://www.xiaoyuzhoufm.com/podcast/5e280fb8418a84a0461fd076) |
@@ -441,7 +450,7 @@
 |<img width="35" src="https://imagev2.xmcdn.com/storages/853d-audiofreehighqps/30/B6/CKwRIRwFSzGsAAC7mQDv-DiF.jpeg"> [开源面对面](https://github.com/opensource-f2f/episode)： 一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。[RSS](http://www.ximalaya.com/album/53320813.xml)，[bilibili](https://space.bilibili.com/433584098/channel/detail?cid=200059)， [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/)，[YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg).|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/957d-audiofreehighqps/0C/F0/CMCoOSIE6Y1NAABsuADWQ_ey.jpg"> 迪魔王 Devmore - More about Dev 随着开发者生态发展，围绕开发者产生了很多职业，我们想邀请各种种类的朋友们来唠唠嗑，他们到底在做什么？他们可爱吗？他们怎么想？他们开心吗？揭秘  Devmore 的日常。 [RSS](https://www.ximalaya.com/album/52069269.xml)|
 |[ByteTalk](https://bytetalk.fm/) 聊聊程序员的故事  [RSS](https://bytetalk.fm/index.xml)|
-|<img width="35" src="https://imagev2.xmcdn.com/group79/M07/78/9E/wKgPEF64-KLwI4UkAAgJL_vpYHo513.png"> ALC Beijing Podcast 作为 Apache 本地社区的一份子， 致力于通过帮助开源爱好者更好的在 Apache 社区生根发芽。[RSS ](https://www.ximalaya.com/album/37853515.xml)|
+|<img width="35" src="https://imagev2.xmcdn.com/group79/M07/78/9E/wKgPEF64-KLwI4UkAAgJL_vpYHo513.png"> [ALC Beijing Podcast](https://www.ximalaya.com/album/37853515) 作为 Apache 本地社区的一份子， 致力于通过帮助开源爱好者更好的在 Apache 社区生根发芽。[RSS ](https://www.ximalaya.com/album/37853515.xml)|
 |[The Craft of Open Source](https://flagsmith.com/podcast/)|
 
 ### 科学：
@@ -562,10 +571,17 @@
 | [Awesome Python](https://awesome-python.com/)                |
 | :----------------------------------------------------------- |
 | <img src="https://i.typcdn.com/pythonhunter/8444690454_041962.png" width="30"> 捕蛇者说 https://pythonhunter.org/ 编程、程序员、Python。[RSS](https://pythonhunter.org/episodes/feed.xml) |
+| <img width="35" src="https://talkpython.fm/static/img/talk_python_logo_mic.png"> [Talk Python To Me](https://talkpython.fm/) A podcast on Python and related technologies |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/64aa993a0b83f563f6fc836743dcd858c7022e42.jpg"> [李辉](https://greyli.com/)greyli ， [bilibili](https://space.bilibili.com/472736383/video) & [github](https://github.com/greyli) |
 | [Python Bytes](https://pythonbytes.fm/) Podcast is a weekly podcast hosted by [Michael Kennedy](http://blog.michaelckennedy.net/) and [Brian Okken](http://pythontesting.net/). Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly. [RSS ](https://pythonbytes.fm/episodes/rss) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/c9a319ec05870d67a233e442254090139c108d7d.jpg"> PyConChina 促进国内外 Python 开发者之间的交流  公众号（@PyChinaOrg） [bilibili ](https://space.bilibili.com/474764697/video) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/66d18877c510381d9479d822fc4dfecb82c2efc3.jpg"> 莫烦Python [bilibili](https://space.bilibili.com/243821484/video) |
+
+### JavaScript：
+
+||
+|:------|
+|<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/fd93ea0b-a752-4f58-88c6-6ab8e955eae5/cover_small.jpg"> [JavaScript Jabber](https://devchat.tv/show/javascript-jabber/) Your Prototype for Great Code|
 
 ### Ruby：
 
@@ -858,6 +874,20 @@
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cf1be9e6-e1c8-44ba-bf16-b9919be92b0a/cover_small.jpg"> 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
 
+<img width="35" src="https://imagev2.xmcdn.com/storages/e736-audiofreehighqps/AE/AB/CKwRIMAFKysBAABb-gDoHdKm.jpeg"> 有种出口 https://www.ximalaya.com/album/53486915
+
+<img width="35" src="https://imagev2.xmcdn.com/storages/7872-audiofreehighqps/CD/D6/GKwRIMAFmbLYAA6DLgEFzdyy.jpeg"> 空投电波 https://www.ximalaya.com/album/55787388
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vYXByaWx0dXJzdW4vODM3ODY3MzAyOV8wMjU0MTkucG5nP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.png"> 爱普罗西 https://www.xiaoyuzhoufm.com/podcast/60dd93dfbfb2b934522e4344
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0aHlOOTBLRS1lMEh1ajZhbWNsZEJNajFOcDUucG5n.png"> 不把天聊si https://www.xiaoyuzhoufm.com/podcast/60de960e82b7520df0026844
+
+<img width="35" src="http://p2.music.126.net/zz4QhogYU6o-QTkbARNbDg==/109951166129096318.jpg"> 广州大道 https://music.163.com/#/djradio?id=963547879
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsZ1RDMHZLU05rVzNmSWpjeGlUMmlMcjJydUYuanBn.jpg"> 大千世界 https://www.xiaoyuzhoufm.com/podcast/620c68155a8633e42fb05bbd?s=eyJ1IjogIjYxZTUyY2IyMmNiZDdjMDE3NmNmYzdhMSJ9
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yNjc2LWF1ZGlvZnJlZWhpZ2hxcHMvNkMvNjkvQ01Db09TSUVFMjB2QUFvTEdnQ05iUDdiLmpwZWc=.jpeg"> 凑近点看 https://www.xiaoyuzhoufm.com/podcast/5f97c0bf83c34e85ddb62397
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9mYmVjLWF1ZGlvZnJlZWhpZ2hxcHMvREIvRjUvQ01Db09TQUVaOHBRQUFJZDNRQ20wRFd5LmpwZWc=.jpeg">一无所知HOWSO https://www.xiaoyuzhoufm.com/podcast/609d515f1abc09ad0ffd90d8
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/0db3-audiofreehighqps/16/27/GKwRIasFl2ceAABx3wEFHCBV.jpg">理半天 是一档关于青年的成长与思考，青年是复杂的，时代的色彩与社会的历史交织在青年这个群体上，一部分被继承、被升华，另一部分被抛弃、被改变。理半天无法代表青年的状态，但能一窥青年这个群体的一小部分。[RSS](https://www.ximalaya.com/album/55109165.xml) 
@@ -875,6 +905,8 @@
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9)
 
 莽街RADIO
+
+小S播客
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZneXJIbl9ONWI1V0hXbDdXcmxzeFZlN1BRc3kuanBn.jpg"> 平行·发声地 https://www.xiaoyuzhoufm.com/podcast/60d9690103c9bf1da959d826
 
