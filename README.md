@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -340,6 +340,7 @@
 | <img width="35" src="https://cdn.theathletic.com/app/uploads/2019/10/04172812/Orntein-David-Headshot_.jpg"> [David Ornstein ](https://theathletic.com/author/david-ornstein/) |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/0a8cb2ae0dcbb0b08e70806684120fd7a91f256d.jpg"> 隔壁红魔 [bilibili](https://space.bilibili.com/432174249/video) |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/a9f8c536fe40c1459ad78beb60eacde0fae1a068.jpg"> 巅峰球迷汇 [bilibili](https://space.bilibili.com/365372809) |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZnbkdFS0NnSHZqSTRncXE0S1VEMEY5YWoxd0IuanBn.jpg"> 双镖客讲波 https://www.xiaoyuzhoufm.com/podcast/61ed770eaf69d76eb4f755e9 |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/4e99173c1eebb4e4f4535847d6ff1400faa21557.jpg"> 纽卡斯尔老田 [bilibili](https://space.bilibili.com/546716867/video) 来自英国的东北城市纽卡斯尔，在中国的第8年。 油管：Newcastle老田在中国 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/48c3-audiofreehighqps/AE/B0/CMCoOSUEGjIDAAHHDQCPdfJq.jpg"> 乒羽漫谈｜婷姐FM https://www.ximalaya.com/album/47341257 |
 
@@ -816,6 +817,7 @@
 | <img width="30" src="https://weakself.dev/og_image.jpg"/> weak self https://weakself.dev/ 三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。[RSS](https://api.soundon.fm/v2/podcasts/233d04e2-60e9-4060-a687-6b7316187f48/feed.xml) |
 |[techtalk@TW](http://www.techtalk.tw/)  討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Podcast |
 |[大麻烦不烦](https://ghostisland.media/#law) |
+|男人不要聽 |
 
 ### 香港:
 
@@ -874,6 +876,20 @@
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cf1be9e6-e1c8-44ba-bf16-b9919be92b0a/cover_small.jpg"> 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
 
+东七门
+
+周末变奏 Key Change
+
+返璞归真
+
+灯下漫谈
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDgwL00wNy85NS9DRS93S2dQREY2eENZbnl6MzNHQUFSNTFfQk5mbnM2NDcuanBn.jpg"> 情绪便利店 https://www.xiaoyuzhoufm.com/podcast/5ea368b7418a84a046f3b612
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwMEQ1bWhLeTMxVkM1dlN5VWJZS05WbUdQQi0uanBn.jpg"> 电梯间 https://www.xiaoyuzhoufm.com/podcast/620b5c400e7f14d71bf469ef
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2Q1JLOUszYnVyT2lBeXcxUmM3dFR4ejVVOFMuanBn.jpg"> 聊点"新"的 https://www.xiaoyuzhoufm.com/podcast/62062188aa87e18e85c77aea
+
 <img width="35" src="https://imagev2.xmcdn.com/storages/e736-audiofreehighqps/AE/AB/CKwRIMAFKysBAABb-gDoHdKm.jpeg"> 有种出口 https://www.ximalaya.com/album/53486915
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/7872-audiofreehighqps/CD/D6/GKwRIMAFmbLYAA6DLgEFzdyy.jpeg"> 空投电波 https://www.ximalaya.com/album/55787388
@@ -930,6 +946,10 @@
 
 闪光少女 
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzIxMDI3NjgwLzIxMDI3NjgwLTE2NDIxNjk4NjcwMDgtZTg0MDlmZWI3ZTUwNS5qcGc=.jpg"> 相亲相对论 https://www.xyzfm.link/mcwuq
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg1L00wNS83OS9ENy93S2c1SDE5Z1B6RFNGS19CQUJGN2FIUmFiMUE2MDIucG5n.png"> 掰馍会谈 https://www.xiaoyuzhoufm.com/podcast/5f6975a583c34e85dd2b4cf5
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzIxMDEyODE0LzIxMDEyODE0LTE2NDIxODY2OTg0MzEtNmYzM2M1MjRkODIzMy5qcGc=.jpg"> [猫饭](https://www.xiaoyuzhoufm.com/podcast/61eb2f3e4675a08411f514c5)
 
 [不止一面](https://music.163.com/#/djradio?id=969391256) 名人畅聊式视频播客栏目
@@ -937,6 +957,8 @@
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8wMzFiLWF1ZGlvZnJlZWhpZ2hxcHMvRTAvN0QvQ01Db09TQUVqVEFkQUFRclRnQzBIeFFDLmpwZWc=.jpeg"> 非物质草单 https://www.xiaoyuzhoufm.com/podcast/5ed13ef0418a84a046a19c8f
 
 饭不着 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1ZDJsN1YxeV9wTkpZV0FURDlkN01nNHNjTWIuanBn.jpg"> 星光游乐园 https://www.xiaoyuzhoufm.com/podcast/603cf60ee83d6415607aa344
 
 来都来了｜听了再走 
 
