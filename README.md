@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -179,6 +179,8 @@
 | <img width="35" src="https://blockdebate.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1RyY1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e94568f5ebeee7d52a73e6b85ddb919853e8768/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/logo-black-big.jpg"> The Blockchain Debate Podcast [RSS](https://feeds.buzzsprout.com/767033.rss) |
 | <img width="35" src="https://uploads-ssl.webflow.com/60f1b19a593e774383e314f8/60f1b579fadff32863c4c47e_NavBar%20Logo.svg"> [The Delphi Podcast](https://delphidigital.io/podcast) |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/f661077268d31d2bd2e15b44927d9d96d0f6fef1.jpg"> CoinDesk中文版 [bilibili](https://space.bilibili.com/1522354971/video) |
+| CryptoKidZ |
+| Crypto Naive |
 
 ### ThoughtWorks:
 
@@ -433,6 +435,7 @@
 | <img width="35" src="https://imagev2.xmcdn.com/storages/5833-audiofreehighqps/37/90/CMCoOR8Dz-XJAACSswB6Aweo.jpg"> 忽明忽暗WrinkleYourBrain [RSS](https://www.ximalaya.com/album/45526218.xml)是一档关注各类社会公共议题的谈话类播客节目，事实有真假，观点无对错。把我们的观点拿出来探讨，对身边和远方做更多的思考，那些忽明忽暗的想法都可以闪闪发光。 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xMzAzLWF1ZGlvZnJlZWhpZ2hxcHMvRUUvOUEvQ01Db09TQUV1R3NOQUFRR0lRRERMam5vLmpwZWc=.jpeg"> [活字电波](https://www.xiaoyuzhoufm.com/podcast/5eaa915f418a84a046f3c700) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxY3pXbTMwbnF2MW00QWlEM1l2bjNZd081cHI=@small"> 过刊 https://www.xiaoyuzhoufm.com/podcast/5eb42a94418a84a0460c4328 |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMucGlwcGEuaW8vc2hvd3MvdW5kZWZpbmVkLzE2MjY2ODc5MjgxNzEtYTgzNmViZjc0YjkzNjBjMzhkMzlkMWQwNzQ0YzNkZjUuanBlZw==.jpeg"> 读库立体声 https://www.xiaoyuzhoufm.com/podcast/60f54b75d11a7622d645df4e |
 | 梁文道·八分 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrYUFEbW1YaDZGWm9ydXVVMkVpOG5zbFVYck4uanBn.jpg"> 佟晨洁的“[正常生活](https://www.xiaoyuzhoufm.com/podcast/6177c78f198954178425773a)” |
 | 环形散步 |
@@ -883,6 +886,8 @@
 返璞归真
 
 灯下漫谈
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMjAvMDcvMDgvMjgxNTMzODExNTk3MzY0NjQwNy5wbmc=.png"> Woo话可说 https://www.xiaoyuzhoufm.com/podcast/5f0726626d76607427af8663
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDgwL00wNy85NS9DRS93S2dQREY2eENZbnl6MzNHQUFSNTFfQk5mbnM2NDcuanBn.jpg"> 情绪便利店 https://www.xiaoyuzhoufm.com/podcast/5ea368b7418a84a046f3b612
 
