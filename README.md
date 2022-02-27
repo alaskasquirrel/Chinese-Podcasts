@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -613,6 +613,7 @@
 |<img width="35" src="https://i.typlog.com/zhuchangsile/8362153573_509449.png?x-oss-process=style/ss"> [主唱死了](https://zhuchangsile.xyz/) 我们终于可以聊后摇了 [RSS](https://zhuchangsile.xyz/episodes/feed.xml)|
 |<img width="35" src="https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png"> [Techno Live Set](https://www.techno-livesets.com/)|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/a819-audiofreehighqps/D4/63/CKwRINsFYQRlAAIKTQD1sjPe.jpeg"> 七音符 是由七幕人生出品的音乐播客。通过与音乐剧演员、剧场从业者的访谈推荐，用好音乐，开启你的音乐剧新生活。|
+|Why for Jazz|
 
 ### 喜剧：
 
@@ -799,6 +800,13 @@
 |:----|
 | <img src="./images/瑞士.jpg" width="30"> 瑞士生活 沒有攻略 |
 
+
+### 山西
+
+||
+|:----|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/59c3-audiofreehighqps/57/A2/GKwRIMAFeMGzAAOjnwD8HxRo.jpeg"> 小镇文艺青年 https://www.ximalaya.com/album/55119114|
+
 ### 陕西
 
 ||
@@ -918,6 +926,8 @@ CD没教的事
 两个广告人 | 前香港奥美广告人的对谈
 
 数字咖啡馆｜遇见世界各地营销人
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvUTBTNWtzRm5iVi01alhzR1dDeDMyYnJJZDkucG5n.png"> 胖达的听个响 https://www.xiaoyuzhoufm.com/podcast/618a6919dc2a318780deee8a
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMjAvMDcvMDgvMjgxNTMzODExNTk3MzY0NjQwNy5wbmc=.png"> Woo话可说 https://www.xiaoyuzhoufm.com/podcast/5f0726626d76607427af8663
 
