@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -35,7 +35,8 @@
 | <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源app 👍  [隐私政策 Privacy Policy](https://antennapod.org/privacy/) |
 | 小宇宙 app https://www.xiaoyuzhoufm.com/ [隐私政策](https://post.xiaoyuzhoufm.com/podcast-privacy/) |
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://getstream.io/winds/ |
-| <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                       |
+| <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                      |
+| <img width="50" src="https://static.wixstatic.com/media/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png/v1/fill/w_112,h_40,al_c,usm_0.66_1.00_0.01,enc_auto/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png"> snipd https://www.snipd.com/  [Privacy Policy](https://open.snipd.com/privacy-policy) |
 | <img src="https://www.dogedoge.com/favicon/player.soundon.fm.ico" width="40"> [SoundOn](https://www.soundon.fm/) [隱私權政策](https://www.soundon.fm/new-page-2) |
 | <img src="./images/moon.png" width="40"> Moon fm  https://moon.fm/                                                 |
 | <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png" width="40"> Apple Podcast                                                            |
@@ -168,7 +169,7 @@
 | [21 Lessons](https://21lessons.com/) |
 |:--------------------------------|
 | <img src="https://rmt.dogedoge.com/rmt/TUNSnJmGsmpqXrSOoGmnYbNbjrRQExcCblLjxTL5qMO4ugZqP7dLhS-6qQ?w=212&h=130" width="30"> Unchained https://unchainedpodcast.com/ Laura Shin |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg" width="30"> Fork It http://forkit.fm/ 第一个聊区块链技术的中文播客。 [RSS](https://feeds.fireside.fm/forkit/rss)   |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg" width="30"> Fork It https://forkit.fm/ 第一个聊区块链技术的中文播客。 [RSS](https://feeds.fireside.fm/forkit/rss)  |
 | <img src="https://imagev2.xmcdn.com/group70/M08/8F/49/wKgO2F45TUDhDR6wAAmd1OHKvd032.jpeg" width="30"> 胖车库 Fat Garage \| Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 [RSS](https://www.ximalaya.com/album/29606210.xml) |
 | <img src="https://rmt.dogedoge.com/rmt/QUHd2tNW9iGhi45vmlT_pPuKCiSCON6OWXDjCDkQuo8YNJxrcr326_w2kb?w=212&h=130" width="30"> 區塊勢 https://blocktrend.substack.com/ |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwbVBNSzJWQWJnNFFRcFJBWDZZQkMtS0V4SHMuanBn.jpg"> CSS｜探索 Crypto 的精彩世界 https://www.xiaoyuzhoufm.com/podcast/618929e0633ec15a3b46145e |
@@ -887,6 +888,8 @@
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cf1be9e6-e1c8-44ba-bf16-b9919be92b0a/cover_small.jpg"> 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxT1VyZUZrS3ZvRnZ1d3hnaWVBazFZY2pUWG4ucG5n.png"> Web Worker https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35 两个前端程序员闲聊的前端中文音频播客节目。
+
 东七门
 
 深焦DeepFocus Radio
@@ -919,6 +922,8 @@ CD没教的事
 
 品牌与否
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82OTBjLWF1ZGlvZnJlZWhpZ2hxcHMvMzgvNzYvQ01Db09SOEVCQ2pVQUFKTGN3Q0pCcVFQLmpwZWc=.jpeg"> 倍儿美电台 | We Are Ladies https://www.xiaoyuzhoufm.com/podcast/602485358293eb9bb147bbd7
+
 消费新知
 
 业余不业余
@@ -926,6 +931,8 @@ CD没教的事
 两个广告人 | 前香港奥美广告人的对谈
 
 数字咖啡馆｜遇见世界各地营销人
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxMnNHdlotMDRfX3EwV1Z0UGtubFJNdUdNRWguanBn.jpg"> 肥话连篇 https://www.xiaoyuzhoufm.com/podcast/61d50d72ee197a3aac3dac42
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvUTBTNWtzRm5iVi01alhzR1dDeDMyYnJJZDkucG5n.png"> 胖达的听个响 https://www.xiaoyuzhoufm.com/podcast/618a6919dc2a318780deee8a
 
