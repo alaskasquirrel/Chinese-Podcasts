@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -442,6 +442,7 @@
 | 环形散步 |
 | <img width="35" src="http://p1.music.126.net/5NO4BOYOrvC_eC01mDwsMg==/109951165770903574.jpg"> [空岛LandingOnAir](https://music.163.com/#/djradio?id=959407407)  是由阿那亚和深夜谈谈播客网络共同出品的一档独立播客。每期节目都会有探险家登陆「空岛」，为我们带来时光的礼物。我们强调智识和感受的分享，试图还原每一位空岛来客当下的片段感悟。 |
 | <img width="35" src="http://zdimg.lifeweek.com.cn/bg/20211230/1640866306410pxogv.jpg!magzineNPic"> Talk三联 |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8wZjI1LWF1ZGlvZnJlZWhpZ2hxcHMvRTcvRjgvR01Db09TSUZZdEttQUFMeGFRRDJOSU8xLmpwZWc=.jpeg@"> 主播来了 https://www.xiaoyuzhoufm.com/podcast/61965e4a250a5b66047b802a 一个主播采访类播客。在这里，我们会邀请各播客主播上节目，聊聊他们播客背后的故事以及自己。 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy80MzllLWF1ZGlvZnJlZWhpZ2hxcHMvNkMvRUIvQ01Db09SOEVEZ2NEQUFMckxRQ0w4SHJELmpwZWc=.jpeg@"> 螺丝在拧紧 https://www.xiaoyuzhoufm.com/podcast/6038445497d1b2c8c42d29ba |
 | <img width="35" src="http://p1.music.126.net/OnIwpLcVW9dBjbtUrzSomg==/109951166801436845.jpg"> [英雄电台](https://music.163.com/#/djradio?id=794356453) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYUZnTDJRa1JDWmxCOEVOYmhhUWxkelNOOWkuanBn.jpg"> [乱翻书](https://www.xiaoyuzhoufm.com/podcast/61358d971c5d56efe5bcb5d2) |
@@ -901,9 +902,19 @@
 
 ##### <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cf1be9e6-e1c8-44ba-bf16-b9919be92b0a/cover_small.jpg"> 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
 
+跳岛FM
+
+噪音开始了
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vY3liZXJwaW5rZm0vODM1MzI4Nzg5M181NDM4OTkuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 疲惫娇娃 CyberPink https://www.xiaoyuzhoufm.com/podcast/6226d3368b7257e5858bda45
+
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxT1VyZUZrS3ZvRnZ1d3hnaWVBazFZY2pUWG4ucG5n.png"> Web Worker https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35 两个前端程序员闲聊的前端中文音频播客节目。
 
 ##### 东七门
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy85NmRkLWF1ZGlvZnJlZWhpZ2hxcHMvNTgvNjcvR01Db09TY0YxazNTQUJGOXN3RVVqWElSLmpwZWc=.jpeg"> WATKOI｜每月主播 https://www.xiaoyuzhoufm.com/podcast/62008b7b0c35c9f95dca17dc
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg1L00wOS9BRi9FMC93S2c1SDE5TjlWV2lyeDlKQUFEc2lSWVRmTTQzMTUuanBn.jpg"> 乒乓台 https://www.xiaoyuzhoufm.com/podcast/5f7c8f2983c34e85dd5b17da
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrNnlVcXF0c3ZoNkh3Sjd3b3FzWWFWODVjWGkucG5n.png"> 美西螈与东方巨龙 https://www.xiaoyuzhoufm.com/podcast/5ed1c5b2418a84a0468528cb
 
@@ -913,11 +924,17 @@
 
 ##### 周末变奏 Key Change
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoMzZOUE5tYWRoRUUtUXZ2WEVyRzQ1N0J4REQuanBn.jpg"> 纯属叙构 https://www.xiaoyuzhoufm.com/podcast/61e92f7d3f4432159ba35f32
+
 ##### 返璞归真
 
 ##### 灯下漫谈
 
 ##### 宇宙牌电饭锅
+
+有朝一日
+
+金汤力
 
 ##### 老金扯谈
 
@@ -932,6 +949,8 @@
 ##### 嘴上说说
 
 ###### 内外之间
+
+天才捕手FM
 
 ##### 城记
 
