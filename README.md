@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -26,7 +26,7 @@
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[湖南](#湖南)|[辽宁](#辽宁)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
 |[德国](#德国)|[外语](#外语)|[待分类](#待分类)|[Emacs](#Emacs)|[Freelancer](#Freelancer)|[Ruby](#Ruby)|[Rust](#Rust)|
-|[LISP](#LISP)|[音乐](#音乐)||||||
+|[LISP](#LISP)|[音乐](#音乐)|[前端](#前端)|||||
 
 ##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy) 
 
@@ -104,7 +104,7 @@
 ### EnglishTalk:
 
 |                     |
-|:----------------------------------------------------------------------------|
+|                     ----|
 | <img src="https://yt3.ggpht.com/a/AATXAJyaoejpg2cKqP4rszXXUfVUvhpMkjCjRVDTV0VYFw=s88-c-k-c0x00ffffff-no-rj" width="30"> Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/ |
 | <img width="35" src="https://images.squarespace-cdn.com/content/v1/58de89eb17bffc754e3c1d33/1574262857619-OR869XWBV54JFDT73CQ7/RobReidLogo.png"> [After On Podcast](https://after-on.com/) |
 | <img width="35" src="https://www.healthyhacker.com/img/logo.png"> [Healthy Hacker](https://www.healthyhacker.com/)  Chris Hunt |
@@ -114,9 +114,11 @@
 | <img width="35" src="https://www.indiehackers.com/images/logos/indie-hackers-logo__glyph--light.svg"> [Indie Hackers](https://www.indiehackers.com/podcasts) The best podcasts for indie hackers, by indie hackers. |
 | [The Tim Ferriss Show](https://tim.blog/podcast/) |
 | <img width="35" src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-190bfecb41af2de3a40166be68d0375e639a8ce8-s300-c85.webp"> [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this) |
+| <img width="35" src="https://softskills.audio/img/logo.svg"> Soft Skills Engineering Podcast https://softskills.audio/ |
 | <img width="35" src="https://media.hiddenbrain.org/uploads/2020/11/logo-180x28.png"> [Hidden Brain](https://hiddenbrain.org/) |
-| [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. |
-| [Changelog](https://changelog.com/podcasts)   Weekly shows about software development, developer culture, open source, building startups, artificial intelligence, shipping code to production, and the people involved. There are some podcast series under [Changelog](https://changelog.com/podcasts) like: [JS Party](https://changelog.com/jsparty), [Brain Science](https://changelog.com/brainscience)[The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) |
+| [Behind the Tech Podcast with Kevin Scott - Microsoft](https://www.microsoft.com/en-us/behind-the-tech) |
+| [Hanselminutes Technology Podcast ](https://www.hanselminutes.com/) |
+| [ ](https://www.frontendhappyhour.com/subscribe)[Changelog](https://changelog.com/podcasts)   Weekly shows about software development, developer culture, open source, building startups, artificial intelligence, shipping code to production, and the people involved. There are some podcast series under [Changelog](https://changelog.com/podcasts) like: [JS Party](https://changelog.com/jsparty), [Brain Science](https://changelog.com/brainscience)[The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) |
 | <img src="https://news.techmeme.com/images/techmeme-ride-home.jpg" width="30"> [Techmeme](https://www.techmeme.com/) : Techmeme Ride Home [RSS](https://rss.art19.com/techmeme-ridehome), Modern Finance [RSS](https://feeds.megaphone.fm/mofi).|
 | <img src="https://supchina.com/wp-content/uploads/2020/06/ChinaEconTalk_1400x1400-1200x1200.png" width="30"> [China EconTalk](https://supchina.com/series/china-econtalk/) By SupChina [RSS](https://chinatalkshow.libsyn.com/rss)               |
 | [China Tech Talk](http://chinatechtalk.com/)  ,         [RSS](https://feeds.simplecast.com/400uRY7l)                  |
@@ -245,6 +247,7 @@
 | <img src="https://static1.squarespace.com/static/5766d9d02994ca3a4e713416/t/5894179815d5db8ef4ac1950/1522688979053/?format=1500w" width="30"> 异能电台 https://www.yineng.fm/ |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4bc59802-5764-488e-baaf-f2f3b64eb05e/cover_small.jpg" width="30">  设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。[RSS](https://feeds.fireside.fm/shejiyaodian/rss) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeU4zdGZjdVZrSHRIeUFYUFZIeS1qaHdZRXoucG5n.png"> 瞎说设计 https://www.xiaoyuzhoufm.com/podcast/61250c0ddc0c485d9a0cb07b |
+| <img width="35" src="https://designdetails.fm/static/img/dd-wide.png"> Design Details https://designdetails.fm/ |
 
 ### 陈一佳：	
 
@@ -330,6 +333,7 @@
 | <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/5159-audiofreehighqps/08/86/CMCoOSAEVblDAADSagChP1HV.jpg"> 金相凯电台 https://www.ximalaya.com/toutiao/48838359/ 足球热点，赛事评论，战术解析，历史钩沉，场内故事，场外花絮。 |
 | <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/ 两位阿森纳球迷主播将通过对球场故事的回溯，带出对经济、文化、历史等方面的解读。 |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/dd7e-audiofreehighqps/24/DA/CKwRIJIE_7iSAAFV6ADdN0XU.jpeg"> 有一期没一期 https://www.ximalaya.com/album/52553951 主持人:Ars4life。致力于邀请懂球的嘉宾聊一聊阿森纳，为枪迷提供路上睡前的陪伴。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/2221-audiofreehighqps/B9/95/CKwRINsFAg93AAFufQDd0PVr.jpeg"> 超级颜论｜肆客体育 https://www.ximalaya.com/toutiao/43280832/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/33f8-audiofreehighqps/D5/90/CMCoOSUEygm6AAOUSADJ7WMh.jpeg"> 足球咖啡馆 [RSS](https://www.ximalaya.com/album/39304323.xml) 一杯咖啡的时间，陪你聊足球，但不止于足球。 |
 | <img src="https://imagev2.xmcdn.com/storages/f21c-audiofreehighqps/E9/9A/CMCoOSQE0ZwRAAMhuADM8t3Y.jpeg" width="35"> 英超无双 [RSS](https://www.ximalaya.com/album/51554220.xml) |
@@ -419,7 +423,6 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/fe634e9a-3f11-4181-b972-c3395b5a14ae/cover_small.jpg" width="30"> 耳鸣终端Terminal https://t.ermin.al/   , [RSS](https://feeds.fireside.fm/terminal/rss)|
 | <img src="https://i.typlog.com/hyperbola/8426633665_117544.jpg?x-oss-process=style/ss" width="30"> Hyperbola https://hyperbola.link/  |
 | <img src="https://static.cscript.site/podcast_green.png" width="30"> 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
-| <img src="https://podcast.astrianzheng.com/images/echo.js.logo.jpg" width="30"> Echo.js https://podcast.astrianzheng.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。[RSS](https://podcast.astrianzheng.com/podcast.xml)|
 | <img src="https://pan.icu/assets/banner.panicu.svg" width="30"> 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
 | <img src="https://imagev2.xmcdn.com/group47/M00/9E/AE/wKgKk1tNWtuyp3rgAAHfFSYGa24687.jpg" width="30"> 无时差研究所 https://www.ximalaya.com/shishang/13506198/ [RSS](https://www.ximalaya.com/album/13506198.xml) |
 | <img src="https://imagev2.xmcdn.com/group56/M00/DC/5A/wKgLgFyAHObRtGG8ABT3S9kKSPU99.jpeg" width="30"> 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ [RSS](https://www.ximalaya.com/album/19242373.xml) |
@@ -583,11 +586,16 @@
 | <img width="35" src="https://i2.hdslb.com/bfs/face/c9a319ec05870d67a233e442254090139c108d7d.jpg"> PyConChina 促进国内外 Python 开发者之间的交流  公众号（@PyChinaOrg） [bilibili ](https://space.bilibili.com/474764697/video) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/66d18877c510381d9479d822fc4dfecb82c2efc3.jpg"> 莫烦Python [bilibili](https://space.bilibili.com/243821484/video) |
 
-### JavaScript：
+### 前端：
 
 ||
 |:------|
+|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxT1VyZUZrS3ZvRnZ1d3hnaWVBazFZY2pUWG4ucG5n.png"> Web Worker https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35 两个前端程序员闲聊的前端中文音频播客节目。|
+|<img width="35" src="https://syntax.fm/static/logo.png"> [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.|
+|<img width="35" src="https://spec.fm/static/img/shows/reactpodcast.jpg"> React Podcast https://spec.fm/podcasts/reactpodcast|
 |<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/fd93ea0b-a752-4f58-88c6-6ab8e955eae5/cover_small.jpg"> [JavaScript Jabber](https://devchat.tv/show/javascript-jabber/) Your Prototype for Great Code|
+|<img src="https://podcast.astrianzheng.com/images/echo.js.logo.jpg" width="30"> Echo.js https://www.echojspodcast.com/ 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。|
+|<img width="35" src="https://www.frontendhappyhour.com/public/img/front-end-happy-hour.svg"> [Front End Happy Hour](https://www.frontendhappyhour.com/) A software engineering podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about Frontend, JavaScript, and career development.|
 
 ### Ruby：
 
@@ -664,6 +672,9 @@
 ||
 |:------|
 |<img width="35" src="https://happycat.cc/assets/images/logo.png"> CC猫在德国 https://happycat.cc/ 分享德国生活和工作的那些事情。|
+|德国牛哥，一名居住在德国的湖南程序员。这是我的[博客](https://sichengingermay.com/)，是我记录工作和生活的地方。|
+|<img width="35" src="https://www.kenshinji.me/wp-content/uploads/2022/01/cropped-Screenshot-2022-01-09-at-22.35.17-e1641764404140.png"> 我是Fred， 是一名在德国柏林工作的软件工程师。这是我的个人[中文博客](https://www.kenshinji.me/)，我会在这里分享关于我的工作和生活方方面面。|
+|[YU (@FreiheitYu)](https://twitter.com/FreiheitYu) 余晟|
 
 
 ### 爱尔兰：
@@ -712,6 +723,7 @@
 ||
 |:------|
 | <img width="35" src="https://i1.hdslb.com/bfs/face/2b8bc354d5311108ca35f2f7731f9408896b441f.jpg@240w_240h_1c_1s.webp">[阿乐杂货铺](https://space.bilibili.com/426914310) <img src="https://i.typlog.com/anobodyfm/8401205678_463793.png?x-oss-process=style/ss" width="30"> 小人物 A Nobody https://anobody.im/  。[RSS](https://anobody.im/podcast/rss.xml) |
+| [I write, therefore I am](http://www.iwriteiam.nl/)  With this variation on a famous statement by the philosopher Descartes, I would like to express that the act of writing about what happens in my life is important to me. |
 
 ### 河南：
 
@@ -797,7 +809,14 @@
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lic7jY0jPXzRkcRRhSbPsNfFobYaSVbuJZsjgo7tWlzPgiI" width="30"> Rebuild https://rebuild.fm/   |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/0/03cff8e1-6782-4bb6-92de-6af481bb855c/cover_small.jpg" width="30"> Prototype.fm https://www.prototype.fm/  |
 | <img src="https://www.tfm.co.jp/podcasts/upload/channel/f188ca7b90733edf55f52687fa624925_60.jpg" width="30"> Tokyo Midtown presents The Lifestyle MUSEUM https://www.tfm.co.jp/podcasts/museum/ |
-| 牛奶吐司岛 |
+| <img width="35" src="https://i0.hdslb.com/bfs/face/9b2ab5c59d06e49325228262582922586633df4e.jpg"> 葉子先生酱 [bilibili ](https://space.bilibili.com/10957838/video) |
+| <img width="35" src="https://i0.hdslb.com/bfs/face/a3868d94bd4c7d29a33cc59bc3339a0962b52fac.jpg"> 秋山燿平 [bilibili](https://space.bilibili.com/229740315) |
+| <img width="35" src="https://i1.hdslb.com/bfs/face/7b6df329aff7353a07f289e5a2e8b770581c04f3.jpg@240w_240h_1c_1s.webp"> guanyuhan426 [bilibili](https://space.bilibili.com/123484/video) |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/049a-audiofreehighqps/9B/67/CMCoOSIEFShlAAbf0ACOBR84.jpeg"> 牛奶吐司岛 https://www.ximalaya.com/album/47212939 |
+| [蒋继发](https://thaddeusjiang.com/) (ThaddeusJiang) 在日本开发 SaaS 产品，爱猫、爱读书、爱大海 |
+| [丁宇 \| DING Yu](https://dingyu.me/blog/) |
+| [非礼勿言](https://feiliwuyan.com/) |
+| 元吉的[博客](https://blog.gimo.me/) |
 
 ### 瑞典：
 
@@ -886,15 +905,7 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f243813e-4089-4595-a8fa-5f2f1fed7427/cover_small.jpg" width="30"> 不伦不类 [RSS](https://feeds.fireside.fm/mindthegapfm/rss) 收录了四个不务正业的年轻人游走伦敦的心得体会与对各类热点的不严谨讨论。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/7aa6-audiofreehighqps/7C/7A/CKwRIJIFKd3CAAEpUwDnzxK1.jpeg"> 伦敦有耳 [RSS](https://www.ximalaya.com/album/53462667.xml) |
 
-### 外语：
-
-||
-|:------|
-|<img width="35" src="https://i0.hdslb.com/bfs/face/a3868d94bd4c7d29a33cc59bc3339a0962b52fac.jpg"> 秋山燿平 [bilibili](https://space.bilibili.com/229740315)|
-|<img width="35" src="https://i0.hdslb.com/bfs/face/9b2ab5c59d06e49325228262582922586633df4e.jpg"> 葉子先生酱 [bilibili ](https://space.bilibili.com/10957838/video)|
-|<img width="35" src="https://imagev2.xmcdn.com/storages/10e4-audiofreehighqps/A0/23/GKwRIaIFekQdAAKsNAD8mizj.jpg"> 和Emily 一起练口语 https://www.ximalaya.com/waiyu/2801092/|
-
-
+### 
 
 ### 待分类：
 
@@ -907,8 +918,6 @@
 噪音开始了
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vY3liZXJwaW5rZm0vODM1MzI4Nzg5M181NDM4OTkuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 疲惫娇娃 CyberPink https://www.xiaoyuzhoufm.com/podcast/6226d3368b7257e5858bda45
-
-##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxT1VyZUZrS3ZvRnZ1d3hnaWVBazFZY2pUWG4ucG5n.png"> Web Worker https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35 两个前端程序员闲聊的前端中文音频播客节目。
 
 ##### 东七门
 
@@ -951,6 +960,8 @@
 ##### 嘴上说说
 
 ###### 内外之间
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yZmM4LWF1ZGlvZnJlZWhpZ2hxcHMvRjcvNDMvR0t3UklhSUZpTWdHQUFWWndnRUF0SnBjLmpwZWc=.jpeg"> 元音不发音 | 泛文化娱乐播客 https://www.xiaoyuzhoufm.com/podcast/61c192bc898eaed59650751e
 
 天才捕手FM
 
