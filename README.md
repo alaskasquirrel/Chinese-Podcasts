@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -667,6 +667,13 @@
 |<img width="35" src="https://imagev2.xmcdn.com/storages/4f65-audiofreehighqps/54/F7/CMCoOR8EbAp8AAG1oQCoMXTk.jpeg"> 想聊天ThinkTalk : 三个现居悉尼的女生，一边反思一边冒险，一边困惑一边成长。因为经常手舞足蹈的聊天到停不下来，于是共同开启了这场探索多元价值观和生活更多可能性的播客之旅。如果在苟且的生活工作之余，你也和我们一样爱想东想西，聊天聊地，爱多元观点碰撞出的火花和击中共鸣的愉悦时刻，那么恭喜你来对地方了！[RSS](https://www.ximalaya.com/album/42323127.xml)|
 |SBS 中文 https://www.sbs.com.au/chinese/english/podcast/chinese-ish|
 
+### 丹麦：
+
+||
+|:-----|
+|<img width="35" src="https://i2.hdslb.com/bfs/face/c739e0f16b0680b2167cae58024785764d41e7d2.jpg"> Matthew一家在丹麦 [bilibili](https://space.bilibili.com/1591399589/video)|
+
+
 ### 德国：
 
 ||
@@ -709,7 +716,8 @@
 
 ||
 |:---|
-|Yooupi食途 [bilibili](https://space.bilibili.com/452412746) |
+|Yooupi食途 [bilibili ](https://space.bilibili.com/452412746) |
+|<img width="35" src="https://i2.hdslb.com/bfs/face/485b4d7d29143fb4a878096ce7b129ad817b6201.jpg"> 在法国生活的四姐 [bilibili](https://space.bilibili.com/1664846507/video) |
 |[不拘一格 nevermind]() 一档由三位留法无业游民在餐桌上发起的泛文化类谈话节目，话题涉及社会新闻、女性主义、文学艺术等领域。 |
 
 ### 芬兰：
@@ -866,6 +874,13 @@
 |<img width="35" src="https://infosecdecompress.com/photo.jpg"> [資安解壓縮](https://infosecdecompress.com/) 是第一個以資安為主題的中文Podcast節目，希望可以用最好理解的方式幫助大家更了解資訊安全，也更懂得保護自己。 |
 |[走進台灣](https://pse.is/3bg8x4) , [Stanley](https://lmfstanding.medium.com/) |
 |[耳朵旅行社](https://mtpodcast.soci.vip/) 大飛 |
+|[潔西*在世界翻滾的女孩](https://imjessiej.com/) |
+|[唐宏安 的特殊路線 流浪旅行](http://attravel.tw/) |
+|[直樹的流浪之歌｜方格子](https://vocus.cc/user/@skydriver) |
+|[MIYA’S TRAVEL 米雅愛旅行 – 旅行 x 攝影 x 人文 x 冒險 x 美食 = Miya](https://miyastravel.com/) |
+|[旅行鴨 — 帶你一步步走進異國世界](http://iduck.tw/) |
+|[喬豆．環遊世界中！](https://josutotheworld.blogspot.com/) |
+|[黃温庭（福熊） - 旅人專欄 - 微笑台灣 - 用深度旅遊體驗鄉鎮魅力 ](https://smiletaiwan.cw.com.tw/author/156) |
 |[大麻烦不烦](https://ghostisland.media/#law) |
 |男人不要聽 |
 |衣櫥裡的讀者 |
@@ -915,7 +930,14 @@
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f243813e-4089-4595-a8fa-5f2f1fed7427/cover_small.jpg" width="30"> 不伦不类 [RSS](https://feeds.fireside.fm/mindthegapfm/rss) 收录了四个不务正业的年轻人游走伦敦的心得体会与对各类热点的不严谨讨论。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/7aa6-audiofreehighqps/7C/7A/CKwRIJIFKd3CAAEpUwDnzxK1.jpeg"> 伦敦有耳 [RSS](https://www.ximalaya.com/album/53462667.xml) |
 
-### 
+### 越南：
+
+||
+|:------|
+|[越南旅遊/吃喝/生活/工作，一起跟越南女神Lena來場越南大冒險！](https://lenainvietnam.com/)|
+
+
+
 
 ### 待分类：
 
