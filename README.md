@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -57,6 +57,8 @@
 ### 社群：
 
 [awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts)
+
+[SAO.FM](https://sao.fm/) 在这里聆听您最关心的内容。SAO.FM将全球的音乐、新闻和播客汇聚一堂
 
 ##### <img src="./images/wavpub.png" width="40"> 音播WavPub https://wavpub.com/ 
 
@@ -331,6 +333,7 @@
 
 | |
 |:----------------------------------------------------|
+| The Draymond Green Show |
 | <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/5159-audiofreehighqps/08/86/CMCoOSAEVblDAADSagChP1HV.jpg"> 金相凯电台 https://www.ximalaya.com/toutiao/48838359/ 足球热点，赛事评论，战术解析，历史钩沉，场内故事，场外花絮。 |
 | <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/ 两位阿森纳球迷主播将通过对球场故事的回溯，带出对经济、文化、历史等方面的解读。 |
@@ -940,6 +943,7 @@
 | <img src="https://imagev2.xmcdn.com/storages/cf0c-audiofreehighqps/CC/72/CMCoOSMDZiO_AADm1wBfYKfl.jpg" width="30"> 胡思乱讲 MadTalk [RSS](https://www.ximalaya.com/album/43034419.xml)|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f243813e-4089-4595-a8fa-5f2f1fed7427/cover_small.jpg" width="30"> 不伦不类 [RSS](https://feeds.fireside.fm/mindthegapfm/rss) 收录了四个不务正业的年轻人游走伦敦的心得体会与对各类热点的不严谨讨论。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/7aa6-audiofreehighqps/7C/7A/CKwRIJIFKd3CAAEpUwDnzxK1.jpeg"> 伦敦有耳 [RSS](https://www.ximalaya.com/album/53462667.xml) |
+| [《馋Chán》](https://chanmagazine.com/)始终是一本难以定义的出版物。常驻英国的华人群体，女性，酷儿。 |
 
 ### 越南：
 
@@ -951,6 +955,8 @@
 
 
 ### 待分类：
+
+<img width="35" src="https://i.typlog.com/kenkajouto/8365770304_93725.png"> [喧哗上等](http://kenkajouto.com/)
 
 ##### 海马星球 https://seahorseplanet.net/
 
@@ -968,7 +974,7 @@
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vY3liZXJwaW5rZm0vODM1MzI4Nzg5M181NDM4OTkuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 疲惫娇娃 CyberPink https://www.xiaoyuzhoufm.com/podcast/6226d3368b7257e5858bda45
 
-##### 东七门
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrdEtQQVpFdVA2MDRucXhwcEc4LVplSU9IUTEuanBn.jpg"> 东七门 https://www.xiaoyuzhoufm.com/podcast/61ef9609cfd2b637cbba3176
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy85NmRkLWF1ZGlvZnJlZWhpZ2hxcHMvNTgvNjcvR01Db09TY0YxazNTQUJGOXN3RVVqWElSLmpwZWc=.jpeg"> WATKOI｜每月主播 https://www.xiaoyuzhoufm.com/podcast/62008b7b0c35c9f95dca17dc
 
@@ -1120,7 +1126,9 @@ c+ talk show
 
 ##### 闪光少女 
 
-##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzIxMDI3NjgwLzIxMDI3NjgwLTE2NDIxNjk4NjcwMDgtZTg0MDlmZWI3ZTUwNS5qcGc=.jpg"> 相亲相对论 https://www.xyzfm.link/mcwuq
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8zODBlLWF1ZGlvZnJlZWhpZ2hxcHMvMzUvNzYvQ01Db09TSUVKbEYzQUFNLXRnQ1MtNUE4LmpwZWc=.jpeg"> 大言不惭 https://www.xiaoyuzhoufm.com/podcast/60174fc61a32087409be8244
+
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzIxMDI3NjgwLzIxMDI3NjgwLTE2NDIxNjk4NjcwMDgtZTg0MDlmZWI3ZTUwNS5qcGc=.jpg"> 相亲相对论 https://www.xiaoyuzhoufm.com/podcast/61e18a6a32bc8c17b219007b
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg1L00wNS83OS9ENy93S2c1SDE5Z1B6RFNGS19CQUJGN2FIUmFiMUE2MDIucG5n.png"> 掰馍会谈 https://www.xiaoyuzhoufm.com/podcast/5f6975a583c34e85dd2b4cf5
 
@@ -1254,6 +1262,9 @@ c+ talk show
 ##### 别的女孩 
 ##### <img src="http://diffengine.org/img/logo-360x360.png" width="30"> 差分机 http://diffengine.org/ 一档关于科技、社会与未来的泛文化传媒。
 ##### 采风 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jZTk5LWF1ZGlvZnJlZWhpZ2hxcHMvRTIvQjcvQ01Db09TTUVkcVMwQUFScjFBQ3I2WjdlLmpwZWc=.jpeg"> 问题不大 https://www.xiaoyuzhoufm.com/podcast/60a11dace7c5a5dd3bc8320e
+
 ##### CD没教的事 
 ##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
 ##### <img src="https://i.typlog.com/watchoutside/8403547613_103318.jpg?x-oss-process=style/ss" width="30"> 拆盒子 https://watchoutside.typlog.io/
