@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -181,6 +181,7 @@
 | <img width="35" src="https://i0.hdslb.com/bfs/face/f661077268d31d2bd2e15b44927d9d96d0f6fef1.jpg"> CoinDesk中文版 [bilibili](https://space.bilibili.com/1522354971/video) |
 | CryptoKidZ |
 | Crypto Naive |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2WE9GakhrX2dwem1XS1lYeWxmTm13WFdPX0o=@small">[ Traders' Talk](https://www.xiaoyuzhoufm.com/podcast/5e7eb85d418a84a0465eda82) [RSS](https://www.ximalaya.com/album/34337110.xml) |
 
 ### ThoughtWorks:
 
@@ -668,6 +669,7 @@
 
 ||
 |:---|
+|<img width="35" src="http://p2.music.126.net/WLqV9t5zSbDGv-ooaCNB-Q==/109951166231979702.jpg"> [理响谈](https://music.163.com/#/djradio?id=795816961)  重庆人用重庆话谈论自己以及朋友热爱的音乐，还有与音乐相关的生活故事。|
 | <img src="https://imagev2.xmcdn.com/storages/ed05-audiofreehighqps/8B/2F/CMCoOSYDmUdSAAEZ5ABsGGOC.png" width="30"> 山城龙门阵 https://www.ximalaya.com/shishang/44160859/ 。[RSS](https://www.ximalaya.com/album/44160859.xml) ; [bilibili](https://space.bilibili.com/1210609473/video) |
 
 ### 广东：
@@ -972,6 +974,8 @@
 
 ##### <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cf1be9e6-e1c8-44ba-bf16-b9919be92b0a/cover_small.jpg"> 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
 
+[后互联网时代的乱弹](https://pie.wetime.com/) Tech, Human, Future    [RSS](https://pie.wetime.com/feed/podcast)
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqcW9MZXVCMERrQ05UbUJHeTRXc3otbkQ1VzYucG5n.png"> 许纪霖 https://www.xiaoyuzhoufm.com/podcast/623179bcd9985ffdf1ac033d
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMucGlwcGEuaW8vc2hvd3MvdW5kZWZpbmVkLzE1OTM2NzczMDAyNjItYTA1YmYxM2Y4YTFhNzNjNWYwYTc3NDNiZDkyMmM2OTQuanBlZw==.jpeg@"> What Do You Mean https://www.xiaoyuzhoufm.com/podcast/5efd97d76d76607427f765f3
@@ -994,6 +998,10 @@
 
 噪音开始了
 
+<img width="35" src="https://imagev2.xmcdn.com/storages/033b-audiofreehighqps/9E/B8/GKwRIJIGGMxeAAB2owExsaes.jpg"> 打碎玻璃 [RSS](https://www.ximalaya.com/album/61528617.xml)
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iOTZjLWF1ZGlvZnJlZWhpZ2hxcHMvRTYvRTgvR01Db09TQUZoSlVZQUFNSWFnRF9YMG1sLmpwZWc=.jpeg"> 县城内外 https://www.xiaoyuzhoufm.com/podcast/61aed40f016cbe10331051dc
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMucGlwcGEuaW8vc2hvd3MvNWU3OWI0MzQyOWQxNDAxYTFhOGMwMDE1LzE2Mjk0NDkzNDY5ODEtZDQwMTk3MDZjN2FlM2M5MDlkOWI0ZWU5NzNiNDg5Y2QuanBlZw==.jpeg"> 别任性 https://www.xiaoyuzhoufm.com/podcast/5e7c6769418a84a046787364
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZnYzNod3FFSDVJbGFKbnJMRTFOSjFLTm5OUHAuanBn.jpg"> 毛朋友电台 https://www.xiaoyuzhoufm.com/podcast/60b637ac5dffb1e7f8be2d9a
@@ -1011,6 +1019,8 @@
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrNnlVcXF0c3ZoNkh3Sjd3b3FzWWFWODVjWGkucG5n.png"> 美西螈与东方巨龙 https://www.xiaoyuzhoufm.com/podcast/5ed1c5b2418a84a0468528cb
 
 ##### 深焦DeepFocus Radio
+
+<img width="35" src="https://imagev2.xmcdn.com/group71/M07/44/04/wKgOz14EcHuz1kYaAAah2L1ZHpo36.jpeg"> 快活似神仙 https://www.ximalaya.com/album/31944428
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9tZWRpYS5yZWRjaXJjbGUuY29tL2ltYWdlcy8yMDIxLzExLzIvNS8yMTMzNTkxZS1jNTUwLTQ2YTMtYmYwZi02M2I2MDY5NmI4NGFfNGI4ZV83MzE0NGJkNi04MWFmLTRkYmYtYjM5ZS02NDUzODRiY2Y2MTNfYmxvYi5qcGc=.jpg"> 巴别塔词典 https://www.xiaoyuzhoufm.com/podcast/60beb756ef742260587c883b
 
@@ -1030,7 +1040,13 @@
 
 c+ talk show
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyTS01WHY3aTJaUTlfOXYzNDVWU09zb1M1TksuanBn.jpg"> 声猛南方 https://www.xiaoyuzhoufm.com/podcast/62397dbac39130b3d9e01e5f
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxS2NmRDRnNzZ4MjhuZjRydmZtTXM1VXVMRHUuanBn.jpg"> Sound Track U Life https://www.xiaoyuzhoufm.com/podcast/624aa7d794a69a04b0c2fe7b
+
 ##### 灯下漫谈
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMucGlwcGEuaW8vc2hvd3MvdW5kZWZpbmVkLzE2Mjc0ODYzNjUyMzQtMjNiODEyMWNiYWRmMzE0YmM4NTRjZDA3ZjljMzA5YWYuanBlZw==.jpeg"> 偶然误差FM https://www.xiaoyuzhoufm.com/podcast/610208cb2da1faa7d844feb7
 
 ##### 宇宙牌电饭锅
 
@@ -1078,7 +1094,15 @@ c+ talk show
 
 ##### 消费新知
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1YXN6d1BJcS03aHVhbW5Ydi1QTjlwNkFER2cucG5n.png"> 咖啡流长 https://www.xiaoyuzhoufm.com/podcast/624ef40e14abdfc2c126e065
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpMmMzRWRJVXV0QVlnZUJOYlhhQms1SjV2YVQuanBn.jpg"> 纵身一跳 https://www.xiaoyuzhoufm.com/podcast/624d5b26d32de5100e543341
+
 ##### 业余不业余
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpYlVCLUo1bUhObU9JZFJBa0ptUUY3WXdiUW0uanBn.jpg"> 说点傻话 https://www.xiaoyuzhoufm.com/podcast/60fe1fd851cb720b56f6a064
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrcjhaN1RONFJsajJ1QnFZcThIR3FEMEFjdzIuanBn.jpg"> 马姐客厅 https://www.xiaoyuzhoufm.com/podcast/624a7b3694a69a04b0c2fe79
 
 ##### 两个广告人 | 前香港奥美广告人的对谈
 
@@ -1127,6 +1151,8 @@ c+ talk show
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9)
 
 ##### 莽街RADIO
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoQk44Um9UX0pkbDRXamk0VWxMblZ2eFEyaE4uanBn.jpg"> 格格不入 https://www.xiaoyuzhoufm.com/podcast/6237e71903bea1ebfffa1bd6
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqLTNqX2RRVzZxS01OMHpubE44RjJ2ZVRQMl8uanBn.jpg"> 茶水间密语 https://www.xiaoyuzhoufm.com/podcast/6214e6850fb2f8ad902e095f
 
@@ -1322,6 +1348,9 @@ c+ talk show
 ##### <img src="https://cdnimg103.lizhi.fm/user/2020/06/12/2810334965960266793_160x160.png" width="30"> 翻转电台 https://www.xiaoyuzhoufm.com/podcast/5e4ff468418a84a046973375
 ##### 反派影评 http://fanpaiyingping.com/
 ##### 饭后见 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82OTQ0LWF1ZGlvZnJlZWhpZ2hxcHMvQzMvOUYvQ0t3UklKSUV1Y0UxQUFQXzRnRER5VWY5LmpwZWc=.jpeg"> 女朋友们 https://www.xiaoyuzhoufm.com/podcast/60e3feeaabf0064671af13f1
+
 ##### 饭后设计师
 ##### 饭堂电台
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/29551bb1-cf47-4a70-9d95-b5e87049004d/cover_small.jpg" width="30"> 风土集 https://ftj.fireside.fm/ 感受别处的物产、风景、风俗的私体验播客。
@@ -1425,6 +1454,8 @@ c+ talk show
 ##### 时差调频 https://www.ximalaya.com/zhubo/4403009
 ##### 四方论 https://www.ximalaya.com/renwen/15953278/
 ##### 说东道西
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9zaXBpYW9qdWxlYnVsb2dvXzIwMjEwMzE1LnBuZw==.png"> 撕票俱乐部 https://www.xiaoyuzhoufm.com/podcast/5e906b22418a84a046d1bc2e
 
 ##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
 ##### The CJ Show
