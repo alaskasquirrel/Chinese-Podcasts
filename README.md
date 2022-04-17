@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
@@ -7,18 +7,18 @@
 
 
 
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  期待你的参与 Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  **期待你的参与** Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
-**兼听则明，偏信则暗**
+**兼听则明，偏信则暗；慧眼所见，侧耳倾听**  ***撇开宏大叙事，你是个人啊！***
 
 ********
 
 * 请尽量自行RSS添加订阅播客 Podcasts.opml
 
-|归类不一|||||||
+|归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)||||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)||||
-|[IPN](#ipn)|[Crypto](#Crypto)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
+|[IPN](#ipn)|[Crypto](#Crypto)|[加入小组](https://www.douban.com/register?reason=join-group)[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[Python](#Python)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[体育](#体育)|[津津乐道](#津津乐道)|[交流访谈](#交流访谈)|[Golang](#Golang)|
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
@@ -33,6 +33,7 @@
 |  |
 |:------------------------------------------------------------------------ |
 | <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download/) 安卓开源app 👍  [隐私政策 Privacy Policy](https://antennapod.org/privacy/) |
+| <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> [News](https://f-droid.org/packages/co.appreactor.news/) Feed reader and podcast player for Android |
 | 小宇宙 app https://www.xiaoyuzhoufm.com/ [隐私政策](https://post.xiaoyuzhoufm.com/podcast-privacy/) |
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://getstream.io/winds/ |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                      |
@@ -123,6 +124,7 @@
 | [China Tech Talk](http://chinatechtalk.com/)  ,         [RSS](https://feeds.simplecast.com/400uRY7l)                  |
 | <img src="https://assets.pandaily.com/uploads/2019/08/TechBuzz-China.png" width="30"> Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.                                     |
 | The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley |
+| [Michael Savage](https://michaelsavage.com/) |
 | Asia Tech Podcast https://asiatechpodcast.com/ All Things Asia All Things Tech |
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/150423/quovsmmsjqn7teptbqhh.png" width="30"> The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
 | <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
@@ -263,6 +265,16 @@
 |<img src="https://imagev2.xmcdn.com/group79/M03/B9/DB/wKgPC16oVSHQNjLJAARTEZ2G50o555.png" width="30"> 东亚观察局 https://www.ximalaya.com/toutiao/37399737/|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/aacd-audiofreehighqps/3F/AA/CKwRIUEE-RiwAAZqaADbMDc7.jpeg"> 魔都剧好看 https://www.ximalaya.com/album/52140019|
 
+### 冠声播客:
+
+||
+|:-----|
+|星原说|
+|原来如此|
+|远焦日志|
+|这能播吗|
+|微光 斯坦尼|
+
 ### VC投资：
 
 |                         |
@@ -332,6 +344,7 @@
 | <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/5159-audiofreehighqps/08/86/CMCoOSAEVblDAADSagChP1HV.jpg"> 金相凯电台 https://www.ximalaya.com/toutiao/48838359/ 足球热点，赛事评论，战术解析，历史钩沉，场内故事，场外花絮。 |
 | <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/ 两位阿森纳球迷主播将通过对球场故事的回溯，带出对经济、文化、历史等方面的解读。 |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/f281-audiofreehighqps/75/31/GKwRIasFkJ8fAACIjQEDJ3vj.jpg"> 不懂球电台 https://www.ximalaya.com/album/55459743 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/dd7e-audiofreehighqps/24/DA/CKwRIJIE_7iSAAFV6ADdN0XU.jpeg"> 有一期没一期 https://www.ximalaya.com/album/52553951 主持人:Ars4life。致力于邀请懂球的嘉宾聊一聊阿森纳，为枪迷提供路上睡前的陪伴。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/2221-audiofreehighqps/B9/95/CKwRINsFAg93AAFufQDd0PVr.jpeg"> 超级颜论｜肆客体育 https://www.ximalaya.com/toutiao/43280832/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/33f8-audiofreehighqps/D5/90/CMCoOSUEygm6AAOUSADJ7WMh.jpeg"> 足球咖啡馆 [RSS](https://www.ximalaya.com/album/39304323.xml) 一杯咖啡的时间，陪你聊足球，但不止于足球。 |
@@ -426,6 +439,7 @@
 | <img src="https://i.typlog.com/hyperbola/8426633665_117544.jpg?x-oss-process=style/ss" width="30"> Hyperbola https://hyperbola.link/  |
 | <img src="https://static.cscript.site/podcast_green.png" width="30"> 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
 | <img src="https://pan.icu/assets/banner.panicu.svg" width="30"> 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZuWnU4QmFKb09lNGZvODhaMVNQRHpmQV9hUDUuanBn.jpg"> MacTalk·夜航西飞 https://www.xiaoyuzhoufm.com/podcast/606fdca6b3b59ee30e7c0d13 |
 | <img src="https://imagev2.xmcdn.com/group47/M00/9E/AE/wKgKk1tNWtuyp3rgAAHfFSYGa24687.jpg" width="30"> 无时差研究所 https://www.ximalaya.com/shishang/13506198/ [RSS](https://www.ximalaya.com/album/13506198.xml) |
 | <img src="https://imagev2.xmcdn.com/group56/M00/DC/5A/wKgLgFyAHObRtGG8ABT3S9kKSPU99.jpeg" width="30"> 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ [RSS](https://www.ximalaya.com/album/19242373.xml) |
 | <img src="https://imagev2.xmcdn.com/group79/M00/83/12/wKgPC17NYALw78dyAAGJvzdXEE4979.png" width="30"> 意马心猿 https://www.ximalaya.com/keji/38372946/ |
@@ -672,6 +686,12 @@
 |<img width="35" src="http://p2.music.126.net/WLqV9t5zSbDGv-ooaCNB-Q==/109951166231979702.jpg"> [理响谈](https://music.163.com/#/djradio?id=795816961)  重庆人用重庆话谈论自己以及朋友热爱的音乐，还有与音乐相关的生活故事。|
 | <img src="https://imagev2.xmcdn.com/storages/ed05-audiofreehighqps/8B/2F/CMCoOSYDmUdSAAEZ5ABsGGOC.png" width="30"> 山城龙门阵 https://www.ximalaya.com/shishang/44160859/ 。[RSS](https://www.ximalaya.com/album/44160859.xml) ; [bilibili](https://space.bilibili.com/1210609473/video) |
 
+### 甘肃:
+
+||
+|:------|
+|<img width="35" src="https://i0.hdslb.com/bfs/face/19a4f2a77123cd2199d3c13e7a3fad4024787780.jpg@240w_240h_1c_1s.webp"> 洋芋团团l [bilibili](https://space.bilibili.com/363662775/video) 甘肃农村最真实的生活！|
+
 ### 广东：
 
 ||
@@ -768,8 +788,8 @@
 
 ||
 |:------|
-| <img width="35" src="https://i1.hdslb.com/bfs/face/66d985e37579b9291acfe949fac1e8706646dcee.jpg"> 去种田的向凹凸 [bilibili](https://space.bilibili.com/36909511/) |
-| <img width="35" src="https://i2.hdslb.com/bfs/face/dc9091859f0b6b5aad657c95102b599d2f41b53f.jpg@240w_240h_1c_1s.webp"> 我是野农 [bilibili](https://space.bilibili.com/327552140) |
+| <img width="35" src="https://i1.hdslb.com/bfs/face/66d985e37579b9291acfe949fac1e8706646dcee.jpg"> 去种田的向凹凸 [bilibili](https://space.bilibili.com/36909511/) & <img width="35" src="https://i0.hdslb.com/bfs/face/0dd9475d458c39a625cf7306c02fd6fbfb475f71.jpg"> 小白兔的胡萝卜甜 [bilibili](https://space.bilibili.com/243884610/) |
+| <img width="35" src="https://i2.hdslb.com/bfs/face/dc9091859f0b6b5aad657c95102b599d2f41b53f.jpg@240w_240h_1c_1s.webp"> 我是野农 [bilibili](https://space.bilibili.com/327552140) & <img width="35" src="https://i0.hdslb.com/bfs/face/3ffde8456614dd8983804b872b4b5f514ce1ddeb.jpg"> 画燕儿 [bilibili](https://space.bilibili.com/510567501) |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/6143186764e6e331c0a66b1bc065b6c72a6041f9.jpg@240w_240h_1c_1s.webp"> 荷塘星星 [bilibili](https://space.bilibili.com/593920494) |
 
 ### 辽宁：
@@ -809,6 +829,7 @@
 
 ||
 |:----|
+|<img width="35" src="https://i1.hdslb.com/bfs/face/d7ba01f06bd168841d2740b6c325388b32ba2979.jpg@240w_240h_1c_1s.webp"> 碗李来 [bilibili](https://space.bilibili.com/478557730/video) 宁夏固原支教（2021.07-2022.07）|
 |<img width="35" src="https://i0.hdslb.com/bfs/face/f3194a5a59d8cc1d8ad19dbc084bfda9b4dedea9.jpg@240w_240h_1c_1s.webp"> 九品芝麻铲屎官 [bilibili](https://space.bilibili.com/4779198) & <img width="35" src="https://i1.hdslb.com/bfs/face/ad1846b66a8f797329dd940ab8ddeef3f75e5283.jpg@240w_240h_1c_1s.webp"> 豆浆一家 [bilibili](https://space.bilibili.com/385099882)|
 
 ### 日本：
@@ -866,6 +887,7 @@
 ||
 |:----|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/59c3-audiofreehighqps/57/A2/GKwRIMAFeMGzAAOjnwD8HxRo.jpeg"> 小镇文艺青年 https://www.ximalaya.com/album/55119114|
+|<img width="35" src="https://i0.hdslb.com/bfs/face/1717f1b406d1ec81213d6dd9076c3cb05b5e054c.jpg"> 王芳芳的快乐生活 [bilibili](https://space.bilibili.com/1068501708)|
 
 ### 陕西
 
@@ -906,12 +928,21 @@
 |男人不要聽 |
 |衣櫥裡的讀者 |
 
+### 西藏:
+
+||
+|:----|
+|<img width="35" src="https://i0.hdslb.com/bfs/face/002dc3ccb7e9a75a5063fbc498bb09840c39e0d6.jpg@240w_240h_1c_1s.webp"> 那曲拉姆 [bilibili](https://space.bilibili.com/1085299926)|
+
+
 ### 香港:
 
 ||
 |:------|
+|衰仔日记 大烂牌里的小确幸 马家辉|
 | <img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7bd1b08a-daee-463c-a306-3e8171fd25d9/cover_small.jpg"> 得閒飲茶 https://www.letsyumchashow.com/ 一個關於生活智慧、創新科技和本地文化的香港 Podcast|
 | <img width="35" src="https://i0.hdslb.com/bfs/face/356d236c9824433df3d018ddcadc9fcca8bc0984.jpg"> 是落拓呀 [bilibili](https://space.bilibili.com/43276908/video) |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzkvOTY4ZTZhNjctMzU0MC00YzY5LTk0NDgtYTIyOWRiZjgyYzE2L2NvdmVyLmpwZz92PTE=.jpg"> 香港不是大商场 https://www.xiaoyuzhoufm.com/podcast/6152f40a71d2e34ddb48e613 |
 
 
 ### 西班牙：
@@ -932,7 +963,7 @@
 
 | |
 |:---|
-| <img src="https://imagev2.xmcdn.com/group22/M08/85/86/wKgJLliiqo7RMTCRAAUcW-Sw0QY145.jpg" width="30"> 俊玮谈新 https://www.ximalaya.com/toutiao/5218657/ 。[RSS](https://www.ximalaya.com/album/5218657.xml) |
+| <img src="https://imagev2.xmcdn.com/group22/M08/85/86/wKgJLliiqo7RMTCRAAUcW-Sw0QY145.jpg" width="30"> 俊玮谈新 https://www.ximalaya.com/toutiao/5218657/ ; https://www.xiaoyuzhoufm.com/podcast/5e5cf5e6418a84a0464b9459 。[RSS](https://www.ximalaya.com/album/5218657.xml) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/d75d06cd3d2e7bedb5d0b8ff0ba14c3b7022d036.jpg"> BelindaChen [bilibili](https://space.bilibili.com/10323935/video) 生活记录 |
 | Timothy 的[博客](https://xiaozhou.net/) |
 
@@ -962,7 +993,7 @@
 
 
 
-### 待分类：[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)
+### 待分类：
 
 <img width="35" src="https://i.typlog.com/kenkajouto/8365770304_93725.png"> [喧哗上等](http://kenkajouto.com/)
 
@@ -994,9 +1025,21 @@
 
 跳岛FM
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqVWZvQlI1dFM2YnlnT09GcUhkdTFHQ1k3QUs"> 北方公园NorthPark https://www.xiaoyuzhoufm.com/podcast/5e37ba4b418a84a04689cf7a
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy81MTY4LWF1ZGlvZnJlZWhpZ2hxcHMvMjEvNkIvQ0t3UklKRUV1SlNtQUF3c0NRRERRYWZkLmpwZWc=.jpeg"> 德万斯提 One Diversity S1 https://www.xiaoyuzhoufm.com/podcast/60e2d4670e51138cd4748a16
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82YzVkLWF1ZGlvZnJlZWhpZ2hxcHMvMDMvODkvQ0t3UklXNEZJWDVNQUE1eF9nRGxyNUpsLmpwZWc=.jpeg"> 请三十 https://www.xiaoyuzhoufm.com/podcast/614c746e5c508c1ae7f74fd8
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwZk5jSkF0djlyMHR1UXc2VEhJTU5TRHUyWVQuanBn.jpg"> 远近电台 https://www.xiaoyuzhoufm.com/podcast/61ca70bba626f8727e2e8836
 
 噪音开始了
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82ZGI2LWF1ZGlvZnJlZWhpZ2hxcHMvOEIvQzgvQ01Db09TVUVSZV9wQUFJVVhRQ2NoaXNaLmpwZWc=.jpeg"> 打个电话给你One Call Away https://www.xiaoyuzhoufm.com/podcast/5f0291b66d7660742752a5d8
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy85NjY4LWF1ZGlvZnJlZWhpZ2hxcHMvREEvMDIvQ01Db09TWUZGb01HQUFNNzF3RGpIZElqLmpwZWc=.jpeg"> FC 红白传说 ｜任天堂游戏机回忆录 https://www.xiaoyuzhoufm.com/podcast/6140c9154bf26b652fe681dc
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy84ZTJkLWF1ZGlvZnJlZWhpZ2hxcHMvRkQvRkUvR01Db09SNEdMd0lYQUFOVkJnRThnX0FILmpwZWc=.jpeg"> 薯条码头 https://www.xiaoyuzhoufm.com/podcast/62594144b2f93397a0a36621
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/033b-audiofreehighqps/9E/B8/GKwRIJIGGMxeAAB2owExsaes.jpg"> 打碎玻璃 [RSS](https://www.ximalaya.com/album/61528617.xml)
 
@@ -1019,6 +1062,8 @@
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrNnlVcXF0c3ZoNkh3Sjd3b3FzWWFWODVjWGkucG5n.png"> 美西螈与东方巨龙 https://www.xiaoyuzhoufm.com/podcast/5ed1c5b2418a84a0468528cb
 
 ##### 深焦DeepFocus Radio
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0bXJYcTdtaC11NFZ5M2JGZktMbVZSY19ZZ2IuanBn.jpg"> 一个观众站起来 https://www.xiaoyuzhoufm.com/podcast/615417e6fd090ac10a7f027b
 
 <img width="35" src="https://imagev2.xmcdn.com/group71/M07/44/04/wKgOz14EcHuz1kYaAAah2L1ZHpo36.jpeg"> 快活似神仙 https://www.ximalaya.com/album/31944428
 
@@ -1204,7 +1249,7 @@ c+ talk show
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1ZDJsN1YxeV9wTkpZV0FURDlkN01nNHNjTWIuanBn.jpg"> 星光游乐园 https://www.xiaoyuzhoufm.com/podcast/603cf60ee83d6415607aa344
 
-##### 来都来了｜听了再走 
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xNGEzLWF1ZGlvZnJlZWhpZ2hxcHMvMUUvRjYvR0t3UklXNEdKdWJkQUFZSHJBRTRQOVh1LmpwZWc=.jpeg"> 来都来了｜听了再走 https://www.xiaoyuzhoufm.com/episode/6254510b3c7db9a604935369
 
 ##### <img width="35" src="https://imagev2.xmcdn.com/storages/0dc8-audiofreehighqps/97/95/CMCoOR4EMlKWAAMlQQCWv8_X.jpeg"> 问题青年 https://www.ximalaya.com/album/47129647
 
