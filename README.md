@@ -1,21 +1,21 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
-> 2. 本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues.
-> 3. 未收及不会收取任何广告费用,推荐的所有工具链接与本人无任何利害关系.
-> 4. 严肃尊重音频播客的所有权归属ⓒ.
+> 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
+> 3. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
+> 4. 严肃尊重播客的所有权归属ⓒ.
 
 
 
 ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 🎧  **期待你的参与** Issues or Fork  订阅 [newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 了解更多讯息!
 
-**兼听则明，偏信则暗；慧眼所见，侧耳倾听**  ***撇开宏大叙事，你是个人啊！***
+**兼听则明，偏信则暗；慧眼所见，侧耳倾听** 
 
 ********
 
 * 请尽量自行RSS添加订阅播客 Podcasts.opml
 
-|归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)||||
+|归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)|[那些出国以后才知道的事](https://www.douban.com/gallery/topic/84494/)|[Women In Tech 女性科技从业者集合地](https://www.douban.com/group/womenintech/)||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)||||
 |[IPN](#ipn)|[Crypto](#Crypto)|[加入小组](https://www.douban.com/register?reason=join-group)[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
@@ -92,6 +92,7 @@
 |:-----|
 |锵锵三人行|
 |[Charlie Rose](https://www.youtube.com/c/charlierose/videos)|
+|[Studs Terkel Archive Podcast](). Studs Terkel (1912-2008)|
 |[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
 |[Unzicker's Real Physics](https://www.youtube.com/user/TheMachian/videos)|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/3b05ae5517e4349292de0dbb745dc14754c38463.jpg"> 纪录片我去看世界 [bilibili](https://space.bilibili.com/38067617/)|
@@ -108,6 +109,8 @@
 |                     |
 |                     ----|
 | <img src="https://yt3.ggpht.com/a/AATXAJyaoejpg2cKqP4rszXXUfVUvhpMkjCjRVDTV0VYFw=s88-c-k-c0x00ffffff-no-rj" width="30"> Artificail Intelligence Podcast by Lex Fridman https://lexfridman.com/podcast/ |
+| [Sway]() Kara Swisher |
+| [Arts & Ideas]() BBC Radio 3 |
 | <img width="35" src="https://images.squarespace-cdn.com/content/v1/58de89eb17bffc754e3c1d33/1574262857619-OR869XWBV54JFDT73CQ7/RobReidLogo.png"> [After On Podcast](https://after-on.com/) |
 | <img width="35" src="https://www.healthyhacker.com/img/logo.png"> [Healthy Hacker](https://www.healthyhacker.com/)  Chris Hunt |
 | [Mac Power Users](https://www.relay.fm/mpu/archive) [RSS](https://www.relay.fm/mpu/feed) |
@@ -211,13 +214,16 @@
 |:----------------------------------------------------|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94c5a33e-da45-4dd9-acc2-52d4b924d520/cover_small.jpg" width="30"> 路书 https://lushu88.com/ 。 [RSS](https://feeds.fireside.fm/lushu/rss) |
 | 天书广播 https://www.ximalaya.com/renwenjp/2858591/ |
-| <img src="https://imagev2.xmcdn.com/group82/M03/F9/C6/wKg5Il89NgewlxJcABCbB6n5im8440.jpg" width="30"> 未命名播客 https://untitledpodcast.fireside.fm 。[RSS](https://feeds.fireside.fm/untitledpodcast/rss)|
+| <img src="https://imagev2.xmcdn.com/group82/M03/F9/C6/wKg5Il89NgewlxJcABCbB6n5im8440.jpg" width="30"> 未命名播客 https://untitledpodcast.fireside.fm 。[RSS](https://feeds.fireside.fm/untitledpodcast/rss) |
+| [三小人]() |
 
 ### JustPod:
 
 | <img src="https://imagev2.xmcdn.com/group64/M09/A6/00/wKgMc117yvvhiD2EAAAWnza32IQ55.jpeg" width="30"> https://www.ximalaya.com/zhubo/104088857/ ； https://justpodmedia.com/ |
 | :----------------------------------------------------------- |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/8975-audiofreehighqps/F6/F3/CKwRIMAFD3jBAALrhwDhTyUA.jpeg"> 噪音开始了 https://www.ximalaya.com/album/52905373 |
 | <img src="https://imagev2.xmcdn.com/group63/M09/B4/93/wKgMaF2jnNbRhxd-AAPFmyK0BY0816.jpg" width="30"> 忽左忽右 https://www.ximalaya.com/toutiao/12817863/ [RSS](https://www.ximalaya.com/album/12817863.xml) |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/b976-audiofreehighqps/2B/18/GKwRIW4Fjd0OAARcKgECS0g4.jpeg"> 差分机 https://www.ximalaya.com/album/55557376 |
 | <img src="https://imagev2.xmcdn.com/group74/M05/91/B0/wKgO3F5hldahF71TAA2Xt_uh490338.png" width="30"> 去现场 https://www.ximalaya.com/yule/30766335/ |
 | <img src="https://imagev2.xmcdn.com/group79/M00/50/0A/wKgPC17LeOvwM9klAAZSx1XNg5U926.png" width="30"> 天方乐谈 https://www.ximalaya.com/yinyue/38321797/ |
 | <img src="https://imagev2.xmcdn.com/group61/M0B/B5/FF/wKgMZl2jmPDy2uc-AAOZv6Y8D-o750.jpg" width="30"> 杯弓舌瘾 https://www.ximalaya.com/shishang/30073430/ |
@@ -416,43 +422,44 @@
 
 ### 交流访谈:
 
-|[反波 Antiwave](https://antiwave.xyz/) 活跃在2005年到2009年之间的中文播客|
-|:----|
-|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYUZnTDJRa1JDWmxCOEVOYmhhUWxkelNOOWkuanBn.jpg"> [乱翻书](https://www.xiaoyuzhoufm.com/podcast/61358d971c5d56efe5bcb5d2) 公众号采访直播|
-|<img width="35" src="https://i.typlog.com/2bab/8359128160_628928.png"> 二分电台 https://binary.2bab.me/ 一半生活一半工作，二分电台是一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。[RSS  ](https://binary.2bab.me/episodes/feed.xml)|
-|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82YWQ3LWF1ZGlvZnJlZWhpZ2hxcHMvNDUvRDQvQ01Db09TVUVncC1vQUFIeXZnQ3dMWG96LmpwZWc=.jpeg"> [出海进行时](https://www.xiaoyuzhoufm.com/podcast/60acde17875241dbd2068bf6)|
-|FunnyCoder [bilibili](https://space.bilibili.com/26995758/channel/collectiondetail?sid=224939)|
-|<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/df59131c-f898-4433-989b-52ac7d659dd0/cover_small.jpg"> 新气集 https://thinkagepodcast.fireside.fm/|
-|<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/d46af9dd-16b7-4c48-80d1-366530653afa/cover_small.jpg"> Full of Mind 心理学与 X 的跨界，聚焦于感知、情绪和思维 [RSS](https://feeds.fireside.fm/fullofmind/rss) 这是一档主播与嘉宾1v1的茶话会。|
-|<img src="https://fyfy.fm/images/logo.jpg" width="30"> 枫言枫语 http://fyfy.fm/ ，[RSS ](https://justinyan.me/feed/podcast)|
-|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iYzA4LWF1ZGlvZnJlZWhpZ2hxcHMvQjMvQkQvQ01Db09TQUV5eF9nQUFNUkNRREtVM2s2LmpwZWc=.jpeg"> 【The Data Way】是由SphereEx 公司出品的播客节目 https://www.xiaoyuzhoufm.com/podcast/60f562d2b806d9be0ee81d26|
-|<img width="35" src="https://imagev2.xmcdn.com/storages/9fe5-audiofreehighqps/0B/C1/CMCoOSAEY7mHAAKc1gClnMVf.jpeg"> 卖鱼桥分桥 https://www.ximalaya.com/album/48848794 一档漫谈类播客，捕捉平凡生活中的闪光点，选题跨度大，不想被定义。|
-|<img width="35" src="https://imagev2.xmcdn.com/storages/c288-audiofreehighqps/DE/08/GKwRIW4Fot_dAAExfgEIVwN7.jpeg"> 大小马聊科技 https://www.ximalaya.com/album/55951710|
+| [反波 Antiwave](https://antiwave.xyz/) 活跃在2005年到2009年之间的中文播客 |
+| :----------------------------------------------------------- |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYUZnTDJRa1JDWmxCOEVOYmhhUWxkelNOOWkuanBn.jpg"> [乱翻书](https://www.xiaoyuzhoufm.com/podcast/61358d971c5d56efe5bcb5d2) 公众号采访直播 |
+| <img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) |
+| <img width="35" src="https://i.typlog.com/2bab/8359128160_628928.png"> 二分电台 https://binary.2bab.me/ 一半生活一半工作，二分电台是一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。[RSS  ](https://binary.2bab.me/episodes/feed.xml) |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82YWQ3LWF1ZGlvZnJlZWhpZ2hxcHMvNDUvRDQvQ01Db09TVUVncC1vQUFIeXZnQ3dMWG96LmpwZWc=.jpeg"> [出海进行时](https://www.xiaoyuzhoufm.com/podcast/60acde17875241dbd2068bf6) |
+| FunnyCoder [bilibili](https://space.bilibili.com/26995758/channel/collectiondetail?sid=224939) |
+| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/df59131c-f898-4433-989b-52ac7d659dd0/cover_small.jpg"> 新气集 https://thinkagepodcast.fireside.fm/ |
+| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/d46af9dd-16b7-4c48-80d1-366530653afa/cover_small.jpg"> Full of Mind 心理学与 X 的跨界，聚焦于感知、情绪和思维 [RSS](https://feeds.fireside.fm/fullofmind/rss) 这是一档主播与嘉宾1v1的茶话会。 |
+| <img src="https://fyfy.fm/images/logo.jpg" width="30"> 枫言枫语 http://fyfy.fm/ ，[RSS ](https://justinyan.me/feed/podcast) |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iYzA4LWF1ZGlvZnJlZWhpZ2hxcHMvQjMvQkQvQ01Db09TQUV5eF9nQUFNUkNRREtVM2s2LmpwZWc=.jpeg"> 【The Data Way】是由SphereEx 公司出品的播客节目 https://www.xiaoyuzhoufm.com/podcast/60f562d2b806d9be0ee81d26 |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/9fe5-audiofreehighqps/0B/C1/CMCoOSAEY7mHAAKc1gClnMVf.jpeg"> 卖鱼桥分桥 https://www.ximalaya.com/album/48848794 一档漫谈类播客，捕捉平凡生活中的闪光点，选题跨度大，不想被定义。 |
+| <img width="35" src="https://imagev2.xmcdn.com/storages/c288-audiofreehighqps/DE/08/GKwRIW4Fot_dAAExfgEIVwN7.jpeg"> 大小马聊科技 https://www.ximalaya.com/album/55951710 |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/e/e2d6df2f-27f8-4215-9a3d-1aa664fa374b/cover_small.jpg" width="30"> [二手时间](https://secondhandtime.fireside.fm/) 由几个常驻欧洲的技术领域工作者发起，是一档不设限的播客节目。 [RSS](https://feeds.fireside.fm/secondhandtime/rss) |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/1/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/cover_small.jpg"> [晚点聊 LateTalk](https://podcast.latepost.com/) 以多视角观察当代商业社会，和身处其中的个人 [RSS](https://feeds.fireside.fm/latetalk/rss) |
 | [新闻实验室](https://feed.xyzfm.space/xxkgbvrglujv) https://www.xiaoyuzhoufm.com/podcast/60bc9bc72e2eec1ef1ca23ac |
 | <img width="35" src="https://imagev2.xmcdn.com/group83/M02/B7/58/wKg5HV8fwFSBVHAOAAXrVVXpNPk415.png"> 三五环 ：跟三五环之间的朋友聊聊，他们在观察着什么、创造着什么，以及思考着什么。[RSS](https://www.ximalaya.com/album/25534957.xml) |
 | <img src="https://imagev2.xmcdn.com/group82/M0A/10/87/wKg5HF8_ad7TZkH-AAJLWxMuWD804.jpeg" width="30"> 打工谈：一个以工人为主角的播客节目。[RSS1](https://www.ximalaya.com/album/41064933.xml) , [RSS2](https://anchor.fm/s/31bf5294/podcast/rss) |
-| <img src="https://imagev2.xmcdn.com/group87/M0B/11/52/wKg5IV8_bpmDRBxPAACGvfXePe8096.png" width="30">  骇客白 https://hackerby.com/ 访谈创客，他们可能是独立开发者、创客、研发、产品设计，创业领域实战者，深入理解行业。 [RSS](https://www.ximalaya.com/album/24043533.xml)|
-| <img src="https://0011.one/assets/images/android-chrome-512x512.png" width="30"> 从零道一 https://0011.one/ 。[RSS](https://www.ximalaya.com/album/7070786.xml)|
-| <img src="https://imagev2.xmcdn.com/group84/M00/B9/45/wKg5Hl8fwQeD6JwwAADZFb7t11Q544.jpg" width="30"> 逆行人生 。[RSS](https://www.ximalaya.com/album/31839268.xml)|
+| <img src="https://imagev2.xmcdn.com/group87/M0B/11/52/wKg5IV8_bpmDRBxPAACGvfXePe8096.png" width="30">  骇客白 https://hackerby.com/ 访谈创客，他们可能是独立开发者、创客、研发、产品设计，创业领域实战者，深入理解行业。 [RSS](https://www.ximalaya.com/album/24043533.xml) |
+| <img src="https://0011.one/assets/images/android-chrome-512x512.png" width="30"> 从零道一 https://0011.one/ 。[RSS](https://www.ximalaya.com/album/7070786.xml) |
+| <img src="https://imagev2.xmcdn.com/group84/M00/B9/45/wKg5Hl8fwQeD6JwwAADZFb7t11Q544.jpg" width="30"> 逆行人生 。[RSS](https://www.ximalaya.com/album/31839268.xml) |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg" width="30"> Teahour https://teahour.fm/ 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。[RSS](https://feeds.fireside.fm//rss) |
 | <img src="https://imagev2.xmcdn.com/group83/M0A/B1/D1/wKg5I18e-gihkeV5AARt2Clj5_A053.png" width="30"> 闭门造车 https://gulugulufm.github.io/ , [RSS](https://anchor.fm/s/2d9522d4/podcast/rss) |
 | <img width="35" src="https://changcun.wang/podcast/podcast_cover.jpg"> 有潜在危险的小行星轨道 Orbits of Potentially Hazardous Asteroids  [RSS](https://changcun.wang/podcast/ayrtbh_podcast.xml) 一档关于听东西的播客节目 A podcast about listening to things, by ayrtbh. |
 | [Uses This / Interviews](https://usesthis.com/)  Uses This asks a random selection of people all about the tools and techniques they're using to get things done. [RSS](https://usesthis.com/feed.atom) |
 | <img width="35" src="https://kukfm.com/_next/image?url=https%3A%2F%2Fstatic.ouorz.com%2Fwp-content%2Fuploads%2F2020%2F12%2F2021010105320083.jpg"> Known Unknowns 已知未知播客 [RSS](https://kukfm.com/rss) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82YzA5LWF1ZGlvZnJlZWhpZ2hxcHMvNzQvNUYvR01Db09TY0ZwUEcxQUFHOFR3RUk0STJuLmpwZWc=.jpeg"> 空间 https://www.xiaoyuzhoufm.com/podcast/61cff529cb0f5d7d1b7ccba6 |
-| <img src="https://imagev2.xmcdn.com/group71/M01/0E/7B/wKgOz140CanQ5BBMAAM7a7Tt9wM011.png" width="30"> 开源之道Talking http://opensourceway.communinty/  |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/339e4495-325a-4cdf-864f-e1c095531ed5/cover_small.jpg" width="30"> 一派·Podcast 少数派SSPAI  , [RSS](https://sspai.typlog.io/episodes/feed.xml)|
+| <img src="https://imagev2.xmcdn.com/group71/M01/0E/7B/wKgOz140CanQ5BBMAAM7a7Tt9wM011.png" width="30"> 开源之道Talking http://opensourceway.communinty/ |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/339e4495-325a-4cdf-864f-e1c095531ed5/cover_small.jpg" width="30"> 一派·Podcast 少数派SSPAI  , [RSS](https://sspai.typlog.io/episodes/feed.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/e2ee-audiofreehighqps/28/44/CMCoOSADr80xAABTNAByBeVC.png" width="30"> 高下立判 https://www.ximalaya.com/keji/44797192/ |
 | <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2289524/2289524-1569802646186-cec499bfe6e4e.jpg" width="30"> 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  [RSS](https://avocadotoast.typlog.io/episodes/feed.xml) |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover_small.jpg" width="30"> 硅谷101 https://sv101.fireside.fm/  , [RSS](https://feeds.fireside.fm/sv101/rss)|
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover_small.jpg" width="30"> 硅谷101 https://sv101.fireside.fm/  , [RSS](https://feeds.fireside.fm/sv101/rss) |
 | <img src="https://imagev2.xmcdn.com/group37/M0B/68/49/wKgJoFqLMcSiI5zUAATegYiw4HY548.png" width="30"> 墨比移动风 http://mobiholicast.com/ ;  https://www.ximalaya.com/zhubo/9983538/ |
-| <img src="https://salesforceway.com/wp-content/uploads/2019/09/podcast-768x614.jpg" width="30"> Salesforce Podcast https://salesforceway.com/salesforce-podcast/ 代码时间 创作者的英文播客，其人现移居芬兰。    |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/fe634e9a-3f11-4181-b972-c3395b5a14ae/cover_small.jpg" width="30"> 耳鸣终端Terminal https://t.ermin.al/   , [RSS](https://feeds.fireside.fm/terminal/rss)|
-| <img src="https://i.typlog.com/hyperbola/8426633665_117544.jpg?x-oss-process=style/ss" width="30"> Hyperbola https://hyperbola.link/  |
-| <img src="https://static.cscript.site/podcast_green.png" width="30"> 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/  |
-| <img src="https://pan.icu/assets/banner.panicu.svg" width="30"> 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。|
+| <img src="https://salesforceway.com/wp-content/uploads/2019/09/podcast-768x614.jpg" width="30"> Salesforce Podcast https://salesforceway.com/salesforce-podcast/ 代码时间 创作者的英文播客，其人现移居芬兰。 |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/fe634e9a-3f11-4181-b972-c3395b5a14ae/cover_small.jpg" width="30"> 耳鸣终端Terminal https://t.ermin.al/   , [RSS](https://feeds.fireside.fm/terminal/rss) |
+| <img src="https://i.typlog.com/hyperbola/8426633665_117544.jpg?x-oss-process=style/ss" width="30"> Hyperbola https://hyperbola.link/ |
+| <img src="https://static.cscript.site/podcast_green.png" width="30"> 流动人口 Stray Population https://www.ximalaya.com/keji/35670052/ |
+| <img src="https://pan.icu/assets/banner.panicu.svg" width="30"> 内核恐慌 https://pan.icu/ 一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZuWnU4QmFKb09lNGZvODhaMVNQRHpmQV9hUDUuanBn.jpg"> MacTalk·夜航西飞 https://www.xiaoyuzhoufm.com/podcast/606fdca6b3b59ee30e7c0d13 |
 | <img src="https://imagev2.xmcdn.com/group47/M00/9E/AE/wKgKk1tNWtuyp3rgAAHfFSYGa24687.jpg" width="30"> 无时差研究所 https://www.ximalaya.com/shishang/13506198/ [RSS](https://www.ximalaya.com/album/13506198.xml) |
 | <img src="https://imagev2.xmcdn.com/group56/M00/DC/5A/wKgLgFyAHObRtGG8ABT3S9kKSPU99.jpeg" width="30"> 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ [RSS](https://www.ximalaya.com/album/19242373.xml) |
@@ -463,17 +470,17 @@
 | <img src="https://imagev2.xmcdn.com/group60/M01/4C/07/wKgLeVy8af_S4i3NAAF0EvG_L9M390.png" width="30"> WEB WIEW http://webview.tech/ 不囿于WEB,不止于WIEW。[RSS](https://webview.tech/feed/podcast/) |
 | <img src="https://imagev2.xmcdn.com/group76/M04/15/FB/wKgO1F5HdYzTTq6CAAO2MBIEZ8o540.png" width="30">   调试者说 [RSS ](https://www.ximalaya.com/album/33698778.xml) |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/b9f7-audiofreehighqps/43/13/CKwRIaIFREc8AAPLNgDuIbIC.jpeg"> 艾问人物iAsk Leaders [RSS](https://www.ximalaya.com/album/274118.xml) |
-| <img src="https://techfusionfm.com/images/logo@2x.png" width="30"> 科技聚变 https://techfusionfm.com/  |
+| <img src="https://techfusionfm.com/images/logo@2x.png" width="30"> 科技聚变 https://techfusionfm.com/ |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/a/a21f3944-160c-4ab5-933c-4d56dca264be/cover_small.jpg"> [二十三十](https://2030.fireside.fm/) 两个女孩，一个在伦敦，一个在洛杉矶，一个刚过30，一个走向30，她们的生活怎么样 [RSS](https://feeds.fireside.fm/2030/rss) |
 | <img width="35" src="https://imagev2.xmcdn.com/group85/M00/B2/25/wKg5JV82cS2ABXaWAAAmXbI6bQA755.png"> 派森路口Passionator 这是一档身处3个时区、4个国家的5位小伙伴发起的播客。我们有点迷茫，喜欢互怼，希望展现多元的价值观，探索世界的可能性。 [RSS](https://www.ximalaya.com/album/40861807.xml) 微信公众号：派森路口Passionator（passionator2020） |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/5833-audiofreehighqps/37/90/CMCoOR8Dz-XJAACSswB6Aweo.jpg"> 忽明忽暗WrinkleYourBrain [RSS](https://www.ximalaya.com/album/45526218.xml)是一档关注各类社会公共议题的谈话类播客节目，事实有真假，观点无对错。把我们的观点拿出来探讨，对身边和远方做更多的思考，那些忽明忽暗的想法都可以闪闪发光。 |
-| [随机游走](https://anchor.fm/s/473e5930/podcast/rss) |
+| [随机游走](https://anchor.fm/s/473e5930/podcast/rss)         |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xMzAzLWF1ZGlvZnJlZWhpZ2hxcHMvRUUvOUEvQ01Db09TQUV1R3NOQUFRR0lRRERMam5vLmpwZWc=.jpeg"> [活字电波](https://www.xiaoyuzhoufm.com/podcast/5eaa915f418a84a046f3c700) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxY3pXbTMwbnF2MW00QWlEM1l2bjNZd081cHI=@small"> 过刊 https://www.xiaoyuzhoufm.com/podcast/5eb42a94418a84a0460c4328 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMucGlwcGEuaW8vc2hvd3MvdW5kZWZpbmVkLzE2MjY2ODc5MjgxNzEtYTgzNmViZjc0YjkzNjBjMzhkMzlkMWQwNzQ0YzNkZjUuanBlZw==.jpeg"> 读库立体声 https://www.xiaoyuzhoufm.com/podcast/60f54b75d11a7622d645df4e |
-| 梁文道·八分 |
+| 梁文道·八分                                                  |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrYUFEbW1YaDZGWm9ydXVVMkVpOG5zbFVYck4uanBn.jpg"> 佟晨洁的“[正常生活](https://www.xiaoyuzhoufm.com/podcast/6177c78f198954178425773a)” |
-| 环形散步 |
+| 环形散步                                                     |
 | <img width="35" src="http://p1.music.126.net/5NO4BOYOrvC_eC01mDwsMg==/109951165770903574.jpg"> [空岛LandingOnAir](https://music.163.com/#/djradio?id=959407407)  是由阿那亚和深夜谈谈播客网络共同出品的一档独立播客。每期节目都会有探险家登陆「空岛」，为我们带来时光的礼物。我们强调智识和感受的分享，试图还原每一位空岛来客当下的片段感悟。 |
 | <img width="35" src="http://zdimg.lifeweek.com.cn/bg/20211230/1640866306410pxogv.jpg!magzineNPic"> Talk三联 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzIxMDYxMzgxLzIxMDYxMzgxLTE2NDIzNDM2MDQzNjMtMzE0Mzg4OTNhMDUxMy5qcGc=.jpg"> 世界的异乡人 https://www.xiaoyuzhoufm.com/podcast/61e433fdaa84ba898fc09443 |
@@ -717,6 +724,7 @@
 ||
 |:------|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/4f65-audiofreehighqps/54/F7/CMCoOR8EbAp8AAG1oQCoMXTk.jpeg"> 想聊天ThinkTalk : 三个现居悉尼的女生，一边反思一边冒险，一边困惑一边成长。因为经常手舞足蹈的聊天到停不下来，于是共同开启了这场探索多元价值观和生活更多可能性的播客之旅。如果在苟且的生活工作之余，你也和我们一样爱想东想西，聊天聊地，爱多元观点碰撞出的火花和击中共鸣的愉悦时刻，那么恭喜你来对地方了！[RSS](https://www.ximalaya.com/album/42323127.xml)|
+|[David](https://davidguan.me/)官文祥: [回忆悉尼工作生活这三年](https://zhuanlan.zhihu.com/p/259835463)|
 |SBS 中文 https://www.sbs.com.au/chinese/english/podcast/chinese-ish|
 
 ### 丹麦：
@@ -732,9 +740,15 @@
 |:------|
 |<img width="35" src="https://happycat.cc/assets/images/logo.png"> CC猫在德国 https://happycat.cc/ 分享德国生活和工作的那些事情。|
 |德国牛哥，一名居住在德国的湖南程序员。这是我的[博客](https://sichengingermay.com/)，是我记录工作和生活的地方。|
-|<img width="35" src="https://www.kenshinji.me/wp-content/uploads/2022/01/cropped-Screenshot-2022-01-09-at-22.35.17-e1641764404140.png"> 我是Fred， 是一名在德国柏林工作的软件工程师。这是我的个人[中文博客](https://www.kenshinji.me/)，我会在这里分享关于我的工作和生活方方面面。|
+|<img width="35" src="https://www.kenshinji.me/wp-content/uploads/2022/01/cropped-Screenshot-2022-01-09-at-22.35.17-e1641764404140.png"> 我是Fred， 是一名在德国柏林工作的软件工程师。这是我的个人[中文博客](https://www.kenshinji.me/)，我会在这里分享关于我的工作和生活方方面面。[twitter](https://twitter.com/kenshinji)|
+|[华山](https://blog.shan-web.com/about), [twitter](https://twitter.com/apiSchaan).|
 |[YU (@FreiheitYu)](https://twitter.com/FreiheitYu) 余晟|
 
+### 四川:
+
+||
+|:-------|
+|晓峰[twitter](https://twitter.com/meterscao) 成都|
 
 ### 爱尔兰：
 
@@ -768,9 +782,11 @@
 
 ||
 |:---|
+|[the Paris Review]()|
 |Yooupi食途 [bilibili ](https://space.bilibili.com/452412746) |
 |<img width="35" src="https://i2.hdslb.com/bfs/face/485b4d7d29143fb4a878096ce7b129ad817b6201.jpg"> 在法国生活的四姐 [bilibili](https://space.bilibili.com/1664846507/video) |
 |[不拘一格 nevermind]() 一档由三位留法无业游民在餐桌上发起的泛文化类谈话节目，话题涉及社会新闻、女性主义、文学艺术等领域。 |
+|小阳[twitter](https://twitter.com/young4ever_fr) |
 
 ### 芬兰：
 
@@ -783,8 +799,10 @@
 
 ||
 |:------|
-| <img width="35" src="https://i1.hdslb.com/bfs/face/2b8bc354d5311108ca35f2f7731f9408896b441f.jpg@240w_240h_1c_1s.webp">[阿乐杂货铺](https://space.bilibili.com/426914310) <img src="https://i.typlog.com/anobodyfm/8401205678_463793.png?x-oss-process=style/ss" width="30"> 小人物 A Nobody https://anobody.im/  。[RSS](https://anobody.im/podcast/rss.xml) |
+| <img width="35" src="https://i1.hdslb.com/bfs/face/2b8bc354d5311108ca35f2f7731f9408896b441f.jpg@240w_240h_1c_1s.webp">阿乐杂货铺[bilibili](https://space.bilibili.com/426914310) <img src="https://i.typlog.com/anobodyfm/8401205678_463793.png?x-oss-process=style/ss" width="30"> 小人物 A Nobody https://anobody.im/  。[RSS](https://anobody.im/podcast/rss.xml) |
 | [I write, therefore I am](http://www.iwriteiam.nl/)  With this variation on a famous statement by the philosopher Descartes, I would like to express that the act of writing about what happens in my life is important to me. |
+| [小刘](https://medium.com/@Altynai/) |
+| [企鹅](https://xlislab.github.io/), [bilibili](https://space.bilibili.com/618804630) |
 
 ### 河南：
 
@@ -811,6 +829,8 @@
 ||
 |:------|
 |<img width="35" src="https://i2.hdslb.com/bfs/face/7db4edb6d55f1e618cfa749b60f4c9446809ae93.jpg"> 东北峰叔 [bilibili](https://space.bilibili.com/441900167/video) 带你感受东北丹东宽甸这片土地的风土人情。|
+|[Kenshin Wang](https://kenshin.wang/) 大连|
+|[yihong0618](https://github.com/yihong0618/gitblog) 大连|
 
 ### 加拿大：
 
@@ -819,8 +839,8 @@
 | <img width="35" src="https://i2.hdslb.com/bfs/face/3e6d30de4fe86e1c7ecb512ca794816287b71732.jpg@240w_240h_1c_1s.webp"> 小高姐的魔法调料 [bilibili](https://space.bilibili.com/216156027) 客居他乡的你，是否和我一样怀念家乡的味道？ |
 | <img src="https://images.weserv.nl/?il&fit=contain&w=300&h=300&dpr=1&url=https://fdfs.xmcdn.com/group80/M08/98/B8/wKgPEV66HiOzPd7GAATl7I60wXE277.jpg" width="30"> [友藏](http://www.youzang.ca/) No Name 没友名字 [bilibili](https://space.bilibili.com/180171390/video) |
 | <img src="https://imagev2.xmcdn.com/group83/M09/D5/18/wKg5I17u7xbS9_gKAADmqLjzWQ4582.jpg" width="30"> 暮酒朝谈 https://www.ximalaya.com/shangye/36379615/ 。[RSS](https://www.ximalaya.com/album/36379615.xml) |
-| <img width="35" src="https://imagev2.xmcdn.com/group85/M01/33/E2/wKg5JV75NOjzW4epAADyNdNPqHU878.png"> 多伦多丧哔 [RSS ](https://www.ximalaya.com/album/29239712.xml) |
-| 普通读者 https://podcasts.apple.com/ca/podcast/%E6%99%AE%E9%80%9A%E8%AF%BB%E8%80%85/id1536240428 |
+| <img width="35" src="https://imagev2.xmcdn.com/group85/M01/33/E2/wKg5JV75NOjzW4epAADyNdNPqHU878.png"> 多伦多丧哔 [RSS  ](https://www.ximalaya.com/album/29239712.xml) |
+| [沉默之沙](https://yukieyun.net/) – 云五的自留地 |
 
 ### 美国：
 
@@ -835,11 +855,18 @@
 | <img src="https://i0.wp.com/a16z.com/wp-content/uploads/2020/09/bio-lp_img03-1.png?resize=344%2C343&ssl=1" width="30"> a16z Podcast https://a16z.com/podcasts |
 | <img src="https://imagev2.xmcdn.com/group62/M02/B8/A2/wKgMZ101F8GCEQT5AA8BwPU7OUE566.jpg" width="30"> 随口说美国 https://www.ximalaya.com/zhubo/3239336/ |
 | <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> [受之有道](http://www.am1300.com/category/%E7%AF%80%E7%9B%AE_%E4%BB%8B%E7%B4%B9/%E7%AF%80%E7%9B%AE%E9%87%8D%E6%BA%AB/%E5%8F%97%E4%B9%8B%E6%9C%89%E9%81%93/) ；[bilibili](https://space.bilibili.com/5679766) |
+| [纽约地铁研究](https://signalproblems.substack.com/) |
 | <img src="https://imagev2.xmcdn.com/group57/M02/67/FC/wKgLd1x6tjDxtJ9sAAMBlVac1Pk329.png" width="30"> 硅谷叨B叨 https://www.ximalaya.com/keji/21685160/   |
 | <img src="https://imagev2.xmcdn.com/group24/M09/61/A7/wKgJMFiX8i2Shc2yAAYZKZHAOq8943.jpg" width="30"> 学霸学渣闯美国 https://www.ximalaya.com/toutiao/3972154/ |
 | <img src="https://imagev2.xmcdn.com/group61/M09/0E/33/wKgMZl07hZHzLp--AAnszjrbIBk829.jpg" width="30"> 美丽坚果 https://www.ximalaya.com/renwen/25422983/ |
 | <img src="https://imagev2.xmcdn.com/group39/M09/BE/C0/wKgJnlppaC2judDQAAVyYIafsyI146.jpg" width="30"> 北美靠谱青年 https://www.studentuniverse.com/beikao 终结 |
 | <img width="35" src="https://podlink.imgix.net/8ae2b57d611b1bd92455e345101f1dcf/poster.jpeg"> A Small Gathering with Ying [RSS](https://pod.link/asmallgathering.rss) . [Ying Gathering](https://yinggathering.com/) – Heal your past, Find your purpose, Live consciously, Self actualize |
+| [猫和柴的野游](https://meowshiba.com/) - 记录猫和柴在外漂泊的野游经历 [子宫肌瘤诊疗流水账](https://www.meow.meowshiba.com/all-about-fibroids/) |
+| [四喜丸子](https://fourhappylions.com/) 家庭博客 |
+| <img width="35" src="https://images.squarespace-cdn.com/content/v1/5d24f88b8ff0730001a3dfb7/1624473659437-A6OM5I5AWL1UO7JHMMVW/8de2ddaada836c4a.jpg"> [After 27 ](https://www.after27.me/) |
+| [Cosmos](https://cosmo-polite.com/) – 自我探索 认真生活 分享想法 |
+| [森林中的布朗尼](https://pandapanderson.wordpress.com/) |
+| [椒盐鸵鸟](https://blog.douchi.space/) |
 
 ### 宁夏：
 
@@ -880,7 +907,7 @@
 | <img width="35" src="https://i1.hdslb.com/bfs/face/7b6df329aff7353a07f289e5a2e8b770581c04f3.jpg@240w_240h_1c_1s.webp"> guanyuhan426 [bilibili](https://space.bilibili.com/123484/video) |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/049a-audiofreehighqps/9B/67/CMCoOSIEFShlAAbf0ACOBR84.jpeg"> 牛奶吐司岛 https://www.ximalaya.com/album/47212939 |
 | [蒋继发](https://thaddeusjiang.com/) (ThaddeusJiang) 在日本开发 SaaS 产品，爱猫、爱读书、爱大海 |
-| [丁宇 \| DING Yu](https://dingyu.me/blog/) |
+| [丁宇 \| DING Yu](https://dingyu.me/blog/), [twitter](https://twitter.com/felixding). |
 | [非礼勿言](https://feiliwuyan.com/) |
 | 元吉的[博客](https://blog.gimo.me/) |
 
@@ -888,6 +915,7 @@
 
 ||
 |:---|
+|[Hongchao Liu](https://hongchao.me/living-and-working-in-sweden-as-engineers/)|
 | <img src="./images/北欧茶馆.jpg" width="30">  北欧茶馆 https://www.ximalaya.com/jiaoyupeixun/3066104/ |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/22bbb6de30e2e09a63314087f1dc0f55d8caa8c1.jpg"> 米粒的一家 [bilibili](https://space.bilibili.com/279292641/) |
 
@@ -927,6 +955,9 @@
 |<img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4e78dbd5-442d-4c37-9a9c-cb1ada3a3ac4/cover_small.jpg"> 星箭廣播 https://podcast.starrocket.io/ 關注「科技」和「創新故事」，一起探索科技和創新的邊界。[RSS](https://feeds.fireside.fm/starrocket/rss) |
 | <img width="30" src="https://weakself.dev/og_image.jpg"/> weak self https://weakself.dev/ 三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。[RSS](https://api.soundon.fm/v2/podcasts/233d04e2-60e9-4060-a687-6b7316187f48/feed.xml) |
 |[techtalk@TW](http://www.techtalk.tw/)  討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Podcast |
+|[哲學好好玩/知識好好玩]() 是台湾鏡文學出品的鏡好聽平台做的一个小栏目 |
+|[衣櫥裡的讀者]() |
+|[南方家園小客廳]() |
 |[旅行熱炒店](https://ltsoj.com/)PODCAST X JEROME |
 |[城市豆沙包 Podcast](https://citydosa.medium.com/) Carlton |
 |[Brandy's List 不藍地清單](https://www.brandyslist.co/) |
@@ -973,6 +1004,7 @@
 |:------------------------------------------------|
 | <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/511262/round_logo-1400_dqjnwo.png" width="30"> BearTalk 狗熊有话说 https://www.beartalking.com/ Bear Liu <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/511262/smile2-square_y1sgka.png" width="30"> [RSS](https://feeds.fireside.fm/beartalk/rss) |
 | <img src="https://i1.hdslb.com/bfs/face/237381c79a9f4f4743c8986f1b5bd309e4fedad8.jpg@128w_128h_1o.webp" width="30"> 新西兰HaroldVlog [bilibili](https://space.bilibili.com/53579346) 生活记录 |
+| [萧宸宇 (iiiyu)](https://iiiyu.com/)，[twitter](https://twitter.com/iyunsn). |
 
 
 ### 新加坡：
@@ -981,7 +1013,10 @@
 |:---|
 | <img src="https://imagev2.xmcdn.com/group22/M08/85/86/wKgJLliiqo7RMTCRAAUcW-Sw0QY145.jpg" width="30"> 俊玮谈新 https://www.ximalaya.com/toutiao/5218657/ ; https://www.xiaoyuzhoufm.com/podcast/5e5cf5e6418a84a0464b9459 。[RSS](https://www.ximalaya.com/album/5218657.xml) |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/d75d06cd3d2e7bedb5d0b8ff0ba14c3b7022d036.jpg"> BelindaChen [bilibili](https://space.bilibili.com/10323935/video) 生活记录 |
-| Timothy 的[博客](https://xiaozhou.net/) |
+| 公众号：南瓜饼日常 |
+| <img width="35" src="https://www.kawabangga.com/wp-content/uploads/2014/01/20150715_222111-e1437049428823-768x1024-1-225x300.jpg"> [赖信涛](https://www.kawabangga.com/) |
+| <img width="35" src="https://pica.zhimg.com/v2-ec06d04a7dfad635cb5093a39e1c2ae3_xl.jpg"> [翁伟](https://www.zhihu.com/people/wuvist) |
+| [Timothy](https://xiaozhou.net/) |
 
 ### 以色列：
 
@@ -994,6 +1029,8 @@
 | |
 |:---------|
 | [小赖子](https://justyy.com/)的英国生活和资讯 [bilibili](https://space.bilibili.com/1826201500) |
+| [董先生](https://www.elephi.win/2020/03/14/%E8%8B%B1%E5%9B%BD%E5%8C%BB%E7%96%97%E6%8E%A0%E5%BD%B1/) , [twitter](https://twitter.com/elephi). |
+| [Kevin Lin](https://www.instagram.com/kevin.lyn/) |
 | <img src="https://imagev2.xmcdn.com/storages/6780-audiofreehighqps/86/A8/CMCoOSMDd346AADSBABjcu6X.jpg" width="30"> 什锦英国：一档在伦敦录制的关于英国热门话题的访谈节目， 话题包括 创业 、科技和生活。 [RSS](https://www.ximalaya.com/album/43434558.xml)  |
 | <img src="https://imagev2.xmcdn.com/storages/cf0c-audiofreehighqps/CC/72/CMCoOSMDZiO_AADm1wBfYKfl.jpg" width="30"> 胡思乱讲 MadTalk [RSS](https://www.ximalaya.com/album/43034419.xml)|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f243813e-4089-4595-a8fa-5f2f1fed7427/cover_small.jpg" width="30"> 不伦不类 [RSS](https://feeds.fireside.fm/mindthegapfm/rss) 收录了四个不务正业的年轻人游走伦敦的心得体会与对各类热点的不严谨讨论。 |
@@ -1006,12 +1043,31 @@
 |:------|
 |博客：[越南旅遊/吃喝/生活/工作，一起跟越南女神Lena來場越南大冒險！](https://lenainvietnam.com/)|
 
+### 柬埔寨
+
+||
+|:------|
+|[迷失柬埔寨（嘉宾：DáDá）](https://www.lizhi.fm/11179/2935682564883988486) 闲白儿电台512期.|
 
 
 
 ### 待分类：
 
 <img width="35" src="https://i.typlog.com/kenkajouto/8365770304_93725.png"> [喧哗上等](http://kenkajouto.com/)
+
+[时差In-Betweenness](https://shicha.buzzsprout.com/)  
+
+[The Documentary Podcast]() 
+
+[Backlisted]() 
+
+[Naive咖啡馆]()
+
+[naive理想国]() 
+
+[鼓腹而游]() 
+
+[WomenOverseas](https://womenoverseas.com)她乡电台 https://www.xiaoyuzhoufm.com/podcast/600743e16f0bdee04e4a9a34
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/a/a05075d5-4f3a-45ac-afff-580f795c5d77/cover_small.jpg"> 随机波动 https://www.stovol.club/
 
@@ -1020,6 +1076,10 @@
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9d1db624-b36b-4580-9a43-8c71a6033690/cover_small.jpg"> 二零年代 https://backtothefuture.fireside.fm/
 
 ##### <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cf1be9e6-e1c8-44ba-bf16-b9919be92b0a/cover_small.jpg"> 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
+
+[半影fm]() 
+
+例外状态 https://anchor.fm/lwzt
 
 [后互联网时代的乱弹](https://pie.wetime.com/) Tech, Human, Future    [RSS](https://pie.wetime.com/feed/podcast)
 
@@ -1041,19 +1101,27 @@
 
 <img width="35" src="https://imagev2.xmcdn.com/group8/M05/1E/EE/wKgDYFbkcsmjgWKaAAHlHHrdr34668.png"> 九度FM [RSS](https://www.ximalaya.com/album/2882120.xml) 矢量和周小尔，两个无聊青年制作的有料节目。
 
+[世界OnAir](https://anchor.fm/worldjournal/)
+
+ECOYOYO 绿游游 [RSS](https://ecoyoyo.typlog.io/feed.xml)
+
 跳岛FM
+
+低速公路 Local Stops [RSS](https://feeds.buzzsprout.com/1066264.rss) 
+
+硬盒攀岩HardBox [RSS](https://anchor.fm/s/38de1330/podcast/rss)
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/aa34-audiofreehighqps/BE/CD/CMCoOSEDuMvDABlZMgB0Jx8d.jpg"> 马探长与驰子 [RSS](https://www.ximalaya.com/album/41182015.xml) 这是一档由两个流行文化爱好者制作的播客节目，在节目中会大量分享都市传说、神秘事件、超流行文化、90后怀旧，以及眼前耳边的各种社会观察。
 
-三人成虎 https://anchor.fm/sanrenchenghu
+[三人成虎FM](https://anchor.fm/sanrenchenghu)
 
-杠上开花 https://podcasts.apple.com/us/podcast/%E6%9D%A0%E4%B8%8A%E5%BC%80%E8%8A%B1-a-bouquet-of-arguments/id1523066220
-
-ECOYOYO https://www.buzzsprout.com/1131311
-
-低速公路 https://localstops.buzzsprout.com/
+杠上开花 [RSS](https://anchor.fm/s/2aa384a8/podcast/rss) 
 
 <img width="35" src="http://p1.music.126.net/I8OVFT02P3IuNEaz0k1Q3w==/109951165540779606.jpg"> 大指寄居蟹 https://music.163.com/#/djradio?id=794388504 一个大指寄居蟹的生活，和世界各处朋友的聊天和玩笑。
+
+[时间醍醐](https://timewine.meowshiba.com/), 这是一档由一只柴、大桐和一只海豹主播的轻松的文化类节目。愿我们一起遨游在人类社会浩瀚的时间长河中，在无数个别样人生里，共同找寻一些醍醐灌顶的时刻。 [RSS](https://anchor.fm/s/1e6867d0/podcast/rss)
+
+普通读者 [RSS](https://anchor.fm/s/3bd8896c/podcast/rss)
 
 <img width="35" src="https://podcast.midofnowhere.link/assets/img/640x640.png"> 午时已到 | Closure https://podcast.midofnowhere.link/
 
@@ -1067,7 +1135,7 @@ ECOYOYO https://www.buzzsprout.com/1131311
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWQvNTM1MzAwMy81MzUzMDAzLTE1OTM4NDU2NTEzMjgtZjRiOGUwMWViZmQ1LmpwZw==.jpg"> 咸鱼罐头 [RSS](https://anchor.fm/s/20809f4c/podcast/rss)一个看书有回响的播客，带着闲余的心态做合格的读者，愿你开罐有益。
 
-噪音开始了
+[噪音开始了]()
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9d1db624-b36b-4580-9a43-8c71a6033690/cover_small.jpg"> [二零年代](https://backtothefuture.fireside.fm/ )  [RSS](https://feeds.fireside.fm/backtothefuture/rss) 
 
@@ -1233,7 +1301,9 @@ c+ talk show
 
 ##### <img width="35" src="https://imagev2.xmcdn.com/storages/c92d-audiofreehighqps/B7/49/CMCoOSMEIhpGAACZpwCRzl3q.jpeg"> 不止读书 [RSS](https://www.ximalaya.com/album/47548262.xml)
 
-##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9)
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9) 
+
+痴人之爱
 
 ##### 莽街RADIO
 
@@ -1590,7 +1660,7 @@ c+ talk show
 ##### 赵畅不误
 ##### 针尖·多味听觉馆
 ##### 职夜班
-##### <img src="https://i.typlog.com/zhiyi/8445528631_600725.png" width="30"> 执异 https://zhiyi.life/ Dare to be different.
+##### <img src="https://i.typlog.com/zhiyi/8445528631_600725.png" width="30"> 执异 https://zhiyi.life/ Dare to be different. [RSS](https://zhiyi.life/episodes/feed.xml)
 ##### 追科技撩艺术 https://www.doko.com/podcasts/index.php
 ##### <img src="https://imagev2.xmcdn.com/group27/M01/4A/F7/wKgJW1jOrLXRKX2JAAan4L6avAc516.jpg" width="30"> 准风月谈 https://www.ximalaya.com/zhubo/56669811/
 ##### <img src="https://www.thetype.com/wp-content/uploads/2015/11/TypeChat-Cover-800px.jpg" width="30"> 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
