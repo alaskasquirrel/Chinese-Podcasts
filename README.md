@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -323,10 +323,10 @@ RSSHUB.app
 
 ### 有知有行电台
 
-|https://www.ximalaya.com/zhubo/114078762/|
-|:---|
-| 知行小酒馆|
-|无人知晓 |
+| https://www.ximalaya.com/zhubo/114078762/                    |
+| :----------------------------------------------------------- |
+| 知行小酒馆                                                   |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZySnF1TFVDNXlaUjB0UXJTaFZCODU3TzhKOGcuanBn.jpg"> 无人知晓 [RSS](https://rsshub.app/xiaoyuzhou/podcast/611719d3cb0b82e1df0ad29e) |
 
 ### 有文化电台
 
@@ -713,7 +713,7 @@ RSSHUB.app
 ||
 |:---|
 |姜思达|
-|谐星聊天会|
+|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4ud2F2cHViLmNvbS9pbWFnZXMvcG9kY2FzdC1sb2dvL3hpZXhpbmdsaWFvdGlhbmh1aS5qcGc=.jpg"> 谐星聊天会 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e280fa7418a84a0461f912b)|
 |<img src="https://imagev2.xmcdn.com/storages/d208-audiofreehighqps/26/DD/CMCoOSQED90CAANJoQCMdQaR.jpeg" width="35"> 嘻谈录 [RSS](https://www.ximalaya.com/album/43044571.xml)|
 
 ### NVIDIA 英伟达中国：
@@ -722,6 +722,12 @@ RSSHUB.app
 |:------|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/3d27-audiofreehighqps/91/5B/GKwRIW4FnwuzAAOq1QEHVIdT.jpeg"> GTC21 播客特辑|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/18d6-audiofreehighqps/93/E6/CMCoOSYDwF9ZAADIVwB1_Dx_.jpeg"> NVIDIA 人工智能开讲|
+
+### 阿塞拜疆：
+
+||
+|:----|
+|两位老人的生活，搬运[bilibili](https://space.bilibili.com/160572044/video)，[youtube](https://www.youtube.com/watch?v=FR9OUr5bA0k&t )|
 
 ### 北京：
 
@@ -847,6 +853,7 @@ RSSHUB.app
 ||
 |:------|
 |<img width="35" src="https://i1.hdslb.com/bfs/face/7995687c8ea126734cbbeacd663733b3744bcfd8.jpg"> 河南张大磊 [bilibili](https://space.bilibili.com/433365424/video) 美食、三农视频|
+|阿勇的一天 [bilibili](https://space.bilibili.com/505331332/video) 周口市农村生活|
 
 ### 黑龙江：
 
@@ -1185,6 +1192,8 @@ ECOYOYO 绿游游 [RSS](https://ecoyoyo.typlog.io/feed.xml)
 
 跳岛FM
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy84ZmQxLWF1ZGlvZnJlZWhpZ2hxcHMvQzUvQ0YvQ01Db09TUUUxeG9EQUFMbUF3RFBJdlB6LmpwZWc=.jpeg"> 银杏树下 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60e4e64e531cf97e7cbb7587)
+
 Eng Cafe 程序员喝咖啡的时候都谈论些什么
 
 夫人狗子和我 [RSS](http://www.ximalaya.com/album/44906681.xml) 
@@ -1225,7 +1234,7 @@ Eng Cafe 程序员喝咖啡的时候都谈论些什么
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy81OTE4LWF1ZGlvZnJlZWhpZ2hxcHMvNzIvMkQvQ0t3UklNQUV0R21zQUFMQVlnREIxNHk5LmpwZWc=.jpeg@small"> 明日之路 https://www.xiaoyuzhoufm.com/podcast/6042f892dba13595cd7cd941 [RSS](https://www.ximalaya.com/album/47208927.xml) 
 
-[噪音开始了]()
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9tYWtpbmdub2lzZWNvdmVyLmpwZw==.jpg"> 噪音开始了[RSS](https://rsshub.app/xiaoyuzhou/podcast/6139c18876177ac02fdcd804) 
 
 墙裂坛
 
@@ -1423,6 +1432,8 @@ c+ talk show
 
 GIRLSUP
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZnZVhtTFFJY28xOGg5RG9PMDFhTnVIU1AtR20ucG5n.png"> Space Drops [RSS](https://rsshub.app/xiaoyuzhou/podcast/61642bf1c8c1d14e83366b4b)
+
 哈拉鹦鹉洲
 
 happy podcast https://happyxiao.com/
@@ -1537,6 +1548,8 @@ happy podcast https://happyxiao.com/
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png"> [贤者时间](https://www.xiaoyuzhoufm.com/podcast/5e285523418a84a04627767d)
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9lOTYzLWF1ZGlvZnJlZWhpZ2hxcHMvRDMvM0EvR0t3UklOc0YyVDdtQUFRdWVnRVZVVEhBLmpwZWc=.jpeg"> 早日退休 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62037c3b4675a08411f51d10)
+
 ##### 闷与狂radio
 
 ##### <img width="35" src="https://imagev2.xmcdn.com/storages/3be1-audiofreehighqps/29/E0/GKwRIJIFfOrvAAhuVQD9bStL.jpeg"> 即时经典 InstantClassic [RSS](https://www.ximalaya.com/album/55195925.xml)
@@ -1623,6 +1636,9 @@ happy podcast https://happyxiao.com/
 ##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
 ##### <img src="https://typlog.com/podlist/bytecoffe.684be901.jpg" width="30"> Byte.Coffee https://byte.coffee/ 用 Engineer 的视角窥探世界。
 ##### 别的女孩 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1WWljb0U2MFNNTEJjdGt2MFUwU3ZxZWE2S1YuanBn.jpg"> coffee漫画时间 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61400fba9109ca54909c1091)
+
 ##### <img src="http://diffengine.org/img/logo-360x360.png" width="30"> 差分机 http://diffengine.org/ 一档关于科技、社会与未来的泛文化传媒。
 ##### 采风 
 
@@ -1648,7 +1664,7 @@ happy podcast https://happyxiao.com/
 ##### 德漂茶馆
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/5/56d21e2a-6511-4b0a-8980-2498c68f18b8/cover_small.jpg" width="30"> 东三环房客 https://fsa.fireside.fm/
 ##### 低保真电台
-##### <img src="https://imagev2.xmcdn.com/group81/M03/1A/A5/wKgPEl6r5cWhdRG7AAHZ1LJjrVA555.jpg" width="30"> 发发大王 https://www.ximalaya.com/yule/12546834/
+##### <img src="https://imagev2.xmcdn.com/group81/M03/1A/A5/wKgPEl6r5cWhdRG7AAHZ1LJjrVA555.jpg" width="30"> 发发大王 https://www.ximalaya.com/yule/12546834/ [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e4ff44f418a84a0469687fa) 
 ##### <img src="https://cdnimg103.lizhi.fm/user/2020/06/12/2810334965960266793_160x160.png" width="30"> 翻转电台 https://www.xiaoyuzhoufm.com/podcast/5e4ff468418a84a046973375
 ##### 反派影评 http://fanpaiyingping.com/
 ##### 饭后见 
