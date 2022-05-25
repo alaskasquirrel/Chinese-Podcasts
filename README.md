@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -405,6 +405,7 @@ RSSHUB.app
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/3b8349c0-ce14-4e22-b760-c0d04a7a111a/cover_small.jpg" width="30"> 反潮流俱乐部 https://fanchaoliuclub.fireside.fm      , [RSS](https://feeds.fireside.fm/fanchaoliuclub/rss) |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/5/5518dbd2-171f-4b3b-af91-0698ee4d9d41/cover_small.jpg" width="30"> 泡腾VC https://popvc.fireside.fm/                     , [RSS](https://feeds.fireside.fm/popvc/rss) |
 | <img src="https://imagev2.xmcdn.com/storages/b390-audiofreehighqps/19/2B/CMCoOSUEOeNeAAEXjwCY5l4v.jpeg" width="30"> 组织进化论 [RSS](https://feeds.fireside.fm/zuzhijinhualun/rss) |
+| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/a/a21bcced-fe2e-4402-a8cd-435b54203fdc/cover_small.jpg"> 跳进兔子洞 [RSS](https://feeds.fireside.fm/therabbithole/rss) 跳进兔子洞，去看迅速出现的新事物正在将我们带向何方 |
 | <img src="https://imagev2.xmcdn.com/storages/3c7c-audiofreehighqps/CC/4C/CMCoOSEEE1gRAAR5MgCNZwzT.jpeg" width="30"> Pfizer Express |
 | <img src="https://imagev2.xmcdn.com/storages/da20-audiofreehighqps/DB/37/CMCoOSUEIRd5AAhUJwCRitav.jpeg" width="30"> 新增长学院 |
 
@@ -453,7 +454,6 @@ RSSHUB.app
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/df59131c-f898-4433-989b-52ac7d659dd0/cover_small.jpg"> 新气集 https://thinkagepodcast.fireside.fm/ |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/d46af9dd-16b7-4c48-80d1-366530653afa/cover_small.jpg"> Full of Mind 心理学与 X 的跨界，聚焦于感知、情绪和思维 [RSS](https://feeds.fireside.fm/fullofmind/rss) 这是一档主播与嘉宾1v1的茶话会。 |
 | <img src="https://fyfy.fm/images/logo.jpg" width="30"> 枫言枫语 http://fyfy.fm/ ，[RSS ](https://justinyan.me/feed/podcast) |
-| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iYzA4LWF1ZGlvZnJlZWhpZ2hxcHMvQjMvQkQvQ01Db09TQUV5eF9nQUFNUkNRREtVM2s2LmpwZWc=.jpeg"> 【The Data Way】是由SphereEx 公司出品的播客节目  [RSS](http://www.ximalaya.com/album/51321288.xml) |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/9fe5-audiofreehighqps/0B/C1/CMCoOSAEY7mHAAKc1gClnMVf.jpeg"> 卖鱼桥分桥 https://www.ximalaya.com/album/48848794 一档漫谈类播客，捕捉平凡生活中的闪光点，选题跨度大，不想被定义。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/c288-audiofreehighqps/DE/08/GKwRIW4Fot_dAAExfgEIVwN7.jpeg"> 大小马聊科技 https://www.ximalaya.com/album/55951710 |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/e/e2d6df2f-27f8-4215-9a3d-1aa664fa374b/cover_small.jpg" width="30"> [二手时间](https://secondhandtime.fireside.fm/) 由几个常驻欧洲的技术领域工作者发起，是一档不设限的播客节目。 [RSS](https://feeds.fireside.fm/secondhandtime/rss) |
@@ -472,7 +472,6 @@ RSSHUB.app
 | [Uses This / Interviews](https://usesthis.com/)  Uses This asks a random selection of people all about the tools and techniques they're using to get things done. [RSS](https://usesthis.com/feed.atom) |
 | <img width="35" src="https://kukfm.com/_next/image?url=https%3A%2F%2Fstatic.ouorz.com%2Fwp-content%2Fuploads%2F2020%2F12%2F2021010105320083.jpg"> Known Unknowns 已知未知播客 [RSS](https://kukfm.com/rss) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82YzA5LWF1ZGlvZnJlZWhpZ2hxcHMvNzQvNUYvR01Db09TY0ZwUEcxQUFHOFR3RUk0STJuLmpwZWc=.jpeg"> 空间  [RSS](http://www.ximalaya.com/album/55336429.xml) |
-| <img src="https://imagev2.xmcdn.com/group71/M01/0E/7B/wKgOz140CanQ5BBMAAM7a7Tt9wM011.png" width="30"> 开源之道Talking http://opensourceway.communinty/ |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/339e4495-325a-4cdf-864f-e1c095531ed5/cover_small.jpg" width="30"> 一派·Podcast 少数派SSPAI  , [RSS](https://sspai.typlog.io/episodes/feed.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/e2ee-audiofreehighqps/28/44/CMCoOSADr80xAABTNAByBeVC.png" width="30"> 高下立判 https://www.ximalaya.com/keji/44797192/ |
 | <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2289524/2289524-1569802646186-cec499bfe6e4e.jpg" width="30"> 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  [RSS ](https://avocadotoast.typlog.io/episodes/feed.xml) |
@@ -525,6 +524,10 @@ RSSHUB.app
 |<img width="35" src="https://imagev2.xmcdn.com/group79/M07/78/9E/wKgPEF64-KLwI4UkAAgJL_vpYHo513.png"> [ALC Beijing Podcast](https://www.ximalaya.com/album/37853515) 作为 Apache 本地社区的一份子， 致力于通过帮助开源爱好者更好的在 Apache 社区生根发芽。[RSS ](https://www.ximalaya.com/album/37853515.xml)|
 |Nebula Graph 星球 [RSS](http://www.ximalaya.com/album/54212026.xml)|
 |[The Craft of Open Source](https://flagsmith.com/podcast/)|
+|<img src="https://imagev2.xmcdn.com/group71/M01/0E/7B/wKgOz140CanQ5BBMAAM7a7Tt9wM011.png" width="35"> 开源之道Talking https://opensourceway.community/|
+|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iYzA4LWF1ZGlvZnJlZWhpZ2hxcHMvQjMvQkQvQ01Db09TQUV5eF9nQUFNUkNRREtVM2s2LmpwZWc=.jpeg"> 【The Data Way】是由SphereEx 公司出品的播客节目  [RSS](http://www.ximalaya.com/album/51321288.xml)|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/1d9c-audiofreehighqps/CB/3A/GKwRIW4Fa-aCAAEwgAD4oigD.jpg"> 极狐GitLab 大讲坛 https://www.ximalaya.com/album/54781524|
+|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtWm5iU2hwQ01NS0ZJWDVORFNLVjRxV1Q3b3UuanBn.jpg"> 计算机历史博物馆 https://www.xiaoyuzhoufm.com/podcast/61b5f50c039364117719dcaa|
 
 ### 科学：
 
@@ -846,7 +849,8 @@ RSSHUB.app
 | [I write, therefore I am](http://www.iwriteiam.nl/)  With this variation on a famous statement by the philosopher Descartes, I would like to express that the act of writing about what happens in my life is important to me. |
 | <img width="35" src="https://i0.wp.com/xiaoli.nl/wp-content/uploads/2022/03/cropped-breaking-bad-heisenberg_2.jpg"> [小李在荷兰](https://xiaoli.nl/), [zhihu](https://www.zhihu.com/people/gegewu515). |
 | [小刘](https://medium.com/@Altynai/) |
-| [企鹅](https://xlislab.github.io/), [bilibili](https://space.bilibili.com/618804630) |
+| [企鹅](https://xlislab.github.io/), [bilibili](https://space.bilibili.com/618804630) 全职搬砖的软件工程师，城市规划和设计爱好者。 |
+| 麦兜搞IT [bilibili](https://space.bilibili.com/364122352) |
 
 ### 河南：
 
@@ -1144,6 +1148,8 @@ RSSHUB.app
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9nZmV5LnBuZw==.png"> 鼓腹而游[RSS](https://rsshub.app/xiaoyuzhou/podcast/5f2162169504bbdb772facc3)   
 
+井底之挖 https://mianbao.fm/ 深挖新鲜无国界 [RSS](https://feeds.captivate.fm/jingdizhiwa/)
+
 噢！妈妈 | Oh! Mama [RSS](https://feeds.buzzsprout.com/1339282.rss) 
 
 [WomenOverseas](https://womenoverseas.com)她乡电台 https://www.xiaoyuzhoufm.com/podcast/600743e16f0bdee04e4a9a34， [RSS](https://feeds.buzzsprout.com/1620223.rss) .
@@ -1161,6 +1167,8 @@ RSSHUB.app
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzRTdOVFNxNFZnVXZ0LUQ1amxmZHdXc2JUMUMuanBn.jpg"> 变革阅读 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6268ff46559f219f641b613e) 
 
 闲聊二三 [RSS](http://www.ximalaya.com/album/50117430.xml) 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzXzRpaTU5ZnhfeHNscndyby1Eb1dBTjBrTkEuanBn.jpg"> 外部声音 https://www.xiaoyuzhoufm.com/podcast/6283b7bc3017dfebcf37d6ea
 
 [大排档](https://shows.acast.com/dapaidang) 
 
@@ -1237,6 +1245,8 @@ Eng Cafe 程序员喝咖啡的时候都谈论些什么
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9tYWtpbmdub2lzZWNvdmVyLmpwZw==.jpg"> 噪音开始了[RSS](https://rsshub.app/xiaoyuzhou/podcast/6139c18876177ac02fdcd804) 
 
 墙裂坛
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2x2ZGNaemVaRVVUZjFuclc5a190bW9yMjdxc1cuanBn.jpg"> 河里扑腾 PT in the river https://www.xiaoyuzhoufm.com/podcast/60c752b8c2ec9bd456ec6842
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxSzZKdVpCQkhqb0JkMEFISG5mcWI4R0d5Rk0uanBn.jpg"> 好的，领导。https://www.xiaoyuzhoufm.com/podcast/6218d566a975850a711c0005
 
@@ -1678,12 +1688,15 @@ happy podcast https://happyxiao.com/
 ##### 饭堂电台
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/29551bb1-cf47-4a70-9d95-b5e87049004d/cover_small.jpg" width="30"> 风土集 https://ftj.fireside.fm/ 感受别处的物产、风景、风俗的私体验播客。
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMjEvMDYvMjkvMjg4MTMxNjYyNTg4NjcwMjE1MS5qcGc=.jpg"> 三宅异声 https://www.xiaoyuzhoufm.com/podcast/60db1e18abbb931269026f06
+
 ##### 加州101
+
 ##### Go For it Entrepreneur( 創業者说)
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/ccd3b6a3-1034-4311-b54f-b4793faf9586/cover_small.jpg" width="30"> grilling park 桂林公园 https://grillingpark.fireside.fm/ 隐二、苍间和MOG发起的跨界创意实践互促社。
 ##### 观复嘟嘟
 ##### 观复锵锵
-##### <img src="https://static.storyfm.cn/media/2018/09/New_logo_transparent_1400.png" width="30"> 故事FM http://storyfm.cn/ 用你的声音，讲述你的故事。
+##### <img src="https://static.storyfm.cn/media/2018/09/New_logo_transparent_1400.png" width="30"> 故事FM http://storyfm.cn/ 用你的声音，讲述你的故事 https://www.xiaoyuzhoufm.com/podcast/5e280fad418a84a0461fb38b
 ##### <img src="http://p2.music.126.net/LvigTg5HHMdW4zd_aALIzg==/109951163097758242.jpg" width="30"> 跟宇宙结婚 https://music.163.com/#/djradio?id=2997017
 ##### <img src="https://imagev2.xmcdn.com/group72/M07/64/17/wKgO0F4mmhvw_14oABE2JI56BDI40.jpeg" width="30"> 芥末章鱼 https://www.ximalaya.com/yule/32656722/
 ##### <img src="http://p1.music.126.net/s-JrcwYKcIh42NwtBjUOcA==/109951163093909908.jpg" width="30"> KickerRadio http://www.kickerclub.com/ 
@@ -1697,8 +1710,14 @@ happy podcast https://happyxiao.com/
 ##### <img src="https://imagev2.xmcdn.com/group69/M02/2E/62/wKgMb13ZGp-zs2wIAADLGQ79Us460.jpeg" width="30"> 老talk消息 https://www.ximalaya.com/renwen/31225613/
 ##### <img src="https://cdnimg103.lizhi.fm/user/2015/06/23/6163237426585965314_160x160.jpg" width="30"> 老马侃美国 http://www.lizhi.fm/user/3475139
 ##### 老司机三人行 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoaElBLUxha0YwWlNaTGhob1JUektEeGZrNGYuanBn.jpg"> 瓜言仔语 https://www.xiaoyuzhoufm.com/podcast/6289c2895452f640b35b8fac
+
 ##### 聊个球播客
-##### 联客 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqSDJiNHpiY0J5R3ZZTVl3SUJOVG9icVpGeV8uanBn.jpg"> 一个儿子三个妈 https://www.xiaoyuzhoufm.com/podcast/6280e1f8a9d7aac45c27105b
+
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyL3BvZGNhc3RfaW1ndGh1bV82ODIzOTgyOTM5NDAwMTY5MjYyLmpwZw==.jpg"> 联客 https://www.xiaoyuzhoufm.com/podcast/5e2864fe418a84a046291add
 ##### 量子论的故事
 ##### <img src="http://p1.music.126.net/lWkvmiu6k11I7NY3lSCqTQ==/3435973852096793.jpg" width="30"> 两个IT大叔 https://music.163.com/#/djradio?id=344976064 本节目由 glif 和 herock 两位大叔主持，聊一些 IT、生活、旅行、创业等方面的话题。
 ##### 亂gad  https://www.randgad.com/
