@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -1196,7 +1196,7 @@ RSSHUB.app
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy81YTNhLWF1ZGlvZnJlZWhpZ2hxcHMvM0YvRUIvQ0t3UklOc0UtQmh5QUFJOTN3RGE2LXVrLmpwZWc=.jpeg"> 悄悄发生 https://www.xiaoyuzhoufm.com/podcast/60a127ba566368dd6f181f8b ， [RSS](http://www.ximalaya.com/album/4957554.xml) .
 
-<img width="35" src="https://imagev2.xmcdn.com/group8/M05/1E/EE/wKgDYFbkcsmjgWKaAAHlHHrdr34668.png"> 九度FM [RSS](https://www.ximalaya.com/album/2882120.xml) 矢量和周小尔，两个无聊青年制作的有料节目。
+<img width="35" src="https://imagev2.xmcdn.com/group8/M05/1E/EE/wKgDYFbkcsmjgWKaAAHlHHrdr34668.png"> 九度FM [RSS](https://www.ximalaya.com/album/2882120.xml) 矢量和周小尔，两个无聊青年制作的有料节目
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2x0VUZ1eXkzUDMxR2wwTmdsbENybjJIdVZpVHcucG5n.png"> 码头巴士 https://www.xiaoyuzhoufm.com/podcast/61d9037962f465ea4ea7e4d8
 
@@ -1205,6 +1205,8 @@ RSSHUB.app
 ECOYOYO 绿游游 [RSS](https://ecoyoyo.typlog.io/feed.xml)
 
 跳岛FM
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy85NTU0LWF1ZGlvZnJlZWhpZ2hxcHMvN0IvNTYvQ01Db09TSUZGMnRlQUFSendRRGpRX054LmpwZWc=.jpeg"> 盐和面包 https://www.xiaoyuzhoufm.com/podcast/6141ac65df3ee5e33c300c51 一档文化播客，会聊聊槲寄生里其他人装作看不见的蝻钩
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy84ZmQxLWF1ZGlvZnJlZWhpZ2hxcHMvQzUvQ0YvQ01Db09TUUUxeG9EQUFMbUF3RFBJdlB6LmpwZWc=.jpeg"> 银杏树下 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60e4e64e531cf97e7cbb7587)
 
@@ -1356,9 +1358,13 @@ c+ talk show
 
 有朝一日
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvblNVc3lpY05IVEhwSnNGc214Rk16WHl6V0IuanBn.jpg"> 移动避难所 https://www.xiaoyuzhoufm.com/podcast/618f9475f004e4325cc078dc
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzI1NDk4OTcvMjU0OTg5Ny0xNjMzOTY4NTAxMzE5LTVjNzUyY2VlM2ZmYTYuanBn.jpg"> 读报teleread https://www.xiaoyuzhoufm.com/podcast/611a8f0a1a18cc41b56c41a9
 
 金汤力
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2em5XSlgwNzh0WlJ2UEszYmtYV0dfMnFLQzMuanBn.jpg"> 振振有辞 by 得闲电台 https://www.xiaoyuzhoufm.com/podcast/62969bd95cf4a5ad60ca100b
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/0e09-audiofreehighqps/D4/28/GKwRIaIFpNduAANPagEI2N1u.jpeg"> 九木侃 https://www.ximalaya.com/album/55983620
 
@@ -1470,6 +1476,8 @@ happy podcast https://happyxiao.com/
 
 痴人之爱
 
+页边笔记 [RSS](https://www.ximalaya.com/album/50278948.xml) 始于一次人文通识教育的尝试，讨论一些也许不紧迫但重要的事情
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2cmY2c2ZIbXlkX3d3UTRFbThSdkJDLXczcjIuanBn.jpg"> 布兰德游记 https://www.xiaoyuzhoufm.com/podcast/61945f4afbed7a003be69fad
 
 子时周说
@@ -1569,6 +1577,8 @@ happy podcast https://happyxiao.com/
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9lOTYzLWF1ZGlvZnJlZWhpZ2hxcHMvRDMvM0EvR0t3UklOc0YyVDdtQUFRdWVnRVZVVEhBLmpwZWc=.jpeg"> 早日退休 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62037c3b4675a08411f51d10)
 
 ##### 闷与狂radio
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyZW9zN1hSNTVyLXQwVHNCVW5YeEVWOVdjX2guanBn.jpg"> 就要做梦 https://www.xiaoyuzhoufm.com/podcast/60c7a4407fbe65d3272380af
 
 ##### <img width="35" src="https://imagev2.xmcdn.com/storages/3be1-audiofreehighqps/29/E0/GKwRIJIFfOrvAAhuVQD9bStL.jpeg"> 即时经典 InstantClassic [RSS](https://www.ximalaya.com/album/55195925.xml)
 
