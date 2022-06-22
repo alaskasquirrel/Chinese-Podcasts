@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供娱乐使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -447,6 +447,7 @@ RSSHUB.app
 
 | [反波 Antiwave](https://antiwave.xyz/) 活跃在2005年到2009年之间的中文播客 |
 | :----------------------------------------------------------- |
+| **Checked** 由 [JailbreakHum](https://sspai.com/u/nfwvx7dn/updates)、[文刀漢三](http://weibo.com/wendaohansan)和[清越千千](http://weibo.com/gabriellanjrc)共同主持的科技类播客节目. **终结**. |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYUZnTDJRa1JDWmxCOEVOYmhhUWxkelNOOWkuanBn.jpg"> 乱翻书  公众号采访直播 [RSS](https://feed.xyzfm.space/yxuruh3f9mc4) |
 | [后互联网时代的乱弹](https://pie.wetime.com/) Tech, Human, Future    [RSS](https://pie.wetime.com/feed/podcast) |
 | <img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) |
@@ -711,8 +712,9 @@ RSSHUB.app
 |[昭和歌谣：二战后的日本流行音乐](https://shop.vistopia.com.cn/detail?id=n_n_7) 李如一|
 |<img width="35" src="https://i.typlog.com/zhuchangsile/8362153573_509449.png?x-oss-process=style/ss"> [主唱死了](https://zhuchangsile.xyz/) 我们终于可以聊后摇了 [RSS](https://zhuchangsile.xyz/episodes/feed.xml)|
 |<img width="35" src="https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png"> [Techno Live Set](https://www.techno-livesets.com/)|
-|<img width="35" src="https://imagev2.xmcdn.com/storages/a819-audiofreehighqps/D4/63/CKwRINsFYQRlAAIKTQD1sjPe.jpeg"> 七音符 是由七幕人生出品的音乐播客。通过与音乐剧演员、剧场从业者的访谈推荐，用好音乐，开启你的音乐剧新生活。|
+|<img width="35" src="https://imagev2.xmcdn.com/storages/a819-audiofreehighqps/D4/63/CKwRINsFYQRlAAIKTQD1sjPe.jpeg"> 七音符 [RSS](http://www.ximalaya.com/album/54616536.xml)  是由七幕人生出品的音乐播客。通过与音乐剧演员、剧场从业者的访谈推荐，用好音乐，开启你的音乐剧新生活。|
 |Why for Jazz|
+|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvRDRObVRJUnJmd2I0RFAzcXdvM0t4alhKMVc=@small"> Music ONLY Podcast [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e7d68c1418a84a046b0d1ef)|
 
 ### 喜剧：
 
@@ -1703,7 +1705,6 @@ happy podcast https://happyxiao.com/
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jZTk5LWF1ZGlvZnJlZWhpZ2hxcHMvRTIvQjcvQ01Db09TTUVkcVMwQUFScjFBQ3I2WjdlLmpwZWc=.jpeg"> 问题不大 [RSS](https://www.ximalaya.com/album/49570973.xml)
 
 ##### CD没教的事 
-##### Checked http://checked.fm/ 一档由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客节目，我们在这里聊效率，聊 App，聊系统，聊生态，也聊苹果产品。我们试图让你通过你手中的智能设备，能够把复杂的事变简单，把简单的事变快速。找到适合为你所用的方法，打造专属于你的独一无二。拨开琐碎，对自己的需求一目了然；摆脱纷繁，对自己的生活举重若轻。
 ##### <img src="https://i.typlog.com/watchoutside/8403547613_103318.jpg?x-oss-process=style/ss" width="30"> 拆盒子 https://watch-out-side.com/ 两个广告人的Chitchat. 尝试拆除、把玩和重建人类世界的各种「盒子」，探索世界，觉察自我。 Watch Out while Watching Outside. [RSS](https://watch-out-side.com/feed/audio.xml) 
 ##### 程序人生之图穷匕见 http://podcast.tchen.me/
 ##### 重新开始 https://cxks.in/ 关注城市生活、也关注人际关系、更关注自我意识，探讨一个人在主流外还有哪些可能性，由一个独自生活在北京的性少数年轻人主持。
