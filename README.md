@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供娱乐使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -244,6 +244,7 @@ RSSHUB.app
 | <img src="https://imagev2.xmcdn.com/group61/M0B/B5/FF/wKgMZl2jmPDy2uc-AAOZv6Y8D-o750.jpg" width="30"> 杯弓舌瘾 https://www.ximalaya.com/shishang/30073430/ |
 | <img src="https://imagev2.xmcdn.com/group63/M0B/F6/B6/wKgMcl38pquy9wx-AALH6FJXcvU325.PNG!magick=webp" width="30"> 贝望录 https://www.ximalaya.com/shangye/31837644/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/73fc-audiofreehighqps/65/BF/GKwRIRwFfMxiAASAJgD9Zbox.jpeg"> 每个月总有那么几天 https://www.ximalaya.com/album/55205793 |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9qdXN0cG9kLXBpY3R1cmVzLmpwZw==.jpg"> 映画 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60b5165fb6b757afff66011d) |
 | 接线员 [RSS](https://justpodmedia.com/rss/biz-so-fun.xml)    |
 
 ### Marcast:
@@ -1030,6 +1031,7 @@ RSSHUB.app
 |<img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4e78dbd5-442d-4c37-9a9c-cb1ada3a3ac4/cover_small.jpg"> 星箭廣播 https://podcast.starrocket.io/ 關注「科技」和「創新故事」，一起探索科技和創新的邊界。[RSS](https://feeds.fireside.fm/starrocket/rss) |
 | <img width="30" src="https://weakself.dev/og_image.jpg"/> weak self https://weakself.dev/ 三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。[RSS](https://api.soundon.fm/v2/podcasts/233d04e2-60e9-4060-a687-6b7316187f48/feed.xml) |
 |[techtalk@TW](http://www.techtalk.tw/)  討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Pod cast |
+|法客電台 [RSS](https://open.firstory.me/rss/user/ckudnw7fn4tqg0870axzgirva) |
 |<img width="35" src="https://oneyear.tw/assets/images/image03.png">《[一年的告白 DOS SALIDAS](https://oneyear.tw/)》 |
 |《The Real Story[RSS](https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml)》By [報導者](https://cinephilia.net/author/twreporter/) |
 |<img width="35" src="https://storage.googleapis.com/mirrorvoice-stroage-production/p/76/21067/rw5u6j1bo49bwC1g.jpg"> [診間裡的女人](https://www.mirrorvoice.com.tw/podcasts/76)by [林靜儀](https://www.mirrorvoice.com.tw/voices/presenter/59) from [鏡好聽 Mirror Voice](https://www.mirrorvoice.com.tw/) |
@@ -1164,11 +1166,15 @@ RSSHUB.app
 
 一人有一个 [RSS](https://oneatatime.typlog.io/feed/audio.xml) .
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0UHdXTlo3VDlJeHhtdXNSamhWVzQzUFNrTzEuanBn.jpg"> 大金小怪 https://www.xiaoyuzhoufm.com/podcast/62b986cf2af904c4f0031612
+
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/a/a05075d5-4f3a-45ac-afff-580f795c5d77/cover_small.jpg"> 随机波动 https://www.stovol.club/ [RSS](https://feeds.fireside.fm/stovol/rss) 
 
 ##### 海马星球 https://seahorseplanet.net/
 
 OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群的访谈节目，围绕普通人的自我认同和出柜经历，给你带来多元的视角和声音。
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM213dzFnMXBmcTJwdC5jbG91ZGZyb250Lm5ldC9BdmF0YXIvY2p6cnluNjRxMzRpNjA3NTgwb3libGgxdS8xNjE2MDM2ODQ4NjMxLmpwZw==.jpg"> 解鎖地球 Unlock the Earth https://www.xiaoyuzhoufm.com/podcast/5e3d21ef418a84a04619dd3b
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9d1db624-b36b-4580-9a43-8c71a6033690/cover_small.jpg"> 二零年代 https://backtothefuture.fireside.fm/
 
@@ -1384,6 +1390,8 @@ c+ talk show
 
 ##### 宇宙牌电饭锅
 
+[不明白](https://www.bumingbai.net/) [RSS](https://feeds.buzzsprout.com/1982525.rss) 
+
 有朝一日 [RSS](https://yzyr.typlog.io/feed/audio.xml)
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvblNVc3lpY05IVEhwSnNGc214Rk16WHl6V0IuanBn.jpg"> 移动避难所 https://www.xiaoyuzhoufm.com/podcast/618f9475f004e4325cc078dc
@@ -1533,6 +1541,10 @@ happy podcast https://happyxiao.com/
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDgyL00wNy9EMi82OC93S2c1SEY4NkFoakFDTUFUQUN5WFcyYXdUUEU1NzIucG5n.png"> 人在人间 https://www.xiaoyuzhoufm.com/podcast/5e44e431418a84a046dc47fe
 
 ##### 小S播客
+
+苗师傅·天真与经验 [RSS](https://rsshub.app/xiaoyuzhou/podcast/625920d3665989ab8a6e0baa) 主播苗炜，人称“苗师傅”，作家，前《三联生活周刊》副主编，原《新知》杂志主编。 《天真与经验》是作家苗炜×三联中读独家合作的原创播客。
+
+**有要** [RSS](https://rsshub.app/xiaoyuzhou/podcast/622f45e3d9985ffdf1ac01c0) 一档关于生活、生活方式，以及我们日常面临的各种问题和解决方案的聊天节目，在这个节目中每一期都都会请到一些在不同生活领域中有独到见解的朋友。
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZneXJIbl9ONWI1V0hXbDdXcmxzeFZlN1BRc3kuanBn.jpg"> 平行·发声地 https://www.xiaoyuzhoufm.com/podcast/60d9690103c9bf1da959d826
 
@@ -1738,11 +1750,16 @@ happy podcast https://happyxiao.com/
 不谈艺术 https://www.xiaoyuzhoufm.com/podcast/6236e85f2fe19c8207e5d385
 
 ##### 饭堂电台
+
+金牙的一排一座 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626a8128ccdc4c02e57b4f4a) 和大家聊聊戏剧等沉浸式体验
+
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/29551bb1-cf47-4a70-9d95-b5e87049004d/cover_small.jpg" width="30"> 风土集 https://ftj.fireside.fm/ 感受别处的物产、风景、风俗的私体验播客。
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMjEvMDYvMjkvMjg4MTMxNjYyNTg4NjcwMjE1MS5qcGc=.jpg"> 三宅异声 https://www.xiaoyuzhoufm.com/podcast/60db1e18abbb931269026f06
 
 ##### 加州101
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0WUlaMXRjSS1lSTR6S3dLTkd6Mk8zX2FqQkQuanBn.jpg"> 比池还浅 On the surface [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c51c4cd233209e44d070f7) 一档对谈聊天类播客，由赵紫羽和谭翊晨作为固定成员，不时邀请我们的好友一起畅聊。
 
 自由人Libero https://www.xiaoyuzhoufm.com/podcast/609b915e204ebbbcd6168fde
 
