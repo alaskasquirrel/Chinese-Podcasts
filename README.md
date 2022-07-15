@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供娱乐使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -365,6 +365,7 @@ RSSHUB.app
 | <img src="https://imagev2.xmcdn.com/group70/M06/89/68/wKgOzl4I2hKQcGXMAAHEbMjVd9E696.jpg" width="30"> 说归说 https://www.ximalaya.com/toutiao/32030300/ |
 | <img src="https://imagev2.xmcdn.com/group70/M08/88/42/wKgO2F4Iw9XhjLCHAA_x4EpWPek226.jpg" width="30"> 日谈物语 https://www.ximalaya.com/yule/32028678/ |
 | 我在故宫聊八卦 https://www.ximalaya.com/album/45723178       |
+| 关雅荻的大航海日记 https://www.xiaoyuzhoufm.com/podcast/624078d53af586388859352e 一档环球大航海同步连载系列播客节目 |
 
 ### 体育：	
 
@@ -1158,6 +1159,8 @@ RSSHUB.app
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9nZmV5LnBuZw==.png"> 鼓腹而游[RSS](https://rsshub.app/xiaoyuzhou/podcast/5f2162169504bbdb772facc3)   
 
+战术撤退播客 [RSS](https://feed.xyzfm.space/ggktmjxfgtcm) 
+
 井底之挖 https://mianbao.fm/ 深挖新鲜无国界 [RSS](https://feeds.captivate.fm/jingdizhiwa/)
 
 噢！妈妈 | Oh! Mama [RSS](https://feeds.buzzsprout.com/1339282.rss) 
@@ -1250,11 +1253,15 @@ Eng Cafe 程序员喝咖啡的时候都谈论些什么
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9f384e1f-656c-4a79-bb27-fd5b884016b5/cover_small.jpg"> 下周辞职 [RSS](https://feeds.fireside.fm/xzcz/rss) 四位分布在国内外不同城市的网友，怀揣着同一个世界同一个下周辞职的梦想，谈论一些和工作无关的有意思的事情。
 
+仲有话说 [RSS](https://feed.xyzfm.space/wfxgdcq69wvq) 一档对谈类播客节目，探讨所有关于房地产、又不止于房地产的话题；邀请圈内圈外有趣、有识、有为之士分享洞察、观点、经验，聚焦当下的同时也不忘眺望远方。 本节目由全球领先的房地产专业服务机构仲量联行出品。 仲有话说，正在发声。
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy80ZDgzLWF1ZGlvZnJlZWhpZ2hxcHMvRDAvNTEvQ01Db09SNEVuZDQwQUFaaVlRQzV5bURnLmpwZWc=.jpeg"> 人间观察 HumanObservation https://www.xiaoyuzhoufm.com/podcast/60c81bae04ca7014276592d1
 
 [三人成虎FM](https://anchor.fm/sanrenchenghu)
 
 杠上开花 [RSS](https://anchor.fm/s/2aa384a8/podcast/rss) 
+
+瓜儿与少年 [RSS](https://papi.qingting.fm/podcast/channels/11580) 一档综艺对谈播客，把综艺背后那些你不知道的瓜通通扒出来。 我们邀请马栏山热爱或从事综艺录制工作的少年一起，追踪综艺的台前幕后，那些节目里看不到的，这里都能听到。 那些能说的，不能说的，我们尽力都说！
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1dEhZNm9MMk5MY0NLQU90VHE3VjZOOUF1eU4uanBn.jpg"> 人生之书·与你共读 https://www.xiaoyuzhoufm.com/podcast/625e6bf8493ea2f504a55bd9 [RSS](https://feed.xyzfm.space/dkp9mrvxkpyh) 
 
