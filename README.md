@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供娱乐使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -188,14 +188,16 @@ RSSHUB.app
 | Unchained https://unchainedpodcast.com/ Laura Shin |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg" width="30"> Fork It https://forkit.fm/ 第一个聊区块链技术的中文播客。 [RSS](https://feeds.fireside.fm/forkit/rss)  |
 | <img src="https://imagev2.xmcdn.com/group70/M08/8F/49/wKgO2F45TUDhDR6wAAmd1OHKvd032.jpeg" width="30"> 胖车库 Fat Garage \| Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 [RSS](https://www.ximalaya.com/album/29606210.xml) |
-| 区块链科普 |
+| 橙皮书 [RSS](https://www.ximalaya.com/album/48835864.xml) |
 | 區塊勢 https://blocktrend.substack.com/ |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwbVBNSzJWQWJnNFFRcFJBWDZZQkMtS0V4SHMuanBn.jpg"> CSS｜探索 Crypto 的精彩世界 [RSS](https://rsshub.app/xiaoyuzhou/podcast/618929e0633ec15a3b46145e) |
 | Meta Potatoes·元土豆 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2N000Nmc0TEIwamx5bDNQX3BjVlpXZU5yMC0ucG5n.png"> Web3 随意门 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61d7b31476fadc2c29e3b821) |
+| Web3 101 [RSS](https://feeds.fireside.fm/web3101/rss) 一档探索 Web3 世界的播客，在这个技术与商业上采用了全新配比的世界里，跟着Jane与阿伟展开一趟冒险之旅。 |
 | What the Meta 一个关于未来数字世界和生活方式的播客频道 |
 | Crypto Naive 加密幼儿园 |
 | 零知识洞穴 |
+| **文理两开花** https://www.xiaoyuzhoufm.com/podcast/61c3fafb6b3149acbfac1e29 |
 | <img width="35" src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6186760/6186760-1623944296992-8dbc7d4953063.jpg">Uncommon Core https://uncommoncore.co/podcast/ |
 | 51% |
 | Bankless Podcast https://banklesshq.com/ |
@@ -715,7 +717,7 @@ RSSHUB.app
 |<img width="35" src="https://i.typlog.com/zhuchangsile/8362153573_509449.png?x-oss-process=style/ss"> [主唱死了](https://zhuchangsile.xyz/) 我们终于可以聊后摇了 [RSS](https://zhuchangsile.xyz/episodes/feed.xml)|
 |<img width="35" src="https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png"> [Techno Live Set](https://www.techno-livesets.com/)|
 |<img width="35" src="https://imagev2.xmcdn.com/storages/a819-audiofreehighqps/D4/63/CKwRINsFYQRlAAIKTQD1sjPe.jpeg"> 七音符 [RSS](http://www.ximalaya.com/album/54616536.xml)  是由七幕人生出品的音乐播客。通过与音乐剧演员、剧场从业者的访谈推荐，用好音乐，开启你的音乐剧新生活。|
-|Why for Jazz|
+|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqM3hkZV84ajRCWnFYMUo5bktxRThMUUZhZDguanBn.jpg"> 歌歌歌歌 https://www.xiaoyuzhoufm.com/podcast/628754b66c7eec4d0113c664|
 |<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvRDRObVRJUnJmd2I0RFAzcXdvM0t4alhKMVc=@small"> Music ONLY Podcast [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e7d68c1418a84a046b0d1ef)|
 
 ### 喜剧：
@@ -1159,7 +1161,13 @@ RSSHUB.app
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9nZmV5LnBuZw==.png"> 鼓腹而游[RSS](https://rsshub.app/xiaoyuzhou/podcast/5f2162169504bbdb772facc3)   
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZudnZrNWdOald5aGQzc0JXZkQwb2FHWkRPQnUuanBn.jpg"> 开心实验室 https://www.xiaoyuzhoufm.com/podcast/62c804ee60b7e10199481a6a
+
 战术撤退播客 [RSS](https://feed.xyzfm.space/ggktmjxfgtcm) 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodExWUVpHZUdKMEs3YlJlelNnY2RaVVd3NFguanBn.jpg"> Back To… https://www.xiaoyuzhoufm.com/podcast/62a7f6949786b9df433181cf 一档由马池Much与劳里Laurie两位同人女主持的（亚）流行文化播客 节目主页：wxw.moe/@backtopod 
+
+涅槃蒂话 [RSS](https://pod.link/1605844106.rss)
 
 井底之挖 https://mianbao.fm/ 深挖新鲜无国界 [RSS](https://feeds.captivate.fm/jingdizhiwa/)
 
@@ -1232,6 +1240,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 ECOYOYO 绿游游 [RSS](https://ecoyoyo.typlog.io/feed.xml)
 
 跳岛FM
+
+**量贩冰糖** [RSS](https://feed.xyzfm.space/fl4upuwe99ww) 冷峻、硬核、有甜头。 @范冰XDash 的播客。（原星冰乐）
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy85NTU0LWF1ZGlvZnJlZWhpZ2hxcHMvN0IvNTYvQ01Db09TSUZGMnRlQUFSendRRGpRX054LmpwZWc=.jpeg"> 盐和面包 https://www.xiaoyuzhoufm.com/podcast/6141ac65df3ee5e33c300c51 一档文化播客，会聊聊槲寄生里其他人装作看不见的蝻钩
 
@@ -1425,6 +1435,8 @@ c+ talk show
 
 ##### 闲话青葱
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2YlFwcURCT19XZlBYbmFOTktYMFBvdXFwOWMuanBn.jpg"> 今日放题 https://www.xiaoyuzhoufm.com/podcast/62b5d63375cd1789f9a64bcb 昊蓝和润南，两个演员的日常闲谈。
+
 ##### 嘴上说说
 
 ###### 内外之间
@@ -1574,6 +1586,8 @@ happy podcast https://happyxiao.com/
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoY3R3RUN4Q21ORzBUQXNWc3FtV1UxVUxKNFMuanBn.jpg"> [成人礼](https://www.xiaoyuzhoufm.com/podcast/61aa69cb70ae6524e7d51f1f)
 
 ##### 闪光少女 
+
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzS0hSUEVrQmxGWmwwSTJkZHMzaUdhaDBYNHAuanBn.jpg"> 灶长开会啦 https://www.xiaoyuzhoufm.com/podcast/62b891d6f7c67771cef42854
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrQXN2bTRuREtMUkVYYjh2QWFSXzJoMlFWWE4ucG5n.png"> 迷你波特 https://www.xiaoyuzhoufm.com/podcast/61a7059990e462aca0ea135e
 
