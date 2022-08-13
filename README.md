@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容,仅供娱乐使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
 > 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
@@ -1373,6 +1373,8 @@ Eng Cafe 程序员喝咖啡的时候都谈论些什么
 
 越洋电话OnCal
 
+厨此以外 https://www.xiaoyuzhoufm.com/podcast/62c2a763ee51bbc306720305
+
 蜜獾吃书 [RSS](https://www.ximalaya.com/album/64689453.xml) 一档小型杂食性读书节目。两位主播，一位到处游荡，在非洲修过电站，在法国当过记者；另一位专业翻译科普作品和科幻小说。我们热衷于阅读闲杂书 籍，讨论各种奇奇怪怪的话题，观察他人的幻想与经历，思考它们于我们自身有何种启迪，并分享给你。
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMjIvMDEvMDUvMjkxNjU4Mzg4ODY5ODA3Njc0My5qcGc=.jpg"> 黑鲨诡话 https://www.xiaoyuzhoufm.com/podcast/61dc031a1f7c9738c060c949
@@ -1848,7 +1850,7 @@ happy podcast https://happyxiao.com/
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0WUlaMXRjSS1lSTR6S3dLTkd6Mk8zX2FqQkQuanBn.jpg"> 比池还浅 On the surface [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c51c4cd233209e44d070f7) 一档对谈聊天类播客，由赵紫羽和谭翊晨作为固定成员，不时邀请我们的好友一起畅聊。
 
-自由人Libero https://www.xiaoyuzhoufm.com/podcast/609b915e204ebbbcd6168fde
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMjIvMDUvMjYvMjk0MjcxNTgwOTc1Njg1MTI3MS5qcGc=.jpg"> 自由人Libero https://www.xiaoyuzhoufm.com/podcast/609b915e204ebbbcd6168fde
 
 ##### Go For it Entrepreneur( 創業者说)
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/ccd3b6a3-1034-4311-b54f-b4793faf9586/cover_small.jpg" width="30"> grilling park 桂林公园 https://grillingpark.fireside.fm/ 隐二、苍间和MOG发起的跨界创意实践互促社。
