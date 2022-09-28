@@ -1,10 +1,8 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
-> 1. 本项目所有内容,仅供娱乐使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.
-> 2. 本文档所有内容、新闻皆不代表本人态度、立场，如果有建议或方案,欢迎提交 issues.
-> 3. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
-> 3. 兼听则明，偏信则暗，慧眼所见.
-> 4. 严肃尊重播客的所有权归属ⓒ.
+> 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
+> 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
+> 3. 兼听则明, 偏信则暗, 慧眼所见. 严肃尊重播客的所有权归属ⓒ.
 
 
 
@@ -106,6 +104,7 @@
 ||
 |:-----|
 |锵锵三人行|
+|圆桌派 [RSS](https://iloveocean.top/yuanzhuopai.rss)|
 |知人道文 [bilibili](https://space.bilibili.com/478292113/video) 讲座|
 |文艺复兴与近代哲学 [bilibili](https://space.bilibili.com/4847428/video) 讲座|
 |[Charlie Rose](https://www.youtube.com/c/charlierose/videos)|
@@ -1282,6 +1281,8 @@
 
 OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群的访谈节目，围绕普通人的自我认同和出柜经历，给你带来多元的视角和声音。
 
+
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM213dzFnMXBmcTJwdC5jbG91ZGZyb250Lm5ldC9BdmF0YXIvY2p6cnluNjRxMzRpNjA3NTgwb3libGgxdS8xNjE2MDM2ODQ4NjMxLmpwZw==.jpg"> 解鎖地球 Unlock the Earth [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e3d21ef418a84a04619dd3b)
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9d1db624-b36b-4580-9a43-8c71a6033690/cover_small.jpg"> 二零年代 https://backtothefuture.fireside.fm/
@@ -1343,6 +1344,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 ECOYOYO 绿游游 [RSS](https://ecoyoyo.typlog.io/feed.xml)
 
 跳岛FM
+
+停电时间 Power outage [RSS](https://rsshub.app/xiaoyuzhou/podcast/62da710cfa15142e17251e63)
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b3a22fb0-1897-4a86-86b5-ff28bcd2e36c/cover_small.jpg"> 小杰瑞 [RSS](https://feeds.fireside.fm/xiaojerry/rss)
 
@@ -1865,6 +1868,8 @@ happy podcast https://happyxiao.com/
 ##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
 ##### <img src="https://typlog.com/podlist/bytecoffe.684be901.jpg" width="30"> Byte.Coffee https://byte.coffee/ 用 Engineer 的视角窥探世界。
 ##### 别的女孩 
+
+自我进化论 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e5de5cb418a84a0467beb90)
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1WWljb0U2MFNNTEJjdGt2MFUwU3ZxZWE2S1YuanBn.jpg"> coffee漫画时间 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61400fba9109ca54909c1091)
 
