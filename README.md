@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -391,7 +391,7 @@
 | The Draymond Green Show |
 | <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/ |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/5159-audiofreehighqps/08/86/CMCoOSAEVblDAADSagChP1HV.jpg"> 金相凯电台 https://www.ximalaya.com/toutiao/48838359/ 足球热点，赛事评论，战术解析，历史钩沉，场内故事，场外花絮。 |
-| <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/ 两位阿森纳球迷主播将通过对球场故事的回溯，带出对经济、文化、历史等方面的解读。 |
+| <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/ 两位阿森纳球迷主播将通过对球场故事的回溯，带出对经济、文化、历史等方面的解读。[RSS](https://rsshub.app/xiaoyuzhou/podcast/625e56e199e3b3f4bc570680) |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/f281-audiofreehighqps/75/31/GKwRIasFkJ8fAACIjQEDJ3vj.jpg"> 不懂球电台 [RSS](https://rsshub.app/ximalaya/album/55459743) |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/dd7e-audiofreehighqps/24/DA/CKwRIJIE_7iSAAFV6ADdN0XU.jpeg"> 有一期没一期  主持人:Ars4life。致力于邀请懂球的嘉宾聊一聊阿森纳，为枪迷提供路上睡前的陪伴。[RSS](https://rsshub.app/xiaoyuzhou/podcast/61dc28607093211045c0289e) |
 | 枪枪三人行 [RSS](http://www.ximalaya.com/album/49027018.xml) |
@@ -974,6 +974,12 @@
 | 博客：[椒盐鸵鸟](https://blog.douchi.space/) |
 | 博客：[雪糕](https://lyc.sh/) - 人對愛和永遠 應該有幻覺 |
 
+### 墨西哥：
+
+||
+|:----|
+|<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0NXJzUVdNa25YZExCV2xuUXJpRU51NnlEQ2IuanBn.jpg"> 墨西姐生活 [RSS ](https://rsshub.app/xiaoyuzhou/podcast/62bc421aee51bbc3067200df) 墨西哥南部Chiapas州的小镇San Cristóbal de las Casas|
+
 ### 宁夏：
 
 ||
@@ -1079,8 +1085,8 @@
 |法客電台 [RSS ](https://open.firstory.me/rss/user/ckudnw7fn4tqg0870axzgirva) |
 |星期天晚上 Before Monday [RSS](https://www.omnycontent.com/d/playlist/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/31365e91-0226-49ef-96a9-ac5b007b3787/a9df1f4d-154d-4b27-9b13-ac5b007b378b/podcast.rss) |
 |<img width="35" src="https://oneyear.tw/assets/images/image03.png">《[一年的告白 DOS SALIDAS](https://oneyear.tw/)》 |
-|《The Real Story[RSS](https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml)》By [報導者](https://cinephilia.net/author/twreporter/) |
-|<img width="35" src="https://storage.googleapis.com/mirrorvoice-stroage-production/p/76/21067/rw5u6j1bo49bwC1g.jpg"> [診間裡的女人](https://www.mirrorvoice.com.tw/podcasts/76)by [林靜儀](https://www.mirrorvoice.com.tw/voices/presenter/59) from [鏡好聽 Mirror Voice](https://www.mirrorvoice.com.tw/) |
+|《The Real Story [RSS](https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml)》By [報導者](https://cinephilia.net/author/twreporter/) |
+|[鏡好聽 Mirror Voice](https://www.mirrorvoice.com.tw/) |
 |[哲學好好玩/知識好好玩]() 是台湾鏡文學出品的鏡好聽平台做的一个小栏目 |
 |寧夏璐66號茶坊 [RSS](https://feeds.soundon.fm/podcasts/4c4472db-610c-4add-978a-e51d0d5b2cbc.xml) |
 |新住民二三事 [RSS](https://feeds.soundon.fm/podcasts/9976df6f-5593-46ff-8c70-bfb7557a8a80.xml) |
@@ -1205,7 +1211,11 @@
 
 ### 待分类：
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZuMV9iOF81WFYycVhIeU5OQUd4THM2R0wwdk4ucG5n.png"> 是个人物 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60e6bffed1be90bbd96e4b26) 人物杂志旗下播客栏目。从文字到声音，致力于提供最好的中文人物故事。
+
 蒂花Femiboxing [RSS](https://anchor.fm/s/64d6bbe0/podcast/rss) 
+
+鹅湖之会 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62234e4a27719a00806f1cab)
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwM0xRSnNfZGRnc1NoR1A5aW5KSHdKRmNhdFYuanBn.jpg"> 嘎里嘎气Gagaland [RSS](https://rsshub.app/xiaoyuzhou/podcast/62e2057ab6a34376ede80a76) 主播Erica。本节目将以我这名女性个体为支点，以我身边的女性为延伸，和广大女性听众一起，探索能让每位女性都生活得更好的经验和方法。
 
@@ -1344,6 +1354,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 ECOYOYO 绿游游 [RSS](https://ecoyoyo.typlog.io/feed.xml)
 
 跳岛FM
+
+又一本 [RSS](https://www.ximalaya.com/album/52018488.xml) 
 
 停电时间 Power outage [RSS](https://rsshub.app/xiaoyuzhou/podcast/62da710cfa15142e17251e63)
 
