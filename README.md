@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -27,12 +27,12 @@
 |[德国](#德国)|[外语](#外语)|[待分类](#待分类)|[Emacs](#Emacs)|[Freelancer](#Freelancer)|[Ruby](#Ruby)|[Rust](#Rust)|
 |[LISP](#LISP)|[音乐](#音乐)|[前端](#前端)|[杭州](#杭州)|[云南](#云南)|[澳门](#澳门)||
 
-##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy) 👍 
+##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy)
 
 |  |
 |:------------------------------------------------------------------------ |
-| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download) 安卓开源app 👍  [隐私政策 Privacy Policy](https://antennapod.org/privacy/) |
-| <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> [News](https://f-droid.org/packages/co.appreactor.news/) 👍 Feed reader and podcast player for Android安卓 |
+| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download) 安卓开源app [隐私政策 Privacy Policy](https://antennapod.org/privacy/) |
+| <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> [News](https://f-droid.org/packages/co.appreactor.news/) Feed reader and podcast player for Android安卓 |
 | 小宇宙 app https://www.xiaoyuzhoufm.com/ [隐私政策](https://post.xiaoyuzhoufm.com/podcast-privacy/) |
 | <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://getstream.io/winds/ |
 | <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/                                      |
@@ -51,17 +51,19 @@
 | <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/ [隐私政策](https://sss.qtfm.cn/qt-agreement/privacy-20190724.html) |
 | <img src="https://www.qishuier.com/img/index_logo.c27fc9e3.png" width="35"> 汽水儿 https://www.qishuier.com/ |
 | <img width="35" src="https://github.com/alaskasquirrel/Chinese-Podcasts/blob/master/images/podcast.png"> [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)  ( Microsoft Store ) |
-| <img width="35" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.kde.kasts.png"> [Kasts](https://flathub.org/apps/details/org.kde.kasts) 👍 Podcast application for mobile devices (Linux Flathub) |
+| <img width="35" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.kde.kasts.png"> [Kasts](https://flathub.org/apps/details/org.kde.kasts) Podcast application for mobile devices (Linux Flathub) |
 | <img src="https://www.breaker.audio/packs/breaker-logo-2b5ff175e58d8da25c76d037f7d8c6b2.svg" width="35"> Breaker https://www.breaker.audio |
 | <img width="35" src="https://github.com/alaskasquirrel/Chinese-Podcasts/blob/master/images/castflow.png"> [Castflow](https://apps.apple.com/app/id1572179241) iOS app(速度很快的泛用型客户端) |
 | <img width="35" src="http://irreader.fatecore.com/libs/favicon.png"> [irreader](http://irreader.fatecore.com/) 订阅网页、RSS和Podcast |
 
 ### 社群：
 
-[RSSHUB.app](https://docs.rsshub.app/) 👍 一个开源、简单易用的、易于扩展的RSS生成器。常用：
+[RSSHUB.app](https://docs.rsshub.app/) 一个开源、简单易用的、易于扩展的RSS生成器。常用：
 
 - 喜马拉雅 专辑 https://rsshub.app/ximalaya/album/ URL:id
 - 小宇宙FM播客 https://rsshub.app/xiaoyuzhou/podcast/ URL:id
+
+[Castopod](https://castopod.org/) by Ad Aures | Your Free & Open-source Podcast Host
 
 中文播客榜 https://xyzrank.com/ 榜单只是一种维度，愿你找到喜欢的节目
 
@@ -107,6 +109,7 @@
 |圆桌派 [RSS](https://iloveocean.top/yuanzhuopai.rss)|
 |知人道文 [bilibili](https://space.bilibili.com/478292113/video) 讲座|
 |文艺复兴与近代哲学 [bilibili](https://space.bilibili.com/4847428/video) 讲座|
+|Linvo说宇宙 [bilibili](https://space.bilibili.com/357515451/video)|
 |[Charlie Rose](https://www.youtube.com/c/charlierose/videos)|
 |[Studs Terkel Archive Podcast](). Studs Terkel (1912-2008)|
 |[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
@@ -221,6 +224,7 @@
 | CryptoKidZ |
 | BeWater Live |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2WE9GakhrX2dwem1XS1lYeWxmTm13WFdPX0o=@small">Traders' Talk [RSS1](https://rsshub.app/xiaoyuzhou/podcast/5e7eb85d418a84a0465eda82), [RSS2](https://www.ximalaya.com/album/34337110.xml) |
+| [Indigo Talk](https://www.indigox.me/),  [RSS](https://rsshub.app/xiaoyuzhou/podcast/632a11918d0635ce406f38b2) & 西岸偏北, [RSS](https://rsshub.app/xiaoyuzhou/podcast/5ff27000dee9c1e16dad4f6b) |
 
 ### ThoughtWorks:
 
@@ -473,7 +477,9 @@
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYUZnTDJRa1JDWmxCOEVOYmhhUWxkelNOOWkuanBn.jpg"> 乱翻书  公众号采访直播 [RSS](https://feed.xyzfm.space/yxuruh3f9mc4) |
 | [后互联网时代的乱弹](https://pie.wetime.com/) Tech, Human, Future    [RSS](https://pie.wetime.com/feed/podcast) |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/2497a8ee-4f3d-49db-8121-7a474a2784d7/cover_small.jpg"> TIANYU2FM— 对谈未知领域 [RSS](https://feeds.fireside.fm/tianyu2/rss) |
-| <img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) |
+| <img width="35" src="https://episodes.castos.com/62ff1b2eb727d5-63733036/images/Podcast-image.jpg"> [科技双眼啤](https://kjsyp.fm/) 由开发者 Cali 与设计师 Rather 共同主持的「科技双眼啤」，我们是一档对互联网软件硬件从开发与设计不同视角深入探讨的科技播客。 [RSS](https://kjsyp.fm/feed) |
+| <img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) 听她们聊聊互联网科技的社会意涵，职场中女性的困惑和感悟 [RSS](https://womenintechcn.squarespace.com/podcast-she-talks-tech?format=rss) |
+| [脆弱世界](https://vulnerableworld.typlog.io/) 通过邀请不同领域的学者和专家，较真儿地探讨如何让世界变得更好 [RSS](https://vulnerableworld.typlog.io/feed/audio.xml) |
 | <img width="35" src="https://i.typlog.com/2bab/8359128160_628928.png"> 二分电台 https://binary.2bab.me/ 一半生活一半工作，二分电台是一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。[RSS  ](https://binary.2bab.me/episodes/feed.xml) |
 | 不开玩笑 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61791d921989541784257779) Jokes Aside |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82YWQ3LWF1ZGlvZnJlZWhpZ2hxcHMvNDUvRDQvQ01Db09TVUVncC1vQUFIeXZnQ3dMWG96LmpwZWc=.jpeg"> [出海进行时](https://www.xiaoyuzhoufm.com/podcast/60acde17875241dbd2068bf6) [RSS](https://feed.xyzfm.space/cf4yqd4g79lv) |
@@ -584,6 +590,7 @@
 | <img src="https://r1.ykimg.com/0130391F45532792FCF27D156643683E9A7B34-F29C-D6F6-8483-4F2E6B077632" width="35"> 安城文化沙龙 http://www.aashalong.com/ |
 | <img src="./images/湾区文化沙龙.svg" width="30"> 湾区文化沙龙 http://bayersshalong.org/ |
 | 706线上沙龙 [RSS](https://s1.proxy.wavpub.com/706space.xml) |
+| 共益论沙龙 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61efb54e47a4a443d2144b58) |
 
 ### 影视综艺：
 
@@ -949,9 +956,11 @@
 
 |  |
 |:------|
+| 北方人在美国 [bilibili](https://space.bilibili.com/675591563/video) |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/ad6d335506d7a396c15cb88745978bc2a470503c.jpg"> 芳姐和王子 [bilibili](https://space.bilibili.com/688473924/video) |
 | <img src="https://i0.hdslb.com/bfs/face/1214f1362428a1b1806bec4e4a7e7ecd73753e78.jpg@128w_128h_1o.webp" width="30"> 不哼哼 [bilibili](https://space.bilibili.com/14198768) 抽雪茄，聊生活，侃美国，女儿奴。 |
 | <img src="https://i1.hdslb.com/bfs/face/2b6f55748c1bf1725bc366ca9867e7091e44f42d.jpg@128w_128h_1o.webp" width="30"> Emma的小频道 [bilibili](https://space.bilibili.com/36863529)  Emma是嫁到美国的一只土小妞，Bo是从小在美国长大的韩裔美国人，拍生活视频是为了让国内的家人朋友更好的了解我在美国的生活。 |
+| 小小佛爷 [bilibili](https://space.bilibili.com/1677621/video) 爱车、爱音乐、爱机核 |
 | <img src="https://i2.hdslb.com/bfs/face/6fde103bd2fb31b8a415b977f11ccb9cfd8f5ace.jpg@128w_128h_1o.webp" width="30"> 美国印象 [bilibili](https://space.bilibili.com/487210936) 静静地生活在美国东海岸，这里是我对美国的印象。 |
 | <img src="https://www.dogedoge.com/favicon/www.acquired.fm.ico" width="30"> Acquired https://www.acquired.fm/ |
 | <img src="https://exponent.fm/wp-content/uploads/2020/08/Exponent-2-nosponsor.jpg" width="30"> Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
@@ -1024,6 +1033,7 @@
 | [非礼勿言](https://feiliwuyan.com/) |
 | 元吉的[博客](https://blog.gimo.me/) |
 | 博客：[山月](https://sanguok.com/) 左海逐月，雙峰遺夢 |
+| [王一石](https://yishi.io/) - 无人之岸，几多惊喜 |
 
 ### 瑞典：
 
@@ -1281,6 +1291,8 @@
 
 1排01座 [RSS](https://rsshub.app/xiaoyuzhou/podcast/620b9a660ccf07ce5ab4a1d4) 
 
+一颗枣树编辑部 [RSS](https://rsshub.app/xiaoyuzhou/podcast/621d92916c98d6f1c8ba318a)
+
 去病三分糖 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c9a91f395e8fd774bab0e9) 
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0UHdXTlo3VDlJeHhtdXNSamhWVzQzUFNrTzEuanBn.jpg"> 大金小怪 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62b986cf2af904c4f0031612)
@@ -1481,7 +1493,7 @@ ShampooTalk 香波电台 [RSS](https://rsshub.app/xiaoyuzhou/podcast/624923fdd01
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg1L00wOS9BRi9FMC93S2c1SDE5TjlWV2lyeDlKQUFEc2lSWVRmTTQzMTUuanBn.jpg"> 乒乓台 https://www.xiaoyuzhoufm.com/podcast/5f7c8f2983c34e85dd5b17da
 
-##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrNnlVcXF0c3ZoNkh3Sjd3b3FzWWFWODVjWGkucG5n.png"> 美西螈与东方巨龙 https://www.xiaoyuzhoufm.com/podcast/5ed1c5b2418a84a0468528cb
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrNnlVcXF0c3ZoNkh3Sjd3b3FzWWFWODVjWGkucG5n.png"> 美西螈与东方巨龙 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5ed1c5b2418a84a0468528cb)
 
 ##### 深焦DeepFocus Radio
 
