@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -70,6 +70,8 @@
 <img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/) 中文播客领域的动态和最新消息 —— 由 声湃 创作的newsletter
 
 <img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/) 分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目
+
+[open-podcasts](https://github.com/opensource-f2f/open-podcasts): This is a cloud-native Open Podcasts 开源播客平台
 
 [awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts) 
 
@@ -210,7 +212,7 @@
 | Web3无名说 [RSS](https://rsshub.app/xiaoyuzhou/podcast/622d905cadf8ccf5e945231a)  由RSS3大使团队打造，探索Web3应用层的“不可知”世界。在对话Web3应用团队和从业者的过程中，我们将与RSS3及其合作伙伴们一起，寻找Web3的下一个Killer App。 |
 | Web3 101 [RSS](https://feeds.fireside.fm/web3101/rss) 一档探索 Web3 世界的播客，在这个技术与商业上采用了全新配比的世界里，跟着Jane与阿伟展开一趟冒险之旅。https://web3101.fireside.fm/ |
 | Web3 911 [RSS](https://www.ximalaya.com/album/69656098.xml) |
-| What the Meta 一个关于未来数字世界和生活方式的播客频道 |
+| What the Meta [RSS](https://rsshub.app/xiaoyuzhou/podcast/61a9d682194d743b7da6d5bd) 一个关于未来数字世界和生活方式的播客频道 |
 | Crypto Naive [RSS](https://rsshub.app/xiaoyuzhou/podcast/60ec57ce52ea083b82c30760) |
 | 零知识洞穴 |
 | 文理两开花 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61c3fafb6b3149acbfac1e29) |
@@ -799,6 +801,7 @@
 
 ||
 |:----|
+|小房间（粤语）[RSS](https://rsshub.app/xiaoyuzhou/podcast/6142d485d68c1e33b46c7ea6) 我们在广州的东山口，一个在商场里的 3㎡ 迷你录音现场， 向各路有趣人士发出邀请，来跟我们轻松聊聊天。 也欢迎各位客官，来现场听 LIVE 的版本。 本节目粤语为主，普通话为辅，总之嘉宾说啥舒服我们就说啥。 by DISC JOKER 迪士乔克|
 |<img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cde4517d-8ad4-4f2e-99f8-dab827b08c1a/cover_small.jpg"> [听潮HearTide](https://heartide.fireside.fm/) 一款纯潮汕话的播客 [RSS](https://feeds.fireside.fm/heartide/rss) |
 |广州夫妻讲东西 [RSS](http://www.ximalaya.com/album/50717997.xml) |
 |小久的旅行 [bilibili](https://space.bilibili.com/1681592022/video) 日结工 |
@@ -949,6 +952,7 @@
 
 ||
 |:---|
+|旧青年街垒 [RSS ](https://media.rss.com/oyb/feed.xml) 由三个来自苏南县城但不幸流落世界各地的旧青年创立的podcast，这三人分别是在瑞典斯德哥尔摩艰苦奋斗的Officer Li, 位于北美湾区的非典型程序员一横以及在苏南县城坚守阵地的民间艺术家烤肉。|
 |灯下漫谈 [RSS](http://www.ximalaya.com/album/56488590.xml)  南京大学悦读书社|
 |南京角落广播 [RSS](http://rss.lizhi.fm/rss/1441398.xml)|
 
@@ -1257,9 +1261,13 @@
 
 战术撤退播客 [RSS](https://feed.xyzfm.space/ggktmjxfgtcm) 
 
+规则抗体404 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6313711591bd2b1e17ac22ff)
+
 青腾树下 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626b650b3e8abf901a68d72d)
 
 超充派 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62f66629eb0492cf2f5086a7) 聊关于智能汽车科技的一切 
+
+对讲鸡 [RadioChicken](https://radiochicken.typlog.io/) 大耳的个人对谈类播客 [RSS](https://radiochicken.typlog.io/feed/audio.xml) 
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodExWUVpHZUdKMEs3YlJlelNnY2RaVVd3NFguanBn.jpg"> Back To… [RSS](https://rsshub.app/xiaoyuzhou/podcast/62a7f6949786b9df433181cf) 一档由马池Much与劳里Laurie两位同人女主持的（亚）流行文化播客 节目主页：wxw.moe/@backtopod 
 
@@ -1303,8 +1311,6 @@
 
 OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群的访谈节目，围绕普通人的自我认同和出柜经历，给你带来多元的视角和声音。
 
-
-
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM213dzFnMXBmcTJwdC5jbG91ZGZyb250Lm5ldC9BdmF0YXIvY2p6cnluNjRxMzRpNjA3NTgwb3libGgxdS8xNjE2MDM2ODQ4NjMxLmpwZw==.jpg"> 解鎖地球 Unlock the Earth [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e3d21ef418a84a04619dd3b)
 
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9d1db624-b36b-4580-9a43-8c71a6033690/cover_small.jpg"> 二零年代 https://backtothefuture.fireside.fm/
@@ -1333,6 +1339,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzXzRpaTU5ZnhfeHNscndyby1Eb1dBTjBrTkEuanBn.jpg"> 外部声音 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6283b7bc3017dfebcf37d6ea)
 
+中年少女坦白局 [RSS](http://www.ximalaya.com/album/49894767.xml) 
+
 [大排档](https://shows.acast.com/dapaidang) 
 
 [半影fm]() 
@@ -1342,6 +1350,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 例外状态 https://anchor.fm/lwzt
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqcW9MZXVCMERrQ05UbUJHeTRXc3otbkQ1VzYucG5n.png"> 许纪霖 [RSS](https://rsshub.app/xiaoyuzhou/podcast/623179bcd9985ffdf1ac033d)
+
+快乐矿工 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c6fef1c94a8b81178333eb) 
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMucGlwcGEuaW8vc2hvd3MvdW5kZWZpbmVkLzE1OTM2NzczMDAyNjItYTA1YmYxM2Y4YTFhNzNjNWYwYTc3NDNiZDkyMmM2OTQuanBlZw==.jpeg@"> What Do You Mean [RSS](https://rsshub.app/xiaoyuzhou/podcast/5efd97d76d76607427f765f3)
 
@@ -1358,6 +1368,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy81YTNhLWF1ZGlvZnJlZWhpZ2hxcHMvM0YvRUIvQ0t3UklOc0UtQmh5QUFJOTN3RGE2LXVrLmpwZWc=.jpeg"> 悄悄发生 [RSS](http://www.ximalaya.com/album/4957554.xml) .
 
 <img width="35" src="https://imagev2.xmcdn.com/group8/M05/1E/EE/wKgDYFbkcsmjgWKaAAHlHHrdr34668.png"> 九度FM [RSS](https://www.ximalaya.com/album/2882120.xml) 矢量和周小尔，两个无聊青年制作的有料节目
+
+皮蛋漫游记 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6281264ad22bcf3950c80b56)
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2x0VUZ1eXkzUDMxR2wwTmdsbENybjJIdVZpVHcucG5n.png"> 码头巴士 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61d9037962f465ea4ea7e4d8)
 
@@ -1518,6 +1530,10 @@ FView Friday  [RSS](https://www.ximalaya.com/album/41563226.xml)
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoMzZOUE5tYWRoRUUtUXZ2WEVyRzQ1N0J4REQuanBn.jpg"> 纯属叙构 https://www.xiaoyuzhoufm.com/podcast/61e92f7d3f4432159ba35f32
 
 ##### 返璞归真
+
+下楼散步 [RSS](https://feed.xyzfm.space/wxvp6yquudvy) 
+
+体制内｜小职员们的聊天局 [RSS](https://www.ximalaya.com/album/70278366.xml) 
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/3549-audiofreehighqps/D6/2F/GKwRIJEFtYutAAC9dwEMokGn.jpg"> 川湘辣妹  https://www.ximalaya.com/album/56289142
 
@@ -1757,9 +1773,13 @@ happy podcast https://happyxiao.com/
 
 ##### [不止一面](https://music.163.com/#/djradio?id=969391256) 名人畅聊式视频播客栏目
 
+九一遛猫 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5fe2a21bdee9c1e16dd49164)
+
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8wMzFiLWF1ZGlvZnJlZWhpZ2hxcHMvRTAvN0QvQ01Db09TQUVqVEFkQUFRclRnQzBIeFFDLmpwZWc=.jpeg"> 非物质草单 https://www.xiaoyuzhoufm.com/podcast/5ed13ef0418a84a046a19c8f
 
 ##### 饭不着 
+
+生活电台·听生活 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6114ec0012ce740b222ea944)
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1ZDJsN1YxeV9wTkpZV0FURDlkN01nNHNjTWIuanBn.jpg"> 星光游乐园 https://www.xiaoyuzhoufm.com/podcast/603cf60ee83d6415607aa344
 
