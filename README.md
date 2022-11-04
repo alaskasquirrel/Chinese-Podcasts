@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -58,7 +58,9 @@
 
 ### 社群：
 
-[RSSHUB.app](https://docs.rsshub.app/) 一个开源、简单易用的、易于扩展的RSS生成器。常用：
+[RSSHUB.app](https://docs.rsshub.app/) 一个开源、简单易用的、易于扩展的RSS生成器。可以配合浏览器扩展 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 和 移动端辅助 App [RSSBud](https://github.com/Cay-Zhang/RSSBud) (iOS) 与 [RSSAid](https://github.com/LeetaoGoooo/RSSAid) (Android) 食用。
+
+常用播客适配订阅：
 
 - 喜马拉雅 专辑 https://rsshub.app/ximalaya/album/ URL:id
 - 小宇宙FM播客 https://rsshub.app/xiaoyuzhou/podcast/ URL:id
@@ -169,6 +171,7 @@
 | [Interpreting India](https://carnegieindia.org/interpretingindia/) , [RSS](https://feeds.simplecast.com/PJlAlBwi)|
 | <img src="https://dongfanghour.files.wordpress.com/2020/05/dongfang-hour-logo-low-res.png?w=300" width="30"> Dongfang Hour 東方鴻 https://dongfanghour.com/ |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94f97fb6-b72c-4d98-a80a-1e141b67e50c/cover_small.jpg"> Universe Today podcasts with Fraser Cain [RSS](https://feeds.fireside.fm/universetoday/rss) |
+| 「东写西读」是一档外刊英语学习栏目，旨在与听友一起读外刊、学英语、看世界。[RSS](https://feed.xyzfm.space/3ayyv9pt9upk) |
 
 ### IPN:
 
@@ -558,6 +561,7 @@
 |<img width="35" src="https://imagev2.xmcdn.com/storages/957d-audiofreehighqps/0C/F0/CMCoOSIE6Y1NAABsuADWQ_ey.jpg"> 迪魔王 Devmore - More about Dev 随着开发者生态发展，围绕开发者产生了很多职业，我们想邀请各种种类的朋友们来唠唠嗑，他们到底在做什么？他们可爱吗？他们怎么想？他们开心吗？揭秘  Devmore 的日常。 [RSS](https://www.ximalaya.com/album/52069269.xml)|
 |<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnYyZXguY28vaGF5aTJRdUUucG5n.png"> [ByteTalk](https://bytetalk.fm/) 聊聊程序员的故事  [RSS](https://bytetalk.fm/index.xml)|
 |<img width="35" src="https://imagev2.xmcdn.com/group79/M07/78/9E/wKgPEF64-KLwI4UkAAgJL_vpYHo513.png"> [ALC Beijing Podcast](https://www.ximalaya.com/album/37853515) 作为 Apache 本地社区的一份子， 致力于通过帮助开源爱好者更好的在 Apache 社区生根发芽。[RSS ](https://www.ximalaya.com/album/37853515.xml)|
+|Kotlin 炉边漫谈 [RSS](https://www.ximalaya.com/album/68370676.xml) 一个谈论 Kotlin 相关信息的中文 Podcast，由上海 Kotlin User Group 主办人禹昂、 JetBrains 技术布道师圣佑和 Kotlin 开发者 Maggie 共同主持，介绍除了中文 Kotlin User Group 技术社区资讯外，还会邀请各地 Kotlin 大佬一起来聊聊 Kotlin 的应用场景。|
 |Nebula Graph 星球 [RSS](http://www.ximalaya.com/album/54212026.xml)|
 |[The Craft of Open Source](https://flagsmith.com/podcast/)|
 |<img src="https://imagev2.xmcdn.com/group71/M01/0E/7B/wKgOz140CanQ5BBMAAM7a7Tt9wM011.png" width="35"> 开源之道Talking https://opensourceway.community/|
@@ -1202,6 +1206,7 @@
 | 活在伦敦ThisIsLondon [RSS](http://rss.lizhi.fm/rss/29855.xml) |
 | 杂志：[《馋Chán》](https://chanmagazine.com/)始终是一本难以定义的出版物。常驻英国的华人群体，女性，酷儿。 |
 | 英国之旅 [RSS](http://www.ximalaya.com/album/4551393.xml) |
+| 「JM101」是一档由在伦敦流浪的海派杂家Jerry和一个在从0到1不断创业和自我救赎的Marcus主持的一档访谈类播客。独在异乡，每个漂泊在外的旅人都有着自己的精彩。这档播客邀请了101位在英国逗留的外乡人，听他们讲述属于自己的“中国人在英国”的故事，让我们一起构建异客。[RSS](https://rsshub.app/xiaoyuzhou/podcast/632b86fee67030aadb38e260) |
 
 ### 越南：
 
@@ -1271,6 +1276,8 @@
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodExWUVpHZUdKMEs3YlJlelNnY2RaVVd3NFguanBn.jpg"> Back To… [RSS](https://rsshub.app/xiaoyuzhou/podcast/62a7f6949786b9df433181cf) 一档由马池Much与劳里Laurie两位同人女主持的（亚）流行文化播客 节目主页：wxw.moe/@backtopod 
 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsdV8wbHU0TjdBaHR6d3M1Z2RKbzBTQTkxaE0uanBn.jpg"> 马上开摆 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61e0999093bf927a43733769) 
+
 啧劲FM [RSS](https://rsshub.app/xiaoyuzhou/podcast/62f9ef87d1e006d5b5b043bb)
 
 囫囵吞 [RSS](https://www.ximalaya.com/album/69105917.xml) 由小野，老欧，张姐，特一安四个臭味相投的帅哥美女子共同打造的漫聊类声音节目
@@ -1318,6 +1325,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 ##### <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cf1be9e6-e1c8-44ba-bf16-b9919be92b0a/cover_small.jpg"> 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
 
 认真闲聊 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e8173cc418a84a046a05ef6)
+
+不想上班研究所 [RSS](https://rshub.app/xiaoyuzhou/podcast/61e37c074a8b395e6997dde2)
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0amZBa1ZIbnRvR1J2RTdTWlBmOTkxeXNWdDguanBn.jpg"> 上班之外 [RSS](https://rsshub.app/xiaoyuzhou/podcast/613713ef4f4b14a852b456e0)
 
