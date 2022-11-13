@@ -1,8 +1,8 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
-> 3. 兼听则明, 偏信则暗, 慧眼所见. 严肃尊重播客的所有权归属ⓒ.
+> 3. 严肃尊重播客的所有权归属ⓒ.
 
 
 
@@ -166,7 +166,8 @@
 | [China in the World](https://carnegietsinghua.podomatic.com/) , [RSS](https://carnegietsinghua.podomatic.com/rss2.xml) |
 | China 21 https://china.ucsd.edu/opinion/podcasts.html |
 | <img src="https://www.armscontrolwonk.com/wp-content/themes/modern-wonk/images/podcast.jpg" width="30"> [Arms Control Wonk](https://www.armscontrolwonk.com/) , [RSS](https://armscontrolwonk.libsyn.com/rss)|
-| <img src="https://images.transistor.fm/file/transistor/images/logos/site/4453/medium_techeu.jpg" width="30"> [Tech eu](https://podcast.tech.eu/) , [RSS](https://feeds.transistor.fm/techeu)|
+| <img src="https://images.transistor.fm/file/transistor/images/logos/site/4453/medium_techeu.jpg" width="30"> [Tech eu](https://podcast.tech.eu/) , [RSS](https://feeds.transistor.fm/techeu) |
+| Dick Morris [RSS](https://feeds.megaphone.fm/WABC2513489334) |
 | <img src="https://file.caixin.com/en/web/img/logo.jpg" width="30"> Caixin SINICA https://www.caixinglobal.com/audio/ |
 | [Interpreting India](https://carnegieindia.org/interpretingindia/) , [RSS](https://feeds.simplecast.com/PJlAlBwi)|
 | <img src="https://dongfanghour.files.wordpress.com/2020/05/dongfang-hour-logo-low-res.png?w=300" width="30"> Dongfang Hour 東方鴻 https://dongfanghour.com/ |
@@ -296,7 +297,7 @@
 | <img src="https://pic1.zhimg.com/v2-c1ae13e299ebcf456e645dff5315322f_im.jpg" width="30"> UX Coffee设计咖 http://www.uxcoffee.com/ 聊聊设计和用户体验。[RSS](https://uxcoffee.typlog.io/episodes/feed.xml)|
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f2a2da18-9f87-403e-8f15-3777c99aa675/cover.jpg" width="30"> 所建所闻 https://architalk.fireside.fm/ 。[RSS](https://feeds.fireside.fm/architalk/rss) |
 | <img src="https://static1.squarespace.com/static/5766d9d02994ca3a4e713416/t/5894179815d5db8ef4ac1950/1522688979053/?format=1500w" width="30"> 异能电台 https://www.yineng.fm/ |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4bc59802-5764-488e-baaf-f2f3b64eb05e/cover_small.jpg" width="30">  设计药电 http://gdn.design/ 记录我们 进行中的，看到的，想到的设计项目与新闻。[RSS](https://feeds.fireside.fm/shejiyaodian/rss) |
+| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4bc59802-5764-488e-baaf-f2f3b64eb05e/cover_small.jpg" width="30">  设计药电：记录我们 进行中的，看到的，想到的设计项目与新闻。 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeU4zdGZjdVZrSHRIeUFYUFZIeS1qaHdZRXoucG5n.png"> 瞎说设计 [RSS](https://feeds.soundon.fm/podcasts/0aa385de-e5e8-4125-bcc4-64130c11d5a2.xml) |
 | <img width="35" src="https://designdetails.fm/static/img/dd-wide.png"> Design Details https://designdetails.fm/ |
 | 湾上说规划 [RSS](https://feeds.buzzsprout.com/1078676.rss) 三个坐标中国和美国城市规划师/前同事/同学/校友，因为旧金山湾区而结缘。我们的节目始于湾区，嘉宾辐射中美两地，与大家分享和探讨对比视角之下的“城事”生活。 |
@@ -609,6 +610,7 @@
 | <img width="35" src="https://imagev2.xmcdn.com/group74/M07/7B/7B/wKgO0l6hp-7z-pEqAACapEBiIYY887.jpg"> 聊天记录 GroupChat [RSS](https://rsshub.app/ximalaya/album/37203151) |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b0936542-48b9-4f95-b1e5-b296fade2f91/cover_small.jpg"> [生活在别处](https://life-is-elsewhere.com/)  一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。[RSS](https://feeds.fireside.fm/life-is-elsewhere/rss) |
 | 一顿胡说 [RSS](https://rsshub.app/xiaoyuzhou/podcast/625432faabceb019a95527b0) 是个供朋友们畅聊的自留地 主播中有影视社畜、摄影民工、非著名导演...... 没有甲方，没有所谓对错，只有深思熟虑后的一通胡说 |
+| 油尖旺午夜场 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62a999f686ec0a0b364b0d20) |
 
 
 ### 游戏：
@@ -806,6 +808,7 @@
 ||
 |:----|
 |小房间（粤语）[RSS](https://rsshub.app/xiaoyuzhou/podcast/6142d485d68c1e33b46c7ea6) 我们在广州的东山口，一个在商场里的 3㎡ 迷你录音现场， 向各路有趣人士发出邀请，来跟我们轻松聊聊天。 也欢迎各位客官，来现场听 LIVE 的版本。 本节目粤语为主，普通话为辅，总之嘉宾说啥舒服我们就说啥。 by DISC JOKER 迪士乔克|
+|ci人说梦 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6234628d03bea1ebfffa19d4)|
 |<img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/cde4517d-8ad4-4f2e-99f8-dab827b08c1a/cover_small.jpg"> [听潮HearTide](https://heartide.fireside.fm/) 一款纯潮汕话的播客 [RSS](https://feeds.fireside.fm/heartide/rss) |
 |广州夫妻讲东西 [RSS](http://www.ximalaya.com/album/50717997.xml) |
 |小久的旅行 [bilibili](https://space.bilibili.com/1681592022/video) 日结工 |
@@ -1075,7 +1078,7 @@
 
 | |
 |:-----------------------------------|
-| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vaGF5YW1pLWJsb2cvODM3NDQ1OTQwMl82MjQ0MTEuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 余生皆假期[RSS](https://hayami.typlog.io/feed/audio.xml),  [个人网站 hayami](https://hayami-blog.typlog.io/),  [bilibili](https://space.bilibili.com/7409120/video). |
+| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vaGF5YW1pLWJsb2cvODM3NDQ1OTQwMl82MjQ0MTEuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 余生皆假期[RSS](https://hayami.typlog.io/feed/audio.xml),  [个人网站 hayami](https://hayami.typlog.io/),  [bilibili](https://space.bilibili.com/7409120/video). |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy83YWM5LWF1ZGlvZnJlZWhpZ2hxcHMvNUYvOUEvQ01Db09TRURZSjBzQUFJdXNBQmVCTlFzLmpwZWc=.jpeg"> 一车烂话 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5f45a7d89504bbdb7713a2bf) 一档由三个身居魔都的好朋友主理的文艺类播客 |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/cover_small.jpg" width="30"> 一画一话 http://www.theviewtalk.com/ 都市文化有声杂志，编辑部在上海。 |
 | 口嗨上海 Ramble in the Hai [RSS](http://www.ximalaya.com/album/51418985.xml) |
@@ -1141,6 +1144,7 @@
 ||
 |:------|
 |衰仔日记 大烂牌里的小确幸 马家辉|
+|[香江望北](https://hongkong.zhubai.love/) newsletter|
 |oh fudge! \| Cynthia 獨居在香港的台灣女子，與她腦子裡的小宇宙。[RSS](https://api.soundon.fm/v2/podcasts/fa237e2c-0c2e-4b96-9dce-48edf7598c4d/feed.xml)|
 | <img width="30" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7bd1b08a-daee-463c-a306-3e8171fd25d9/cover_small.jpg"> 得閒飲茶 https://www.letsyumchashow.com/ 一個關於生活智慧、創新科技和本地文化的香港 Podcast|
 | <img width="35" src="https://i0.hdslb.com/bfs/face/356d236c9824433df3d018ddcadc9fcca8bc0984.jpg"> 是落拓呀 [bilibili](https://space.bilibili.com/43276908/video) |
@@ -1237,6 +1241,8 @@
 鹅湖之会 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62234e4a27719a00806f1cab)
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwM0xRSnNfZGRnc1NoR1A5aW5KSHdKRmNhdFYuanBn.jpg"> 嘎里嘎气Gagaland [RSS](https://rsshub.app/xiaoyuzhou/podcast/62e2057ab6a34376ede80a76) 主播Erica。本节目将以我这名女性个体为支点，以我身边的女性为延伸，和广大女性听众一起，探索能让每位女性都生活得更好的经验和方法。
+
+一只谈谈 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6338d375ae0d1b56c397b345) 
 
 一个人的书房 https://shufang.org/ , [RSS](https://rsshub.app/xiaoyuzhou/podcast/629c7bcbb32f552f54730c68)
 
@@ -1384,6 +1390,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 
 [世界OnAir](https://anchor.fm/worldjournal/)
 
+同路人 [RSS](https://rsshub.app/xiaoyuzhou/podcast/631f3ec241f2270479970ca0) 
+
 ECOYOYO 绿游游 [RSS](https://ecoyoyo.typlog.io/feed.xml)
 
 跳岛FM
@@ -1490,7 +1498,7 @@ ShampooTalk 香波电台 [RSS](https://rsshub.app/xiaoyuzhou/podcast/624923fdd01
 
 <img width="35" src="https://media.redcircle.com/images/2021/2/3/19/cf32d652-d585-4f50-ad29-4381ec891137_fb9187_82856aa5-4c8f-49db-80bc-e5097f9e94b4_2ba70cdf-9c84-4619-8516-4d6f30eaeaa5_7ebe9764-fe91-4a9d-bcf1-f1f24f735011_2d23464b-9839-48c6-87a2-ca4e647a7a3b_76e509aa-262b-4de4-847f-19ee6ccae777_blob.jpg"> 包谷 FM https://redcircle.com/shows/lemaisfm 这是一档月更的对谈播客，由目前正在努力转行的两个文科生主播。我们试图从日常生活和体验出发，挖掘值得探讨的话题。
 
-<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82ZGI2LWF1ZGlvZnJlZWhpZ2hxcHMvOEIvQzgvQ01Db09TVUVSZV9wQUFJVVhRQ2NoaXNaLmpwZWc=.jpeg"> 打个电话给你One Call Away https://www.xiaoyuzhoufm.com/podcast/5f0291b66d7660742752a5d8 [RSS](https://www.ximalaya.com/album/29294593.xml) 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82ZGI2LWF1ZGlvZnJlZWhpZ2hxcHMvOEIvQzgvQ01Db09TVUVSZV9wQUFJVVhRQ2NoaXNaLmpwZWc=.jpeg"> 打个电话给你One Call Away [RSS1](https://rsshub.app/xiaoyuzhou/podcast/5f0291b66d7660742752a5d8) [RSS2](https://www.ximalaya.com/album/29294593.xml) 
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy85NjY4LWF1ZGlvZnJlZWhpZ2hxcHMvREEvMDIvQ01Db09TWUZGb01HQUFNNzF3RGpIZElqLmpwZWc=.jpeg"> FC 红白传说 ｜任天堂游戏机回忆录 https://www.xiaoyuzhoufm.com/podcast/6140c9154bf26b652fe681dc [RSS](https://www.ximalaya.com/album/53004244.xml) 
 
@@ -1614,7 +1622,7 @@ c+ talk show
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZnOUVFczJwOHZlN2xoNW1aT1RZTG5tYnNLVkouanBn.jpg"> 窃窃斯语 https://www.xiaoyuzhoufm.com/podcast/61d9037962f465ea4ea7e4d8
 
-<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2OFZKUlZKSW5LNHo3WWNIdFRPdGZ2LWFnUlYucG5n.png"> 海上电台 SeaRadio https://www.xiaoyuzhoufm.com/podcast/61ed7d5d21c23a45ed5d6559
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2OFZKUlZKSW5LNHo3WWNIdFRPdGZ2LWFnUlYucG5n.png"> 海上电台 SeaRadio [RSS](https://rsshub.app/xiaoyuzhou/podcast/61ed7d5d21c23a45ed5d6559) 
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yZmM4LWF1ZGlvZnJlZWhpZ2hxcHMvRjcvNDMvR0t3UklhSUZpTWdHQUFWWndnRUF0SnBjLmpwZWc=.jpeg"> 元音不发音 | 泛文化娱乐播客 https://www.xiaoyuzhoufm.com/podcast/61c192bc898eaed59650751e
 
@@ -1655,6 +1663,12 @@ oh!my ga https://www.xiaoyuzhoufm.com/podcast/628da8120e84eb4622169307
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrcjhaN1RONFJsajJ1QnFZcThIR3FEMEFjdzIuanBn.jpg"> 马姐客厅 https://www.xiaoyuzhoufm.com/podcast/624a7b3694a69a04b0c2fe79
 
 ##### 两个广告人 | 前香港奥美广告人的对谈
+
+好女孩坏女孩 [RSS](https://rsshub.app/xiaoyuzhou/podcast/619e184af8f26b514cf6d526)
+
+啊！是猫咪呀！ [RSS](https://rsshub.app/xiaoyuzhou/podcast/602f6d64123aaf54c58705ce)
+
+法言法语 [RSS](https://feed.xyzfm.space/py8cnmabqube) 
 
 ##### 数字咖啡馆｜遇见世界各地营销人
 
@@ -1893,8 +1907,6 @@ happy podcast https://happyxiao.com/
 ##### 殊途同行 https://gpte.fireside.fm/
 
 ##### .NET FM http://www.dotnet.fm/
-
-##### 1dp不止聊设计 
 
 玄而未决 https://www.xiaoyuzhoufm.com/podcast/62d8ea30977d5e2e1bfc534a?s=eyJ1IjogIjVlN2M3ZDQ2YTJmMmU1MDNjZWMzYTMyNSJ9
 
