@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -680,7 +680,7 @@
 | <img width="35" src="https://www.ezindie.com/_nuxt/img/logo_orange.30eac5b.png"> 让小产品的变现更简单 https://www.ezindie.com/ |
 | <img src="https://imagev2.xmcdn.com/storages/8c95-audiofreehighqps/67/C4/CMCoOR8EF-iRAABTvQCO6Or2.jpg" width="30"> 数字游民指北：探索远程/自由职业/数字游民/环球旅者的在线职业规划和生活方式，正在文字/播客/视频采访「100种告别996的方法」。 [RSS](https://www.ximalaya.com/album/29658030.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/e1cb-audiofreehighqps/A0/68/CMCoOR4Dgtc7AACw-ABmNQ-Y.png" width="30"> IndieHackers https://www.indiehackers.net 独立开发者 [RSS](https://www.ximalaya.com/album/43692352.xml) |
-| 独立开发者·生产指南                                          |
+| 独立开发变现周刊 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63c21316e33a7c001034fbb5) |
 | <img src="https://imagev2.xmcdn.com/group84/M06/4D/D8/wKg5Hl9E2E2B17YmAAM8_Jxk0Bs046.png" width="30"> 遗世独立 https://www.ximalaya.com/keji/41175480/ 专注于访谈的播客节目。[RSS](https://www.ximalaya.com/album/41175480.xml) |
 | Uses This / Interviews https://usesthis.com/                 |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/19ba3983a3c1fef1fc8dff9f9033902e9ca02c79.jpg"> 松木巴士 [bilibili](https://space.bilibili.com/279411454/video) |
@@ -866,12 +866,15 @@
 
 ||
 |:-------|
+|一只不平凡的猪哼哼 [bilibili](https://www.bilibili.com/video/BV14G4y177oF/)|
 |晓峰[twitter](https://twitter.com/meterscao) 成都|
+|博客：[可可托海没有海](https://darmau.design/), [bilibili](https://space.bilibili.com/408764400/video).|
 
 ### 爱尔兰：
 
 ||
 |:----|
+|博客：[YoungForest](https://youngforest.github.io/)'s blog|
 | <img src="./images/程语.jpg" width="30">  程语|
 | <img src="./images/程言程语.jpg" width="30">   程言程语|
 
@@ -935,7 +938,9 @@
 |:----|
 |当户织-木兰的播客 [RSS](https://www.ximalaya.com/album/69138237.xml) 主播木兰，座标杭州，爱猫爱笑爱生活灵魂有趣，皮囊美丽， 20年HR管理培训咨询工作经验曾经的企业高管，现在的高管教练|
 |<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9a31278a-244a-47ff-8e2f-549eee88d255/cover_small.jpg"> 信嘴胡诌 [RSS](https://feeds.fireside.fm/xinzuihuzhou/rss) 挖掘和分享生活中新奇的体验，拒绝僵化的生活制式。主播分别是一只建筑狮和一只程序猿|
-|图拉鼎 https://imtx.me/ 博客|
+|博客：[图拉鼎](https://imtx.me/)|
+|博客：[周志强](https://strrl.dev/) STRRL / strrlthedev|
+|博客：怠惰のコエ - [imba久期](https://imba97.cn/)|
 
 ### 荷兰：
 
@@ -1055,6 +1060,9 @@
 | 博客：[配信中](https://www.yocson.com/) |
 | 博客：[一笼虾饺有四个](https://fourxiajiao.github.io/) |
 | 博客：[猫头鹰狂想曲](https://www.owlrhapsody.com/) |
+| 博客：[狡猫三窝](https://slykiten.com/) – “美”不是一种外部标准，它是一种内在情感。那是爱。 |
+| 博客：[Frank](https://nyan.im/)'s Weblog |
+| 博客：[一座島](https://island.shaform.com/zh/) |
 
 ### 墨西哥：
 
@@ -1148,7 +1156,7 @@
 
 ### 上海：
 
-| |
+| [太格有物](https://www.thetigerhood.com/)，新风格生活方式社群媒体 |
 |:-----------------------------------|
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vaGF5YW1pLWJsb2cvODM3NDQ1OTQwMl82MjQ0MTEuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 余生皆假期[RSS](https://hayami.typlog.io/feed/audio.xml),  [个人网站 hayami](https://hayami.typlog.io/),  [bilibili](https://space.bilibili.com/7409120/video). |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy83YWM5LWF1ZGlvZnJlZWhpZ2hxcHMvNUYvOUEvQ01Db09TRURZSjBzQUFJdXNBQmVCTlFzLmpwZWc=.jpeg"> 一车烂话 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5f45a7d89504bbdb7713a2bf) 一档由三个身居魔都的好朋友主理的文艺类播客 |
@@ -1163,6 +1171,8 @@
 | 博客：[薛船长在上海](https://captxue.blogspot.com/) |
 | 博客：[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough. |
 | 博客：[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。 |
+| 博客：[JiaYin's Life](https://imjiayin.com/) – I am not perfect but my life is. |
+| 博客：[韦阳](https://godweiyang.com/) |
 
 ### 深圳:
 
@@ -1172,6 +1182,7 @@
 |这一站是深圳 [RSS](http://www.ximalaya.com/album/50211426.xml) 湾区艺术探索|
 |Houhai Harbour Radio 深圳后海汇 [RSS](http://www.ximalaya.com/album/36167291.xml)|
 |博客：Blah Blah [Booooom](https://zhuzi.dev/)|
+|博客：[maxOS](https://maxoxo.me/) - 探索设计与价值的科学|
 
 ### 台湾：[TechTaiwan](https://techtaiwan.com/)
 
@@ -1288,7 +1299,9 @@
 | <img width="35" src="https://avatars.githubusercontent.com/u/506216"> 彭哲夫 [Kelvin Peng ](https://cmgs.me/), [润去新加坡](https://run2.sg/). |
 | <img width="35" src="https://www.kawabangga.com/wp-content/uploads/2014/01/20150715_222111-e1437049428823-768x1024-1-225x300.jpg"> [赖信涛](https://www.kawabangga.com/) |
 | <img width="35" src="https://pica.zhimg.com/v2-ec06d04a7dfad635cb5093a39e1c2ae3_xl.jpg"> [翁伟](https://www.zhihu.com/people/wuvist) |
-| [Timothy](https://xiaozhou.net/) |
+| 博客：[Timothy](https://xiaozhou.net/) |
+| 博客：[咸糖](https://vim0.com/) - 自律者自由 |
+| 博客：[phith0n](https://www.leavesongs.com/) - 离别歌 |
 
 ### 以色列：
 
