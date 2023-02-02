@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -424,7 +424,7 @@
 | <img src="https://imagev2.xmcdn.com/group5/M01/10/D7/wKgDtVN3qtewHR9gAACITCRvZqg727.jpg" width="30"> 看台FM https://www.ximalaya.com/toutiao/256195/    |
 | <img src="https://imagev2.xmcdn.com/group67/M06/28/F0/wKgMbV25lPGyUPIEAACXntrpo24476.jpg" width="30"> FreeKick-不止于足球场 [RSS](https://www.ximalaya.com/album/30569313.xml) |
 | <img width="45" src="https://xyimg1.qunliao.info/fastdfs6/M00/33/C1/rBUESWETIm-AR4plAAEraR0B4Bg820.jpg"> Fabrizio Romano：[Here we go](https://www.youtube.com/c/FabrizioRomanoYT/videos) |
-| <img width="35" src="https://cdn.theathletic.com/app/uploads/2019/10/04172812/Orntein-David-Headshot_.jpg"> [David Ornstein ](https://theathletic.com/author/david-ornstein/) |
+| The Athletic Football Podcast [RSS](https://feeds.megaphone.fm/TAMC1979001859) David Ornstein |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/0a8cb2ae0dcbb0b08e70806684120fd7a91f256d.jpg"> 隔壁红魔 [bilibili](https://space.bilibili.com/432174249/video) |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/a9f8c536fe40c1459ad78beb60eacde0fae1a068.jpg"> 巅峰球迷汇 [bilibili](https://space.bilibili.com/365372809) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZnbkdFS0NnSHZqSTRncXE0S1VEMEY5YWoxd0IuanBn.jpg"> 双镖客讲波 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61ed770eaf69d76eb4f755e9) |
@@ -1195,10 +1195,11 @@
 |星箭廣播 https://podcast.starrocket.io/ 關注「科技」和「創新故事」，一起探索科技和創新的邊界。[RSS](https://feeds.fireside.fm/starrocket/rss) |
 |頂樓加蓋/Overbuild [RSS](https://open.firstory.me/rss/user/ck1npa6vwf2930786sj5qsoec) 一種台灣產的最 U 質創新態度。 讓我們用最不無聊的方式來跟你聊科技、產品、職涯、創新，還有生活。 同學，這不是違建，只是在等都市更新的頂樓加蓋。 |
 | <img width="30" src="https://weakself.dev/og_image.jpg"/> weak self https://weakself.dev/ 三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。[RSS](https://api.soundon.fm/v2/podcasts/233d04e2-60e9-4060-a687-6b7316187f48/feed.xml) |
-|[techtalk@TW](http://www.techtalk.tw/)  討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Pod cast |
+|[techtalk@TW](http://www.techtalk.tw/)  討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Podcast |
 |Pofat 講 code [RSS](https://feeds.soundon.fm/podcasts/832a4f37-a4c4-410f-883e-e73113ee0527.xml) |
 |「矽谷為什麼」是一個連結台灣和矽谷生態的Podcast節目，每週會邀請不同的矽谷台灣人，來分享矽谷的產業趨勢和心得。[RSS]() |
 |南方聲活 [RSS](https://feeds.soundon.fm/podcasts/dce49dcf-aadf-43d6-8b24-4e7ed3e37da6.xml) 一個「生活雜談」類的網路聲頻節目（播客），從南方角度(台南，高雄，屏東)找尋在地故事，以及在這塊土壤上耕耘理想生活的職人，無論北漂回鄉，在地創生，新移民落地生根，異業繼承，南漂青年到各個不同專業領域上的朋友。 |
+|姐妹悄悄話｜SistersTalkTalkShow [RSS](https://anchor.fm/s/13f91920/podcast/rss) |
 |阿雞寫台語歌說故事::蔥仔蛋跟他慢慢聊 [RSS](https://feeds.soundon.fm/podcasts/83ce3d9c-11bc-487d-b1f9-036f01b6f44f.xml) 一起來聊聊臺南的在地音樂、食物、生活！ |
 |離島人 Humans Offshore [RSS](https://anchor.fm/s/2c5e854/podcast/rss)  訪談過去離開島嶼或者還在海外的離島人，分享海外的生活、學校、職場經歷，回憶離島的契機、討論離島經歷所帶來的收穫與可能性。透過這些分享，用更多元的角度理解海外生活、同時開拓對未來的想像。 |
 |不停 Bu Tin [RSS](https://anchor.fm/s/11dd34a0/podcast/rss) 不停 Bu Tin 是一個分享自由接案生活的 Podcast 頻道，探討各種職業的自僱者如何生存。追蹤與訂閱，獲得第一手接案資訊。 www.butin.co |
@@ -1253,6 +1254,7 @@
 | <img width="35" src="https://i0.hdslb.com/bfs/face/356d236c9824433df3d018ddcadc9fcca8bc0984.jpg"> 是落拓呀 [bilibili](https://space.bilibili.com/43276908/video) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzkvOTY4ZTZhNjctMzU0MC00YzY5LTk0NDgtYTIyOWRiZjgyYzE2L2NvdmVyLmpwZz92PTE=.jpg"> 香港不是大商场 [RSS](https://feeds.fireside.fm/curiouspodcast/rss) . |
 | 好青年荼毒室（哲學部）[RSS](https://anchor.fm/s/3f94b8a0/podcast/rss) |
+| 港識多史｜香港歷史社會研究社 [RSS](https://anchor.fm/s/d0493934/podcast/rss) |
 
 ### 澳门：
 
@@ -1359,6 +1361,8 @@
 ### 待分类：
 
 [姬羊同笼](https://sheepchick.typlog.io/), [RSS](https://sheepchick.typlog.io/feed/audio.xml)
+
+CUHK Anthropology Podcast 人類學看世界 [RSS](https://anchor.fm/s/5fd8e2f8/podcast/rss) 
 
 别来年鉴·寒 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63a5aaed4ded9d81d0a11a13) 别来陋室，谈笑其中，一年四季，寒雨暑风。
 
