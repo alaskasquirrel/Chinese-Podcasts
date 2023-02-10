@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -937,6 +937,7 @@
 
 ||
 |:----|
+|T哥的新邮件 [RSS](https://rsshub.app/ximalaya/album/73168391)|
 |当户织-木兰的播客 [RSS](https://www.ximalaya.com/album/69138237.xml) 主播木兰，座标杭州，爱猫爱笑爱生活灵魂有趣，皮囊美丽， 20年HR管理培训咨询工作经验曾经的企业高管，现在的高管教练|
 |<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9a31278a-244a-47ff-8e2f-549eee88d255/cover_small.jpg"> 信嘴胡诌 [RSS](https://feeds.fireside.fm/xinzuihuzhou/rss) 挖掘和分享生活中新奇的体验，拒绝僵化的生活制式。主播分别是一只建筑狮和一只程序猿|
 |博客：[图拉鼎](https://imtx.me/)|
@@ -1191,6 +1192,7 @@
 |:-----|
 |宮說宮有理 [RSS](https://feeds.soundon.fm/podcasts/071ce2a8-d70b-49b5-9bf0-eb68ec8f3bff.xml) 國立故宮博物院 National Palace Museum|
 |法法漾播客Vavayan [RSS](https://feeds.soundon.fm/podcasts/53997072-d01d-49cf-876d-6a866ff471f6.xml) 兩個排灣族女生sasa和ubi 希望透過聲音來讓社會大眾和族人們能夠了解關於原住民族的議題，認識真正的原住民文化。讓大家了解當代原住民在現代社會中所遇到的議題，聽到原住民的聲音與想法。 連結主流社會與原住民之間的關係。 我們會用一種排灣族幽默和認真的方式和大家聊聊「原住民族」，像是歷史語言、政治、經濟、生活、國際原住民族新聞等內容，也會邀請來賓深入了解原住民族的議題。|
+|一手故事 [RSS](https://open.firstory.me/rss/user/cl45s0e8w056k01w94iqq4m0u) 陳莉雅 這是一檔紀錄故事的 Podcast。我們會邀請許多素人，讓他們以第一人稱的方式講述他們自己的故事。|
 |王偉忠：欸！我說到哪裡了？[RSS](https://open.firstory.me/rss/user/cl11qxv0101fe0h1jgg2zc2n2)|
 |星箭廣播 https://podcast.starrocket.io/ 關注「科技」和「創新故事」，一起探索科技和創新的邊界。[RSS](https://feeds.fireside.fm/starrocket/rss) |
 |頂樓加蓋/Overbuild [RSS](https://open.firstory.me/rss/user/ck1npa6vwf2930786sj5qsoec) 一種台灣產的最 U 質創新態度。 讓我們用最不無聊的方式來跟你聊科技、產品、職涯、創新，還有生活。 同學，這不是違建，只是在等都市更新的頂樓加蓋。 |
@@ -1208,7 +1210,7 @@
 |喬西咖啡沙龍 Coffee Chat with Chelsea [RSS](https://open.firstory.me/rss/user/ck71ra2uuduul0873dvc0i5sz) 歡迎光臨喬西咖啡沙龍，我是 Chelsea，開了間聲音咖啡廳，集結地球上有趣的人們分享生活風格、創業、職人與斜槓故事等多元主題，透過對談帶給你對生活、職業更突破框架的想像與觀點。 |
 |《[一年的告白 DOS SALIDAS](https://oneyear.tw/)》 |
 |《The Real Story [RSS](https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml)》By [報導者](https://cinephilia.net/author/twreporter/) |
-|鏡好聽·[文學生活](https://feed.mirrorvoice.com.tw/rss/Literacy.xml), [知識好好玩](https://feed.mirrorvoice.com.tw/rss/knowledgeprogram.xml) |
+|鏡好聽·[文學生活](https://feed.mirrorvoice.com.tw/rss/Literacy.xml), [知識好好玩](https://feed.mirrorvoice.com.tw/rss/knowledgeprogram.xml), [香港來的風](https://www.mirrorvoice.com.tw/podcasts/77) |
 |[哲學好好玩/知識好好玩]() 是台湾鏡文學出品的鏡好聽平台做的一个小栏目 |
 |尼爾喝牛奶：你的次文化指南 [RSS](https://open.firstory.me/rss/user/cjyqpmw8l2qci07437m3pfqe6) |
 |寧夏璐66號茶坊 [RSS](https://feeds.soundon.fm/podcasts/4c4472db-610c-4add-978a-e51d0d5b2cbc.xml) |
@@ -1364,6 +1366,8 @@
 
 CUHK Anthropology Podcast 人類學看世界 [RSS](https://anchor.fm/s/5fd8e2f8/podcast/rss) 
 
+虚度时光 [RSS](http://rsshub.app/ximalaya/album/45319612)
+
 别来年鉴·寒 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63a5aaed4ded9d81d0a11a13) 别来陋室，谈笑其中，一年四季，寒雨暑风。
 
 野聲 [RSS](https://open.firstory.me/rss/user/ckozfw5rp56gj08622e7ji012)
@@ -1375,6 +1379,8 @@ CUHK Anthropology Podcast 人類學看世界 [RSS](https://anchor.fm/s/5fd8e2f8/
 逃课沙龙 [RSS](https://rsshub.app/ximalaya/album/42207920) 一档围绕艺术、城市、科技以及我们自身成长展开讨论的杂谈节目。希望我们也许还不成熟的思考能够引起你的兴趣与共鸣。
 
 [卧游水母](https://jellynerds.wordpress.com/) – The Jellynerds Podcast
+
+镜像时间 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63dce2f4e99bdef7d3f4c532) 两个30+女生的闲谈 希望我们的聊天可以陪伴大家的闲暇时光 一起面对生活，互相取暖
 
 低碳研究所聊天室 [RSS](https://rsshub.app/xiaoyuzhou/podcast/637b4fbfda5bcea07936fa2e) 
 
@@ -1700,11 +1706,13 @@ FView Friday  [RSS](https://www.ximalaya.com/album/41563226.xml)
 
 <img width="35" src="https://imagev2.xmcdn.com/group71/M07/44/04/wKgOz14EcHuz1kYaAAah2L1ZHpo36.jpeg"> 快活似神仙 https://www.ximalaya.com/album/31944428
 
-##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9tZWRpYS5yZWRjaXJjbGUuY29tL2ltYWdlcy8yMDIxLzExLzIvNS8yMTMzNTkxZS1jNTUwLTQ2YTMtYmYwZi02M2I2MDY5NmI4NGFfNGI4ZV83MzE0NGJkNi04MWFmLTRkYmYtYjM5ZS02NDUzODRiY2Y2MTNfYmxvYi5qcGc=.jpg"> 巴别塔词典 https://www.xiaoyuzhoufm.com/podcast/60beb756ef742260587c883b
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9tZWRpYS5yZWRjaXJjbGUuY29tL2ltYWdlcy8yMDIxLzExLzIvNS8yMTMzNTkxZS1jNTUwLTQ2YTMtYmYwZi02M2I2MDY5NmI4NGFfNGI4ZV83MzE0NGJkNi04MWFmLTRkYmYtYjM5ZS02NDUzODRiY2Y2MTNfYmxvYi5qcGc=.jpg"> 巴别塔词典 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60beb756ef742260587c883b)
 
 ##### 周末变奏 Key Change https://www.xiaoyuzhoufm.com/podcast/5f14330f6d7660742733a686
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoMzZOUE5tYWRoRUUtUXZ2WEVyRzQ1N0J4REQuanBn.jpg"> 纯属叙构 https://www.xiaoyuzhoufm.com/podcast/61e92f7d3f4432159ba35f32
+
+过度思考 Overthinking [RSS](https://rsshub.app/xiaoyuzhou/podcast/63cf124f945f409cb8b89da0) 
 
 ##### 返璞归真
 
