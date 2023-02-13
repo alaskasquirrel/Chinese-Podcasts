@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -937,6 +937,7 @@
 
 ||
 |:----|
+|Xiaowen.Z [Deployed](https://xiaowenz.com/)|
 |T哥的新邮件 [RSS](https://rsshub.app/ximalaya/album/73168391)|
 |当户织-木兰的播客 [RSS](https://www.ximalaya.com/album/69138237.xml) 主播木兰，座标杭州，爱猫爱笑爱生活灵魂有趣，皮囊美丽， 20年HR管理培训咨询工作经验曾经的企业高管，现在的高管教练|
 |<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9a31278a-244a-47ff-8e2f-549eee88d255/cover_small.jpg"> 信嘴胡诌 [RSS](https://feeds.fireside.fm/xinzuihuzhou/rss) 挖掘和分享生活中新奇的体验，拒绝僵化的生活制式。主播分别是一只建筑狮和一只程序猿|
@@ -1159,7 +1160,8 @@
 ### 上海：
 
 | [太格有物](https://www.thetigerhood.com/)，新风格生活方式社群媒体 |
-|:-----------------------------------|
+| :----------------------------------------------------------- |
+| [VOICER](https://www.voicer.me/)｜分享生活和设计的美学 – We Voice Life & Design Inspiration |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vaGF5YW1pLWJsb2cvODM3NDQ1OTQwMl82MjQ0MTEuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 余生皆假期[RSS](https://hayami.typlog.io/feed/audio.xml),  [个人网站 hayami](https://hayami.typlog.io/),  [bilibili](https://space.bilibili.com/7409120/video). |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy83YWM5LWF1ZGlvZnJlZWhpZ2hxcHMvNUYvOUEvQ01Db09TRURZSjBzQUFJdXNBQmVCTlFzLmpwZWc=.jpeg"> 一车烂话 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5f45a7d89504bbdb7713a2bf) 一档由三个身居魔都的好朋友主理的文艺类播客 |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/cover_small.jpg" width="30"> 一画一话 http://www.theviewtalk.com/ 都市文化有声杂志，编辑部在上海。 |
@@ -1170,11 +1172,11 @@
 | <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/renwen/2983895/ |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ 。[RSS ](https://www.ximalaya.com/album/41367354.xml) |
 | 迷失上海｜播客先声 [RSS](http://www.ximalaya.com/album/55456236.xml) |
-| 博客：[薛船长在上海](https://captxue.blogspot.com/) |
+| 博客：[薛船长在上海](https://captxue.blogspot.com/)          |
 | 博客：[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough. |
 | 博客：[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。 |
 | 博客：[JiaYin's Life](https://imjiayin.com/) – I am not perfect but my life is. |
-| 博客：[韦阳](https://godweiyang.com/) |
+| 博客：[韦阳](https://godweiyang.com/)                        |
 
 ### 深圳:
 
@@ -1208,6 +1210,7 @@
 |法客電台 [RSS ](https://open.firstory.me/rss/user/ckudnw7fn4tqg0870axzgirva) |
 |星期天晚上 Before Monday [RSS](https://www.omnycontent.com/d/playlist/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/31365e91-0226-49ef-96a9-ac5b007b3787/a9df1f4d-154d-4b27-9b13-ac5b007b378b/podcast.rss) |
 |喬西咖啡沙龍 Coffee Chat with Chelsea [RSS](https://open.firstory.me/rss/user/ck71ra2uuduul0873dvc0i5sz) 歡迎光臨喬西咖啡沙龍，我是 Chelsea，開了間聲音咖啡廳，集結地球上有趣的人們分享生活風格、創業、職人與斜槓故事等多元主題，透過對談帶給你對生活、職業更突破框架的想像與觀點。 |
+|[FLiPER](https://flipermag.com/) - 生活藝文誌 |
 |《[一年的告白 DOS SALIDAS](https://oneyear.tw/)》 |
 |《The Real Story [RSS](https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml)》By [報導者](https://cinephilia.net/author/twreporter/) |
 |鏡好聽·[文學生活](https://feed.mirrorvoice.com.tw/rss/Literacy.xml), [知識好好玩](https://feed.mirrorvoice.com.tw/rss/knowledgeprogram.xml), [香港來的風](https://www.mirrorvoice.com.tw/podcasts/77) |
