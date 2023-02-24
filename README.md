@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -1211,6 +1211,7 @@
 |法客電台 [RSS ](https://open.firstory.me/rss/user/ckudnw7fn4tqg0870axzgirva) |
 |星期天晚上 Before Monday [RSS](https://www.omnycontent.com/d/playlist/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/31365e91-0226-49ef-96a9-ac5b007b3787/a9df1f4d-154d-4b27-9b13-ac5b007b378b/podcast.rss) |
 |喬西咖啡沙龍 Coffee Chat with Chelsea [RSS](https://open.firstory.me/rss/user/ck71ra2uuduul0873dvc0i5sz) 歡迎光臨喬西咖啡沙龍，我是 Chelsea，開了間聲音咖啡廳，集結地球上有趣的人們分享生活風格、創業、職人與斜槓故事等多元主題，透過對談帶給你對生活、職業更突破框架的想像與觀點。 |
+|大人的Small Talk [RSS](https://feeds.soundon.fm/podcasts/6731d283-54f0-49ec-a040-e5a641c3125f.xml) |
 |[FLiPER](https://flipermag.com/) - 生活藝文誌 |
 |《[一年的告白 DOS SALIDAS](https://oneyear.tw/)》 |
 |《The Real Story [RSS](https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml)》By [報導者](https://cinephilia.net/author/twreporter/) |
@@ -1368,13 +1369,27 @@
 
 [姬羊同笼](https://sheepchick.typlog.io/), [RSS](https://sheepchick.typlog.io/feed/audio.xml)
 
+禁止携带 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62fd05da83fbbc3bfd39689d) 一位自由摄影师的个人播客，力图揭示游走于世界边缘地带的真实所见所感，并随时随机分享。
+
+旧世代 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c23cc5ee51bbc3067202c6) 旧世代游戏和游戏文化
+
 CUHK Anthropology Podcast 人類學看世界 [RSS](https://anchor.fm/s/5fd8e2f8/podcast/rss) 
+
+张小珺Jùn｜商业访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626b46ea9cbbf0451cf5a962) 这是一档商业访谈节目，描摹我们时代的商业、文化和新知。 张小珺毕业于香港浸会大学国际新闻学系，是一名商业非虚构写作者。
+
+PodcastGPT 人工智能访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63920a2ea07c5e0cda6c7043) 一档与 ChatGPT 人工智能对话并分享有趣故事的纯 AIGC 类播客节目。 在这档节目中，我们将和人工智能进行对话，并讨论有关它的最新技术、应用和未来发展的话题。我们也会分享一些有趣的故事，讲述人工智能如何影响我们的日常生活。
+
+脑放电台 [RSS](https://rsshub.app/xiaoyuzhou/podcast/636669d51064cb55f31505fc) 一档关注科技前沿、品牌营销和猎头职场的谈话类节目。
 
 虚度时光 [RSS](http://rsshub.app/ximalaya/album/45319612)
 
 别来年鉴·寒 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63a5aaed4ded9d81d0a11a13) 别来陋室，谈笑其中，一年四季，寒雨暑风。
 
+东西聊东西 | 出海营销 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62668898891b1807782c4c48) 一档透过“中国人视角”聊海外市场的播客栏目。
+
 野聲 [RSS](https://open.firstory.me/rss/user/ckozfw5rp56gj08622e7ji012)
+
+高能量 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c6ae08c4eaa82b112b9c84) 由主理人李翔和李丰，以及他们的朋友共同制作的播客节目，旨在通过商业观察者的视角重新理解我们日常生活中的现象或者事物，并且在与对谈嘉宾的聊天过程中发现它们的高能之处。
 
 超时差漫谈 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c25b8a1a23725493c787c5) 身处纽约的犸奇和住在北京的章鱼，相识于对漫画的共同喜爱。在一次闲谈中，犸奇提出了一起做一档漫画播客的想法。
 
@@ -1738,7 +1753,7 @@ FView Friday  [RSS](https://www.ximalaya.com/album/41563226.xml)
 
 c+ talk show
 
-<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2xqSFFKQXQwZDRLX1hQbnFBdVhfQzd3bTRLUDEucG5n.png"> 生活积极分子 https://www.xiaoyuzhoufm.com/podcast/626fc6712a0eb636f4ccc220
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2xqSFFKQXQwZDRLX1hQbnFBdVhfQzd3bTRLUDEucG5n.png"> 生活积极分子 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626fc6712a0eb636f4ccc220)
 
 二三得七 [RSS](http://www.ximalaya.com/album/30611970.xml) 
 
