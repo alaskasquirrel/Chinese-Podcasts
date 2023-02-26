@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -17,15 +17,15 @@
 |归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)|[那些出国以后才知道的事](https://www.douban.com/gallery/topic/84494/)|[Women In Tech 女性科技从业者集合地](https://www.douban.com/group/womenintech/)||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)|[女性](#女性)|||
-|[IPN](#ipn)|[Crypto](#Crypto)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
+|[IPN](#ipn)|[Freelancer](#Freelancer)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[Python](#Python)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[体育](#体育)|[津津乐道](#津津乐道)|[交流访谈](#交流访谈)|[Golang](#Golang)|
 |[科学](#科学)|[沙龙](#沙龙)|[影视综艺](#影视综艺)|[游戏](#游戏)|[开源](#开源)|[编程语言PL](#编程语言PL)|[喜剧](#喜剧)|
 |[北京](#北京)|[重庆](#重庆)|[广东](#广东)|[陕西](#陕西)|[上海](#上海)| [香港](#香港) | [台湾](#台湾) |
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[湖南](#湖南)|[辽宁](#辽宁)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
-|[德国](#德国)|[外语](#外语)|[待分类](#待分类)|[Emacs](#Emacs)|[Freelancer](#Freelancer)|[Ruby](#Ruby)|[Rust](#Rust)|
-|[LISP](#LISP)|[音乐](#音乐)|[前端](#前端)|[杭州](#杭州)|[云南](#云南)|[澳门](#澳门)||
+|[德国](#德国)|[外语](#外语)|[待分类](#待分类)|[Emacs](#Emacs)|[Rust](#Rust)|[Ruby](#Ruby)|[澳门](#澳门)|
+|[云南](#云南)|[音乐](#音乐)|[前端](#前端)|[杭州](#杭州)|[南极洲](#南极洲)|||
 
 ##### 播客app：[关注隐私](https://github.com/alaskasquirrel/Privacy)
 
@@ -39,13 +39,13 @@
 | <img width="50" src="https://static.wixstatic.com/media/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png/v1/fill/w_112,h_40,al_c,usm_0.66_1.00_0.01,enc_auto/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png"> snipd https://www.snipd.com/ , [Privacy Policy](https://open.snipd.com/privacy-policy) |
 | <img width="50" src="https://images.squarespace-cdn.com/content/v1/5f698e2f67d0e42d00f9187f/1600757399133-NWAU2IXX4FFTBM9FXFNX/logo.png"> [SoundOn](https://www.soundon.fm/) [隱私權政策](https://www.soundon.fm/new-page-2) |
 | <img src="./images/moon.png" width="40"> Moon fm  https://moon.fm/                                                 |
-| <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png" width="40"> Apple Podcast                                                            |
-| Google Podcasts                                                          |
-| Pocket Casts                                                             |
-| SoundCloud                                                               |
+| <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png" width="40"> Apple Podcast                                                           |
+| Google Podcasts                                                         |
+| Pocket Casts                                                            |
+| SoundCloud                                                              |
 | Spotify |
 | [Anchor](https://anchor.fm/) - The easiest way to make a podcast |
-| Overcast                                                                 |
+| Overcast                                                                |
 | 喜马拉雅FM https://www.ximalaya.com/ [隐私政策](https://passport.ximalaya.com/page/privacy_policy) |
 | <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/ [隐私政策](https://www.lizhi.fm/about/privacy.html) |
 | <img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/ [隐私政策](https://sss.qtfm.cn/qt-agreement/privacy-20190724.html) |
@@ -202,39 +202,6 @@
 | <img src="https://imagev2.xmcdn.com/group69/M0B/F2/0C/wKgMeV22sMuRw3maAATOAlYkcMo731.jpg" width="30"> 老秦汽修杂谈 https://www.ximalaya.com/qiche/27860219/ |
 | <img src="https://imagev2.xmcdn.com/group57/M0B/D9/45/wKgLgVx0Bguim2ywAAFnadpFRKQ360.jpg" width="30"> 今晚有直播 https://www.ximalaya.com/qiche/20437858/ |
 | <img src="https://imagev2.xmcdn.com/group56/M08/75/2E/wKgLgFx7hwuSZLHYAAK4oZugveo031.jpg" width="30"> 上海80后 https://www.ximalaya.com/shishang/15702148/ |
-
-### Crypto:
-
-| [21 Lessons](https://21lessons.com/) |
-|:--------------------------------|
-| Unchained https://unchainedpodcast.com/ Laura Shin |
-| <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg" width="30"> Fork It https://forkit.fm/ 第一个聊区块链技术的中文播客。 [RSS](https://feeds.fireside.fm/forkit/rss)  |
-| <img src="https://imagev2.xmcdn.com/group70/M08/8F/49/wKgO2F45TUDhDR6wAAmd1OHKvd032.jpeg" width="30"> 胖车库 Fat Garage \| Blockchain and Bitcoin / Network Marketer / DAOist / Dance101 [RSS](https://www.ximalaya.com/album/29606210.xml) |
-| 橙皮书 [RSS](https://www.ximalaya.com/album/48835864.xml) |
-| 區塊勢 https://blocktrend.substack.com/ |
-| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwbVBNSzJWQWJnNFFRcFJBWDZZQkMtS0V4SHMuanBn.jpg"> CSS｜探索 Crypto 的精彩世界 [RSS](https://rsshub.app/xiaoyuzhou/podcast/618929e0633ec15a3b46145e) |
-| Meta Potatoes·元土豆 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61de41db9ddadd124e616e22) |
-| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2N000Nmc0TEIwamx5bDNQX3BjVlpXZU5yMC0ucG5n.png"> Web3 随意门 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61d7b31476fadc2c29e3b821) |
-| HODLong 后浪 [RSS](https://feeds.simplecast.com/lnmJvIXR) |
-| Web3无名说 [RSS](https://rsshub.app/xiaoyuzhou/podcast/622d905cadf8ccf5e945231a)  由RSS3大使团队打造，探索Web3应用层的“不可知”世界。在对话Web3应用团队和从业者的过程中，我们将与RSS3及其合作伙伴们一起，寻找Web3的下一个Killer App。 |
-| Web3 101 [RSS](https://feeds.fireside.fm/web3101/rss) 一档探索 Web3 世界的播客，在这个技术与商业上采用了全新配比的世界里，跟着Jane与阿伟展开一趟冒险之旅。https://web3101.fireside.fm/ |
-| Web3 911 [RSS](https://www.ximalaya.com/album/69656098.xml) |
-| What the Meta [RSS](https://rsshub.app/xiaoyuzhou/podcast/61a9d682194d743b7da6d5bd) 一个关于未来数字世界和生活方式的播客频道 |
-| Crypto Naive [RSS](https://rsshub.app/xiaoyuzhou/podcast/60ec57ce52ea083b82c30760) |
-| 零知识洞穴 |
-| 文理两开花 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61c3fafb6b3149acbfac1e29) |
-| <img width="35" src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6186760/6186760-1623944296992-8dbc7d4953063.jpg">Uncommon Core https://uncommoncore.co/podcast/ |
-| 51% |
-| Just! 外埠3 [RSS](https://rsshub.app/xiaoyuzhou/podcast/628a77c2e54603db1160d3e1) 一档外埠3创业者的访谈节目。 |
-| Bankless Podcast https://banklesshq.com/ |
-| <img width="35" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/db/f6/e7/dbf6e77f-8c98-0ad0-5490-0b09761ead6a/mza_12496232310422781380.jpg/600x600bb.jpg"> UpOnly: Chats with Crypto Experts https://uponly.tv/ |
-| The Blockchain Debate Podcast [RSS](https://feeds.buzzsprout.com/767033.rss) |
-| <img width="35" src="https://uploads-ssl.webflow.com/60f1b19a593e774383e314f8/60f1b579fadff32863c4c47e_NavBar%20Logo.svg"> [The Delphi Podcast](https://delphidigital.io/podcast) |
-| <img width="35" src="https://i0.hdslb.com/bfs/face/f661077268d31d2bd2e15b44927d9d96d0f6fef1.jpg"> CoinDesk中文版 [bilibili](https://space.bilibili.com/1522354971/video) |
-| CryptoKidZ |
-| BeWater Live |
-| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2WE9GakhrX2dwem1XS1lYeWxmTm13WFdPX0o=@small">Traders' Talk [RSS1](https://rsshub.app/xiaoyuzhou/podcast/5e7eb85d418a84a0465eda82), [RSS2](https://www.ximalaya.com/album/34337110.xml) |
-| [Indigo Talk](https://www.indigox.me/),  [RSS](https://rsshub.app/xiaoyuzhou/podcast/632a11918d0635ce406f38b2) & 西岸偏北, [RSS](https://rsshub.app/xiaoyuzhou/podcast/5ff27000dee9c1e16dad4f6b) |
 
 ### ThoughtWorks:
 
@@ -1036,7 +1003,7 @@
 | Acquired https://www.acquired.fm/ |
 | <img src="https://exponent.fm/wp-content/uploads/2020/08/Exponent-2-nosponsor.jpg" width="30"> Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
 | <img src="https://i0.wp.com/a16z.com/wp-content/uploads/2020/09/bio-lp_img03-1.png?resize=344%2C343&ssl=1" width="30"> a16z Podcast https://a16z.com/podcasts |
-| <img src="https://imagev2.xmcdn.com/group62/M02/B8/A2/wKgMZ101F8GCEQT5AA8BwPU7OUE566.jpg" width="30"> 随口说美国 https://www.ximalaya.com/zhubo/3239336/ [RSS](https://rsshub.app/ximalaya/zhubo/3239336/) |
+| <img src="https://imagev2.xmcdn.com/group62/M02/B8/A2/wKgMZ101F8GCEQT5AA8BwPU7OUE566.jpg" width="30"> 随口说美国 https://www.ximalaya.com/zhubo/3239336/ ，[RSS](https://rsshub.app/ximalaya/zhubo/3239336/) |
 | <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> [受之有道](http://www.am1300.com/category/%E7%AF%80%E7%9B%AE_%E4%BB%8B%E7%B4%B9/%E7%AF%80%E7%9B%AE%E9%87%8D%E6%BA%AB/%E5%8F%97%E4%B9%8B%E6%9C%89%E9%81%93/) [RSS](https://pod.link/1495002072.rss)；[bilibili](https://space.bilibili.com/5679766) |
 | [纽约地铁研究](https://signalproblems.substack.com/) |
 | <img src="https://imagev2.xmcdn.com/group57/M02/67/FC/wKgLd1x6tjDxtJ9sAAMBlVac1Pk329.png" width="30"> 硅谷叨B叨 [RSS](http://www.ximalaya.com/album/21685160.xml) |
@@ -1060,7 +1027,7 @@
 | 博客：[梦呓醒删](https://crescendomeow.wordpress.com/) – To do or to be, that is the question. |
 | 博客：[Tiny Loafer](https://tinyzoesy.github.io/) |
 | 博客：[June 六月](https://shiorireads.ca/) 生きているのは暇つぶし<br>播客：普通读者 [RSS](https://anchor.fm/s/3bd8896c/podcast/rss) |
-| 博客：[唉，澜的。](https://www.lanisland.com/) <br>播客：饭饭之交 [RSS](https://feeds.acast.com/public/shows/63a20fba6ac81a0010a9553c) |
+| 博客：[唉，澜的。](https://www.lanisland.com/) <br>播客：饭饭之交 [RSS](https://feeds.acast.com/public/shows/63a20fba6ac81a0010a9553c) [bilibili](https://space.bilibili.com/66749203) |
 | 博客：[配信中](https://www.yocson.com/) |
 | 博客：[一笼虾饺有四个](https://fourxiajiao.github.io/) |
 | 博客：[猫头鹰狂想曲](https://www.owlrhapsody.com/) |
@@ -1170,7 +1137,7 @@
 | 上海80后故事 [RSS](http://www.ximalaya.com/album/15702148.xml) 《上海80后故事》由汽车自媒体AutoBiBiBi出品听我们讲述上海80后的平凡故事在平凡的故事中寻找生活的美好爱上海 |
 | 洋泾浜radio@旧金山 吴语上海话 [RSS](http://rsshub.app/ximalaya/album/9540899) |
 | 口嗨上海 Ramble in the Hai [RSS](http://www.ximalaya.com/album/51418985.xml) |
-| <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/renwen/2983895/ |
+| <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/album/2983895 |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ 。[RSS ](https://www.ximalaya.com/album/41367354.xml) |
 | 迷失上海｜播客先声 [RSS](http://www.ximalaya.com/album/55456236.xml) |
 | 博客：[薛船长在上海](https://captxue.blogspot.com/)          |
@@ -1364,6 +1331,11 @@
 |:----|
 |<img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) 听她们聊聊互联网科技的社会意涵，职场中女性的困惑和感悟 [RSS](https://womenintechcn.squarespace.com/podcast-she-talks-tech?format=rss)|
 
+### 南极洲
+
+||
+|:---|
+|[brr](https://brr.fyi/) This is a place for me to record interesting things I find while working in Antarctica. This year (2022-2023) I am deploying to Antarctica to work on IT projects. This is my first year on the ice.|
 
 ### 待分类：
 
