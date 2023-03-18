@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -72,6 +72,8 @@
 <img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/) 中文播客领域的动态和最新消息 —— 由 声湃 创作的newsletter
 
 <img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/) 分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目
+
+<img width="35" src="https://imgs.zhubai.love/861bdb2d977d4c16916e5b455726d3d4.jpg"> [播客荚](https://podcastpeas.zhubai.love/)是一个媒体计划，每周以主题的形式推荐播客。希望能带你寻找掉落在播客之间的那些可能微小但真诚的声音。
 
 [open-podcasts](https://github.com/opensource-f2f/open-podcasts): This is a cloud-native Open Podcasts 开源播客平台
 
@@ -727,7 +729,8 @@
 
 ||
 |:------|
-|Vibration 歪波音室 [RSS](https://s2.proxy.wavpub.com/vibration.xml)|
+|[Vibration 歪波音室](https://music.163.com/#/djradio?id=794375600), [RSS](https://s2.proxy.wavpub.com/vibration.xml)|
+|另一個維度 The New Dimension [RSS](https://feeds.soundon.fm/podcasts/a57001b0-2309-4bb6-851c-20d7788db459.xml) Jass Yang 杨威宇 独立音乐人|
 |旺角淘词城 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6314a68e2e77170dc4d0b58d)|
 |响声播客 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5fa6109983c34e85dd2ac8ee) 分享音乐，也闲谈有趣的音乐家故事。|
 |[昭和歌谣：二战后的日本流行音乐](https://shop.vistopia.com.cn/detail?id=n_n_7) 李如一|
@@ -992,8 +995,11 @@
 
 |  |
 |:------|
+| 5-4 is a podcast about how much the Supreme Court sucks. [RSS](https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c) |
+| [Writ Large](https://www.writlarge.fm/), [RSS](https://feeds.megaphone.fm/NBN6762108021) There’s more to a book than what’s written on its pages: a book can change the world. |
+| If Books Could Kill [RSS](https://feeds.buzzsprout.com/2040953.rss) The airport bestsellers that captured our hearts and ruined our minds |
 | 北方人在美国 [bilibili](https://www.bilibili.com/video/BV1Ay4y1g7J9/) 留学生一枚，在美国闲来无事的时候拍点视频，给大家讲一讲真实的美国 |
-| 以后俞生 [bilibili](https://space.bilibili.com/3493086552394525/video) 网约车司机 |
+| 以后俞生 [bilibili](https://space.bilibili.com/3493086552394525/video) 纽约网约车司机 |
 | 末路狂花 [RSS](https://feeds.simplecast.com/ubM2eeUe) 快意之事莫若友，快友之事莫若谈。末路狂花是由三位大学女友共同主持的播客。 |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/ad6d335506d7a396c15cb88745978bc2a470503c.jpg"> 芳姐和王子 [bilibili](https://www.bilibili.com/video/BV1H34y1e7nJ/) 没事就做做饭，偶尔发一下在米国的日常，就图个开心 |
 | <img src="https://i0.hdslb.com/bfs/face/1214f1362428a1b1806bec4e4a7e7ecd73753e78.jpg@128w_128h_1o.webp" width="30"> 不哼哼 [bilibili](https://space.bilibili.com/14198768) 抽雪茄，聊生活，侃美国，女儿奴。 |
@@ -1130,6 +1136,7 @@
 
 | [太格有物](https://www.thetigerhood.com/)，新风格生活方式社群媒体 |
 | :----------------------------------------------------------- |
+| 别来年鉴 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63a5aaed4ded9d81d0a11a13) 别来陋室，谈笑其中，一年四季，寒雨暑风。 |
 | [VOICER](https://www.voicer.me/)｜分享生活和设计的美学 – We Voice Life & Design Inspiration |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vaGF5YW1pLWJsb2cvODM3NDQ1OTQwMl82MjQ0MTEuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 余生皆假期[RSS](https://hayami.typlog.io/feed/audio.xml),  [个人网站 hayami](https://hayami.typlog.io/),  [bilibili](https://space.bilibili.com/7409120/video). |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy83YWM5LWF1ZGlvZnJlZWhpZ2hxcHMvNUYvOUEvQ01Db09TRURZSjBzQUFJdXNBQmVCTlFzLmpwZWc=.jpeg"> 一车烂话 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5f45a7d89504bbdb7713a2bf) 一档由三个身居魔都的好朋友主理的文艺类播客 |
@@ -1141,6 +1148,7 @@
 | <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/album/2983895 |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ 。[RSS ](https://www.ximalaya.com/album/41367354.xml) |
 | 迷失上海｜播客先声 [RSS](http://www.ximalaya.com/album/55456236.xml) |
+| 博客：[To the Lighthouse](https://owlswims.com/) - ..A Touch and yet not a touch |
 | 博客：[薛船长在上海](https://captxue.blogspot.com/)          |
 | 博客：[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough. |
 | 博客：[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。 |
@@ -1165,6 +1173,8 @@
 |法法漾播客Vavayan [RSS](https://feeds.soundon.fm/podcasts/53997072-d01d-49cf-876d-6a866ff471f6.xml) 兩個排灣族女生sasa和ubi 希望透過聲音來讓社會大眾和族人們能夠了解關於原住民族的議題，認識真正的原住民文化。讓大家了解當代原住民在現代社會中所遇到的議題，聽到原住民的聲音與想法。 連結主流社會與原住民之間的關係。 我們會用一種排灣族幽默和認真的方式和大家聊聊「原住民族」，像是歷史語言、政治、經濟、生活、國際原住民族新聞等內容，也會邀請來賓深入了解原住民族的議題。|
 |一手故事 [RSS](https://open.firstory.me/rss/user/cl45s0e8w056k01w94iqq4m0u) 陳莉雅 這是一檔紀錄故事的 Podcast。我們會邀請許多素人，讓他們以第一人稱的方式講述他們自己的故事。|
 |王偉忠：欸！我說到哪裡了？[RSS](https://open.firstory.me/rss/user/cl11qxv0101fe0h1jgg2zc2n2)|
+|聽說張大春 [RSS](https://open.firstory.me/rss/user/cklhiwwmzkaov0854ll997gy6) 暢談經典小說、老台北的人事物、最新的科學研究，從文學到科技，題材包羅萬象，深入淺出，為你帶來多元的節目內容。|
+|僞學術 \| 認真聽|
 |星箭廣播 https://podcast.starrocket.io/ 關注「科技」和「創新故事」，一起探索科技和創新的邊界。[RSS](https://feeds.fireside.fm/starrocket/rss) |
 |頂樓加蓋/Overbuild [RSS](https://open.firstory.me/rss/user/ck1npa6vwf2930786sj5qsoec) 一種台灣產的最 U 質創新態度。 讓我們用最不無聊的方式來跟你聊科技、產品、職涯、創新，還有生活。 同學，這不是違建，只是在等都市更新的頂樓加蓋。 |
 | <img width="30" src="https://weakself.dev/og_image.jpg"/> weak self https://weakself.dev/ 三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。[RSS](https://api.soundon.fm/v2/podcasts/233d04e2-60e9-4060-a687-6b7316187f48/feed.xml) |
@@ -1249,7 +1259,7 @@
 
 ||
 |:----|
-|<img src="https://static1.squarespace.com/static/58fb8da89de4bb2fd7345f73/t/5b87b395575d1f7d53ac4d14/1558258018186/?format=1500w" width="30"> 博物志  [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e280faa418a84a0461f9d8d) 广泛地关于博物馆的播客。|
+|<img src="https://static1.squarespace.com/static/58fb8da89de4bb2fd7345f73/t/5b87b395575d1f7d53ac4d14/1558258018186/?format=1500w" width="30"> 博物志  [RSS](https://bowuzhi.fm/feed/audio.xml) 广泛地关于博物馆的播客。|
 |[bibiEdit](https://www.bibiedit.com/) 网瘾妇女，得闲饮茶。 [RSS1](https://www.bibiedit.com/feed/audio.xml), [RSS2](https://rsshub.app/xiaoyuzhou/podcast/61c476e48e8d0b8a5e0eeef9)|
 |[不时尚](http://notshishang.com/) 广泛地关于穿搭|
 
@@ -1346,6 +1356,16 @@
 
 旧世代 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c23cc5ee51bbc3067202c6) 旧世代游戏和游戏文化
 
+信睿播客 [RSS](https://rsshub.app/xiaoyuzhou/podcast/619217b95367d294fd8ac292) 一档由《信睿周报》团队出品的学者谈话类播客节目。
+
+昨日之海 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61da42f6fcdb5c6c8fcc167e) 
+
+读报teleread [RSS](https://anchor.fm/s/fcb6c04/podcast/rss) 读报是一档杂志文章的阅读分享节目，我们的目标是希望借助外文报道看到更多的人和故事。我们相信，总有人对外面的世界有所兴趣。
+
+超智游戏 [RSS](https://rsshub.app/ximalaya/album/42691234) 凉意主持或独角的一档播客节目，希望提供超越二元对立角度的内容，跟大家一起面对现代生活这个超智游戏，看见对错之外的复杂世界。
+
+胭砚计划 [RSS](https://rsshub.app/ximalaya/album/73362656) 
+
 CUHK Anthropology Podcast 人類學看世界 [RSS](https://anchor.fm/s/5fd8e2f8/podcast/rss) 
 
 张小珺Jùn｜商业访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626b46ea9cbbf0451cf5a962) 这是一档商业访谈节目，描摹我们时代的商业、文化和新知。 张小珺毕业于香港浸会大学国际新闻学系，是一名商业非虚构写作者。
@@ -1356,7 +1376,7 @@ PodcastGPT 人工智能访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/639
 
 虚度时光 [RSS](http://rsshub.app/ximalaya/album/45319612)
 
-别来年鉴·寒 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63a5aaed4ded9d81d0a11a13) 别来陋室，谈笑其中，一年四季，寒雨暑风。
+别来年鉴 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63a5aaed4ded9d81d0a11a13) 别来陋室，谈笑其中，一年四季，寒雨暑风。
 
 东西聊东西 | 出海营销 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62668898891b1807782c4c48) 一档透过“中国人视角”聊海外市场的播客栏目。
 
@@ -1680,7 +1700,7 @@ ShampooTalk 香波电台 [RSS](https://rsshub.app/xiaoyuzhou/podcast/624923fdd01
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2xxSzlNaHh5TldkWUwwNEgySGNUOXd2dzNCc1cuanBn.jpg"> 闲扯啤 https://www.xiaoyuzhoufm.com/podcast/62161af5794b31c9c2a592a7
 
-<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vY3liZXJwaW5rZm0vODM1MzI4Nzg5M181NDM4OTkuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 疲惫娇娃 CyberPink https://www.xiaoyuzhoufm.com/podcast/6226d3368b7257e5858bda45 [RSS](https://cyberpinkfm.xyz/feed.xml) 
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vY3liZXJwaW5rZm0vODM1MzI4Nzg5M181NDM4OTkuanBnP3gtb3NzLXByb2Nlc3M9c3R5bGUvc2w=.jpg"> 疲惫娇娃 CyberPink [RSS](https://cyberpinkfm.typlog.io/feed/audio.xml) 
 
 ##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrdEtQQVpFdVA2MDRucXhwcEc4LVplSU9IUTEuanBn.jpg"> 东七门 https://www.xiaoyuzhoufm.com/podcast/61ef9609cfd2b637cbba3176 [RSS]()
 
@@ -2089,7 +2109,7 @@ happy podcast https://happyxiao.com/
 ##### 不搭电台 http://www.lizhi.fm/user/331
 ##### 不动声色 不增不减，不垢不净。
 ##### 不摆了 https://www.ximalaya.com/zhubo/96387366/
-##### 不可理论 http://www.bukelilun.com/ 带你用理论理解生活
+##### 不可理论 https://www.bukelilun.com/ 带你用理论理解生活
 ##### 不太重要  关于日常生活和周边世界的观察记录。
 ##### <img src="https://i.typlog.com/busang/8421796100_903975.png" width="30"> 不丧 https://busangpodcast.simplecast.fm/ 首档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。
 ##### BoomEar https://boomear.fireside.fm/ 一个艺术播客，从艺术出发，扩展至一切与艺术有关的创造性领域。
