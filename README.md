@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -462,6 +462,7 @@
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/2497a8ee-4f3d-49db-8121-7a474a2784d7/cover_small.jpg"> TIANYU2FM— 对谈未知领域 [RSS](https://feeds.fireside.fm/tianyu2/rss) |
 | <img width="35" src="https://episodes.castos.com/62ff1b2eb727d5-63733036/images/Podcast-image.jpg"> [科技双眼啤](https://kjsyp.fm/) 由开发者 Cali 与设计师 Rather 共同主持的「科技双眼啤」，我们是一档对互联网软件硬件从开发与设计不同视角深入探讨的科技播客。 [RSS](https://kjsyp.fm/feed) |
 | [脆弱世界](https://vulnerableworld.typlog.io/) 通过邀请不同领域的学者和专家，较真儿地探讨如何让世界变得更好 [RSS](https://vulnerableworld.typlog.io/feed/audio.xml) |
+| 牛透SaaS [RSS](https://rsshub.app/xiaoyuzhou/podcast/6375e4c79c78dc0d17fab15d) 侃 SaaS ，瞻前景，趣洞察 在这里，可以收获权威的行业信息 在这里，可以直接获取业内顶尖人士的观点和思考 |
 | <img width="35" src="https://i.typlog.com/2bab/8359128160_628928.png"> 二分电台 https://binary.2bab.me/ 一半生活一半工作，二分电台是一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。[RSS  ](https://binary.2bab.me/episodes/feed.xml) |
 | 不开玩笑 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61791d921989541784257779) Jokes Aside |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpYlVCLUo1bUhObU9JZFJBa0ptUUY3WXdiUW0uanBn.jpg"> 说点傻话 [RSS1](https://www.ximalaya.com/album/51639589.xml), [RSS2](https://rsshub.app/xiaoyuzhou/podcast/60fe1fd851cb720b56f6a064) |
@@ -472,6 +473,7 @@
 | <img width="35" src="https://imagev2.xmcdn.com/storages/9fe5-audiofreehighqps/0B/C1/CMCoOSAEY7mHAAKc1gClnMVf.jpeg"> 卖鱼桥分桥 [RSS](https://rsshub.app/ximalaya/album/48848794) 一档漫谈类播客，捕捉平凡生活中的闪光点，选题跨度大，不想被定义。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/c288-audiofreehighqps/DE/08/GKwRIW4Fot_dAAExfgEIVwN7.jpeg"> 大小马聊科技 [RSS](https://rsshub.app/ximalaya/album/55951710) |
 | <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/e/e2d6df2f-27f8-4215-9a3d-1aa664fa374b/cover_small.jpg" width="30"> [二手时间](https://secondhandtime.fireside.fm/) 由几个常驻欧洲的技术领域工作者发起，是一档不设限的播客节目。 |
+| 项飙：你好，陌生人 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63eb573be99bdef7d3b1c6e1) 人类学家项飙提出的“附近”概念，已经成为标签式的流行概念，而陌生人是“附近”中至关重要的一部分。 看见身边的陌生人，是重新看见附近的过程，也是看见自己、看见社会的过程。 |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/1/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/cover_small.jpg"> [晚点聊 LateTalk](https://podcast.latepost.com/) 以多视角观察当代商业社会，和身处其中的个人 [RSS](https://feeds.fireside.fm/latetalk/rss) |
 | 新闻实验室 https://newslab.info/  [RSS ](https://rsshub.app/xiaoyuzhou/podcast/60bc9bc72e2eec1ef1ca23ac) |
 | <img width="35" src="https://imagev2.xmcdn.com/group83/M02/B7/58/wKg5HV8fwFSBVHAOAAXrVVXpNPk415.png"> 三五环 ：跟三五环之间的朋友聊聊，他们在观察着什么、创造着什么，以及思考着什么。[RSS](https://www.ximalaya.com/album/25534957.xml) |
@@ -1062,11 +1064,13 @@
 
 |  |
 |:----------------------|
+| KumaZen - [A guide for Van Life in Japan](https://kumazen.com/a-guide-for-van-life-in-japan/) |
 | Disrupting Japan: Startups and Innovation in Japan [RSS](https://www.disruptingjapan.com/feed/podcast/) |
 | Japan Eats! [RSS](https://feeds.simplecast.com/BaubtDak) |
 | Josie的候機室 [RSS](https://open.firstory.me/rss/user/ck9ursdzvo6510873gy0xnod5) 這是一個以分享日本職場與人物訪談的podcast節目。 人生就像候機室，有人來有人去。 JOSIE’S LOUNGE讓聽眾在準備下一個人生啟程前， 可以到候機室休息一下，了解日本職場的有趣文化， 也可以在這遇見暫時駐足在候機室的特別來賓，聽聽他們的有趣人生故事。 |
 | 思乐在日本 [bilibili](https://space.bilibili.com/486122103/video) 在日研修生 |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/ebd0cb292348a43dc55fb03c42f501fd649ce481.jpg"> 熬夜要从周一起 [bilibili](https://space.bilibili.com/283834289/video) |
+| 幽然菌 [bilibili](https://space.bilibili.com/109508177/video) 坐标东京｜日本专门学校代阿尼一年级留学生｜想成为原画师 |
 | <img width="35" src="https://i2.hdslb.com/bfs/face/cda2da18648b8f4a28a7cf3363ffa8968d655a78.jpg"> 辣妹子在日本 [bilibili](https://space.bilibili.com/480709343/) 佳子，霖酱日本学习生活分享，中国人妈妈的好物推荐分享 |
 | <img width="35" src="https://i1.hdslb.com/bfs/face/0626cd6adb6fee0bdd7b85a4f0b4b52047aa2ad7.jpg" > 路旁的叶修 [bilibili](https://space.bilibili.com/917629/video) 生活记录(2020年7月离世) |
 | 下一站是东京 [RSS](http://www.ximalaya.com/album/51226287.xml) |
@@ -1381,9 +1385,15 @@ Hey Jude [RSS](https://rsshub.app/xiaoyuzhou/podcast/6135e641babb6290e0aedaa4) �
 
 昨日之海 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61da42f6fcdb5c6c8fcc167e) 
 
+源宇宙 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63b8f1f2289d2739647d95f1) 一档聚焦年轻人当下生活、工作、学习的中文播客节目，在这里，有年轻人最真实的焦虑和最具体的选择。主持人源源是21年刚从北大毕业的社会新人，你将从源源与嘉宾的对谈中了解年轻人的真实生活，倾听年轻人的声音。
+
 读报teleread [RSS](https://anchor.fm/s/fcb6c04/podcast/rss) 读报是一档杂志文章的阅读分享节目，我们的目标是希望借助外文报道看到更多的人和故事。我们相信，总有人对外面的世界有所兴趣。
 
 超智游戏 [RSS](https://rsshub.app/ximalaya/album/42691234) 凉意主持或独角的一档播客节目，希望提供超越二元对立角度的内容，跟大家一起面对现代生活这个超智游戏，看见对错之外的复杂世界。
+
+散心二意Scattered [RSS](https://feeds.buzzsprout.com/2137314.rss) 一档关于ADHD的中文播客，由两位ADHD女性主播狩江和枕侠的闲聊构成，不定期也会有其他女性嘉宾串门。我们会在节目里分享关于ADHD的知识和女性ADHD群体的人生故事。我们想通过这档节目在女性群体中普及关于ADHD的知识，帮助和我们拥有同样特质的女性了解自己，促进ADHD的早期发现。散心二意中的“散“来自于英文单词scattered，因为分心的人也常常被叫做scattered brain。
+
+张春酷酷酷 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63311d0f9186d4e4c46a0530) 
 
 胭砚计划 [RSS](https://rsshub.app/ximalaya/album/73362656) 
 
@@ -1392,6 +1402,8 @@ CUHK Anthropology Podcast 人類學看世界 [RSS](https://anchor.fm/s/5fd8e2f8/
 张小珺Jùn｜商业访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626b46ea9cbbf0451cf5a962) 这是一档商业访谈节目，描摹我们时代的商业、文化和新知。 张小珺毕业于香港浸会大学国际新闻学系，是一名商业非虚构写作者。
 
 PodcastGPT 人工智能访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63920a2ea07c5e0cda6c7043) 一档与 ChatGPT 人工智能对话并分享有趣故事的纯 AIGC 类播客节目。 在这档节目中，我们将和人工智能进行对话，并讨论有关它的最新技术、应用和未来发展的话题。我们也会分享一些有趣的故事，讲述人工智能如何影响我们的日常生活。
+
+三水漱石 [RSS](https://rsshub.app/xiaoyuzhou/podcast/629ecbca2639b39df102f991) 一档记录平日M字闲聊与生活趣事的播客节目，关注周遭琐碎但却奇妙的各类事物。
 
 脑放电台 [RSS](https://rsshub.app/xiaoyuzhou/podcast/636669d51064cb55f31505fc) 一档关注科技前沿、品牌营销和猎头职场的谈话类节目。
 
@@ -1411,6 +1423,8 @@ PodcastGPT 人工智能访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/639
 
 逃课沙龙 [RSS](https://rsshub.app/ximalaya/album/42207920) 一档围绕艺术、城市、科技以及我们自身成长展开讨论的杂谈节目。希望我们也许还不成熟的思考能够引起你的兴趣与共鸣。
 
+无责任编辑部 [RSS](https://rsshub.app/xiaoyuzhou/podcast/640011d71b1faf8a0b8148fc) IC实验室
+
 [卧游水母](https://jellynerds.wordpress.com/) – The Jellynerds Podcast
 
 镜像时间 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63dce2f4e99bdef7d3f4c532) 两个30+女生的闲谈 希望我们的聊天可以陪伴大家的闲暇时光 一起面对生活，互相取暖
@@ -1426,6 +1440,8 @@ PodcastGPT 人工智能访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/639
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwM0xRSnNfZGRnc1NoR1A5aW5KSHdKRmNhdFYuanBn.jpg"> 嘎里嘎气Gagaland [RSS](https://rsshub.app/xiaoyuzhou/podcast/62e2057ab6a34376ede80a76) 主播Erica。本节目将以我这名女性个体为支点，以我身边的女性为延伸，和广大女性听众一起，探索能让每位女性都生活得更好的经验和方法。
 
 Kayla和她的朋友们 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6378ad96f8c325fc32512482) 试图和99位来自各行各业的朋友一起聊天儿~分享生活
+
+大众波谱 [RSS](https://rsshub.app/ximalaya/album/35756259) 
 
 Kazakh Girls Club [RSS](https://rsshub.app/xiaoyuzhou/podcast/636c8c34b0725ebdf1e6fc74) 
 
@@ -2291,7 +2307,7 @@ happy podcast https://happyxiao.com/
 ##### <img width="35" src="https://imagev2.xmcdn.com/group46/M02/9F/A4/wKgKlluimQ6y33HPAANatvp3WUs157.jpg"> 什么电台 https://www.ximalaya.com/zhubo/28109901/
 ##### 声波飞行员 http://www.lizhi.fm/1635236/
 ##### 生产力维基 https://productivity.wiki/ 一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客。
-##### 生活漫游指南 https://www.ximalaya.com/toutiao/32161855/
+##### 生活漫游指南 [RSS1](https://rsshub.app/xiaoyuzhou/podcast/5e509e58418a84a046b2d5aa) 新科学脱口秀 https://www.ximalaya.com/toutiao/32161855/
 ##### 时差调频 https://www.ximalaya.com/zhubo/4403009
 ##### 四方论 https://www.ximalaya.com/renwen/15953278/
 ##### 说东道西
