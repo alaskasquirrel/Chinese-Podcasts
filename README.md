@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -14,7 +14,7 @@
 
 * [焦虑自救小册](https://github.com/chenyukang/anxiety-handbook) 
 
-|归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)|[那些出国以后才知道的事](https://www.douban.com/gallery/topic/84494/)|[Women In Tech 女性科技从业者集合地](https://www.douban.com/group/womenintech/)||
+|归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)|[那些出国以后才知道的事](https://www.douban.com/gallery/topic/84494/)|[Women In Tech 女性科技从业者集合地](https://www.douban.com/group/womenintech/)|[今天吃什么？](https://www.douban.com/gallery/topic/47412/)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)|[女性](#女性)|||
 |[IPN](#ipn)|[Freelancer](#Freelancer)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
@@ -74,7 +74,9 @@
 
 <img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/) 分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目
 
-<img width="35" src="https://imgs.zhubai.love/861bdb2d977d4c16916e5b455726d3d4.jpg"> [播客荚](https://podcastpeas.zhubai.love/)是一个媒体计划，每周以主题的形式推荐播客。希望能带你寻找掉落在播客之间的那些可能微小但真诚的声音。
+<img width="35" src="https://imgs.zhubai.love/861bdb2d977d4c16916e5b455726d3d4.jpg"> [播客荚](https://podcastpeas.zhubai.love/)是一个媒体计划，每周以主题的形式推荐播客。希望能带你寻找掉落在播客之间的那些可能微小但真诚的声音
+
+技术播客月[RSS](https://rsshub.app/xiaoyuzhou/podcast/62bbf1b0ebfc753783b1f706), [bilibili](https://space.bilibili.com/433584098/search/video?keyword=%E6%8A%80%E6%9C%AF%E6%92%AD%E5%AE%A2%E6%9C%88) 
 
 [open-podcasts](https://github.com/opensource-f2f/open-podcasts): This is a cloud-native Open Podcasts 开源播客平台
 
@@ -103,6 +105,8 @@
 ##### <img src="https://i.typlog.com/liqixpodcast/jmVzNQETjZrH8Znh-oV9_w.png?x-oss-process=style/ss" width="40"> 利器x播客: https://liqixpodcast.typlog.io/
 
 ##### <img src="./images/hubbub.png" width="40"> 中文播客(Chinese Podcast) https://hubbub.top/ 收集中文内容的Podcasts内容，喧嚣的世界才真实。
+
+Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology-podcast/)
 
 ##### Zpodcasts - 寻找Z时代的独立播客 https://wiki.zpodcasts.com/
 
@@ -702,6 +706,7 @@
 
 ||
 |:------|
+|[Async Talk](https://asynctalk.com/), [RSS](https://rsshub.app/xiaoyuzhou/podcast/61684ce4d8fa23fb00fc4d3a) 一档中文，面向对 web 开发感兴趣的朋友所录制的 Podcast 节目。|
 |<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxT1VyZUZrS3ZvRnZ1d3hnaWVBazFZY2pUWG4ucG5n.png"> [Web Worker](https://webworker.tech/)  几个前端程序员闲聊的前端中文音频播客节目。[RSS](https://rsshub.app/xiaoyuzhou/podcast/613753ef23c82a9a1ccfdf35)|
 |<img width="35" src="https://syntax.fm/static/logo.png"> [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.|
 |<img width="35" src="https://spec.fm/static/img/shows/reactpodcast.jpg"> React Podcast https://spec.fm/podcasts/reactpodcast|
@@ -1030,7 +1035,7 @@
 | <img width="35" src="https://podlink.imgix.net/8ae2b57d611b1bd92455e345101f1dcf/poster.jpeg"> A Small Gathering with Ying [RSS](https://yinggathering.com/feed/podcast/) . <br>[Ying Gathering](https://yinggathering.com/) – Heal your past, Find your purpose, Live consciously, Self actualize |
 | 博客：[猫和柴的野游](https://meowshiba.com/) - 记录猫和柴在外漂泊的野游经历，[2021年子宫肌瘤诊疗流水账](https://meow.meowshiba.com/all-about-fibroids/)<br>播客：[时间醍醐](https://timewine.meowshiba.com/) 是一档由一只柴、大桐和一只海豹主播的轻松的文化类节目。愿我们一起遨游在人类社会浩瀚的时间长河中，在无数个别样人生里，共同找寻一些醍醐灌顶的时刻。 [RSS](https://anchor.fm/s/1e6867d0/podcast/rss) |
 | 博客：[四喜丸子](https://fourhappylions.com/) |
-| 博客：[After 27 ](https://www.after27.me/) |
+| 博客：[After 27 ](https://www.after27.me/)<br>播客：[饭饭之交]() |
 | 博客：[Cosmos](https://cosmo-polite.com/) – 自我探索 认真生活 分享想法 |
 | 博客：[森林中的布朗尼](https://pandapanderson.wordpress.com/) |
 | 博客：[椒盐鸵鸟](https://blog.douchi.space/) |
@@ -1645,8 +1650,6 @@ DV计划 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6216190f30fca3133c0f81b1)
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy85NTU0LWF1ZGlvZnJlZWhpZ2hxcHMvN0IvNTYvQ01Db09TSUZGMnRlQUFSendRRGpRX054LmpwZWc=.jpeg"> 盐和面包 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6141ac65df3ee5e33c300c51) 一档文化播客，会聊聊槲寄生里其他人装作看不见的蝻钩
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy84ZmQxLWF1ZGlvZnJlZWhpZ2hxcHMvQzUvQ0YvQ01Db09TUUUxeG9EQUFMbUF3RFBJdlB6LmpwZWc=.jpeg"> 银杏树下 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60e4e64e531cf97e7cbb7587) 银杏树下，一起读书，分享美好 山水亦书也，棋酒亦书也，花月亦书也 旧雨新知，读几本无用闲书，聊一段有趣故事
-
-Eng Cafe 程序员喝咖啡的时候都谈论些什么
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzL2UvZTA1MzA3MDgtNzA4ZS00MjBkLWJkNzktYTMxMjMwMjkyZjVhL2NvdmVyLmpwZz92PTI=.jpg"> 商业WHY酱 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61315abc73105e8f15080b8a)
 
