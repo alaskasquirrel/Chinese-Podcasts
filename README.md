@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -798,6 +798,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |<img width="35" src="http://p2.music.126.net/WLqV9t5zSbDGv-ooaCNB-Q==/109951166231979702.jpg"> [理响谈](https://music.163.com/#/djradio?id=795816961)  重庆人用重庆话谈论自己以及朋友热爱的音乐，还有与音乐相关的生活故事。|
 | <img src="https://imagev2.xmcdn.com/storages/ed05-audiofreehighqps/8B/2F/CMCoOSYDmUdSAAEZ5ABsGGOC.png" width="30"> 山城龙门阵 https://www.ximalaya.com/shishang/44160859/ 。[RSS](https://www.ximalaya.com/album/44160859.xml) ; [bilibili](https://space.bilibili.com/1210609473/video) |
 | [伪医生律师的博客](https://chidd.net/) – 记录、生活、思考 |
+| 重庆实拍 [bilibili](https://space.bilibili.com/3493262641859251/video) |
 
 ### 甘肃:
 
@@ -994,6 +995,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：[旋转木马鏖战记](https://samsmerrygoround.github.io/) 心理学博士在读 |
 | 博客：[波澜随心起](https://randomwaves.space/) |
 | 博客：[treex2.me](https://www.treex2.me/) |
+| 加拿大一家五口日常 [bilibili](https://space.bilibili.com/518377748/video) |
 
 ### 江苏：
 
@@ -1015,6 +1017,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 以后俞生 [bilibili](https://space.bilibili.com/3493086552394525/video) 纽约网约车司机 |
 | 末路狂花 [RSS](https://feeds.simplecast.com/ubM2eeUe) 快意之事莫若友，快友之事莫若谈。末路狂花是由三位大学女友共同主持的播客。 |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/ad6d335506d7a396c15cb88745978bc2a470503c.jpg"> 芳姐和王子 [bilibili](https://www.bilibili.com/video/BV1H34y1e7nJ/) 没事就做做饭，偶尔发一下在米国的日常，就图个开心 |
+| M_格子的加州生活 [bilibili](https://space.bilibili.com/73340101/video) |
 | <img src="https://i0.hdslb.com/bfs/face/1214f1362428a1b1806bec4e4a7e7ecd73753e78.jpg@128w_128h_1o.webp" width="30"> 不哼哼 [bilibili](https://space.bilibili.com/14198768) 抽雪茄，聊生活，侃美国，女儿奴。 |
 | Angela在美国 [bilibili](https://space.bilibili.com/695312717/video) Angela来自中国，美国先生毕业后去中国工作并学习中文。分别在工程和教育领域工作。现在一家三口居住在 |
 | <img src="https://i1.hdslb.com/bfs/face/2b6f55748c1bf1725bc366ca9867e7091e44f42d.jpg@128w_128h_1o.webp" width="30"> Emma的小频道 [bilibili](https://space.bilibili.com/36863529)  Emma是嫁到美国的一只土小妞，Bo是从小在美国长大的韩裔美国人，拍生活视频是为了让国内的家人朋友更好的了解我在美国的生活。 |
@@ -1382,6 +1385,8 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzkvOWE5MTQxNGUtNTFiMC00MmFlLWJlZTctMmMxN2QzYzFjMTQ2L2NvdmVyLmpwZz92PTE=.jpg"> 商业就是这样 [RSS](https://feeds.fireside.fm/thatisbiz/rss) 
 
 [姬羊同笼](https://sheepchick.typlog.io/), [RSS](https://sheepchick.typlog.io/feed/audio.xml)
+
+The.Newsroom [RSS](https://rsshub.app/xiaoyuzhou/podcast/63ad26649acee6cd2f84e0ca) 
 
 禁止携带 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62fd05da83fbbc3bfd39689d) 一位自由摄影师的个人播客，力图揭示游走于世界边缘地带的真实所见所感，并随时随机分享。
 
