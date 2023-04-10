@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -532,7 +532,6 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8wZjI1LWF1ZGlvZnJlZWhpZ2hxcHMvRTcvRjgvR01Db09TSUZZdEttQUFMeGFRRDJOSU8xLmpwZWc=.jpeg@"> 主播来了 : 一个主播采访类播客。在这里，我们会邀请各播客主播上节目，聊聊他们播客背后的故事以及自己。[RSS](http://www.ximalaya.com/album/54654006.xml) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy80MzllLWF1ZGlvZnJlZWhpZ2hxcHMvNkMvRUIvQ01Db09SOEVEZ2NEQUFMckxRQ0w4SHJELmpwZWc=.jpeg@"> 螺丝在拧紧  [RSS](http://www.ximalaya.com/album/47008946.xml) |
 | <img width="35" src="http://p1.music.126.net/OnIwpLcVW9dBjbtUrzSomg==/109951166801436845.jpg"> [英雄电台](https://music.163.com/#/djradio?id=794356453) |
-| <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9UaGVXZWlyZG8ucG5n.png"> [不合时宜](https://music.163.com/#/user/home?id=2036219929) [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e280fb8418a84a0461fd076) 一档由三个生活在不同时区的（前）媒体人共同创作的播客节目。 微博： @不合时宜 TheWeirdo |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/a1dc-audiofreehighqps/9F/1E/CMCoOR8DdohBAAKlIQBjJqsA.jpg"> 双重意识DoubleConsciousness 一档关于「和我们看似无关却又紧密相关的学术研究」的播客  [RSS](https://www.ximalaya.com/album/43408864.xml) |
 
 ### 开源：
@@ -790,6 +789,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：[最好金龟换酒](https://fz0512.com/) |
 | 博客：[王叨叨](https://wangdaodao.com/) Beijing ⇄ Tianjin |
 | 博客：Joe's Blog —— [北漂青年的租房维权日记](https://hijiangtao.github.io/2023/03/02/House-Renting-Tips-in-Beijing/) |
+| 枫言枫语： 2022 老苏 - [在北京工作和生活是什么体验？](https://justinyan.me/post/4971), [RSS](https://justinyan.me/feed/podcast). |
 
 ### 重庆：
 
@@ -843,7 +843,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |德国牛哥，一名居住在德国的湖南程序员 [博客](https://sichengingermay.com/)|
 |<img width="35" src="https://www.kenshinji.me/wp-content/uploads/2022/01/cropped-Screenshot-2022-01-09-at-22.35.17-e1641764404140.png"> 我是Fred， 是一名在德国柏林工作的软件工程师 [中文博客](https://www.kenshinji.me/)，[twitter](https://twitter.com/kenshinji)，[YouTube](https://www.youtube.com/c/FredTalk2022/videos)|
 |[华山](https://blog.shan-web.com/about), [twitter](https://twitter.com/apiSchaan).|
-|[YU (@FreiheitYu)](https://twitter.com/FreiheitYu) 余晟|
+|[YU (@FreiheitYu)](https://twitter.com/FreiheitYu) 余晟<br>枫言枫语：2023 余晟 - [在德国工作和生活是什么体验？](https://justinyan.me/post/5561), [RSS](https://justinyan.me/feed/podcast).|
 |[也谈钱](https://yetanmoney.com/) – Stay hungry, stay foolish.|
 |[蛰洲](https://aliangx.blog/)|
 
@@ -862,6 +862,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |博客：[YoungForest](https://youngforest.github.io/)'s blog|
 | <img src="./images/程语.jpg" width="30">  程语|
 | <img src="./images/程言程语.jpg" width="30">   程言程语|
+| ggtalk 程序员闲聊节目：2020 小魏 - [欧洲硅谷都柏林](https://talk.swift.gg/71), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 ### 冰岛：
 
@@ -890,14 +891,16 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 ||
 |:---|
-|[the Paris Review]()|
+|[Paris Review - Writers, Quotes, Biography, Interviews, Artists](https://www.theparisreview.org/)|
 |Yooupi食途 [bilibili ](https://space.bilibili.com/452412746) |
 |奎奎奎奎奎尼 [bilibili](https://space.bilibili.com/13100572/video) |
 |<img width="35" src="https://i2.hdslb.com/bfs/face/485b4d7d29143fb4a878096ce7b129ad817b6201.jpg"> 在法国生活的四姐 [bilibili](https://space.bilibili.com/1664846507/video) |
 |[不拘一格 nevermind]() 一档由三位留法无业游民在餐桌上发起的泛文化类谈话节目 |
 | 性別芭楽｜巴黎日常 [RSS](https://feeds.soundon.fm/podcasts/5c9a2159-1137-44a5-9462-744cf5ff6a92.xml) |
 |小阳[twitter](https://twitter.com/young4ever_fr) |
-|海边公园 Seaside Park [2022 从法国回中国，法佬为什么放弃了养老生活？](https://seasidepark.xyz/episodes/seasidepark-d4c300ee) |
+| 不合时宜：2023 [法国是流动的盛宴，而每个人有自己的道路｜在异乡 02](https://www.xiaoyuzhoufm.com/episode/640dcd1b092eb63cb06daf8e), [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e280fb8418a84a0461fd076). |
+|海边公园 Seaside Park：2022 [从法国回中国，法佬为什么放弃了养老生活？](https://seasidepark.xyz/episodes/seasidepark-d4c300ee) |
+|ggtalk 程序员的闲聊节目：2019 [在法国生活是什么体验](https://talk.swift.gg/28), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 ### 芬兰：
 
@@ -930,6 +933,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |博客：[图拉鼎](https://imtx.me/)|
 |博客：[周志强](https://strrl.dev/) STRRL / strrlthedev|
 |博客：怠惰のコエ - [imba久期](https://imba97.cn/)|
+|枫言枫语：2022 图拉鼎 - [在杭州工作和生活是什么体验？](https://justinyan.me/post/4928), [RSS](https://justinyan.me/feed/podcast).|
 
 ### 荷兰：
 
@@ -978,6 +982,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |<img width="35" src="https://i2.hdslb.com/bfs/face/7db4edb6d55f1e618cfa749b60f4c9446809ae93.jpg"> 东北峰叔 [bilibili](https://space.bilibili.com/441900167/video) 带你感受东北丹东宽甸这片土地的风土人情。|
 |[Kenshin Wang](https://kenshin.wang/) 大连|
 |[yihong0618](https://github.com/yihong0618/gitblog) 大连|
+|枫言枫语：2022 伊洪&Kenshin - [在大连工作和生活是什么体验？](https://justinyan.me/post/4863), [RSS](https://justinyan.me/feed/podcast).|
 
 ### 加拿大：
 
@@ -996,6 +1001,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：[波澜随心起](https://randomwaves.space/) |
 | 博客：[treex2.me](https://www.treex2.me/) |
 | 加拿大一家五口日常 [bilibili](https://space.bilibili.com/518377748/video) |
+| ggtalk 程序员闲聊节目：2019 关宇 - [聊聊加拿大的工作和生活](https://talk.swift.gg/38), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 ### 江苏：
 
@@ -1005,6 +1011,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |灯下漫谈 [RSS](http://www.ximalaya.com/album/56488590.xml)  南京大学悦读书社|
 |南京角落广播 [RSS](http://rss.lizhi.fm/rss/1441398.xml)|
 |[旅行漫记](https://synyan.cn/) – Travel Journal|
+|ggtalk 程序员闲聊节目：2019 [姑苏城里写代码](https://talk.swift.gg/57), [RSS](https://talkcdn.swift.gg/static/rss.xml).|
 
 ### 美国：
 
@@ -1014,6 +1021,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | [Writ Large](https://www.writlarge.fm/), [RSS](https://feeds.megaphone.fm/NBN6762108021) There’s more to a book than what’s written on its pages: a book can change the world. |
 | If Books Could Kill [RSS](https://feeds.buzzsprout.com/2040953.rss) The airport bestsellers that captured our hearts and ruined our minds |
 | 北方人在美国 [bilibili](https://www.bilibili.com/video/BV1Ay4y1g7J9/) 留学生一枚，在美国闲来无事的时候拍点视频，给大家讲一讲真实的美国 |
+| 乔纳森一家 [bilibili](https://space.bilibili.com/3493257474476489/video) 中美家庭，相遇在西雅图，相识在北京，育有两名混血小公主，老二出生后和公婆一起居住，分享中美家庭的日常～ |
 | 以后俞生 [bilibili](https://space.bilibili.com/3493086552394525/video) 纽约网约车司机 |
 | 末路狂花 [RSS](https://feeds.simplecast.com/ubM2eeUe) 快意之事莫若友，快友之事莫若谈。末路狂花是由三位大学女友共同主持的播客。 |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/ad6d335506d7a396c15cb88745978bc2a470503c.jpg"> 芳姐和王子 [bilibili](https://www.bilibili.com/video/BV1H34y1e7nJ/) 没事就做做饭，偶尔发一下在米国的日常，就图个开心 |
@@ -1057,6 +1065,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：[狡猫三窝](https://slykiten.com/) – “美”不是一种外部标准，它是一种内在情感。那是爱。 |
 | 博客：[Frank](https://nyan.im/)'s Weblog |
 | 博客：[一座島](https://island.shaform.com/zh/) |
+| ggtalk 程序员闲聊节目：2020 道长三十 - [工科生如何去美国读研？](https://talk.swift.gg/62) 、[在硅谷工作是怎样一种体验？](https://talk.swift.gg/63)、[程序员的美国生活真的很香吗？](https://talk.swift.gg/64). [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 ### 墨西哥：
 
@@ -1120,6 +1129,8 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 委世浮华 [bilibili](https://space.bilibili.com/416121447/video) |
 | [Software Developer Jobs in Japan](https://www.tokyodev.com/) |
 | [Software Developer and Tech Jobs in Japan](https://japan-dev.com/) |
+| ggtalk 程序员的闲聊节目：2022 十元 - [文科转码的程序员，在日本跳了个槽](https://talk.swift.gg/93), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
+| ggtalk 程序员的闲聊节目：2019 利炳根 - [在日本生活是什么体验](https://talk.swift.gg/35), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 ### 瑞典：
 
@@ -1176,6 +1187,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：运维咖啡吧—— [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4upsphcgqksoneotn3llw) |
 | 博客：[阿锋的小宇宙](https://feng.pub/)                      |
 | 博客：[韦阳](https://godweiyang.com/)                        |
+| 2022 JJ: [在上海工作和生活是什么体验？](https://justinyan.me/post/5316) Anyway.FM × 枫言枫语 |
 
 ### 深圳:
 
@@ -1243,6 +1255,12 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |[Sidewalk \| 人行道](https://swalk.blogspot.com/)，豬小草的部落格 |
 |[Darkened underpass ](https://personaljournal.ca/jxtsai/) |
 
+### 泰国：
+
+||
+|:---|
+|ggtalk 程序员闲聊节目：2019 [聊聊泰国的工作和生活](https://talk.swift.gg/42), [RSS](https://talkcdn.swift.gg/static/rss.xml).|
+
 ### 西藏:
 
 ||
@@ -1298,6 +1316,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 杨中科 [bilibili](https://space.bilibili.com/27948784/video) |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/b3ae-audiofreehighqps/8B/E3/CMCoOScDjydpABH90wBpYE9q.jpeg"> 9号酒馆 [RSS](https://www.ximalaya.com/album/43981172.xml) |
 | [萧宸宇 (iiiyu)](https://iiiyu.com/)，[twitter](https://twitter.com/iyunsn). |
+| ggtalk 程序员闲聊节目：2019 Ben - [聊聊新西兰的工作和生活](https://talk.swift.gg/40), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 
 ### 新加坡：
@@ -1315,6 +1334,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：[Timothy](https://xiaozhou.net/) |
 | 博客：[咸糖](https://vim0.com/) - 自律者自由 |
 | 博客：[phith0n](https://www.leavesongs.com/) - 离别歌 |
+| ggtalk 程序员闲聊节目：2019 小乔 - [聊聊新加坡的工作和生活](https://talk.swift.gg/46), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 ### 以色列：
 
@@ -1342,6 +1362,9 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 「JM101」是一档由在伦敦流浪的海派杂家Jerry和一个在从0到1不断创业和自我救赎的Marcus主持的一档访谈类播客。独在异乡，每个漂泊在外的旅人都有着自己的精彩。这档播客邀请了101位在英国逗留的外乡人，听他们讲述属于自己的“中国人在英国”的故事，让我们一起构建异客。[RSS](https://rsshub.app/xiaoyuzhou/podcast/632b86fee67030aadb38e260) |
 | 博客：[光明岛](https://mokuyo.uk/) |
 | 博客：[无用之所](https://tetsuhannah.com/) – 哼着无用之歌，做着无用之事 |
+| 威廉威廉莫维奇 [bilibili](https://space.bilibili.com/1526725640/video) |
+| 不合时宜：2022 [到英国去 ｜在异乡 01](https://www.xiaoyuzhoufm.com/episode/637f73007105b234344c0f3f), [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e280fb8418a84a0461fd076). |
+| ggtalk 程序员闲聊节目：2019 lianlian - [聊聊英国的工作和生活](https://talk.swift.gg/44), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
 ### 印度尼西亚：
 
@@ -1501,6 +1524,8 @@ Modern Nomad 迁徙记 [RSS](https://rsshub.app/xiaoyuzhou/podcast/631f1e27f2181
 青腾树下 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626b650b3e8abf901a68d72d)
 
 超充派 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62f66629eb0492cf2f5086a7) 聊关于智能汽车科技的一切 
+
+缺角拼图 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6432334b9361a4e7c3072cd2) 一档文学漫谈类节目，从书籍出发，我们不断延伸，以书为镜，反观内省。这档节目也是主播的一次探寻之旅，身为文学生，我们在混乱的时代面前越发频繁地感受到文学的无力，在对文学作用存疑的时候，或许最应该做的就是继续读书，坚持思考，然后好好生活。
 
 奢侈品与品位
 
