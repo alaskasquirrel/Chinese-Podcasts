@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -380,6 +380,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |:----------------------------------------------------|
 | The Draymond Green Show |
 | <img src="https://imagev2.xmcdn.com/group83/M00/BB/73/wKg5I18gCQCBTrYHAAHJkt-YFIk552.jpg" width="30"> 观詹/詹俊电台 https://www.ximalaya.com/toutiao/40328617/ |
+| 记意电波 [RSS](https://rsshub.app/xiaoyuzhou/podcast/64341d0ec21112da279464c6) 一档有趣、有料、有个性的意大利足球播客节目，深度解析关于意大利足球的方方面面，带你走过亚平宁的每一个角落。 |
 | <img width="35" src="https://imagev2.xmcdn.com/storages/5159-audiofreehighqps/08/86/CMCoOSAEVblDAADSagChP1HV.jpg"> 金相凯电台 https://www.ximalaya.com/toutiao/48838359/ 足球热点，赛事评论，战术解析，历史钩沉，场内故事，场外花絮。 |
 | <img src="https://imagev2.xmcdn.com/group67/M0B/17/98/wKgMd13XwOXxETjBAAT3lQzk0wA901.jpg" width="30"> 两杆老烟枪MyArs  https://www.ximalaya.com/toutiao/31195070/ 两位阿森纳球迷主播将通过对球场故事的回溯，带出对经济、文化、历史等方面的解读。[RSS](https://rsshub.app/xiaoyuzhou/podcast/625e56e199e3b3f4bc570680) |
 | 冠军之路 2022 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6375f773a0c73a52ebade899) |
@@ -495,7 +496,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | [Uses This / Interviews](https://usesthis.com/)  Uses This asks a random selection of people all about the tools and techniques they're using to get things done. [RSS](https://usesthis.com/feed.atom) |
 | Known Unknowns 已知未知播客 [RSS](https://kukfm.com/rss)     |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82YzA5LWF1ZGlvZnJlZWhpZ2hxcHMvNzQvNUYvR01Db09TY0ZwUEcxQUFHOFR3RUk0STJuLmpwZWc=.jpeg"> 空间  [RSS](http://www.ximalaya.com/album/55336429.xml) |
-| 一派·Podcast 少数派SSPAI  , [RSS](https://sspai.typlog.io/episodes/feed.xml) |
+| 一派·Podcast 少数派SSPAI  , [RSS](https://sspai.typlog.io/feed/audio.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/e2ee-audiofreehighqps/28/44/CMCoOSADr80xAABTNAByBeVC.png" width="30"> 高下立判 https://www.ximalaya.com/keji/44797192/ |
 | <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2289524/2289524-1569802646186-cec499bfe6e4e.jpg" width="30"> 牛油果烤面包 https://avocadotoast.live 听硅谷从业人员谈论科技趋势和有趣的话题。  [RSS ](https://avocadotoast.typlog.io/episodes/feed.xml) |
 | Robust: 程序员的TALK PLACE [RSS](https://rsshub.app/ximalaya/album/34869197) |
@@ -594,7 +595,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 蘑菇食堂 - 韓劇、韓綜 Fan心聊 [RSS](https://open.firstory.me/rss/user/ckiobtbtwcoqv08505mkge1kg) 蘑菇 x 王喵 兩個愛看戲的女子對談 |
 | <img src="https://i.typlog.com/loudmurmursfm/8425979069_315848.jpg?x-oss-process=style/ss" width="30"> 小声喧哗 Loud Murmurs https://loudmurmursfm.com/ 停更 |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDgyL00wNy9EQi84Ni93S2c1SWw4NmxYNmh1amVqQUFJcl9qM3pSVWsyODkucG5n.png"> [电影聊养院](https://www.xiaoyuzhoufm.com/podcast/5f3d128b9504bbdb779e77fc)， [RSS](https://s1.proxy.wavpub.com/qualite.xml) |
-| <img width="35" src="https://imagev2.xmcdn.com/group87/M0B/AD/41/wKg5IV9NzVvw2DS8AABHloTe0pE621.png"> 不上不下 ：一档由两个年纪上不上不下、职场上也不上不下的女孩的客厅聊天记录。尴尬而自洽是她们目前所处的人生阶段，也是她们的聊天风格。给大家讲讲综艺内容制作的内幕和初代90后对社会的观察。[RSS](https://rsshub.app/ximalaya/album/41369730) |
+| <img width="35" src="https://imagev2.xmcdn.com/group87/M0B/AD/41/wKg5IV9NzVvw2DS8AABHloTe0pE621.png"> 不上不下 ：一档由两个年纪上不上不下、职场上也不上不下的女孩的客厅聊天记录。尴尬而自洽是她们目前所处的人生阶段，也是她们的聊天风格。给大家讲讲综艺内容制作的内幕和初代90后对社会的观察。[RSS1](https://rsshub.app/ximalaya/album/41369730), [RSS2](https://rsshub.app/xiaoyuzhou/podcast/5f4e04e49504bbdb77e4fa66). |
 | <img width="35" src="https://imagev2.xmcdn.com/group74/M07/7B/7B/wKgO0l6hp-7z-pEqAACapEBiIYY887.jpg"> 聊天记录 GroupChat [RSS](https://rsshub.app/ximalaya/album/37203151) |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b0936542-48b9-4f95-b1e5-b296fade2f91/cover_small.jpg"> [生活在别处](https://life-is-elsewhere.com/)  一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。[RSS](https://feeds.fireside.fm/life-is-elsewhere/rss) |
 | 一顿胡说 [RSS](https://rsshub.app/xiaoyuzhou/podcast/625432faabceb019a95527b0) 是个供朋友们畅聊的自留地 主播中有影视社畜、摄影民工、非著名导演...... 没有甲方，没有所谓对错，只有深思熟虑后的一通胡说 |
@@ -872,6 +873,12 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |:-----|
 | <img src="https://i0.hdslb.com/bfs/face/fe051d254b0c561dca1d51d57eb891e32315330f.jpg@128w_128h_1o.webp" width="30"> 亲爱的嘉倩 [bilibili](https://space.bilibili.com/388362147) 住在冰岛。微博@亲爱的嘉倩 |
 
+### 白俄罗斯：
+
+||
+|:---|
+|新气集ThinkAge: 2022 [施瑞婷：25岁的我在白俄罗斯小城孔子学院做负责人](https://thinkagepodcast.fireside.fm/56)|
+
 ### 俄罗斯：
 
 | |
@@ -1042,7 +1049,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 播客：[时间醍醐](https://timewine.meowshiba.com/) 是一档由一只柴、大桐和一只海豹主播的轻松的文化类节目。愿我们一起遨游在人类社会浩瀚的时间长河中，在无数个别样人生里，共同找寻一些醍醐灌顶的时刻。 [RSS](https://anchor.fm/s/1e6867d0/podcast/rss) |
 | 博客：<br>[After 27 ](https://www.after27.me/)，播客：[饭饭之交]()<br/>[猫和柴的野游](https://meowshiba.com/) - 记录猫和柴在外漂泊的野游经历，[2021年西雅图 子宫肌瘤诊疗流水账](https://meow.meowshiba.com/all-about-fibroids/)<br/>[四喜丸子](https://fourhappylions.com/)<br>[Cosmos](https://cosmo-polite.com/) – 自我探索 认真生活 分享想法<br>[森林中的布朗尼](https://pandapanderson.wordpress.com/)<br>[椒盐鸵鸟](https://blog.douchi.space/)<br>[雪糕](https://lyc.sh/) - 人對愛和永遠 應該有幻覺<br>[Borderline Journey](https://borderlinejourney.com/) – 世界边上的广阔风景<br>[Noodlehead](https://noodlehead.life/) Life. Tech. Design. It's all about noodles.<br>[无竹斋](https://bamboobone9.com/) 与君同醒复同醉，仰看青士冠剑长<br>[茶碗岛上茶包仔](https://teabagteapot.github.io/)<br>[梦呓醒删](https://crescendomeow.wordpress.com/) – To do or to be, that is the question.<br>[Tiny Loafer](https://tinyzoesy.github.io/)<br>[June 六月](https://shiorireads.ca/) 生きているのは暇つぶし, 播客：普通读者 [RSS](https://anchor.fm/s/3bd8896c/podcast/rss)<br>[唉，澜的。](https://www.lanisland.com/) , 播客：饭饭之交 [RSS](https://feeds.acast.com/public/shows/63a20fba6ac81a0010a9553c) [bilibili](https://space.bilibili.com/66749203)<br>[配信中](https://www.yocson.com/)<br>[一笼虾饺有四个](https://fourxiajiao.github.io/)<br>[猫头鹰狂想曲](https://www.owlrhapsody.com/)<br>[狡猫三窝](https://slykiten.com/) – “美”不是一种外部标准，它是一种内在情感。那是爱。<br>[Frank](https://nyan.im/)'s Weblog<br>[一座島](https://island.shaform.com/zh/) |
 | ggtalk 程序员闲聊节目：[RSS](https://talkcdn.swift.gg/static/rss.xml)<br>2020 道长三十 - [工科生如何去美国读研？](https://talk.swift.gg/62) 、[在硅谷工作是怎样一种体验？](https://talk.swift.gg/63)、[程序员的美国生活真的很香吗？](https://talk.swift.gg/64) |
-| 五湖四海 5lake4sea：<br>2023 潘行紫旻 - [孤独与别离的力量 ~ 四海漫游之美国盐湖城（与作曲家潘行紫旻）](https://5l4s.de/episodes/saltlakecity)<br>2022 [爆笑场！！想去美国上高中？上过的人说…… ](https://5l4s.de/episodes/highschool)<br>2022 [是什么让洛杉矶成了一个来了就不想走的城市？](https://5l4s.de/episodes/LA)<br>2022 [纽约为什么如此迷人？](https://5l4s.de/episodes/newyork) <br>2022 [美国德州奥斯汀实用指南](https://5l4s.de/episodes/austin) |
+| 五湖四海 5lake4sea：<br>2023 [孤独与别离的力量 ~ 四海漫游之美国盐湖城（与作曲家潘行紫旻）](https://5l4s.de/episodes/saltlakecity)<br>2022 [爆笑场！！想去美国上高中？上过的人说…… ](https://5l4s.de/episodes/highschool)<br>2022 [是什么让洛杉矶成了一个来了就不想走的城市？](https://5l4s.de/episodes/LA)<br>2022 [纽约为什么如此迷人？](https://5l4s.de/episodes/newyork) <br>2022 [美国德州奥斯汀实用指南](https://5l4s.de/episodes/austin) |
 
 ### 墨西哥：
 
@@ -1050,6 +1057,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |:----|
 |<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0NXJzUVdNa25YZExCV2xuUXJpRU51NnlEQ2IuanBn.jpg"> 墨西姐生活 [RSS ](https://rsshub.app/xiaoyuzhou/podcast/62bc421aee51bbc3067200df) 墨西哥南部Chiapas州的小镇San Cristóbal de las Casas|
 |五湖四海 5lake4sea：2022 陈禹 - [行他乡而知故里。拉丁美洲社会学者来谈一点来自墨西哥的想象力](https://5l4s.de/episodes/chenyu)|
+|新气集ThinkAge: 2022 [笛子：边跨国旅行边生了两娃，现在在墨西哥山里住了下来](https://thinkagepodcast.fireside.fm/55)|
 
 ### 宁夏：
 
@@ -1155,6 +1163,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 迷失上海｜播客先声 [RSS](http://www.ximalaya.com/album/55456236.xml) |
 | 博客：<br>[To the Lighthouse](https://owlswims.com/) - ..A Touch and yet not a touch<br>[薛船长在上海](https://captxue.blogspot.com/)<br>[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough.<br>[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。<br>[JiaYin's Life](https://imjiayin.com/) – I am not perfect but my life is.<br>运维咖啡吧—— [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4upsphcgqksoneotn3llw)<br>[阿锋的小宇宙](https://feng.pub/)<br>[韦阳](https://godweiyang.com/)<br>[阁楼](http://xuying.org/) – 我写作是为了光阴流逝使我心安 |
 | 2022 JJ: [在上海工作和生活是什么体验？](https://justinyan.me/post/5316) Anyway.FM × 枫言枫语 |
+| 新气集ThinkAge: 2021 “多抓鱼”创始人[猫助：我在上海“555区域”的生活日常](https://thinkagepodcast.fireside.fm/51) |
 
 ### 深圳:
 
@@ -1172,6 +1181,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 ||
 |:-----|
+|查理不朗妮11 [bilibili](https://space.bilibili.com/39532529/video) 重庆人在台湾｜普通话不标准｜分享台湾有趣的生活和美食（已婚）|
 |宮說宮有理 [RSS](https://feeds.soundon.fm/podcasts/071ce2a8-d70b-49b5-9bf0-eb68ec8f3bff.xml) 國立故宮博物院 National Palace Museum|
 |法法漾播客Vavayan [RSS](https://feeds.soundon.fm/podcasts/53997072-d01d-49cf-876d-6a866ff471f6.xml) 兩個排灣族女生sasa和ubi 希望透過聲音來讓社會大眾和族人們能夠了解關於原住民族的議題，認識真正的原住民文化。讓大家了解當代原住民在現代社會中所遇到的議題，聽到原住民的聲音與想法。 連結主流社會與原住民之間的關係。 我們會用一種排灣族幽默和認真的方式和大家聊聊「原住民族」，像是歷史語言、政治、經濟、生活、國際原住民族新聞等內容，也會邀請來賓深入了解原住民族的議題。|
 |一手故事 [RSS](https://open.firstory.me/rss/user/cl45s0e8w056k01w94iqq4m0u) 陳莉雅 這是一檔紀錄故事的 Podcast。我們會邀請許多素人，讓他們以第一人稱的方式講述他們自己的故事。|
@@ -1300,6 +1310,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | ggtalk 程序员闲聊节目：2019 小乔 - [聊聊新加坡的工作和生活](https://talk.swift.gg/46), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 | 五湖四海 5lake4sea：2022 新加坡怎么样([上](https://5l4s.de/episodes/Singapore1))([下](https://5l4s.de/episodes/Singapore2)), [RSS](https://5l4s.de/feed/audio.xml). |
 | 二分电台：2022 [在新加坡做技术销售](https://binary.2bab.me/episodes/019-attended-20-confs-in-a-month). |
+| 新气集ThinkAge：2022 [张华：教育游牧家庭在新加坡](https://thinkagepodcast.fireside.fm/69) |
 
 ### 以色列：
 
@@ -1311,7 +1322,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 | |
 |:---------|
-| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/df59131c-f898-4433-989b-52ac7d659dd0/cover_small.jpg"> [新气集](https://thinkagepodcast.fireside.fm/) 主播：李梓新，「三明治」创始人. [RSS](https://feeds.fireside.fm/thinkagepodcast/rss) |
+| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/df59131c-f898-4433-989b-52ac7d659dd0/cover_small.jpg"> [新气集](https://thinkagepodcast.fireside.fm/) 主播：李梓新，「三明治」创始人. [RSS](https://feeds.fireside.fm/thinkagepodcast/rss)<br>2021 艾米：[每天到伦敦的森林上班](https://thinkagepodcast.fireside.fm/48)<br>2021 杨猛：[一个移民英国的中文非虚构作家，选择写什么?](https://thinkagepodcast.fireside.fm/27)<br>2021 扶霞：[一个为川菜立传的英国人](https://thinkagepodcast.fireside.fm/24)<br>2020 赵思奇：[一个饮食人类学研究生经历的伦敦中餐江湖](https://thinkagepodcast.fireside.fm/13)<br>2020 邵捷，吴帆：[这个秋天，是否还送孩子到英国留学？](https://thinkagepodcast.fireside.fm/4) |
 | [小赖子](https://justyy.com/)的英国生活和资讯 [bilibili](https://space.bilibili.com/1826201500) |
 | [董先生](https://www.elephi.win/2020/03/14/%E8%8B%B1%E5%9B%BD%E5%8C%BB%E7%96%97%E6%8E%A0%E5%BD%B1/) , [twitter](https://twitter.com/elephi).<br>小人物：2020 [IT老兵董先生在英国工作的五年](https://anobody.im/podcast/vol34/) |
 | Ins: [Kevin Lin](https://www.instagram.com/kevin.lyn/) |
@@ -1373,6 +1384,8 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzkvOWE5MTQxNGUtNTFiMC00MmFlLWJlZTctMmMxN2QzYzFjMTQ2L2NvdmVyLmpwZz92PTE=.jpg"> 商业就是这样 [RSS](https://feeds.fireside.fm/thatisbiz/rss) 
 
+泉 [RSS1](https://rsshub.app/xiaoyuzhou/podcast/6233d7b69b0d0faff3f5fe69), [RSS2](https://media.rss.com/izumi/feed.xml). 一档关注各种视觉与文本材料的播客节目，由两位不务正业的艺术史和电影学生主持。我们希望可以用这档节目展开不同角度的对话，为生活带来一点灵感与幽默感。
+
 壮游者|人文旅行声音游记 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e3be96f418a84a046fc742d) 一档人文旅行声音游记播客。
 
 离心力比多 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60e2d4c838b5b0e1a54180c4) 一对两岸小夫妻的私房话
@@ -1381,6 +1394,8 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 F1方程式漫谈 [RSS](https://rsshub.app/ximalaya/album/47471366) F1方程式赛车相关播客节目。内有F1相关的消息，技术分析，及每场赛后的全长比赛回顾节目。
 
+文马法律实验室｜律师职场 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6264c81d3db96e05d876f819) 
+
 [姬羊同笼](https://sheepchick.typlog.io/), [RSS](https://sheepchick.typlog.io/feed/audio.xml)
 
 The.Newsroom [RSS](https://rsshub.app/xiaoyuzhou/podcast/63ad26649acee6cd2f84e0ca) 
@@ -1388,6 +1403,10 @@ The.Newsroom [RSS](https://rsshub.app/xiaoyuzhou/podcast/63ad26649acee6cd2f84e0c
 禁止携带 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62fd05da83fbbc3bfd39689d) 一位自由摄影师的个人播客，力图揭示游走于世界边缘地带的真实所见所感，并随时随机分享。
 
 旧世代 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62c23cc5ee51bbc3067202c6) 旧世代游戏和游戏文化
+
+秘密飞船 [RSS](https://rsshub.app/ximalaya/album/53044398) 一档由两位叛逆期延迟的搬砖少女创立的播客，探讨怎么跟自己的大脑和身体搞好关系。
+
+ALL IN [RSS](https://rsshub.app/xiaoyuzhou/podcast/64353b9091de323deba9ff7b) 运动，潮流，数码～来听听看，说不定能听到不为人知的故事哈哈
 
 知本论 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63abaed14ded9d81d0a11d46) 这是一档由中信出版旗下知识服务品牌——中信书院打造的泛投资类知识播客。我们生活的世界，已经被信息、观念、态度、数据、标签重新建构。
 
@@ -1406,6 +1425,8 @@ Hey Jude [RSS](https://rsshub.app/xiaoyuzhou/podcast/6135e641babb6290e0aedaa4) �
 超智游戏 [RSS](https://rsshub.app/ximalaya/album/42691234) 凉意主持或独角的一档播客节目，希望提供超越二元对立角度的内容，跟大家一起面对现代生活这个超智游戏，看见对错之外的复杂世界。
 
 散心二意Scattered [RSS](https://feeds.buzzsprout.com/2137314.rss) 一档关于ADHD的中文播客，由两位ADHD女性主播狩江和枕侠的闲聊构成，不定期也会有其他女性嘉宾串门。我们会在节目里分享关于ADHD的知识和女性ADHD群体的人生故事。我们想通过这档节目在女性群体中普及关于ADHD的知识，帮助和我们拥有同样特质的女性了解自己，促进ADHD的早期发现。散心二意中的“散“来自于英文单词scattered，因为分心的人也常常被叫做scattered brain。
+
+无事可谈 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61f26c78aa9f8e911f1b3052) 一档三无聊天节目，无事是指无所谓的事、无意义的事和还有一个无没想好，但这些“无事”都是🉑️谈的。
 
 张春酷酷酷 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63311d0f9186d4e4c46a0530) 
 
@@ -1557,6 +1578,8 @@ Modern Nomad 迁徙记 [RSS](https://rsshub.app/xiaoyuzhou/podcast/631f1e27f2181
 
 OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群的访谈节目，围绕普通人的自我认同和出柜经历，给你带来多元的视角和声音。
 
+一起 BB CALL [RSS](https://rsshub.app/xiaoyuzhou/podcast/60d3fb62928e9dfbe1a78635) 远在伦敦和墨尔本的好朋友Blake & Bonnie的吹水播客节目。此播客已开启环球旅行模式，邀你一起云游列国，穿越古今，体验各地的文化、历史、美食、艺术，还有科技。
+
 不想合作 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6215511eb191c78ec80c2c98) 
 
 [三分音福](https://rsshub.app/xiaoyuzhou/podcast/632bea50f9101a1a5422db48) 
@@ -1568,6 +1591,10 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9d1db624-b36b-4580-9a43-8c71a6033690/cover_small.jpg"> 二零年代 https://backtothefuture.fireside.fm/
 
 ##### 妮可的精神世界 [RSS](https://feeds.fireside.fm/nicosworld/rss) Nico精神世界的窗口
+
+好事发生FM [RSS](https://rsshub.app/xiaoyuzhou/podcast/641bb8a6cf4d1bb02b394cb8) 由好事发生出品的对谈类播客，由好事发生App开发者@后厂女工小王 和她的朋友们共同制作，专注分享生活中的美好。 我们相信好消息拥有着神奇引力：关注美好的人会获得更多美好，记录好消息的你会吸引更多好消息。 每天我们都会收到很多用户的投稿。在这个节目里，我会邀请我的一位好朋友一起共读用户投稿的好事。希望它们能带给你欢乐和力量。让我们一起用生活的美好和善意，点燃驱散人生寒意的篝火。 好事发生，你的赛博避风港。💛
+
+big idea 大聪明 [RSS](https://rsshub.app/xiaoyuzhou/podcast/64142804f44a83f79f341d6b) 又是一天，我是所长bibabo。 一些新鲜事物的大聪明。
 
 认真闲聊 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e8173cc418a84a046a05ef6)
 
@@ -1599,7 +1626,7 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 
 [半影fm]() 
 
-迷因电波 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61d52b3bee197a3aac3dac44)
+迷因电波 [RSS1](https://rsshub.app/xiaoyuzhou/podcast/61d52b3bee197a3aac3dac44) [RSS2](https://rsshub.app/ximalaya/album/56087690) 
 
 例外状态 https://anchor.fm/lwzt， [RSS](https://anchor.fm/s/5d9c1a28/podcast/rss) 「表征与拟像」旗下的一档文化类播客节目。
 
@@ -1825,7 +1852,7 @@ c+ talk show
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMucGlwcGEuaW8vc2hvd3MvdW5kZWZpbmVkLzE2Mjc0ODYzNjUyMzQtMjNiODEyMWNiYWRmMzE0YmM4NTRjZDA3ZjljMzA5YWYuanBlZw==.jpeg"> 偶然误差FM [RSS](https://feeds.acast.com/public/shows/DeviationAllowed) 
 
-##### 宇宙牌电饭锅
+##### 宇宙牌电饭锅 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6045ea89236f017f9b64f333) 
 
 废弃沙发 [RSS](https://rsshub.app/xiaoyuzhou/podcast/600e5e4f6163edb31ee64849)
 
@@ -1963,7 +1990,7 @@ happy podcast https://happyxiao.com/
 
 ##### <img width="35" src="https://imagev2.xmcdn.com/storages/c92d-audiofreehighqps/B7/49/CMCoOSMEIhpGAACZpwCRzl3q.jpeg"> 不止读书 [RSS](https://www.ximalaya.com/album/47548262.xml)
 
-##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9) 
+##### <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jODVjLWF1ZGlvZnJlZWhpZ2hxcHMvMkUvMTcvQ0t3UklVRUUxc2RQQUFIYmpBRE84ekdGLmpwZWc=.jpeg"> [东腔西调](https://www.xiaoyuzhoufm.com/podcast/5f72b66083c34e85dd14fde9) [RSS](https://rsshub.app/ximalaya/album/41153937)
 
 就我话多 https://www.xiaoyuzhoufm.com/podcast/61c14c69525ed83bfde4f226
 
