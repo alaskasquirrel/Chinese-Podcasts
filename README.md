@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -16,7 +16,7 @@
 
 |归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)|[那些出国以后才知道的事](https://www.douban.com/gallery/topic/84494/)|[Women In Tech 女性科技从业者集合地](https://www.douban.com/group/womenintech/)|[今天吃什么？](https://www.douban.com/gallery/topic/47412/)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)|[女性](#女性)|||
+|[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)|[女性](#女性)|[逆社会时钟](https://www.douban.com/group/694845/)||
 |[IPN](#ipn)|[Freelancer](#Freelancer)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[Python](#Python)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[体育](#体育)|[津津乐道](#津津乐道)|[交流访谈](#交流访谈)|[Golang](#Golang)|
@@ -905,7 +905,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |Yooupi食途 [bilibili ](https://space.bilibili.com/452412746) |
 |奎奎奎奎奎尼 [bilibili](https://space.bilibili.com/13100572/video) |
 |<img width="35" src="https://i2.hdslb.com/bfs/face/485b4d7d29143fb4a878096ce7b129ad817b6201.jpg"> 在法国生活的四姐 [bilibili](https://space.bilibili.com/1664846507/video) |
-|[不拘一格 nevermind]() 一档由三位留法无业游民在餐桌上发起的泛文化类谈话节目 |
+|不拘一格 nevermind [RSS1](https://bujuyigenm.typlog.io/feed/audio.xml), [RSS2](https://rsshub.app/xiaoyuzhou/podcast/60f1b034e22e4ef49a8d04c2) 一档由三位留法无业游民在餐桌上发起的泛文化类谈话节目 |
 | 性別芭楽｜巴黎日常 [RSS](https://feeds.soundon.fm/podcasts/5c9a2159-1137-44a5-9462-744cf5ff6a92.xml) |
 |小阳[twitter](https://twitter.com/young4ever_fr)<br>小人物：2021 [程序员小阳，在巴黎的小众职业](https://anobody.im/podcast/vol47/). |
 | 不合时宜：2023 [法国是流动的盛宴，而每个人有自己的道路｜在异乡 02](https://www.xiaoyuzhoufm.com/episode/640dcd1b092eb63cb06daf8e), [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e280fb8418a84a0461fd076). |
@@ -1373,6 +1373,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 ||
 |:----|
+|岩中花述 [RSS](https://rsshub.app/xiaoyuzhou/podcast/625635587bfca4e73e990703) 本节目是由意大利奢侈品牌GIADA为成熟高知女性推出的一档播客节目。|
 |<img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) 听她们聊聊互联网科技的社会意涵，职场中女性的困惑和感悟 [RSS](https://womenintechcn.squarespace.com/podcast-she-talks-tech?format=rss)|
 
 ### 南极洲
@@ -1383,9 +1384,15 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 ### 待分类：
 
+无业游民 https://theue.me/
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzkvOWE5MTQxNGUtNTFiMC00MmFlLWJlZTctMmMxN2QzYzFjMTQ2L2NvdmVyLmpwZz92PTE=.jpg"> 商业就是这样 [RSS](https://feeds.fireside.fm/thatisbiz/rss) 
 
+DO [RSS](https://rsshub.app/xiaoyuzhou/podcast/6419055a7552e4f3bb95f66a) 这里是一个关于艺术与人文思考、小而美的事物、以及创造力的空间。
+
 泉 [RSS1](https://rsshub.app/xiaoyuzhou/podcast/6233d7b69b0d0faff3f5fe69), [RSS2](https://media.rss.com/izumi/feed.xml). 一档关注各种视觉与文本材料的播客节目，由两位不务正业的艺术史和电影学生主持。我们希望可以用这档节目展开不同角度的对话，为生活带来一点灵感与幽默感。
+
+车内放羊 [RSS](https://rsshub.app/ximalaya/album/70493231) 这里是所有「艺术从业者」与「生活艺术家」的闲话桌！未来艺术家小陈（CN）未来作家的费总（FY），开着破卡车，颠簸在创作这场没有终点的牧羊之路上。车后座留给朋友们，请随时竖起大拇指搭车，和我们秉烛夜聊到天明。
 
 壮游者|人文旅行声音游记 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e3be96f418a84a046fc742d) 一档人文旅行声音游记播客。
 
@@ -1394,6 +1401,8 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 在场证明 [RSS ](https://rsshub.app/xiaoyuzhou/podcast/629d87ad1d0ab157aaf262bf) we were there 一档围绕场所的漫谈播客。我们试图将场所作为载体和效用的抽象概念中解脱出来，建立充满意义的关系，从立足点回归生活世界。这里证明了我们的在场，同时也欢迎你的在场与证明。 Make “we were there”into “we are here”
 
 F1方程式漫谈 [RSS](https://rsshub.app/ximalaya/album/47471366) F1方程式赛车相关播客节目。内有F1相关的消息，技术分析，及每场赛后的全长比赛回顾节目。
+
+边角聊 [RSS](https://feeds.fireside.fm/leftovertalk/rss) 一档跨界的谈话类播客节目，希望从“边角”出发探寻“本质”，让“闲聊”变得“有料”。
 
 文马法律实验室｜律师职场 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6264c81d3db96e05d876f819) 
 
@@ -1421,7 +1430,7 @@ Hey Jude [RSS](https://rsshub.app/xiaoyuzhou/podcast/6135e641babb6290e0aedaa4) �
 
 昨日之海 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61da42f6fcdb5c6c8fcc167e) 
 
-源宇宙 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63b8f1f2289d2739647d95f1) 一档聚焦年轻人当下生活、工作、学习的中文播客节目，在这里，有年轻人最真实的焦虑和最具体的选择。主持人源源是21年刚从北大毕业的社会新人，你将从源源与嘉宾的对谈中了解年轻人的真实生活，倾听年轻人的声音。
+源宇宙  [RSS1](https://rsshub.app/ximalaya/album/73647179), [RSS2](https://rsshub.app/xiaoyuzhou/podcast/63b8f1f2289d2739647d95f1) 一档聚焦年轻人当下生活、工作、学习的中文播客节目，在这里，有年轻人最真实的焦虑和最具体的选择。主持人源源是21年刚从北大毕业的社会新人，你将从源源与嘉宾的对谈中了解年轻人的真实生活，倾听年轻人的声音。
 
 读报teleread [RSS](https://anchor.fm/s/fcb6c04/podcast/rss) 读报是一档杂志文章的阅读分享节目，我们的目标是希望借助外文报道看到更多的人和故事。我们相信，总有人对外面的世界有所兴趣。
 
@@ -1430,6 +1439,10 @@ Hey Jude [RSS](https://rsshub.app/xiaoyuzhou/podcast/6135e641babb6290e0aedaa4) �
 散心二意Scattered [RSS](https://feeds.buzzsprout.com/2137314.rss) 一档关于ADHD的中文播客，由两位ADHD女性主播狩江和枕侠的闲聊构成，不定期也会有其他女性嘉宾串门。我们会在节目里分享关于ADHD的知识和女性ADHD群体的人生故事。我们想通过这档节目在女性群体中普及关于ADHD的知识，帮助和我们拥有同样特质的女性了解自己，促进ADHD的早期发现。散心二意中的“散“来自于英文单词scattered，因为分心的人也常常被叫做scattered brain。
 
 无事可谈 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61f26c78aa9f8e911f1b3052) 一档三无聊天节目，无事是指无所谓的事、无意义的事和还有一个无没想好，但这些“无事”都是🉑️谈的。
+
+造梦空间 [RSS](https://rsshub.app/xiaoyuzhou/podcast/620f1fe4bbc8a1398d997ffd) 主理人阿秋。 现实世界是由我们创造的一个梦，造梦空间指的就是我们的内在，希望大家可以理解世界的真相，找到内心的那条无路之路，活在内在无限的宁静、喜悦中。
+
+消费圈内人 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63d1f11a531dadd2b19c148e) 一档关注整个消费生态链的对谈类播客。 主播旺仔珂珂糖： 行走中的人形锦鲤和大众点评，在VC、互联网、消费行业都搬过砖，对世界充满好奇心。通常来说，是个捧哏。 主播郑立涛： 消费和企业服务领域投资人，商业世界的旁观者，寻找商业与世界的规律和本质。公众号：与运气竞争。 
 
 张春酷酷酷 [RSS](https://rsshub.app/xiaoyuzhou/podcast/63311d0f9186d4e4c46a0530) 
 
@@ -2157,7 +2170,7 @@ happy podcast https://happyxiao.com/
 
 ##### <img src="https://imagev2.xmcdn.com/group68/M00/B7/30/wKgMeF3vuTvBPd6JAAyoTglt03Y395.jpg" width="35"> Workday Drinks [RSS](https://www.ximalaya.com/album/31602259.xml)
 
-##### 阿里发发 | 女孩们的每周闲聊 [RSS](https://www.ximalaya.com/album/36092962.xml)
+##### 阿里发发 | 女孩们的每周闲聊 [RSS](https://rsshub.app/ximalaya/album/36092962)
 
 ##### [生活减速带](https://tensounds.fireside.fm/)
 
