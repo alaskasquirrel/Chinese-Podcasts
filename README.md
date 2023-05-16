@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -534,7 +534,6 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZuWnU4QmFKb09lNGZvODhaMVNQRHpmQV9hUDUuanBn.jpg"> MacTalk·夜航西飞  [RSS](https://feed.xyzfm.space/9mkbwqtmr8ma) |
 | <img src="https://imagev2.xmcdn.com/group47/M00/9E/AE/wKgKk1tNWtuyp3rgAAHfFSYGa24687.jpg" width="30"> 无时差研究所 https://www.ximalaya.com/shishang/13506198/ [RSS](https://www.ximalaya.com/album/13506198.xml) |
 | <img src="https://imagev2.xmcdn.com/group56/M00/DC/5A/wKgLgFyAHObRtGG8ABT3S9kKSPU99.jpeg" width="30"> 随机漫谈 / 科技 产业 金融 创业  https://www.ximalaya.com/shangye/19242373/ [RSS](https://www.ximalaya.com/album/19242373.xml) |
-| <img src="https://imagev2.xmcdn.com/group79/M00/83/12/wKgPC17NYALw78dyAAGJvzdXEE4979.png" width="30"> 意马心猿 https://www.ximalaya.com/keji/38372946/ |
 | <img src="https://codechina.org/wp-content/uploads/2020/05/IMG_1012.jpeg" width="30"> Tinyfool [bilibili](https://space.bilibili.com/210837720) |
 | <img src="https://imagev2.xmcdn.com/group46/M00/BD/21/wKgKj1tr8GOCeLHQAACELvVwiKg890.jpg" width="30"> 虎扯电台 https://www.ximalaya.com/yule/15384496/ [RSS](https://www.ximalaya.com/album/15384496.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/a541-audiofreehighqps/E2/FB/CMCoOR4DqPWLAACbmwBwONLs.jpg" width="30"> 再见老板 https://www.ximalaya.com/gerenchengzhang/44649712/ |
@@ -908,6 +907,12 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img src="./images/程言程语.jpg" width="30">   程言程语|
 | ggtalk 程序员闲聊节目：2020 小魏 - [欧洲硅谷都柏林](https://talk.swift.gg/71), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 
+### 埃及：
+
+||
+|:----|
+|2022年11月，牛油果烤面包 #108：[时间之旅 -- 埃及行](https://avocadotoast.typlog.io/episodes/egypt). [RSS](https://avocadotoast.typlog.io/feed/audio.xml)|
+
 ### 冰岛：
 
 ||
@@ -1075,14 +1080,14 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 ### 美国：
 
-|  |
-|:------|
+| 美国联邦最高法院 19-1392 [Dobbs v. Jackson Women’s Health Organization](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (06/24/2022)： |
+| :----------------------------------------------------------- |
+| 美国联邦最高法院关于 Dobbs v. Jacks 一案的口头辩论全过程 (转载自C-SPAN频道) [bilibili](https://www.bilibili.com/video/BV1sZ4y1D7iX/), [YuoTube](https://youtu.be/MRe4mYcEqBM )<br>[台灣法客電台](https://plainlaw.me/)#73 - 女性權益倒退？分析美國聯邦最高院推翻珞亦訴韋德案(ROE v. Wade)<br>[翻转电台](https://www.xiaoyuzhoufm.com/podcast/5e4ff468418a84a046973375)：[美国最高院禁止堕胎？到底发生了什么？](https://www.xiaoyuzhoufm.com/episode/6272bc9439454b52f7bfa812)<br>[不合时宜](https://www.xiaoyuzhoufm.com/podcast/5e280fb8418a84a0461fd076)：[堕胎权失手之后，美国走向何方](https://www.xiaoyuzhoufm.com/episode/62c4e7bfedabcc8f59c028ec)<br>声东击西播客#219 [关于堕胎权，大法官们在吵什么？](https://etw.fm/219)<br>随机波动播客#93 [是谁在监管和惩罚女人的身体？](https://www.stovol.club/093)<br>无时差研究所EP212 [堕胎权智于女性与社会，究竟谁能决定一个婴儿的出生？](https://www.ximalaya.com/sound/543901844/510318663) |
 | 5-4 is a podcast about how much the Supreme Court sucks. [RSS](https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c) |
 | [Writ Large](https://www.writlarge.fm/), [RSS](https://feeds.megaphone.fm/NBN6762108021) There’s more to a book than what’s written on its pages: a book can change the world. |
 | If Books Could Kill [RSS](https://feeds.buzzsprout.com/2040953.rss) The airport bestsellers that captured our hearts and ruined our minds |
 | 北方人在美国 [bilibili](https://www.bilibili.com/video/BV1Ay4y1g7J9/) 留学生一枚，在美国闲来无事的时候拍点视频，给大家讲一讲真实的美国 |
 | 乔纳森一家 [bilibili](https://space.bilibili.com/3493257474476489/video) 中美家庭，相遇在西雅图，相识在北京，育有两名混血小公主，老二出生后和公婆一起居住，分享中美家庭的日常～ |
-| 以后俞生 [bilibili](https://space.bilibili.com/3493086552394525/video) 纽约网约车司机 |
 | 末路狂花 [RSS](https://feeds.simplecast.com/ubM2eeUe) 快意之事莫若友，快友之事莫若谈。末路狂花是由三位大学女友共同主持的播客。 |
 | <img width="35" src="https://i0.hdslb.com/bfs/face/ad6d335506d7a396c15cb88745978bc2a470503c.jpg"> 芳姐和王子 [bilibili](https://www.bilibili.com/video/BV1H34y1e7nJ/) 没事就做做饭，偶尔发一下在米国的日常，就图个开心 |
 | M_格子的加州生活 [bilibili](https://space.bilibili.com/73340101/video) |
@@ -1091,15 +1096,15 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img src="https://i1.hdslb.com/bfs/face/2b6f55748c1bf1725bc366ca9867e7091e44f42d.jpg@128w_128h_1o.webp" width="30"> Emma的小频道 [bilibili](https://space.bilibili.com/36863529)  Emma是嫁到美国的一只土小妞，Bo是从小在美国长大的韩裔美国人，拍生活视频是为了让国内的家人朋友更好的了解我在美国的生活。 |
 | 小小佛爷 [bilibili](https://space.bilibili.com/1677621/video) 爱车、爱音乐、爱机核 |
 | <img src="https://i2.hdslb.com/bfs/face/6fde103bd2fb31b8a415b977f11ccb9cfd8f5ace.jpg@128w_128h_1o.webp" width="30"> 美国印象 [bilibili](https://space.bilibili.com/487210936) 静静地生活在美国东海岸，这里是我对美国的印象。 |
-| Acquired https://www.acquired.fm/ |
+| Acquired https://www.acquired.fm/                            |
 | <img src="https://exponent.fm/wp-content/uploads/2020/08/Exponent-2-nosponsor.jpg" width="30"> Exponent https://exponent.fm/ [Ben Tompson](https://stratechery.com/) |
 | <img src="https://i0.wp.com/a16z.com/wp-content/uploads/2020/09/bio-lp_img03-1.png?resize=344%2C343&ssl=1" width="30"> a16z Podcast https://a16z.com/podcasts |
 | <img src="https://imagev2.xmcdn.com/group62/M02/B8/A2/wKgMZ101F8GCEQT5AA8BwPU7OUE566.jpg" width="30"> 随口说美国 https://www.ximalaya.com/zhubo/3239336/ ，[RSS](https://rsshub.app/ximalaya/zhubo/3239336/) |
 | <img src="https://i1.wp.com/www.am1300.com/wp-content/uploads/2014/09/DJs-1111.png" width="30"> [受之有道](http://www.am1300.com/category/%E7%AF%80%E7%9B%AE_%E4%BB%8B%E7%B4%B9/%E7%AF%80%E7%9B%AE%E9%87%8D%E6%BA%AB/%E5%8F%97%E4%B9%8B%E6%9C%89%E9%81%93/) [RSS](https://pod.link/1495002072.rss)；[bilibili](https://space.bilibili.com/5679766) |
-| [纽约地铁研究](https://signalproblems.substack.com/) |
+| [纽约地铁研究](https://signalproblems.substack.com/)         |
 | <img src="https://imagev2.xmcdn.com/group57/M02/67/FC/wKgLd1x6tjDxtJ9sAAMBlVac1Pk329.png" width="30"> 硅谷叨B叨 [RSS](http://www.ximalaya.com/album/21685160.xml) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9ob3N0LnBvZGFwaS54eXovc2hhcG9kY2FzdC9pbWFnZXMvNjRhZjg2YjkwZDkwMzRkOTFiOGIzMzVkYzhjYTU1OTguanBn.jpg"> [啥播客](https://shapodcast.info/) 由旅居美国的建筑师啥啥主持的知识文化类个人播客 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6054aa54e663038b369fb7c1) |
-| [日有所思]() 一个留美程序员磕磕绊绊地主持 |
+| [日有所思](https://www.bilibili.com/video/BV1Z34y1i7iU/) 一个留美程序员磕磕绊绊地主持 |
 | <img src="https://imagev2.xmcdn.com/group24/M09/61/A7/wKgJMFiX8i2Shc2yAAYZKZHAOq8943.jpg" width="30"> 学霸学渣闯美国 [RSS](http://www.ximalaya.com/album/3972154.xml) |
 | <img src="https://imagev2.xmcdn.com/group61/M09/0E/33/wKgMZl07hZHzLp--AAnszjrbIBk829.jpg" width="30"> 美丽坚果 https://www.ximalaya.com/renwen/25422983/ |
 | <img src="https://imagev2.xmcdn.com/group39/M09/BE/C0/wKgJnlppaC2judDQAAVyYIafsyI146.jpg" width="30"> 北美靠谱青年 https://www.studentuniverse.com/beikao 终结 |
@@ -1108,6 +1113,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：<br>[After 27 ](https://www.after27.me/)，播客：饭饭之交 [RSS](https://feeds.acast.com/public/shows/63a20fba6ac81a0010a9553c)<br/>[猫和柴的野游](https://meowshiba.com/) - 记录猫和柴在外漂泊的野游经历，[2021年西雅图 子宫肌瘤诊疗流水账](https://meow.meowshiba.com/all-about-fibroids/)<br/>[四喜丸子](https://fourhappylions.com/)<br>[Cosmos](https://cosmo-polite.com/) – 自我探索 认真生活 分享想法<br>[森林中的布朗尼](https://pandapanderson.wordpress.com/)<br>[椒盐鸵鸟](https://blog.douchi.space/)<br>[雪糕](https://lyc.sh/) - 人對愛和永遠 應該有幻覺<br>[Borderline Journey](https://borderlinejourney.com/) – 世界边上的广阔风景<br>[Noodlehead](https://noodlehead.life/) Life. Tech. Design. It's all about noodles.<br>[无竹斋](https://bamboobone9.com/) 与君同醒复同醉，仰看青士冠剑长<br>[茶碗岛上茶包仔](https://teabagteapot.github.io/)<br>[梦呓醒删](https://crescendomeow.wordpress.com/) – To do or to be, that is the question.<br>[Tiny Loafer](https://tinyzoesy.github.io/)<br>[June 六月](https://shiorireads.ca/) 生きているのは暇つぶし, 播客：普通读者 [RSS](https://anchor.fm/s/3bd8896c/podcast/rss)<br>[唉，澜的。](https://www.lanisland.com/) , 播客：饭饭之交 [RSS](https://feeds.acast.com/public/shows/63a20fba6ac81a0010a9553c) [bilibili](https://space.bilibili.com/66749203)<br>[配信中](https://www.yocson.com/)<br>[一笼虾饺有四个](https://fourxiajiao.github.io/)<br>[猫头鹰狂想曲](https://www.owlrhapsody.com/)<br>[狡猫三窝](https://slykiten.com/) – “美”不是一种外部标准，它是一种内在情感。那是爱。<br>[Frank](https://nyan.im/)'s Weblog<br>[一座島](https://island.shaform.com/zh/) |
 | ggtalk 程序员闲聊节目：[RSS](https://talkcdn.swift.gg/static/rss.xml)<br>2020 道长三十 - [工科生如何去美国读研？](https://talk.swift.gg/62) 、[在硅谷工作是怎样一种体验？](https://talk.swift.gg/63)、[程序员的美国生活真的很香吗？](https://talk.swift.gg/64) |
 | 五湖四海 5lake4sea：<br>2023 [孤独与别离的力量 ~ 四海漫游之美国盐湖城（与作曲家潘行紫旻）](https://5l4s.de/episodes/saltlakecity)<br>2022 [爆笑场！！想去美国上高中？上过的人说…… ](https://5l4s.de/episodes/highschool)<br>2022 [是什么让洛杉矶成了一个来了就不想走的城市？](https://5l4s.de/episodes/LA)<br>2022 [纽约为什么如此迷人？](https://5l4s.de/episodes/newyork) <br>2022 [美国德州奥斯汀实用指南](https://5l4s.de/episodes/austin) |
+| [意马心猿](https://whirlyminds2020.github.io/) ，[停更状态](https://music.163.com/#/djradio?id=794839371). 主播：[胡祥龙](https://wangboyu-langya.github.io/)&[康小广](https://github.com/kenkangxgwe) |
 
 ### 墨西哥：
 
@@ -1246,6 +1252,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 ||
 |:-----|
 |查理不朗妮11 [bilibili](https://space.bilibili.com/39532529/video) 重庆人在台湾｜普通话不标准｜分享台湾有趣的生活和美食（已婚）|
+|[小若生活漫旅](https://stillcarol.tw/) - 品味生活旅誌|
 |宮說宮有理 [RSS](https://feeds.soundon.fm/podcasts/071ce2a8-d70b-49b5-9bf0-eb68ec8f3bff.xml) 國立故宮博物院 National Palace Museum|
 |法法漾播客Vavayan [RSS](https://feeds.soundon.fm/podcasts/53997072-d01d-49cf-876d-6a866ff471f6.xml) 兩個排灣族女生sasa和ubi 希望透過聲音來讓社會大眾和族人們能夠了解關於原住民族的議題，認識真正的原住民文化。讓大家了解當代原住民在現代社會中所遇到的議題，聽到原住民的聲音與想法。 連結主流社會與原住民之間的關係。 我們會用一種排灣族幽默和認真的方式和大家聊聊「原住民族」，像是歷史語言、政治、經濟、生活、國際原住民族新聞等內容，也會邀請來賓深入了解原住民族的議題。|
 |一手故事 [RSS](https://open.firstory.me/rss/user/cl45s0e8w056k01w94iqq4m0u) 陳莉雅 這是一檔紀錄故事的 Podcast。我們會邀請許多素人，讓他們以第一人稱的方式講述他們自己的故事。|
@@ -1324,6 +1331,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzkvOTY4ZTZhNjctMzU0MC00YzY5LTk0NDgtYTIyOWRiZjgyYzE2L2NvdmVyLmpwZz92PTE=.jpg"> 香港不是大商场 [RSS](https://feeds.fireside.fm/curiouspodcast/rss) . |
 | 好青年荼毒室（哲學部）[RSS](https://anchor.fm/s/3f94b8a0/podcast/rss) |
 | 港識多史｜香港歷史社會研究社 [RSS](https://anchor.fm/s/d0493934/podcast/rss) |
+| 2018年3月，[EchoBeach 回声海滩](https://www.ximalaya.com/zhubo/33818062)140：[香港漫谈](https://www.ximalaya.com/sound/98789446) |
 
 ### 澳门：
 
@@ -1457,6 +1465,8 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/4c3b-audiofreehighqps/FA/D5/CKwRIasE0KNxAAEQ4gDMskMR.jpeg"> 放学以后afterschool  [RSS](https://www.ximalaya.com/album/46321335.xml)
 
+Storyland Podcast [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e283023418a84a04622d9b9) 童书研究所童书作者采访专栏
+
 无业游民 https://theue.me/
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzkvOWE5MTQxNGUtNTFiMC00MmFlLWJlZTctMmMxN2QzYzFjMTQ2L2NvdmVyLmpwZz92PTE=.jpg"> 商业就是这样 [RSS](https://feeds.fireside.fm/thatisbiz/rss) 
@@ -1562,6 +1572,8 @@ PodcastGPT 人工智能访谈录 [RSS](https://rsshub.app/xiaoyuzhou/podcast/639
 2082 [RSS]() 自然科学告诉我们，什么是可以希望的； 社会科学告诉我们，到哪里获得实现这些希望的力量； 人文学科告诉我们，如何优雅地持有这些希望。 
 
 逃课沙龙 [RSS](https://rsshub.app/ximalaya/album/42207920) 一档围绕艺术、城市、科技以及我们自身成长展开讨论的杂谈节目。希望我们也许还不成熟的思考能够引起你的兴趣与共鸣。
+
+随机转录 [RSS](https://rsshub.app/ximalaya/album/67790838/all/shownote) 由Synbiopunk出品的播客节目，聚焦于生命科学尤其是合成生物学领域中的人和事，邀请行业内的创业者、企业家和学者，分享他们有趣的经历和看法。
 
 渐变单元 Gradient Unit [RSS](https://rsshub.app/xiaoyuzhou/podcast/60214040ed5cd2112329489d) 一档主张用渐变方法对正在渐变的事物展开讨论的栏目，在这里的声音不设定边界，和我们一起，在不同单元之间渐变、渐进。
 
@@ -1903,7 +1915,7 @@ ULSUM RADIO https://www.xiaoyuzhoufm.com/podcast/5e50ed98418a84a046c3373a
 
 洛杉矶航班 [RSS](http://www.ximalaya.com/album/52396314.xml) 
 
-<img width="35" src="https://i.typlog.com/antimeta/8350786028_826639.png"> 存在不合理 Anti-Meta [RSS](https://antimeta.typlog.io/feed/audio.xml) 
+<img width="35" src="https://i.typlog.com/antimeta/8350786028_826639.png"> 存在不合理 Anti-Meta [bilibili](https://space.bilibili.com/89619/video) 
 
 FView Friday  [RSS](https://www.ximalaya.com/album/41563226.xml)
 
