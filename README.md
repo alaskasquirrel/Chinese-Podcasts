@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -319,6 +319,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img src="https://typlog.com/podlist/czgx.62f981d4.jpg" width="30"> [迟早更新](https://podcast.weareones.com/) 一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。[RSS](https://podcast.weareones.com/feed/audio.xml) |
 | <img src="https://imagev2.xmcdn.com/storages/b138-audiofreehighqps/76/05/CMCoOScDzOabAAU6wgB5WMND.jpeg" width="30">  投资内幕 Matrix&Money https://www.ximalaya.com/shangye/45461574/ |
 | [Naval](https://nav.al/) Well-known investor, also an investor I like very much. Top post on twitter [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936) |
+| 起朱楼宴宾客 [RSS](https://feed.xyzfm.space/ahng8d9qlywl) 金融狗记录这个大时代，公众号同名 |
 
 ### 播客公社	
 
@@ -586,6 +587,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 ||
 |:-----|
 |四季办公室 [RSS](https://siji.typlog.io/feed/audio.xml)<br>反派影评 [RSS](https://anchor.fm/s/4a4df770/podcast/rss)|
+|电影大辩 [RSS](https://www.ximalaya.com/album/76473718.xml) 老马和阿吴是两个中年影评人，在电影领域了解的东西不算少，有一些观点可能会挑战多数人的常识。我们想用播客来建立一个解释电影，尤其是中国电影的完整框架和底层逻辑，让很多模糊的事情变得清晰起来。会有很多史料、观点是你从未听说过的。|
 |先锋派 [RSS](https://rsshub.app/xiaoyuzhou/podcast/62bc4cab1f317b0b2450f72c)|
 |英美剧漫游指南KillingTV [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e7c9577418a84a04606b797)|
 | <img src="https://imagev2.xmcdn.com/group63/M03/95/86/wKgMcl0Ui7Dxn0HUAAdoA3NJQNA908.jpg" width="30"> 展开讲讲 [RSS](https://www.ximalaya.com/album/24672021.xml) 是一档专题式讨论好内容的播客。 https://www.ximalaya.com/yingshi/24672021/ 每期我们会试图以一个主题串联起多部作品，包括电影、电视剧、综艺和小说等多种形式，但都有共同的特点：有深度，有关联，能让我们有触动，有想法，值得我们努力“展开讲讲”。 |
@@ -1297,6 +1299,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 ||
 |:------|
+|講港 https://www.xiaoyuzhoufm.com/podcast/638323ff9855658abfb4c4f9 在这聊聊关于香港感兴趣的话题|
 |秀谷官 [bilibili](https://space.bilibili.com/486198756/video)|
 |衰仔日记 大烂牌里的小确幸 马家辉|
 |Wsine (Jankin Wei) [博客](https://blog.wsine.top/)|
@@ -1355,7 +1358,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img width="35" src="https://i2.hdslb.com/bfs/face/d75d06cd3d2e7bedb5d0b8ff0ba14c3b7022d036.jpg"> BelindaChen [bilibili](https://space.bilibili.com/10323935/video) 生活记录 |
 | 新加坡侃侃吧 [RSS](http://www.ximalaya.com/album/56014698.xml) |
 | 公众号：南瓜饼日常 |
-| 博客：<br><img width="35" src="https://avatars.githubusercontent.com/u/506216"> 彭哲夫 [Kelvin Peng ](https://cmgs.me/), [润去新加坡](https://run2.sg/).<br><img width="35" src="https://www.kawabangga.com/wp-content/uploads/2014/01/20150715_222111-e1437049428823-768x1024-1-225x300.jpg"> [赖信涛](https://www.kawabangga.com/)<br><img width="35" src="https://pica.zhimg.com/v2-ec06d04a7dfad635cb5093a39e1c2ae3_xl.jpg"> [翁伟](https://www.zhihu.com/people/wuvist), 2021[新加坡生活情调 - 美食玩家翁伟篇](https://binary.2bab.me/episodes/006-sg-delicacy)<br>[Timothy](https://xiaozhou.net/) 小人物：2020 [不管在哪都有倒腾开源项目的劲儿](https://anobody.im/podcast/vol26/)<br>[咸糖](https://vim0.com/) - 自律者自由<br>[phith0n](https://www.leavesongs.com/) - 离别歌 |
+| 博客：<br><img width="35" src="https://avatars.githubusercontent.com/u/506216"> 彭哲夫 [Kelvin Peng ](https://cmgs.me/), [润去新加坡](https://run2.sg/).<br><img width="35" src="https://www.kawabangga.com/wp-content/uploads/2014/01/20150715_222111-e1437049428823-768x1024-1-225x300.jpg"> [赖信涛](https://www.kawabangga.com/)<br><img width="35" src="https://pica.zhimg.com/v2-ec06d04a7dfad635cb5093a39e1c2ae3_xl.jpg"> [翁伟](https://www.zhihu.com/people/wuvist), 2021[新加坡生活情调 - 美食玩家翁伟篇](https://binary.2bab.me/episodes/006-sg-delicacy)<br>[Timothy](https://xiaozhou.net/) 小人物：2020 [不管在哪都有倒腾开源项目的劲儿](https://anobody.im/podcast/vol26/)<br>[咸糖](https://vim0.com/) - 自律者自由<br>[phith0n](https://www.leavesongs.com/) - 离别歌<br>[无辄的栈](https://www.zackwu.com/) |
 | ggtalk 程序员闲聊节目：2019 小乔 - [聊聊新加坡的工作和生活](https://talk.swift.gg/46), [RSS](https://talkcdn.swift.gg/static/rss.xml). |
 | 五湖四海 5lake4sea：2022 新加坡怎么样([上](https://5l4s.de/episodes/Singapore1))([下](https://5l4s.de/episodes/Singapore2)), [RSS](https://5l4s.de/feed/audio.xml). |
 | 二分电台：2022 [在新加坡做技术销售](https://binary.2bab.me/episodes/019-attended-20-confs-in-a-month). |
@@ -1942,6 +1945,8 @@ FView Friday  [RSS](https://www.ximalaya.com/album/41563226.xml)
 
 c+ talk show
 
+除你武器 [RSS](https://www.ximalaya.com/album/73927500.xml) 两个总是在交锋的好朋友的播客节目，迎接分歧和差异，分享Z世代的困惑种种。如果成长是一场战争，至少在面对彼此时，我们放下武器，赤诚相见。
+
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L2xqSFFKQXQwZDRLX1hQbnFBdVhfQzd3bTRLUDEucG5n.png"> 生活积极分子 [RSS](https://rsshub.app/xiaoyuzhou/podcast/626fc6712a0eb636f4ccc220)
 
 二三得七 [RSS](http://www.ximalaya.com/album/30611970.xml) 
@@ -2436,7 +2441,7 @@ happy podcast https://happyxiao.com/
 ##### 社会人科技评论 [RSS](https://feeds.fireside.fm/techreviewsocial/rss) 一档非公益性却也没啥营利预期的科技评论媒体。
 ##### 食见
 
-<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYklLRHdldlgtaXJTOHEyZnpVM19GOXFNcV8uanBn.jpg"> 飞行电台 https://www.xiaoyuzhoufm.com/podcast/60531d9c81d00f850704d16d?s=eyJ1IjogIjVlN2M3ZDQ2YTJmMmU1MDNjZWMzYTMyNSJ9 一档关注咖啡与生活方式的中文播客节目
+<img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYklLRHdldlgtaXJTOHEyZnpVM19GOXFNcV8uanBn.jpg"> 飞行电台 https://www.xiaoyuzhoufm.com/podcast/60531d9c81d00f850704d16d 一档关注咖啡与生活方式的中文播客节目
 
 ##### 食色性
 ##### 凹凸电波 https://www.ximalaya.com/qinggan/19206382/
@@ -2458,7 +2463,7 @@ happy podcast https://happyxiao.com/
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3BpYy9zaXBpYW9qdWxlYnVsb2dvXzIwMjEwMzE1LnBuZw==.png"> 撕票俱乐部 https://www.xiaoyuzhoufm.com/podcast/5e906b22418a84a046d1bc2e
 
-##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 
+##### 随机鸭 RDP https://randomduckpodcast.fireside.fm/ Life is tough, embrace the randomness. - Random Duck 2018-2019
 ##### <img src="https://imagev2.xmcdn.com/group79/M07/05/64/wKgPC17H5QuDNKEjAAI-HTx1IVs063.JPG" width="30"> 屠龙学院|电影拉片课 https://www.ximalaya.com/yingshi/29364890/
 ##### <img src="https://imagev2.xmcdn.com/group49/M03/85/DF/wKgKmFvyUbniw9FrAAaVvB71ifU218.jpg" width="30"> 头号玩家 https://www.ximalaya.com/zhubo/89823229/
 ##### 她与阅读 Her Books https://herbooks.fireside.fm/ 每期请到一位在文化、创意、艺术、商业、教育等领域有见解爱阅读的女性， 分享她们的阅读经历和她们与书的故事。
@@ -2478,7 +2483,6 @@ happy podcast https://happyxiao.com/
 ##### <img src="https://jiaocha.io/assets/logo/logoWithName.jpg" width="30"> 交差点 https://jiaocha.io "Technology alone is not enough".
 ##### 沿边物语 https://www.yanbianwuyu.com/ 一档谈论旧闻的节目。
 ##### <img src="https://images.squarespace-cdn.com/content/v1/58ea8ed9a5790a5591021187/1575908778377-MDADL36VP18FLVVCE1I1/ke17ZwdGBToddI8pDm48kI3hJ5pAPOd6pc87Sly42LJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEkleg76EVoXggQjzNibqrpaWI7GJDvValm9kw-NIugPj-3CTWZQ124CTRPXn-dnvM/2019-12-09_193614+%281%29.png" width="30"> 洋泾浜 https://www.yangjingbang.fm/
-##### <img src="https://imagev2.xmcdn.com/group57/M06/78/32/wKgLgVxvv3fj4g3jAACAPeMLFts718.jpg" width="30"> 异能电台 https://www.yineng.fm/ 将全宇宙设计师的故事讲给你听。
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/8/8ecd4d04-d9eb-48ed-bafc-9ab55e67c940/cover.jpg?v=4" width="30"> 一树闲谈 http://www.arbretalk.com/ 由三名不知名摄影师主持的艺术跑题闲聊节目。
 ##### 艺术有读 http://artispoison.com/ 由两位不务正业的艺术圈人士主持的读书跑题节目。
 ##### 硬核电台
@@ -2496,12 +2500,10 @@ happy podcast https://happyxiao.com/
 
 ##### <img src="https://www.zaojiu.com/images/logo.png" width="30"> 造就Talk https://www.zaojiu.com/
 ##### 职夜班 [RSS](https://www.ximalaya.com/album/40931705.xml) 
-##### <img src="https://i.typlog.com/zhiyi/8445528631_600725.png" width="30"> 执异 https://zhiyi.life/ Dare to be different. [RSS](https://zhiyi.life/episodes/feed.xml)
+##### <img src="https://i.typlog.com/zhiyi/8445528631_600725.png" width="30"> 执异 https://zhiyi.life/ Dare to be different. [RSS](https://zhiyi.life/feed/audio.xml)
 ##### 追科技撩艺术 https://www.doko.com/podcasts/index.php
 ##### <img src="https://imagev2.xmcdn.com/group27/M01/4A/F7/wKgJW1jOrLXRKX2JAAan4L6avAc516.jpg" width="30"> 准风月谈 https://www.ximalaya.com/zhubo/56669811/
 ##### <img src="https://www.thetype.com/wp-content/uploads/2015/11/TypeChat-Cover-800px.jpg" width="30"> 字谈字畅 https://thetype.com/ Type is Beautiful 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
-##### <img src="https://i.typlog.com/zegpod/8439903955_643157.jpg?x-oss-process=style/ss" width="30"> 折耳根播客 http://zheergen.club/ 一档较为走心的陪伴型播客。
-
 ##### <img src="https://imagev2.xmcdn.com/group66/M06/15/6A/wKgMdV1M49TSjeReAA2HoliP7Qc097.jpg" width="30"> 醉后调频 https://www.ximalaya.com/shishang/8186579/
 ##### 晚风说 https://podcasts.cosmosrepair.com/
 
