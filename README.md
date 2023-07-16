@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -32,18 +32,14 @@
 | 少数派：[用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理](https://sspai.com/post/79917) ||
 |:------------------------------------------------------------------------ |:----|
 | <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download) 安卓开源app [隐私政策 Privacy Policy](https://antennapod.org/privacy/) |[Tsacdop](https://github.com/tsacdop/tsacdop) 一个干净，简单，美观且友好的播客应用程序|
-| [PipePipe](https://github.com/InfinityLoop1308/PipePipe) 哔哩哔哩bilibili 视频客户端 |小宇宙 app https://www.xiaoyuzhoufm.com/ [隐私政策](https://post.xiaoyuzhoufm.com/podcast-privacy/)|
+| 喜马拉雅FM https://www.ximalaya.com/ [隐私政策](https://passport.ximalaya.com/page/privacy_policy) |小宇宙 app https://www.xiaoyuzhoufm.com/ [隐私政策](https://post.xiaoyuzhoufm.com/podcast-privacy/)|
 | <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> [News](https://f-droid.org/packages/co.appreactor.news/) Feed reader and podcast player for Android安卓 |[Anchor](https://anchor.fm/) - The easiest way to make a podcast|
-| <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_l8OdzU6.png" width="40"> Winds https://getstream.io/winds/ |<img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder https://gpodder.github.io/|
 | <img width="50" src="https://static.wixstatic.com/media/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png/v1/fill/w_112,h_40,al_c,usm_0.66_1.00_0.01,enc_auto/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png"> snipd https://www.snipd.com/ , [Privacy Policy](https://open.snipd.com/privacy-policy) |<img width="50" src="https://images.squarespace-cdn.com/content/v1/5f698e2f67d0e42d00f9187f/1600757399133-NWAU2IXX4FFTBM9FXFNX/logo.png"> [SoundOn](https://www.soundon.fm/) [隱私權政策](https://www.soundon.fm/new-page-2)|
 | <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png" width="40"> Apple Podcast                                                           |Google Podcasts|
 | Pocket Casts                                                            |SoundCloud|
 | Spotify |[Castos](https://castos.com/) 创作者的播客托管平台|
 | Overcast                                                                |[Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)  ( Microsoft Store )|
-| 喜马拉雅FM https://www.ximalaya.com/ [隐私政策](https://passport.ximalaya.com/page/privacy_policy) |<img src="https://sss.qingting.fm/neo/logo_otherpage.png" width="50"> 蜻蜓FM https://www.qingting.fm/ [隐私政策](https://sss.qtfm.cn/qt-agreement/privacy-20190724.html)|
 | <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/ [隐私政策](https://www.lizhi.fm/about/privacy.html) |<img src="https://www.qishuier.com/img/index_logo.c27fc9e3.png" width="35"> 汽水儿 https://www.qishuier.com/|
-| <img width="35" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.kde.kasts.png"> [Kasts](https://flathub.org/apps/details/org.kde.kasts) Podcast application for mobile devices (Linux Flathub) |[Breaker](https://www.breaker.audio)|
-| [Castflow](https://apps.apple.com/app/id1572179241) iOS app(速度很快的泛用型客户端) |<img width="35" src="http://irreader.fatecore.com/libs/favicon.png"> [irreader](http://irreader.fatecore.com/) 订阅网页、RSS和Podcast|
 
 ### 社群：
 
@@ -116,56 +112,6 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |:---|
 |老饭骨 [bilibili](https://space.bilibili.com/419872064/video) 老饭骨由国宴大师郑秀生和国宴大师孙立新创立 传承技法 毫无保留 感恩众大师及老饭骨传人|
 |高文麒 [bilibili](https://space.bilibili.com/3493080560830654/video) 来自台湾的老高一个会做饭的美食家 《舌尖上的中国》《风味人间》美食顾问|
-
-### EnglishTalk:
-
-|                     |
-|                     ----|
-| Any Questions? and Any Answers? [RSS](https://podcasts.files.bbci.co.uk/p02nrtn5.rss) Alex Forsyth presents topical debate in which guests answer questions from members of the public. Anita Anand presents listeners' responses to the issues raised. |
-| Behind The Tech with Kevin Scott [RSS](https://behindthetech.libsyn.com/rss) |
-| The Privatdozent Podcast [RSS](https://api.substack.com/feed/podcast/14134/s/3324.rss). *Privatdozent* is a newsletter on the history mathematics written by @[jorgenveisdal](https://twitter.com/jorgenveisdal). |
-| Artificail Intelligence Podcast by Lex Fridman [RSS](https://lexfridman.com/feed/podcast/) |
-| Today in Focus [RSS]() Combining personal storytelling with insightful analysis, this podcast takes you behind the headlines for a deeper understanding of the news, every weekday |
-| [Sway]() Kara Swisher |
-| [Arts & Ideas]() BBC Radio 3 |
-| <img width="35" src="https://images.squarespace-cdn.com/content/v1/58de89eb17bffc754e3c1d33/1574262857619-OR869XWBV54JFDT73CQ7/RobReidLogo.png"> [After On Podcast](https://after-on.com/) |
-| [Healthy Hacker](https://www.healthyhacker.com/)  Chris Hunt |
-| [Mac Power Users](https://www.relay.fm/mpu/archive) [RSS](https://www.relay.fm/mpu/feed) |
-| <img width="100" src="https://i1.wp.com/softwareengineeringdaily.com/wp-content/uploads/2022/01/cropped-logo-new.png"> [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) |
-| [Smart Passive Income](https://www.smartpassiveincome.com/shows/spi/) Weekly interviews, strategy, and advice for building your online business the smart way. |
-| [Indie Hackers](https://www.indiehackers.com/podcasts) The best podcasts for indie hackers, by indie hackers. |
-| [The Tim Ferriss Show](https://tim.blog/podcast/) |
-| <img width="35" src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-190bfecb41af2de3a40166be68d0375e639a8ce8-s300-c85.webp"> [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this) |
-| Soft Skills Engineering Podcast https://softskills.audio/ |
-| [Hidden Brain](https://hiddenbrain.org/) |
-| [Behind the Tech Podcast with Kevin Scott - Microsoft](https://www.microsoft.com/en-us/behind-the-tech) |
-| [Hanselminutes Technology Podcast ](https://www.hanselminutes.com/) |
-| <img width="35" src="https://devtools.fm/_next/image?url=%2Flogo.png"> [devtools.fm](https://devtools.fm/episodes) |
-| [ ](https://www.frontendhappyhour.com/subscribe)[Changelog](https://changelog.com/podcasts)   Weekly shows about software development, developer culture, open source, building startups, artificial intelligence, shipping code to production, and the people involved. There are some podcast series under [Changelog](https://changelog.com/podcasts) like: [JS Party](https://changelog.com/jsparty), [Brain Science](https://changelog.com/brainscience)[The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) |
-| <img src="https://news.techmeme.com/images/techmeme-ride-home.jpg" width="30"> [Techmeme](https://www.techmeme.com/) : Techmeme Ride Home [RSS](https://rss.art19.com/techmeme-ridehome), Modern Finance [RSS](https://feeds.megaphone.fm/mofi).|
-| <img src="https://supchina.com/wp-content/uploads/2020/06/ChinaEconTalk_1400x1400-1200x1200.png" width="30"> [China EconTalk](https://supchina.com/series/china-econtalk/) By SupChina [RSS](https://chinatalkshow.libsyn.com/rss)               |
-| [China Tech Talk](http://chinatechtalk.com/)  ,         [RSS](https://feeds.simplecast.com/400uRY7l)                  |
-| <img src="https://assets.pandaily.com/uploads/2019/08/TechBuzz-China.png" width="30"> Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation.                                     |
-| The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley |
-| [Michael Savage](https://michaelsavage.com/) |
-| Asia Tech Podcast https://asiatechpodcast.com/ All Things Asia All Things Tech |
-| <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/150423/quovsmmsjqn7teptbqhh.png" width="30"> The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
-| <img width="35" src="https://images.squarespace-cdn.com/content/v1/5f5097331ecc347fd89d1ae7/1600220886076-ODCM1OHC7SHDH4A689W7/Red.png"> [With Chinese Characteristics](https://www.withchinesecharacteristics.com/) |
-| <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
-| [Invest Like the Best](https://www.joincolossus.com/) \- Interviews with top investors |
-| <img width="35" src="https://gimlet.spotifycdn.com/show_art/b1cde5b8-4c7d-4a1d-a3a6-7a625fd03ba9/small.webp"> [Heavyweight](https://gimletmedia.com/shows/heavyweight)：Jonathan Goldstein goes back to the moment everything changed. |
-| [No Agenda](https://www.noagendashow.net/) |
-| [China in the World](https://carnegietsinghua.podomatic.com/) , [RSS](https://carnegietsinghua.podomatic.com/rss2.xml) |
-| China 21 https://china.ucsd.edu/opinion/podcasts.html |
-| <img src="https://www.armscontrolwonk.com/wp-content/themes/modern-wonk/images/podcast.jpg" width="30"> [Arms Control Wonk](https://www.armscontrolwonk.com/) , [RSS](https://armscontrolwonk.libsyn.com/rss)|
-| <img src="https://images.transistor.fm/file/transistor/images/logos/site/4453/medium_techeu.jpg" width="30"> [Tech eu](https://podcast.tech.eu/) , [RSS](https://feeds.transistor.fm/techeu) |
-| Dick Morris [RSS](https://feeds.megaphone.fm/WABC2513489334) |
-| <img src="https://file.caixin.com/en/web/img/logo.jpg" width="30"> Caixin SINICA https://www.caixinglobal.com/audio/ |
-| [Interpreting India](https://carnegieindia.org/interpretingindia/) , [RSS](https://feeds.simplecast.com/PJlAlBwi)|
-| <img src="https://dongfanghour.files.wordpress.com/2020/05/dongfang-hour-logo-low-res.png?w=300" width="30"> Dongfang Hour 東方鴻 https://dongfanghour.com/ |
-| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94f97fb6-b72c-4d98-a80a-1e141b67e50c/cover_small.jpg"> Universe Today podcasts with Fraser Cain [RSS](https://feeds.fireside.fm/universetoday/rss) |
-| 「东写西读」是一档外刊英语学习栏目，旨在与听友一起读外刊、学英语、看世界。[RSS](https://rsshub.app/xiaoyuzhou/podcast/6343b59d2a992d56e91e5bc7) |
-| Overthink [RSS](https://feeds.buzzsprout.com/1455199.rss) The best of all possible podcasts, Leibniz would say. Putting big ideas in dialogue with the everyday, Overthink offers accessible and fresh takes on philosophy from enthusiastic experts. Hosted by professors Ellie Anderson (Pomona College) and David M. Peña-Guzmán (San Francisco State University). |
 
 ### IPN:
 
@@ -805,6 +751,8 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | 博客：Joe's Blog —— [北漂青年的租房维权日记](https://hijiangtao.github.io/2023/03/02/House-Renting-Tips-in-Beijing/) |
 | 枫言枫语： 2022 老苏 - [在北京工作和生活是什么体验？](https://justinyan.me/post/4971), [RSS](https://justinyan.me/feed/podcast). |
 | 博客：[羽儂医话](https://yunong.me/) |
+| 博客：[闷道](https://maintao.com/) |
+| 博客：[苏洋soulteary](https://soulteary.com/) |
 
 ### 重庆：
 
@@ -820,6 +768,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 ||
 |:------|
+|甘肃农村小伙用微小的镜头记录农村老家生活 [bilibili](https://space.bilibili.com/3461566181673666/video)|
 |<img width="35" src="https://i0.hdslb.com/bfs/face/19a4f2a77123cd2199d3c13e7a3fad4024787780.jpg@240w_240h_1c_1s.webp"> 洋芋团团 [bilibili](https://space.bilibili.com/363662775/video) 甘肃农村最真实的生活！|
 
 ### 广东：
@@ -975,6 +924,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 |博客：[周志强](https://strrl.dev/) STRRL / strrlthedev|
 |博客：怠惰のコエ - [imba久期](https://imba97.cn/)|
 |博客：[默默小屋](https://www.gexiao.me/) 暂居湖州|
+|博客：[李凡希](https://www.freemindworld.com/blog/)|
 
 ### 荷兰：
 
@@ -1209,7 +1159,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/album/2983895 |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ 。[RSS ](https://www.ximalaya.com/album/41367354.xml) |
 | 迷失上海｜播客先声 [RSS](http://www.ximalaya.com/album/55456236.xml) |
-| 博客：<br>[To the Lighthouse](https://owlswims.com/) - ..A Touch and yet not a touch<br>[薛船长在上海](https://captxue.blogspot.com/)<br>[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough.<br>[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。<br>[JiaYin's Life](https://imjiayin.com/) – I am not perfect but my life is.<br>运维咖啡吧—— [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4upsphcgqksoneotn3llw)<br>[阿锋的小宇宙](https://feng.pub/)<br>[韦阳](https://godweiyang.com/)<br>[阁楼](http://xuying.org/) – 我写作是为了光阴流逝使我心安<br>[杂谈漫话小站](https://www.danilelxp.com/) – 记录每一步 |
+| 博客：<br>[To the Lighthouse](https://owlswims.com/) - ..A Touch and yet not a touch<br>[薛船长在上海](https://captxue.blogspot.com/)<br>[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough.<br>[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。<br>[JiaYin's Life](https://imjiayin.com/) – I am not perfect but my life is.<br>运维咖啡吧—— [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4upsphcgqksoneotn3llw)<br>[阿锋的小宇宙](https://feng.pub/)<br>[韦阳](https://godweiyang.com/)<br>[阁楼](http://xuying.org/) – 我写作是为了光阴流逝使我心安<br>[杂谈漫话小站](https://www.danilelxp.com/) – 记录每一步<br>[Reimu's blog](https://blog.k8s.li/) |
 | 2022 JJ: [在上海工作和生活是什么体验？](https://justinyan.me/post/5316) Anyway.FM × 枫言枫语 |
 | WEB WIEW： 2022 [上海四月随想录](https://webview.tech/2173/), [RSS](https://webview.tech/feed/podcast/). |
 | 新气集ThinkAge: 2021 “多抓鱼”创始人[猫助：我在上海“555区域”的生活日常](https://thinkagepodcast.fireside.fm/51) |
@@ -1808,6 +1758,12 @@ DV计划 [RSS](https://rsshub.app/xiaoyuzhou/podcast/6216190f30fca3133c0f81b1)
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy84ZmQxLWF1ZGlvZnJlZWhpZ2hxcHMvQzUvQ0YvQ01Db09TUUUxeG9EQUFMbUF3RFBJdlB6LmpwZWc=.jpeg"> 银杏树下 [RSS](https://rsshub.app/xiaoyuzhou/podcast/60e4e64e531cf97e7cbb7587) 银杏树下，一起读书，分享美好 山水亦书也，棋酒亦书也，花月亦书也 旧雨新知，读几本无用闲书，聊一段有趣故事
 
 名字先不急 [RSS](https://rsshub.app/xiaoyuzhou/podcast/640e95935e16bbb9d7e2cc80) 与其说是个节目，倒不如说是四个老朋友想在周末认真聊个天。 我们曾经是校辩论队的“我方队友”，毕业十年迥异的生活轨迹让我们经常成为“对方辩友”。
+
+What's New! [RSS](https://www.ximalaya.com/album/39601158.xml) 一档关于每周发生的新鲜事的聊天节目。由Alex,素素和Guru三位不同年龄不同背景不同所在地但有不少相同兴趣爱好的女生共同主持。
+
+Girl On Top｜女生在上 [RSS](https://feed.xyzfm.space/6djelql8uqlg) 25+女性闲聊室 主打一个聒噪陪伴❤️‍🔥
+
+朝阳公园人 [RSS](https://www.ximalaya.com/album/76148437.xml) 一档围绕新都市生活方式分享的杂谈类节目，主打后YQ时代线下社交价值。
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzL2UvZTA1MzA3MDgtNzA4ZS00MjBkLWJkNzktYTMxMjMwMjkyZjVhL2NvdmVyLmpwZz92PTI=.jpg"> 商业WHY酱 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61315abc73105e8f15080b8a)
 
@@ -2530,8 +2486,6 @@ happy podcast https://happyxiao.com/
 ##### <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9f98ad11-ba9a-4fde-8f71-68ed019ed09c/cover.jpg" width="30"> 味之道 席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。
 
 
-
-
 ### 时光机：
 ||状态||
 |:---|:---|:---|
@@ -2569,3 +2523,53 @@ happy podcast https://happyxiao.com/
 |A Thousand Hamlets| 2021 |A thousand Hamlets, and a thousand life stories. 这档节目一共六集。 希望有给你带来一些快乐和信息。 我们江湖再见啦！[RSS](https://anchor.fm/s/478d29c0/podcast/rss) 穿堂风&bubbler|
 |卡列班与女巫| 2020-2021 |节目的名字取自马克思主义女权活动家兼学者的Silvia Federici2015年著作《卡列班与女巫：妇女、身体和原始积累》。“卡列班与女巫”将由在美日留学的性别研究博士生Stephanie和花小磨用贴近生活的话风，鲜活的事例，来介绍女权主义政治经济学理论及批判，聊聊发展与性别，和你一道扩展思考与行动的疆域。[RSS](https://feeds.acast.com/public/shows/5e7b0c43b45c16a054c6f155)|
 |听止 https://tingzhi.org/| 2019-2021 |无聊世界的有聊事 ｜听而有益，思且不止|
+
+### EnglishTalk：
+
+|                                                              |
+| ------------------------------------------------------------ |
+| Any Questions? and Any Answers? [RSS](https://podcasts.files.bbci.co.uk/p02nrtn5.rss) Alex Forsyth presents topical debate in which guests answer questions from members of the public. Anita Anand presents listeners' responses to the issues raised. |
+| Behind The Tech with Kevin Scott [RSS](https://behindthetech.libsyn.com/rss) |
+| The Privatdozent Podcast [RSS](https://api.substack.com/feed/podcast/14134/s/3324.rss). *Privatdozent* is a newsletter on the history mathematics written by @[jorgenveisdal](https://twitter.com/jorgenveisdal). |
+| Artificail Intelligence Podcast by Lex Fridman [RSS](https://lexfridman.com/feed/podcast/) |
+| Today in Focus [RSS]() Combining personal storytelling with insightful analysis, this podcast takes you behind the headlines for a deeper understanding of the news, every weekday |
+| [Sway]() Kara Swisher                                        |
+| [Arts & Ideas]() BBC Radio 3                                 |
+| <img width="35" src="https://images.squarespace-cdn.com/content/v1/58de89eb17bffc754e3c1d33/1574262857619-OR869XWBV54JFDT73CQ7/RobReidLogo.png"> [After On Podcast](https://after-on.com/) |
+| [Healthy Hacker](https://www.healthyhacker.com/)  Chris Hunt |
+| [Mac Power Users](https://www.relay.fm/mpu/archive) [RSS](https://www.relay.fm/mpu/feed) |
+| <img width="100" src="https://i1.wp.com/softwareengineeringdaily.com/wp-content/uploads/2022/01/cropped-logo-new.png"> [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) |
+| [Smart Passive Income](https://www.smartpassiveincome.com/shows/spi/) Weekly interviews, strategy, and advice for building your online business the smart way. |
+| [Indie Hackers](https://www.indiehackers.com/podcasts) The best podcasts for indie hackers, by indie hackers. |
+| [The Tim Ferriss Show](https://tim.blog/podcast/)            |
+| <img width="35" src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-190bfecb41af2de3a40166be68d0375e639a8ce8-s300-c85.webp"> [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this) |
+| Soft Skills Engineering Podcast https://softskills.audio/    |
+| [Hidden Brain](https://hiddenbrain.org/)                     |
+| [Behind the Tech Podcast with Kevin Scott - Microsoft](https://www.microsoft.com/en-us/behind-the-tech) |
+| [Hanselminutes Technology Podcast ](https://www.hanselminutes.com/) |
+| <img width="35" src="https://devtools.fm/_next/image?url=%2Flogo.png"> [devtools.fm](https://devtools.fm/episodes) |
+| [ ](https://www.frontendhappyhour.com/subscribe)[Changelog](https://changelog.com/podcasts)   Weekly shows about software development, developer culture, open source, building startups, artificial intelligence, shipping code to production, and the people involved. There are some podcast series under [Changelog](https://changelog.com/podcasts) like: [JS Party](https://changelog.com/jsparty), [Brain Science](https://changelog.com/brainscience)[The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) |
+| <img src="https://news.techmeme.com/images/techmeme-ride-home.jpg" width="30"> [Techmeme](https://www.techmeme.com/) : Techmeme Ride Home [RSS](https://rss.art19.com/techmeme-ridehome), Modern Finance [RSS](https://feeds.megaphone.fm/mofi). |
+| <img src="https://supchina.com/wp-content/uploads/2020/06/ChinaEconTalk_1400x1400-1200x1200.png" width="30"> [China EconTalk](https://supchina.com/series/china-econtalk/) By SupChina [RSS](https://chinatalkshow.libsyn.com/rss) |
+| [China Tech Talk](http://chinatechtalk.com/)  ,         [RSS](https://feeds.simplecast.com/400uRY7l) |
+| <img src="https://assets.pandaily.com/uploads/2019/08/TechBuzz-China.png" width="30"> Tech Buzz China https://pandaily.com/podcast/ Everything about China's Innovation. |
+| The Beertelligence Podcast http://beertelligence.com/the-beertelligence-podcast/ From Shanghai China to Silicon Valley |
+| [Michael Savage](https://michaelsavage.com/)                 |
+| Asia Tech Podcast https://asiatechpodcast.com/ All Things Asia All Things Tech |
+| <img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/150423/quovsmmsjqn7teptbqhh.png" width="30"> The Harbinger China http://www.theharbingerchina.com/ Deep dive into exclusive interviews with China's top VCs, start up founders, and other tech leaders |
+| <img width="35" src="https://images.squarespace-cdn.com/content/v1/5f5097331ecc347fd89d1ae7/1600220886076-ODCM1OHC7SHDH4A689W7/Red.png"> [With Chinese Characteristics](https://www.withchinesecharacteristics.com/) |
+| <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b5dde60-871d-48d4-9c21-e4f434b3f3c1_256x256.png" width="30"> ChinaTalk https://chinatalk.substack.com/  [Jordan Schneider](https://jorschneider.com/) |
+| [Invest Like the Best](https://www.joincolossus.com/) \- Interviews with top investors |
+| <img width="35" src="https://gimlet.spotifycdn.com/show_art/b1cde5b8-4c7d-4a1d-a3a6-7a625fd03ba9/small.webp"> [Heavyweight](https://gimletmedia.com/shows/heavyweight)：Jonathan Goldstein goes back to the moment everything changed. |
+| [No Agenda](https://www.noagendashow.net/)                   |
+| [China in the World](https://carnegietsinghua.podomatic.com/) , [RSS](https://carnegietsinghua.podomatic.com/rss2.xml) |
+| China 21 https://china.ucsd.edu/opinion/podcasts.html        |
+| <img src="https://www.armscontrolwonk.com/wp-content/themes/modern-wonk/images/podcast.jpg" width="30"> [Arms Control Wonk](https://www.armscontrolwonk.com/) , [RSS](https://armscontrolwonk.libsyn.com/rss) |
+| <img src="https://images.transistor.fm/file/transistor/images/logos/site/4453/medium_techeu.jpg" width="30"> [Tech eu](https://podcast.tech.eu/) , [RSS](https://feeds.transistor.fm/techeu) |
+| Dick Morris [RSS](https://feeds.megaphone.fm/WABC2513489334) |
+| <img src="https://file.caixin.com/en/web/img/logo.jpg" width="30"> Caixin SINICA https://www.caixinglobal.com/audio/ |
+| [Interpreting India](https://carnegieindia.org/interpretingindia/) , [RSS](https://feeds.simplecast.com/PJlAlBwi) |
+| <img src="https://dongfanghour.files.wordpress.com/2020/05/dongfang-hour-logo-low-res.png?w=300" width="30"> Dongfang Hour 東方鴻 https://dongfanghour.com/ |
+| <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94f97fb6-b72c-4d98-a80a-1e141b67e50c/cover_small.jpg"> Universe Today podcasts with Fraser Cain [RSS](https://feeds.fireside.fm/universetoday/rss) |
+| 「东写西读」是一档外刊英语学习栏目，旨在与听友一起读外刊、学英语、看世界。[RSS](https://rsshub.app/xiaoyuzhou/podcast/6343b59d2a992d56e91e5bc7) |
+| Overthink [RSS](https://feeds.buzzsprout.com/1455199.rss) The best of all possible podcasts, Leibniz would say. Putting big ideas in dialogue with the everyday, Overthink offers accessible and fresh takes on philosophy from enthusiastic experts. Hosted by professors Ellie Anderson (Pomona College) and David M. Peña-Guzmán (San Francisco State University). |
