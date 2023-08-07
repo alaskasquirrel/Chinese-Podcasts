@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 > 1. 本项目所有内容, 仅供娱乐使用, 请勿使用本项目所包含的技术手段用于非法用途, 任何人造成的任何负面影响, 与本人无关. 本文档所有内容、新闻皆不代表本人态度、立场, 如果有建议或方案, 欢迎提交 issues.
 > 2. 未收及不会收取任何广告费用，推荐的所有工具链接与本人无任何利害关系.
@@ -16,7 +16,7 @@
 
 |归类不一|[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/)|[来自农村的大学生](https://www.douban.com/group/726558/)|[生活在农村…隐士](https://www.douban.com/group/647259/)|[那些出国以后才知道的事](https://www.douban.com/gallery/topic/84494/)|[Women In Tech 女性科技从业者集合地](https://www.douban.com/group/womenintech/)|[今天吃什么？](https://www.douban.com/gallery/topic/47412/)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[播客app](#播客app)|[社群](#社群)|[video](#video)|[EnglishTalk](#englishtalk)|[女性](#女性)|[逆社会时钟](https://www.douban.com/group/694845/)|[物理](#物理)|
+|[待分类](#待分类)|[时光机](#时光机)|[video](#video)|[EnglishTalk](#englishtalk)|[女性](#女性)|[逆社会时钟](https://www.douban.com/group/694845/)|[物理](#物理)|
 |[IPN](#ipn)|[Freelancer](#Freelancer)|[汽车](#汽车)|[ThoughtWorks](#thoughtworks)|[GGV](#ggv)|[History](#history)|[36氪](#36氪)|
 |[JustPod](#justpod)|[Marcast](#marcast)|[设计](#设计)|[VC投资](#VC投资)|[Python](#Python)|[声动活泼](#声动活泼)|[播客公社](#播客公社)|
 |[红帽中国](#红帽中国)|[蓝莓评测](#蓝莓评测)|[日谈公园](#日谈公园)|[体育](#体育)|[津津乐道](#津津乐道)|[交流访谈](#交流访谈)|[Golang](#Golang)|
@@ -25,70 +25,9 @@
 |[俄罗斯](#俄罗斯)|[非洲](#非洲)|[法国](#法国)|[芬兰](#芬兰)|[荷兰](#荷兰)|[河南](#河南)|[黑龙江](#黑龙江)|
 |[湖南](#湖南)|[辽宁](#辽宁)|[瑞典](#瑞典)|[新西兰](#新西兰)|[新加坡](#新加坡)|[以色列](#以色列)|[英国](#英国)|
 |[德国](#德国)|[外语](#外语)|[音乐](#音乐)|[Emacs](#Emacs)|[Rust](#Rust)|[Ruby](#Ruby)|[澳门](#澳门)|
-|[云南](#云南)|[浙江](#浙江)|[前端](#前端)|[南极洲](#南极洲)||[待分类](#待分类)|[时光机](#时光机)|
+|[云南](#云南)|[浙江](#浙江)|[前端](#前端)|[南极洲](#南极洲)||||
 
-##### 应用app：
-
-| 少数派：[用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理](https://sspai.com/post/79917) ||
-|:------------------------------------------------------------------------ |:----|
-| <img src="https://antennapod.org/assets/logos/logo.png" width="100">  [AntennaPod](https://antennapod.org/download) 安卓开源app [隐私政策 Privacy Policy](https://antennapod.org/privacy/) |[Tsacdop](https://github.com/tsacdop/tsacdop) 一个干净，简单，美观且友好的播客应用程序|
-| 喜马拉雅FM https://www.ximalaya.com/ [隐私政策](https://passport.ximalaya.com/page/privacy_policy) |小宇宙 app https://www.xiaoyuzhoufm.com/ [隐私政策](https://post.xiaoyuzhoufm.com/podcast-privacy/)|
-| <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> [News](https://f-droid.org/packages/co.appreactor.news/) Feed reader and podcast player for Android安卓 |[Anchor](https://anchor.fm/) - The easiest way to make a podcast|
-| <img width="50" src="https://static.wixstatic.com/media/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png/v1/fill/w_112,h_40,al_c,usm_0.66_1.00_0.01,enc_auto/5ccf3e_1984be4c6a354f5cabf2961c7f06138b~mv2.png"> snipd https://www.snipd.com/ , [Privacy Policy](https://open.snipd.com/privacy-policy) |<img width="50" src="https://images.squarespace-cdn.com/content/v1/5f698e2f67d0e42d00f9187f/1600757399133-NWAU2IXX4FFTBM9FXFNX/logo.png"> [SoundOn](https://www.soundon.fm/) [隱私權政策](https://www.soundon.fm/new-page-2)|
-| <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png" width="40"> Apple Podcast                                                           |Google Podcasts|
-| Pocket Casts                                                            |SoundCloud|
-| Spotify |[Castos](https://castos.com/) 创作者的播客托管平台|
-| Overcast                                                                |[Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)  ( Microsoft Store )|
-| <img src="https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png" width="45"> 荔枝FM https://www.lizhi.fm/ [隐私政策](https://www.lizhi.fm/about/privacy.html) |<img src="https://www.qishuier.com/img/index_logo.c27fc9e3.png" width="35"> 汽水儿 https://www.qishuier.com/|
-
-### 社群：
-
-[RSSHUB.app](https://docs.rsshub.app/) 一个开源、简单易用的、易于扩展的RSS生成器。可以配合浏览器扩展 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 和 移动端辅助 App [RSSBud](https://github.com/Cay-Zhang/RSSBud) (iOS) 与 [RSSAid](https://github.com/LeetaoGoooo/RSSAid) (Android) 食用。
-
-常用播客适配订阅：
-
-- 喜马拉雅 专辑 https://rsshub.app/ximalaya/album/ URL:id
-- 小宇宙FM播客 https://rsshub.app/xiaoyuzhou/podcast/ URL:id
-
-[Castopod](https://castopod.org/) by Ad Aures | Your Free & Open-source Podcast Host
-
-中文播客榜 https://xyzrank.com/ 榜单只是一种维度，愿你找到喜欢的节目
-
-https://hubbub.top/
-
-<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/) 中文播客领域的动态和最新消息 —— 由 声湃 创作的newsletter
-
-<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/) 分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目
-
-<img width="35" src="https://imgs.zhubai.love/861bdb2d977d4c16916e5b455726d3d4.jpg"> [播客荚](https://podcastpeas.zhubai.love/)是一个媒体计划，每周以主题的形式推荐播客。希望能带你寻找掉落在播客之间的那些可能微小但真诚的声音
-
-技术播客月[RSS](https://rsshub.app/xiaoyuzhou/podcast/62bbf1b0ebfc753783b1f706), [bilibili](https://space.bilibili.com/433584098/search/video?keyword=%E6%8A%80%E6%9C%AF%E6%92%AD%E5%AE%A2%E6%9C%88) 
-
-[open-podcasts](https://github.com/opensource-f2f/open-podcasts): This is a cloud-native Open Podcasts 开源播客平台
-
-[awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts) 
-
-[Chinese Podcasters Summit](https://podcastsummit.github.io/2020summit/) 
-
-[SAO.FM](https://sao.fm/) 在这里聆听您最关心的内容。SAO.FM将全球的音乐、新闻和播客汇聚一堂
-
-##### 音播WavPub https://wavpub.com/ 
-
-播客小镇 https://podtown.xyz/
-
-##### [Listen Notes: the best podcast search engine](https://www.listennotes.com/)
-
-[PodLink](https://pod.link/) 
-
-##### <img src="https://www.gpodder.net/static/gpoddernet_64.png" width="40"> gpodder.net https://www.gpodder.net/directory/ Podcast Directory
-
-##### 中文独立播客: https://typlog.com/podlist/
-
-Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology-podcast/)
-
-[Podcast Addict](https://podcastaddict.com/) Search
-
-### video
+### video：
 
 ||
 |:-----|
@@ -267,6 +206,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | <img src="https://imagev2.xmcdn.com/storages/b138-audiofreehighqps/76/05/CMCoOScDzOabAAU6wgB5WMND.jpeg" width="30">  投资内幕 Matrix&Money https://www.ximalaya.com/shangye/45461574/ |
 | [Naval](https://nav.al/) Well-known investor, also an investor I like very much. Top post on twitter [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936) |
 | 起朱楼宴宾客 [RSS](https://feed.xyzfm.space/ahng8d9qlywl) 金融狗记录这个大时代，公众号同名 |
+| 正经不良人 [RSS](https://media.rss.com/zjblrfm/feed.xml) 2021 商业财经节目。不定期邀请专业领域的嘉宾。 老虎：二级市场从业者，衍生品与债 Hana：商业银行从业者，前FPA 辉姐：硅谷数据科学家，斯坦福毕业生 Olivia: 咨询公司从业者，另类投资FoF |
 
 ### 播客公社	
 
@@ -414,6 +354,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | :----------------------------------------------------------- |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsdV8wbHU0TjdBaHR6d3M1Z2RKbzBTQTkxaE0uanBn.jpg"> 马上开摆 [RSS](https://rsshub.app/xiaoyuzhou/podcast/61e0999093bf927a43733769) |
 | <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxYUZnTDJRa1JDWmxCOEVOYmhhUWxkelNOOWkuanBn.jpg"> 乱翻书  公众号采访直播 [RSS](https://feed.xyzfm.space/yxuruh3f9mc4) |
+| 新职口快 [RSS](https://feed.xyzfm.space/gu8v3h676mur) 这是一档职业访谈节目，每期会邀请一个陌生人，来分享一个陌生的职业，希望能带给你对这个世界更多的了解。 是slogan也是flag：和100个陌生人聊100种职业！ 新职：聚焦于新奇、陌生、小众的职业经历和故事 口快：汽水是个语速有点快，时不时嘴瓢的野生主播 |
 | [后互联网时代的乱弹](https://pie.wetime.com/) Tech, Human, Future    [RSS](https://pie.wetime.com/feed/podcast) |
 | <img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/2/2497a8ee-4f3d-49db-8121-7a474a2784d7/cover_small.jpg"> TIANYU2FM— 对谈未知领域 [RSS](https://feeds.fireside.fm/tianyu2/rss) |
 | <img width="35" src="https://episodes.castos.com/62ff1b2eb727d5-63733036/images/Podcast-image.jpg"> [科技双眼啤](https://kjsyp.fm/) 由开发者 Cali 与设计师 Rather 共同主持的「科技双眼啤」，我们是一档对互联网软件硬件从开发与设计不同视角深入探讨的科技播客。 [RSS](https://kjsyp.fm/feed) |
@@ -1048,6 +989,7 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 | ggtalk 程序员闲聊节目：[RSS](https://talkcdn.swift.gg/static/rss.xml)<br>2020 道长三十 - [工科生如何去美国读研？](https://talk.swift.gg/62) 、[在硅谷工作是怎样一种体验？](https://talk.swift.gg/63)、[程序员的美国生活真的很香吗？](https://talk.swift.gg/64) |
 | 五湖四海 5lake4sea：<br>2023 [孤独与别离的力量 ~ 四海漫游之美国盐湖城（与作曲家潘行紫旻）](https://5l4s.de/episodes/saltlakecity)<br>2022 [爆笑场！！想去美国上高中？上过的人说…… ](https://5l4s.de/episodes/highschool)<br>2022 [是什么让洛杉矶成了一个来了就不想走的城市？](https://5l4s.de/episodes/LA)<br>2022 [纽约为什么如此迷人？](https://5l4s.de/episodes/newyork) <br>2022 [美国德州奥斯汀实用指南](https://5l4s.de/episodes/austin) |
 | [意马心猿](https://whirlyminds2020.github.io/) ，[停更状态](https://music.163.com/#/djradio?id=794839371). 主播：[胡祥龙](https://wangboyu-langya.github.io/)&[康小广](https://github.com/kenkangxgwe) |
+| Chat LA [RSS](https://www.ximalaya.com/album/77306505.xml) 坐标洛杉矶的坐标洛杉矶的两名生活观察家，分享30+女性的生活日常、职场心得与成长感悟。我们相信，生活中的每一次经历都有独特的意义，而倾听不同的声音与经历，也是我们成长的重要途径。希望我们能够通过播客在这个数字时代建立起真实而温暖的链接，与你一起探索人生的无际旷野。 |
 
 ### 墨西哥：
 
@@ -1397,9 +1339,15 @@ Hello from [IT 技术相关播客](https://tech-podcasts.github.io/it-technology
 
 |                                                              |
 | :----------------------------------------------------------- |
+| 漂浮绿洲 Floating Oasis [RSS](https://anchor.fm/s/e60787d0/podcast/rss) 关注当下年轻人的困惑，和你一起在不确定性中开拓独属于自己的道路。 我们每人都只执着一盏烛火，但即使是微光，有可能为走在平行道上的同路人照亮前路。生如逆旅，有繁花似锦，也有荆棘满途。希望能给挣扎在“人生沙漠”中的你提供一块歇息的绿洲，装满行囊后再次上路。 |
+| 女大学声 [RSS](https://feed.xyzfm.space/9yybr9yfbmak) 一档围绕大学生活又不止于此的女生漫谈播客，话题涉及友情、亲情、爱情，女性成长，文化，社会热点，在这里你可以听到三个风格迥异的女大学生思想与观点的碰撞，成长道路上的烦恼和奇奇怪怪的故事。 希望通过播客发射我们的坐标，遇见可爱的你们！ |
 | 岩中花述 [RSS](https://rsshub.app/xiaoyuzhou/podcast/625635587bfca4e73e990703) 本节目是由意大利奢侈品牌GIADA为成熟高知女性推出的一档播客节目。 |
-| <img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) 听她们聊聊互联网科技的社会意涵，职场中女性的困惑和感悟 [RSS](https://womenintechcn.squarespace.com/podcast-she-talks-tech?format=rss) |
 | 卡列班与女巫 [RSS](https://feeds.acast.com/public/shows/5e7b0c43b45c16a054c6f155) 我们节目的名字取自马克思主义女权活动家兼学者的Silvia Federici2015年著作《卡列班与女巫：妇女、身体和原始积累》。她在此书中强调，卡列班代表的欧洲中世纪被圈地逼入工厂的无产阶级们参与了对贫穷女性的指责和恐吓，而被资本主义洗劫走女性对身体的掌控能力。同时，她批判资本主义借此将不平等的网络镶嵌在无产阶级的身体之中，将剥削全球化。对于性别歧视的文化原因归因我们已经感到厌倦和无力，“卡列班与女巫”将由在美日留学的性别研究博士生Stephanie和花小磨用贴近生活的话风，鲜活的事例，来介绍女权主义政治经济学理论及批判，聊聊发展与性别，和你一道扩展思考与行动的疆域。 |
+| <img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) 听她们聊聊互联网科技的社会意涵，职场中女性的困惑和感悟 [RSS](https://womenintechcn.squarespace.com/podcast-she-talks-tech?format=rss) |
+
+南北潮 [RSS](https://www.ximalaya.com/album/77236959.xml) 一档聚焦南北文化差异的精神对话播客。由来自广东的独立画廊主理人爱丽丝，和土生土长拥有超长名字的北京编剧泪奔家族的流泪君的聊天节目。除了南北文化的对话，京腔与港普的融合，也有截然不同的两个人性格与三观的碰撞。记者出身的爱丽丝认真严谨，拥有着文字工作者特有的敏感；从事过各种工作的流泪君则毫不严谨巨魔言论频出。但我们都希望航行在漫长的人生路上，抛出这档播客作为世界的锚点，连接我们和你们，一起分享观点，分享生活，分享喜欢又或者不喜欢的东西。
+
+其间异者 [RSS](https://anchor.fm/s/e6ec5158/podcast/rss) Ashley和Mugi，两个自闭症聚在一起，讨论所有事情。
 
 历史学人 [RSS](https://rsshub.app/xiaoyuzhou/podcast/641a56fc15e3dbb6fc3545b2)《历史学人》杂志同仁共同维护的播客。
 
@@ -1418,6 +1366,8 @@ Storyland Podcast [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e283023418a84a046
 [细管胡同](https://www.xiaoyuzhoufm.com/podcast/616a65bc177a486743676130) 细品人生，管窥世事 大厂程序员和三甲医院医生的闲聊播客
 
 日新说 [RSS](http://www.ximalaya.com/album/54936530.xml) 高校师生
+
+东TALK [RSS](https://www.ximalaya.com/album/76711358.xml) 东TALK是一档爱聊天的节目-由话痨阿东做主持。偶尔拉上几个朋友一起东扯西扯。
 
 撤退进行中 [RSS](http://www.ximalaya.com/album/47553658.xml) 一档以普通人和旁观者的视角探索以及思考自我身上更多可能性的播客节目，从而使我们从固定角色里脱离出来，获取真实且舒适的存在。
 
@@ -1629,6 +1579,8 @@ Modern Nomad 迁徙记 [RSS](https://rsshub.app/xiaoyuzhou/podcast/631f1e27f2181
 
 涅槃蒂话 [RSS](https://pod.link/1605844106.rss)
 
+精神出逃 [RSS](https://feed.xyzfm.space/lwknyvfctn4n) 四个不靠谱青年人的发疯茶话会 - 一个游走在互联网边缘的局外人； 一个在二线城市夜夜加班的社畜； 一个读书可以读到天荒地老的博士生； 一个每天妄想被裁的已婚少女； - 从家庭琐事到职场八卦再到社会轶闻 八卦和吐槽使人身心健康，营养均衡~
+
 井底之挖 https://mianbao.fm/ 深挖新鲜无国界 [RSS](https://feeds.captivate.fm/jingdizhiwa/)
 
 [噢！妈妈](https://ohmama.simona.life/) Oh! Mama [RSS](https://ohmama.simona.life/feed/audio.xml) 
@@ -1674,6 +1626,8 @@ OutChina [RSS](https://feeds.buzzsprout.com/1039402.rss) 一档中国LGBTQ人群
 好事发生FM [RSS](https://rsshub.app/xiaoyuzhou/podcast/641bb8a6cf4d1bb02b394cb8) 由好事发生出品的对谈类播客，由好事发生App开发者@后厂女工小王 和她的朋友们共同制作，专注分享生活中的美好。 我们相信好消息拥有着神奇引力：关注美好的人会获得更多美好，记录好消息的你会吸引更多好消息。 每天我们都会收到很多用户的投稿。在这个节目里，我会邀请我的一位好朋友一起共读用户投稿的好事。希望它们能带给你欢乐和力量。让我们一起用生活的美好和善意，点燃驱散人生寒意的篝火。 好事发生，你的赛博避风港。💛
 
 big idea 大聪明 [RSS](https://rsshub.app/xiaoyuzhou/podcast/64142804f44a83f79f341d6b) 又是一天，我是所长bibabo。 一些新鲜事物的大聪明。
+
+栗子电台 [RSS](https://www.ximalaya.com/album/77072392.xml) 一起吹水吧~
 
 认真闲聊 [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e8173cc418a84a046a05ef6)
 
@@ -2308,6 +2262,10 @@ happy podcast https://happyxiao.com/
 ##### <img src="https://imagev2.xmcdn.com/group81/M03/1A/A5/wKgPEl6r5cWhdRG7AAHZ1LJjrVA555.jpg" width="30"> 发发大王 https://www.ximalaya.com/yule/12546834/ [RSS](https://rsshub.app/xiaoyuzhou/podcast/5e4ff44f418a84a0469687fa) 
 ##### <img src="https://cdnimg103.lizhi.fm/user/2020/06/12/2810334965960266793_160x160.png" width="30"> 翻转电台 https://www.xiaoyuzhoufm.com/podcast/5e4ff468418a84a046973375
 ##### 饭后见 
+
+我是一个自私鬼 [RSS](https://www.ximalaya.com/album/76845185.xml) 
+
+互不联网 [RSS](https://www.ximalaya.com/album/77112790.xml) 
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82OTQ0LWF1ZGlvZnJlZWhpZ2hxcHMvQzMvOUYvQ0t3UklKSUV1Y0UxQUFQXzRnRER5VWY5LmpwZWc=.jpeg"> 女朋友们 https://www.xiaoyuzhoufm.com/podcast/60e3feeaabf0064671af13f1
 
