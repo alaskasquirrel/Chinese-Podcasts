@@ -44,6 +44,7 @@
 |[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
 |[Unzicker's Real Physics](https://www.youtube.com/user/TheMachian/videos)|
 |Linvo说宇宙 [bilibili](https://space.bilibili.com/357515451/video)|
+|周末有味 [bilibili](https://space.bilibili.com/10545195/video) 摩旅 露营 野餐 房车 爱你们～|
 
 ### 美食：
 
@@ -1122,6 +1123,7 @@
 |职高校园生活 [bilibili](https://space.bilibili.com/3493080571316520/video)|
 |博客：[淡然若雅 – 心若淡然，岁月清浅。](https://drry.site/)|
 |博客：[彼岸临窗](https://blog.luziyang.cn/) - 认真生活和写作的博主|
+|博客：[Justin写字的地方](https://zblogs.top/)|
 
 ### 台湾：[TechTaiwan](https://techtaiwan.com/)
 
@@ -1345,6 +1347,10 @@
 | 卡列班与女巫 [RSS](https://feeds.acast.com/public/shows/5e7b0c43b45c16a054c6f155) 我们节目的名字取自马克思主义女权活动家兼学者的Silvia Federici2015年著作《卡列班与女巫：妇女、身体和原始积累》。她在此书中强调，卡列班代表的欧洲中世纪被圈地逼入工厂的无产阶级们参与了对贫穷女性的指责和恐吓，而被资本主义洗劫走女性对身体的掌控能力。同时，她批判资本主义借此将不平等的网络镶嵌在无产阶级的身体之中，将剥削全球化。对于性别歧视的文化原因归因我们已经感到厌倦和无力，“卡列班与女巫”将由在美日留学的性别研究博士生Stephanie和花小磨用贴近生活的话风，鲜活的事例，来介绍女权主义政治经济学理论及批判，聊聊发展与性别，和你一道扩展思考与行动的疆域。 |
 | <img width="35" src="https://images.squarespace-cdn.com/content/v1/6072a6e146e5e609fc4c51bd/1622577784523-RR16F67SK7QLJ70L9H83/%E5%A5%B9%E8%AF%B4%E7%A7%91%E6%8A%80.png"> [她说科技](https://womenintech.cn/podcast-she-talks-tech) 听她们聊聊互联网科技的社会意涵，职场中女性的困惑和感悟 [RSS](https://womenintechcn.squarespace.com/podcast-she-talks-tech?format=rss) |
 
+时差 in-betweenness [RSS](https://feeds.buzzsprout.com/1171871.rss) 可能是一个生成中的青年学术共同体。Mandarin Chinese podcast for early(ish) career scholars from the Chinese speaking world talking stuff. Twitter: @shichapodcast
+
+[讀立日](https://readependenceday.fireside.fm/) Readependence Day [電子報](https://readependenceday.substack.com/) 
+
 南北潮 [RSS](https://www.ximalaya.com/album/77236959.xml) 一档聚焦南北文化差异的精神对话播客。由来自广东的独立画廊主理人爱丽丝，和土生土长拥有超长名字的北京编剧泪奔家族的流泪君的聊天节目。除了南北文化的对话，京腔与港普的融合，也有截然不同的两个人性格与三观的碰撞。记者出身的爱丽丝认真严谨，拥有着文字工作者特有的敏感；从事过各种工作的流泪君则毫不严谨巨魔言论频出。但我们都希望航行在漫长的人生路上，抛出这档播客作为世界的锚点，连接我们和你们，一起分享观点，分享生活，分享喜欢又或者不喜欢的东西。
 
 其间异者 [RSS](https://anchor.fm/s/e6ec5158/podcast/rss) Ashley和Mugi，两个自闭症聚在一起，讨论所有事情。
@@ -1524,8 +1530,6 @@ Modern Nomad 迁徙记 [RSS](https://rsshub.app/xiaoyuzhou/podcast/631f1e27f2181
 **大小电台** [RSS](https://rsshub.app/xiaoyuzhou/podcast/5eb979fa418a84a04627d1d0)
 
 <img width="35" src="https://i.typlog.com/kenkajouto/8365770304_93725.png"> [喧哗上等](http://kenkajouto.com/)
-
-[时差In-Betweenness](https://shicha.buzzsprout.com/)  
 
 [The Documentary Podcast]() 
 
@@ -1858,8 +1862,6 @@ FView Friday  [RSS](https://www.ximalaya.com/album/41563226.xml)
 下楼散步 [RSS](https://feed.xyzfm.space/wxvp6yquudvy) 
 
 <img width="35" src="https://imagev2.xmcdn.com/storages/3549-audiofreehighqps/D6/2F/GKwRIJEFtYutAAC9dwEMokGn.jpg"> 川湘辣妹  https://www.ximalaya.com/album/56289142
-
-<img width="35" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/63a4f2c7-8d02-40af-bfde-7bbc831ad97e/cover_small.jpg"> 讀立日 Readependence Day https://readependenceday.fireside.fm/, [RSS](https://feeds.fireside.fm/readependenceday/rss) 
 
 <img width="35" src="https://bts-image.xyzcdn.net/aHR0cHM6Ly95Lmd0aW1nLmNuL211c2ljL3Bob3RvX25ldy9UMDIzTTAwMDAwMjBxV0s4MngwVnR5LmpwZw==.jpg"> 当作背景 https://www.xiaoyuzhoufm.com/podcast/614144b6ef66a4ca038a6153
 
