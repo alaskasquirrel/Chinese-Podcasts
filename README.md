@@ -44,13 +44,13 @@
 |[Dr. Becky](https://www.youtube.com/c/DrBecky/videos)  an astrophysicist at the University of Oxford.|
 |[Unzicker's Real Physics](https://www.youtube.com/user/TheMachian/videos)|
 |Linvo说宇宙 [bilibili](https://space.bilibili.com/357515451/video)|
-|周末有味 [bilibili](https://space.bilibili.com/10545195/video) 摩旅 露营 野餐 房车 爱你们～|
+|周末有味 [bilibili](https://space.bilibili.com/10545195/video) 摩旅 露营 野餐 房车|
 
 ### 美食：
 
 ||
 |:---|
-|老饭骨 [bilibili](https://space.bilibili.com/419872064/video) 老饭骨由国宴大师郑秀生和国宴大师孙立新创立 传承技法 毫无保留 感恩众大师及老饭骨传人|
+|老饭骨 [bilibili](https://space.bilibili.com/419872064/video) 郑秀生和孙立新创立 传承技法|
 |朱厘米 [bilibili](https://space.bilibili.com/480147541/video) 一级中式面点师、中式面点教师|
 |高文麒 [bilibili](https://space.bilibili.com/3493080560830654/video) 来自台湾的老高一个会做饭的美食家 《舌尖上的中国》《风味人间》美食顾问|
 
