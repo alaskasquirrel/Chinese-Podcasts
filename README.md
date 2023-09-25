@@ -909,9 +909,6 @@
 |:------|
 |博客：[DrPika](https://blog.drpika.com/)'s Blog 影像科医生，目前在[郴州市第一人民医院](http://www.czhospital.com/)工作学习中，肺结节/肺癌 MDT 负责人|
 |博客：[不曾长大](https://qfsyj.com/)-男人至死是少年 [bilibili](https://space.bilibili.com/480353852/video)|
-| <img width="35" src="https://i1.hdslb.com/bfs/face/66d985e37579b9291acfe949fac1e8706646dcee.jpg"> 去种田的向凹凸 [bilibili](https://space.bilibili.com/36909511/) & <img width="35" src="https://i0.hdslb.com/bfs/face/0dd9475d458c39a625cf7306c02fd6fbfb475f71.jpg"> 小白兔的胡萝卜甜 [bilibili](https://space.bilibili.com/243884610/) |
-| <img width="35" src="https://i2.hdslb.com/bfs/face/dc9091859f0b6b5aad657c95102b599d2f41b53f.jpg@240w_240h_1c_1s.webp"> 我是野农 [bilibili](https://space.bilibili.com/327552140) & <img width="35" src="https://i0.hdslb.com/bfs/face/3ffde8456614dd8983804b872b4b5f514ce1ddeb.jpg"> 画燕儿 [bilibili](https://space.bilibili.com/510567501) |
-| <img width="35" src="https://i0.hdslb.com/bfs/face/6143186764e6e331c0a66b1bc065b6c72a6041f9.jpg@240w_240h_1c_1s.webp"> 荷塘星星 [bilibili](https://space.bilibili.com/593920494) |
 
 ### 辽宁：
 
@@ -1104,7 +1101,7 @@
 | <img src="https://imagev2.xmcdn.com/group71/M08/E5/42/wKgOz148xLCici1MAAN49Ajnt1s391.JPG" width="30"> 回声海滩EchoBeach https://www.ximalaya.com/album/2983895 |
 | <img src="https://imagev2.xmcdn.com/group87/M04/AC/14/wKg5IV9NrujgTx3rAAQUHcVc6JA704.jpg" width="30"> 左右言她 https://www.ximalaya.com/qinggan/41367354/ 。[RSS ](https://www.ximalaya.com/album/41367354.xml) |
 | 迷失上海｜播客先声 [RSS](http://www.ximalaya.com/album/55456236.xml) |
-| 博客：<br>[To the Lighthouse](https://owlswims.com/) - ..A Touch and yet not a touch<br>[薛船长在上海](https://captxue.blogspot.com/)<br>[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough.<br>[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。<br>[JiaYin's Life](https://imjiayin.com/) – I am not perfect but my life is.<br>运维咖啡吧—— [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4upsphcgqksoneotn3llw)<br>[阿锋的小宇宙](https://feng.pub/)<br>[韦阳](https://godweiyang.com/)<br>[阁楼](http://xuying.org/) – 我写作是为了光阴流逝使我心安<br>[杂谈漫话小站](https://www.danilelxp.com/) – 记录每一步<br>[Reimu's blog](https://blog.k8s.li/) |
+| 博客：<br>[朱小东](https://whyes.org/) 肝肿瘤外科医师<br>[To the Lighthouse](https://owlswims.com/) - ..A Touch and yet not a touch<br>[薛船长在上海](https://captxue.blogspot.com/)<br>[此方方有限公司](https://blog.konata.co/) – Everything is interesting if you go into it deeply enough.<br>[威言威语](https://www.weisay.com/blog/) - 我愿像茶，苦涩留心，清香予人。<br>[JiaYin's Life](https://imjiayin.com/) – I am not perfect but my life is.<br>运维咖啡吧—— [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4upsphcgqksoneotn3llw)<br>[阿锋的小宇宙](https://feng.pub/)<br>[韦阳](https://godweiyang.com/)<br>[阁楼](http://xuying.org/) – 我写作是为了光阴流逝使我心安<br>[杂谈漫话小站](https://www.danilelxp.com/) – 记录每一步<br>[Reimu's blog](https://blog.k8s.li/) |
 | 2022 JJ: [在上海工作和生活是什么体验？](https://justinyan.me/post/5316) Anyway.FM × 枫言枫语 |
 | WEB WIEW： 2022 [上海四月随想录](https://webview.tech/2173/), [RSS](https://webview.tech/feed/podcast/). |
 | 新气集ThinkAge: 2021 “多抓鱼”创始人[猫助：我在上海“555区域”的生活日常](https://thinkagepodcast.fireside.fm/51) |
