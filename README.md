@@ -956,6 +956,8 @@
 | :----------------------------------------------------------- |
 | 美国联邦最高法院关于 Dobbs v. Jacks 一案的口头辩论全过程 (转载自C-SPAN频道) [bilibili](https://www.bilibili.com/video/BV1sZ4y1D7iX/), [YuoTube](https://youtu.be/MRe4mYcEqBM )<br>[台灣法客電台](https://plainlaw.me/)#73 - 女性權益倒退？分析美國聯邦最高院推翻珞亦訴韋德案(ROE v. Wade)<br>[翻转电台](https://www.xiaoyuzhoufm.com/podcast/5e4ff468418a84a046973375)：[美国最高院禁止堕胎？到底发生了什么？](https://www.xiaoyuzhoufm.com/episode/6272bc9439454b52f7bfa812)<br>[不合时宜](https://www.xiaoyuzhoufm.com/podcast/5e280fb8418a84a0461fd076)：[堕胎权失手之后，美国走向何方](https://www.xiaoyuzhoufm.com/episode/62c4e7bfedabcc8f59c028ec)<br>声东击西播客#219 [关于堕胎权，大法官们在吵什么？](https://etw.fm/219)<br>随机波动播客#93 [是谁在监管和惩罚女人的身体？](https://www.stovol.club/093)<br>无时差研究所EP212 [堕胎权智于女性与社会，究竟谁能决定一个婴儿的出生？](https://www.ximalaya.com/sound/543901844/510318663) |
 | 5-4 is a podcast about how much the Supreme Court sucks. [RSS](https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c) |
+| Pretty Nuts “美麗堅果” 一档介绍美国生活文化时政为主的音频节目，好玩有趣兼胡侃瞎聊。 |
+| 美轮美换 The American Roulette 一档深入探讨当今美国政治的中文播客 |
 | [Writ Large](https://www.writlarge.fm/), [RSS](https://feeds.megaphone.fm/NBN6762108021) There’s more to a book than what’s written on its pages: a book can change the world. |
 | If Books Could Kill [RSS](https://feeds.buzzsprout.com/2040953.rss) The airport bestsellers that captured our hearts and ruined our minds |
 | 北方人在美国 [bilibili](https://www.bilibili.com/video/BV1Ay4y1g7J9/) 留学生一枚，在美国闲来无事的时候拍点视频，给大家讲一讲真实的美国：<br>2021年6月，密苏里州众议院法案表决现场参观旁听 [bilibili](https://www.bilibili.com/video/BV1Ay4y1g7J9/).<br>2022年12月，逛一逛我们县的县法院大楼，顺便交一下今年的房地产税 [bilibili](https://www.bilibili.com/video/BV1YK411z72x/). |
@@ -1002,7 +1004,6 @@
 ||
 |:----|
 |<img width="35" src="https://i1.hdslb.com/bfs/face/d7ba01f06bd168841d2740b6c325388b32ba2979.jpg@240w_240h_1c_1s.webp"> 碗李来 [bilibili](https://space.bilibili.com/478557730/video) 宁夏固原支教（2021.07-2022.07）|
-|<img width="35" src="https://i0.hdslb.com/bfs/face/f3194a5a59d8cc1d8ad19dbc084bfda9b4dedea9.jpg@240w_240h_1c_1s.webp"> 九品芝麻铲屎官 [bilibili](https://space.bilibili.com/4779198) & <img width="35" src="https://i1.hdslb.com/bfs/face/ad1846b66a8f797329dd940ab8ddeef3f75e5283.jpg@240w_240h_1c_1s.webp"> 豆浆一家 [bilibili](https://space.bilibili.com/385099882)|
 
 ### 日本：
 
@@ -1117,7 +1118,6 @@
 |博客：Blah Blah [Booooom](https://zhuzi.dev/)|
 |博客：[maxOS](https://maxoxo.me/) - 探索设计与价值的科学|
 |博客：[萨摩の山野日志](https://i-meto.com/)|
-|职高校园生活 [bilibili](https://space.bilibili.com/3493080571316520/video)|
 |博客：[淡然若雅 – 心若淡然，岁月清浅。](https://drry.site/)|
 |博客：[彼岸临窗](https://blog.luziyang.cn/) - 认真生活和写作的博主|
 |博客：[Justin写字的地方](https://zblogs.top/)|
